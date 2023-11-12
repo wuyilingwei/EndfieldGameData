@@ -1,0 +1,114 @@
+{
+  "0": {
+    "markInfoType": "DepositBox",
+    "name": {
+      "text": "储物箱",
+      "id": "D535464B18EA57D8"
+    },
+    "category": "Building"
+  },
+  "1": {
+    "markInfoType": "HealTower",
+    "name": {
+      "text": "医疗塔",
+      "id": "A6DD2FF5E3E2D5DC"
+    },
+    "category": "Building"
+  },
+  "2": {
+    "markInfoType": "TravelPole",
+    "name": {
+      "text": "滑索",
+      "id": "06C40166FAD4E997"
+    },
+    "category": "Building"
+  },
+  "3": {
+    "markInfoType": "PowerPole",
+    "name": {
+      "text": "供能电杆",
+      "id": "CEF57DE7FC8999F9"
+    },
+    "category": "Building"
+  },
+  "4": {
+    "markInfoType": "Collector",
+    "name": {
+      "text": "矿机",
+      "id": "8A80A2FAC5ADC22D"
+    },
+    "category": "Building"
+  },
+  "5": {
+    "markInfoType": "HUB",
+    "name": {
+      "text": "协议核心",
+      "id": "FBF8674A36A8906B"
+    },
+    "category": "Important"
+  },
+  "6": {
+    "markInfoType": "MainMission",
+    "name": {
+      "text": "主线任务",
+      "id": "0548D9859F5AC01F"
+    },
+    "category": "Mission"
+  },
+  "7": {
+    "markInfoType": "SideMission",
+    "name": {
+      "text": "支线任务",
+      "id": "842CA54218D436BB"
+    },
+    "category": "Mission"
+  },
+  "8": {
+    "markInfoType": "FactoryMission",
+    "name": {
+      "text": "工厂任务",
+      "id": "5538C3BF086B6543"
+    },
+    "category": "Mission"
+  },
+  "9": {
+    "markInfoType": "BlocMission",
+    "name": {
+      "text": "每日委托进度",
+      "id": "75ADE2FBFE1DD220"
+    },
+    "category": "Mission"
+  },
+  "10": {
+    "markInfoType": "Campfire",
+    "name": {
+      "text": "协议传送点",
+      "id": "D332ED97E8E66F0E"
+    },
+    "category": "Important"
+  },
+  "11": {
+    "markInfoType": "GatheringPoint",
+    "name": {
+      "text": "可交互点",
+      "id": "179CE7BE11C82296"
+    },
+    "category": "Important"
+  },
+  "12": {
+    "markInfoType": "Dungeon",
+    "name": {
+      "text": "裂隙",
+      "id": "F9792346FC1B6F78"
+    },
+    "category": "Important"
+  },
+  "13": {
+    "markInfoType": "FacUnlocker",
+    "name": {
+      "text": "全域扫描仪",
+      "id": "0E13B3AD260D0E97"
+    },
+    "category": "Important"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "initStaminaLimit": 160,
+  "maxStaminaLimit": 300,
+  "staminaRecoverDuration": 540,
+  "staminaRecoverValue": 1,
+  "recoverApItemId": "item_ap_supply_nlt",
+  "apRecoverValue": 40
+}

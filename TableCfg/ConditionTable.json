@@ -1,0 +1,7745 @@
+{
+  "1": {
+    "conditionId": "1",
+    "desc": {
+      "text": "消灭Enemy1",
+      "id": "9981BFA962394709"
+    },
+    "conditionType": "NumberOfKills",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "enemy_1"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 2,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "10000": {
+    "conditionId": "10000",
+    "desc": {
+      "text": "消灭Enemy1",
+      "id": "3F8E1E8C64325DB0"
+    },
+    "conditionType": "NumberOfKills",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "enemy_1"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 2,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "10001": {
+    "conditionId": "10001",
+    "desc": {
+      "text": "和任务测试姬对话",
+      "id": "914C799612CA6AFB"
+    },
+    "conditionType": "TalkFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "10003"
+        ],
+        "valueIntList": [
+          10003
+        ],
+        "valueFloatList": [
+          10003.0
+        ],
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "10010": {
+    "conditionId": "10010",
+    "desc": {
+      "text": "到达目的地",
+      "id": "04FD9C1D3642F24E"
+    },
+    "conditionType": "ReachDestination",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "testbed_npc_area_01"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "10020": {
+    "conditionId": "10020",
+    "desc": {
+      "text": "到达目的地",
+      "id": "C35FCA2706122415"
+    },
+    "conditionType": "ReachDestination",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "testbed_npc_area_02"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "10021": {
+    "conditionId": "10021",
+    "desc": {
+      "text": "和任务测试姬对话",
+      "id": "6C698CE495B89DEE"
+    },
+    "conditionType": "TalkFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "10024"
+        ],
+        "valueIntList": [
+          10024
+        ],
+        "valueFloatList": [
+          10024.0
+        ],
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "10030": {
+    "conditionId": "10030",
+    "desc": {
+      "text": "和小陈对话",
+      "id": "42F447B5B735E698"
+    },
+    "conditionType": "TalkFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "10033"
+        ],
+        "valueIntList": [
+          10033
+        ],
+        "valueFloatList": [
+          10033.0
+        ],
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "10040": {
+    "conditionId": "10040",
+    "desc": {
+      "text": "了解周围情况",
+      "id": "E229389E5BAECCAC"
+    },
+    "conditionType": "Combined",
+    "parameters": [],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [
+      "10041",
+      "10042"
+    ],
+    "subConditionIdLogics": [
+      1,
+      2
+    ]
+  },
+  "10041": {
+    "conditionId": "10041",
+    "desc": {
+      "text": "和小陈对话",
+      "id": "2EBEFCD14C9114B4"
+    },
+    "conditionType": "TalkFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "10043"
+        ],
+        "valueIntList": [
+          10043
+        ],
+        "valueFloatList": [
+          10043.0
+        ],
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "10042": {
+    "conditionId": "10042",
+    "desc": {
+      "text": "和佩里卡对话",
+      "id": "7FBDD86062969C93"
+    },
+    "conditionType": "TalkFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "10044"
+        ],
+        "valueIntList": [
+          10044
+        ],
+        "valueFloatList": [
+          10044.0
+        ],
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "10050": {
+    "conditionId": "10050",
+    "desc": {
+      "text": "到达大坑",
+      "id": "265268E1197FC800"
+    },
+    "conditionType": "ReachDestination",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv002_area_01"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "10051": {
+    "conditionId": "10051",
+    "desc": {
+      "text": "(隐藏)完成大坑对话",
+      "id": "ABF2874DCA91A48D"
+    },
+    "conditionType": "TalkFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "40"
+        ],
+        "valueIntList": [
+          40
+        ],
+        "valueFloatList": [
+          40.0
+        ],
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "10052": {
+    "conditionId": "10052",
+    "desc": {
+      "text": "到达营地",
+      "id": "4E1AAA46F2B2F86B"
+    },
+    "conditionType": "ReachDestination",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv002_area_02"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "10053": {
+    "conditionId": "10053",
+    "desc": {
+      "text": "(隐藏)完成营地对话",
+      "id": "F95FD8C571292104"
+    },
+    "conditionType": "TalkFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "50"
+        ],
+        "valueIntList": [
+          50
+        ],
+        "valueFloatList": [
+          50.0
+        ],
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "10054": {
+    "conditionId": "10054",
+    "desc": {
+      "text": "击败boss",
+      "id": "284A831075BB7DEB"
+    },
+    "conditionType": "ReachDestination",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv002_area_03"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "10055": {
+    "conditionId": "10055",
+    "desc": {
+      "text": "与陈对话",
+      "id": "CEE6F49B498628C1"
+    },
+    "conditionType": "TalkFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "60"
+        ],
+        "valueIntList": [
+          60
+        ],
+        "valueFloatList": [
+          60.0
+        ],
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "2": {
+    "conditionId": "2",
+    "desc": {
+      "text": "消灭Enemy2",
+      "id": "24B129481F97A4BD"
+    },
+    "conditionType": "NumberOfKills",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "enemy_2"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 5,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "3": {
+    "conditionId": "3",
+    "desc": {
+      "text": "消灭Enemy3",
+      "id": "700E62E8D26E9407"
+    },
+    "conditionType": "NumberOfKills",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "enemy_3"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 10,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "3001": {
+    "conditionId": "3001",
+    "desc": {
+      "text": "到达目的地",
+      "id": "D1EDDD9C61A6627F"
+    },
+    "conditionType": "ReachDestination",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv001_area_01"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "3002": {
+    "conditionId": "3002",
+    "desc": {
+      "text": "到达目的地",
+      "id": "3C587FF15B6A4D7D"
+    },
+    "conditionType": "ReachDestination",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv001_area_02"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "3003": {
+    "conditionId": "3003",
+    "desc": {
+      "text": "到达目的地",
+      "id": "301B6A7B497F4333"
+    },
+    "conditionType": "ReachDestination",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv001_area_03"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "3004": {
+    "conditionId": "3004",
+    "desc": {
+      "text": "到达目的地",
+      "id": "3F3DCD8AEDA1EFB7"
+    },
+    "conditionType": "ReachDestination",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv001_area_04"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "child_cond_blocLevel_01": {
+    "conditionId": "child_cond_blocLevel_01",
+    "desc": {
+      "text": "子条件-势力关系等级为1",
+      "id": "5738B3238715C870"
+    },
+    "conditionType": "BlocLevel",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "kernel_union_bloc01"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "Equal",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "child_cond_blocLevel_02": {
+    "conditionId": "child_cond_blocLevel_02",
+    "desc": {
+      "text": "子条件-势力关系等级为2",
+      "id": "65EFE31CCD58A918"
+    },
+    "conditionType": "BlocLevel",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "kernel_union_bloc01"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "Equal",
+    "progressToCompare": 2,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "child_cond_bloc_exp_full1": {
+    "conditionId": "child_cond_bloc_exp_full1",
+    "desc": {
+      "text": "子条件-势力经验已满",
+      "id": "463D52867816224B"
+    },
+    "conditionType": "BlocExpFull",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "kernel_union_bloc01"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "Equal",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "child_cond_bloc_exp_full2": {
+    "conditionId": "child_cond_bloc_exp_full2",
+    "desc": {
+      "text": "子条件-势力经验已满",
+      "id": "CFFD98729F696D6F"
+    },
+    "conditionType": "BlocExpFull",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "kernel_union_bloc01"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "Equal",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "child_cond_bloc_upgradeMisson1_on": {
+    "conditionId": "child_cond_bloc_upgradeMisson1_on",
+    "desc": {
+      "text": "子条件-势力关系等级突破任务进行中",
+      "id": "968FC0C8410E72AC"
+    },
+    "conditionType": "MissionProcessing",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "questms_bloc_upgradeTo2_1"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "Equal",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "child_cond_bloc_upgradeMisson2_on": {
+    "conditionId": "child_cond_bloc_upgradeMisson2_on",
+    "desc": {
+      "text": "子条件-势力关系等级突破任务进行中",
+      "id": "6EAE5BDADFBF9B26"
+    },
+    "conditionType": "MissionProcessing",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "questms_bloc_upgradeTo3_1"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "Equal",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "child_cond_bloc_upgradeTo2_moonEnough": {
+    "conditionId": "child_cond_bloc_upgradeTo2_moonEnough",
+    "desc": {
+      "text": "势力收集任务，当前已收集到足够多的月亮",
+      "id": "E8F0055825506141"
+    },
+    "conditionType": "PlayerHasItem",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "item_collection_instance"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 10,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "child_cond_bloc_upgradeTo2_msOn": {
+    "conditionId": "child_cond_bloc_upgradeTo2_msOn",
+    "desc": {
+      "text": "势力收集任务，当前正在任务进程中",
+      "id": "09800FEDDAC2E00D"
+    },
+    "conditionType": "MissionProcessing",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "questms_bloc_upgradeTo2_3"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "Equal",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "child_cond_bloc_upgradeTo3_moonEnough": {
+    "conditionId": "child_cond_bloc_upgradeTo3_moonEnough",
+    "desc": {
+      "text": "势力收集任务，当前已收集到足够多的月亮",
+      "id": "A73FDC644585A562"
+    },
+    "conditionType": "PlayerHasItem",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "item_collection_instance"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 20,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "child_cond_bloc_upgradeTo3_msOn": {
+    "conditionId": "child_cond_bloc_upgradeTo3_msOn",
+    "desc": {
+      "text": "势力收集任务，当前正在任务进程中",
+      "id": "0696BF5F69887966"
+    },
+    "conditionType": "MissionProcessing",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "questms_bloc_upgradeTo3_3"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "Equal",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_bloc_upgradTo2_available": {
+    "conditionId": "cond_bloc_upgradTo2_available",
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "conditionType": "Combined",
+    "parameters": [],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [
+      "child_cond_blocLevel_01",
+      "child_cond_bloc_exp_full1"
+    ],
+    "subConditionIdLogics": [
+      1,
+      2
+    ]
+  },
+  "cond_bloc_upgradTo3_available": {
+    "conditionId": "cond_bloc_upgradTo3_available",
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "conditionType": "Combined",
+    "parameters": [],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [
+      "child_cond_blocLevel_02",
+      "child_cond_bloc_exp_full2"
+    ],
+    "subConditionIdLogics": [
+      1,
+      2
+    ]
+  },
+  "cond_bloc_upgradeTo2_finished": {
+    "conditionId": "cond_bloc_upgradeTo2_finished",
+    "desc": {
+      "text": "势力1升2，当前已经收集齐月亮了",
+      "id": "97D81494E28E4D8B"
+    },
+    "conditionType": "Combined",
+    "parameters": [],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [
+      "child_cond_bloc_upgradeTo2_msOn",
+      "child_cond_bloc_upgradeTo2_moonEnough"
+    ],
+    "subConditionIdLogics": [
+      1,
+      2
+    ]
+  },
+  "cond_bloc_upgradeTo3_finished": {
+    "conditionId": "cond_bloc_upgradeTo3_finished",
+    "desc": {
+      "text": "势力2升3，当前已经收集齐月亮了",
+      "id": "F39D8F31E9FADE31"
+    },
+    "conditionType": "Combined",
+    "parameters": [],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [
+      "child_cond_bloc_upgradeTo3_msOn",
+      "child_cond_bloc_upgradeTo3_moonEnough"
+    ],
+    "subConditionIdLogics": [
+      1,
+      2
+    ]
+  },
+  "cond_finish_quest_factory_4": {
+    "conditionId": "cond_finish_quest_factory_4",
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "conditionType": "MissionGroupComplete",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "quest_factory_4"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "Equal",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_finish_quest_factory_9": {
+    "conditionId": "cond_finish_quest_factory_9",
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "conditionType": "MissionGroupComplete",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "quest_factory_9"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "Equal",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_get_trash1": {
+    "conditionId": "cond_get_trash1",
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "conditionType": "PlayerHasItem",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "item_trash_gold_1_1"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_get_trash2": {
+    "conditionId": "cond_get_trash2",
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "conditionType": "PlayerHasItem",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "item_trash_gold_1_2"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_get_trash3": {
+    "conditionId": "cond_get_trash3",
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "conditionType": "PlayerHasItem",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "item_trash_gold_1_3"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_get_trash4": {
+    "conditionId": "cond_get_trash4",
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "conditionType": "PlayerHasItem",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "item_trash_gold_1_4"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_has_rubbish": {
+    "conditionId": "cond_has_rubbish",
+    "desc": {
+      "text": "您的背包里当前有换金道具",
+      "id": "C402A77D4270F73F"
+    },
+    "conditionType": "CanChangeGold",
+    "parameters": [],
+    "compareOperator": "Equal",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_not_has_rubbish": {
+    "conditionId": "cond_not_has_rubbish",
+    "desc": {
+      "text": "您的背包里当前没有换金道具",
+      "id": "A76615278A23DCCF"
+    },
+    "conditionType": "CanChangeGold",
+    "parameters": [],
+    "compareOperator": "Equal",
+    "progressToCompare": 0,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_bloc_coin_collection_target1": {
+    "conditionId": "cond_quest_bloc_coin_collection_target1",
+    "desc": {
+      "text": "与协议实验基地旁的终端机联络",
+      "id": "0F155139DFDF3496"
+    },
+    "conditionType": "TalkFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "dlg_g_union_coin_collection_accept_5"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_bloc_coin_collection_target10": {
+    "conditionId": "cond_quest_bloc_coin_collection_target10",
+    "desc": {
+      "text": "收集总共35个“醚质”样本",
+      "id": "44D5ED3E6ABF40E4"
+    },
+    "conditionType": "PlayerHasItem",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "item_collection_ether"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 35,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_bloc_coin_collection_target11": {
+    "conditionId": "cond_quest_bloc_coin_collection_target11",
+    "desc": {
+      "text": "向核心联盟终端机提交样本",
+      "id": "53D562B03063732C"
+    },
+    "conditionType": "TalkFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "dlg_g_union_coin_collection_5_3"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_bloc_coin_collection_target12": {
+    "conditionId": "cond_quest_bloc_coin_collection_target12",
+    "desc": {
+      "text": "收集总共50个“醚质”样本",
+      "id": "B3F423502E3231CD"
+    },
+    "conditionType": "PlayerHasItem",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "item_collection_ether"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 50,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_bloc_coin_collection_target13": {
+    "conditionId": "cond_quest_bloc_coin_collection_target13",
+    "desc": {
+      "text": "向核心联盟终端机提交样本",
+      "id": "478CF37675AB19B1"
+    },
+    "conditionType": "TalkFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "dlg_g_union_coin_collection_6_1"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_bloc_coin_collection_target2": {
+    "conditionId": "cond_quest_bloc_coin_collection_target2",
+    "desc": {
+      "text": "收集总共3个“醚质”样本",
+      "id": "0CB8647E74F7506D"
+    },
+    "conditionType": "PlayerHasItem",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "item_collection_ether"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 3,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_bloc_coin_collection_target3": {
+    "conditionId": "cond_quest_bloc_coin_collection_target3",
+    "desc": {
+      "text": "向核心联盟终端机提交样本",
+      "id": "45B1F15A750842EF"
+    },
+    "conditionType": "TalkFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "dlg_g_union_coin_collection_1_3"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_bloc_coin_collection_target4": {
+    "conditionId": "cond_quest_bloc_coin_collection_target4",
+    "desc": {
+      "text": "收集总共8个“醚质”样本",
+      "id": "F165DC58E57AE892"
+    },
+    "conditionType": "PlayerHasItem",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "item_collection_ether"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 8,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_bloc_coin_collection_target5": {
+    "conditionId": "cond_quest_bloc_coin_collection_target5",
+    "desc": {
+      "text": "向核心联盟终端机提交样本",
+      "id": "1D41F959F585AB64"
+    },
+    "conditionType": "TalkFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "dlg_g_union_coin_collection_2_3"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_bloc_coin_collection_target6": {
+    "conditionId": "cond_quest_bloc_coin_collection_target6",
+    "desc": {
+      "text": "收集总共15个“醚质”样本",
+      "id": "7812FC9322E75645"
+    },
+    "conditionType": "PlayerHasItem",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "item_collection_ether"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 15,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_bloc_coin_collection_target7": {
+    "conditionId": "cond_quest_bloc_coin_collection_target7",
+    "desc": {
+      "text": "向核心联盟终端机提交样本",
+      "id": "CC1414236DF27271"
+    },
+    "conditionType": "TalkFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "dlg_g_union_coin_collection_3_4"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_bloc_coin_collection_target8": {
+    "conditionId": "cond_quest_bloc_coin_collection_target8",
+    "desc": {
+      "text": "收集总共25个“醚质”样本",
+      "id": "B65467692EC76370"
+    },
+    "conditionType": "PlayerHasItem",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "item_collection_ether"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 25,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_bloc_coin_collection_target9": {
+    "conditionId": "cond_quest_bloc_coin_collection_target9",
+    "desc": {
+      "text": "向核心联盟终端机提交样本",
+      "id": "BA812A4FFACEB670"
+    },
+    "conditionType": "TalkFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "dlg_g_union_coin_collection_4_3"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_bloc_upgradeTo2_target1": {
+    "conditionId": "cond_quest_bloc_upgradeTo2_target1",
+    "desc": {
+      "text": "与势力终端机进行联络",
+      "id": "AB7EB93E0828FE34"
+    },
+    "conditionType": "TalkFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "dlg_g_union_upgradeTo2_reply03"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_bloc_upgradeTo2_target2": {
+    "conditionId": "cond_quest_bloc_upgradeTo2_target2",
+    "desc": {
+      "text": "收集6个“超域实体”样本",
+      "id": "1BB1E4DF1603D9F6"
+    },
+    "conditionType": "PlayerHasItem",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "item_collection_instance"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 6,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_bloc_upgradeTo2_target3": {
+    "conditionId": "cond_quest_bloc_upgradeTo2_target3",
+    "desc": {
+      "text": "将“超域实体”样本展示给核心联盟",
+      "id": "687CA342F827B8EA"
+    },
+    "conditionType": "TalkFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "dlg_g_union_upgradeTo2_reply04"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_bloc_upgradeTo3_target1": {
+    "conditionId": "cond_quest_bloc_upgradeTo3_target1",
+    "desc": {
+      "text": "与势力终端机进行联络",
+      "id": "7ED46DBE6DD85183"
+    },
+    "conditionType": "TalkFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "dlg_g_union_upgradeTo3_reply03"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_bloc_upgradeTo3_target2": {
+    "conditionId": "cond_quest_bloc_upgradeTo3_target2",
+    "desc": {
+      "text": "收集14个“超域实体”样本",
+      "id": "750B8B2F9564E77A"
+    },
+    "conditionType": "PlayerHasItem",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "item_collection_instance"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 14,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_bloc_upgradeTo3_target3": {
+    "conditionId": "cond_quest_bloc_upgradeTo3_target3",
+    "desc": {
+      "text": "将“超域实体”样本展示给核心联盟",
+      "id": "3E87FD3AEE1CC406"
+    },
+    "conditionType": "TalkFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "dlg_g_union_upgradeTo3_reply04"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_10_1": {
+    "conditionId": "cond_quest_factory_10_1",
+    "desc": {
+      "text": "设备站升到3级",
+      "id": "61ACF3D66C890175"
+    },
+    "conditionType": "FacBuildingUpgrade",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "sp_proc_sta_1"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "3"
+        ],
+        "valueIntList": [
+          3
+        ],
+        "valueFloatList": [
+          3.0
+        ],
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_10_2_choose": {
+    "conditionId": "cond_quest_factory_10_2_choose",
+    "desc": {
+      "text": "给帕帕1个标准攻击装置·III",
+      "id": "76E34559D6338E92"
+    },
+    "conditionType": "TalkFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "dlg_factory_10_2"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_12_1_choose": {
+    "conditionId": "cond_quest_factory_12_1_choose",
+    "desc": {
+      "text": "与矿坑营火附近的势力接洽人对话",
+      "id": "1BBC0BE5943CC257"
+    },
+    "conditionType": "TalkFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "dlg_factory_12_1"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_12_2": {
+    "conditionId": "cond_quest_factory_12_2",
+    "desc": {
+      "text": "在工厂放置贸易站并打开",
+      "id": "0BDF3168B0A3602A"
+    },
+    "conditionType": "GuideFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "guide_factory_12_2_1"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_12_3_choose": {
+    "conditionId": "cond_quest_factory_12_3_choose",
+    "desc": {
+      "text": "完成2个订单并再次与势力接洽人对话",
+      "id": "F0EADBADF94E4094"
+    },
+    "conditionType": "TalkFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "dlg_factory_12_3"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_13_1": {
+    "conditionId": "cond_quest_factory_13_1",
+    "desc": {
+      "text": "回收站升到2级",
+      "id": "374AE8414E051591"
+    },
+    "conditionType": "FacBuildingUpgrade",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "sp_rec_sta_1"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "2"
+        ],
+        "valueIntList": [
+          2
+        ],
+        "valueFloatList": [
+          2.0
+        ],
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_13_2_choose": {
+    "conditionId": "cond_quest_factory_13_2_choose",
+    "desc": {
+      "text": "给阿莱西娅50个铁块",
+      "id": "9A831B40BC0FBA9A"
+    },
+    "conditionType": "TalkFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "dlg_factory_13_2"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_14_1_choose": {
+    "conditionId": "cond_quest_factory_14_1_choose",
+    "desc": {
+      "text": "与帕帕对话",
+      "id": "F12AE086BD68984B"
+    },
+    "conditionType": "TalkFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "dlg_factory_14_1"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_14_2_choose": {
+    "conditionId": "cond_quest_factory_14_2_choose",
+    "desc": {
+      "text": "要求发电功率到达1600KW后与帕帕对话",
+      "id": "5DE5E58DE0A22C78"
+    },
+    "conditionType": "TalkFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "dlg_factory_14_2"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_15_1_choose": {
+    "conditionId": "cond_quest_factory_15_1_choose",
+    "desc": {
+      "text": "与帕帕对话进行总线改装",
+      "id": "A5C01A74D9B94AF9"
+    },
+    "conditionType": "TalkFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "dlg_factory_15_1"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_15_2_input": {
+    "conditionId": "cond_quest_factory_15_2_input",
+    "desc": {
+      "text": "点击查看供货入口",
+      "id": "018CD28B048F6FC1"
+    },
+    "conditionType": "GuideFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "guide_factory_15_2_1"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_15_2_loader": {
+    "conditionId": "cond_quest_factory_15_2_loader",
+    "desc": {
+      "text": "在工厂中生产并放置一个供货入口",
+      "id": "A11A79B43C3FA1EB"
+    },
+    "conditionType": "FacBuildingAdded",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "loader_1"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "1"
+        ],
+        "valueIntList": [
+          1
+        ],
+        "valueFloatList": [
+          1.0
+        ],
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_15_3_output": {
+    "conditionId": "cond_quest_factory_15_3_output",
+    "desc": {
+      "text": "点击查看取货出口",
+      "id": "46CADE5953C3E5B3"
+    },
+    "conditionType": "GuideFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "guide_factory_15_3_1"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_15_3_unloader": {
+    "conditionId": "cond_quest_factory_15_3_unloader",
+    "desc": {
+      "text": "在工厂中生产并放置一个取货出口",
+      "id": "07797C7D47FEA2FA"
+    },
+    "conditionType": "FacBuildingAdded",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "unloader_1"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "1"
+        ],
+        "valueIntList": [
+          1
+        ],
+        "valueFloatList": [
+          1.0
+        ],
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_15_4_choose": {
+    "conditionId": "cond_quest_factory_15_4_choose",
+    "desc": {
+      "text": "与帕帕对话",
+      "id": "B571191064621838"
+    },
+    "conditionType": "TalkFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "dlg_factory_15_4"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_16_1": {
+    "conditionId": "cond_quest_factory_16_1",
+    "desc": {
+      "text": "将任意势力提升到2级\n>提示：通过提交贸易合同，可以提升势力关系点",
+      "id": "2FE1122020EAC01E"
+    },
+    "conditionType": "BlocLevel",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "kernel_union_bloc01"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 2,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_16_2_choose": {
+    "conditionId": "cond_quest_factory_16_2_choose",
+    "desc": {
+      "text": "与帕帕对话",
+      "id": "E1D09B8E10140991"
+    },
+    "conditionType": "TalkFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "dlg_factory_16_2"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_17_1": {
+    "conditionId": "cond_quest_factory_17_1",
+    "desc": {
+      "text": "技术站升到2级",
+      "id": "134BB21C715AF251"
+    },
+    "conditionType": "FacBuildingUpgrade",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "sp_mfg_sta_1"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "2"
+        ],
+        "valueIntList": [
+          2
+        ],
+        "valueFloatList": [
+          2.0
+        ],
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_18_1_choose": {
+    "conditionId": "cond_quest_factory_18_1_choose",
+    "desc": {
+      "text": "与帕帕对话",
+      "id": "8E4B3DF8D9D81593"
+    },
+    "conditionType": "TalkFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "dlg_factory_18_1"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_18_2_choose": {
+    "conditionId": "cond_quest_factory_18_2_choose",
+    "desc": {
+      "text": "在背包放入50个铁质零件后与帕帕对话",
+      "id": "1BC4C474C37F8D69"
+    },
+    "conditionType": "GuideFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "guide_factory_18_2"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_1_1_choose": {
+    "conditionId": "cond_quest_factory_1_1_choose",
+    "desc": {
+      "text": "进入工厂并与终端机交流",
+      "id": "6E0C49885E1E25F2"
+    },
+    "conditionType": "TalkFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "dlg_factory_1_1"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_1_2": {
+    "conditionId": "cond_quest_factory_1_2",
+    "desc": {
+      "text": "与菲奥娜交流",
+      "id": "267A3AA92DA23D22"
+    },
+    "conditionType": "GuideFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "guide_factory_1_2"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_1_2_0": {
+    "conditionId": "cond_quest_factory_1_2_0",
+    "desc": {
+      "text": "在工厂中点击协议核心激活它",
+      "id": "3A7B611E8395F82F"
+    },
+    "conditionType": "RepairBuilding",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "building_DF426D80"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_1_3": {
+    "conditionId": "cond_quest_factory_1_3",
+    "desc": {
+      "text": "检查协议核心的工厂仓库",
+      "id": "C19A5C10B6DB2ADE"
+    },
+    "conditionType": "GuideFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "guide_factory_1_3"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_1_4": {
+    "conditionId": "cond_quest_factory_1_4",
+    "desc": {
+      "text": "检查设备站",
+      "id": "1FFF09D164D898FF"
+    },
+    "conditionType": "GuideFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "guide_factory_1_4"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_1_5": {
+    "conditionId": "cond_quest_factory_1_5",
+    "desc": {
+      "text": "在设备站生产一个标准攻击装置·I",
+      "id": "E4A6E3FE389295FD"
+    },
+    "conditionType": "GuideFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "guide_factory_1_5"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_1_6": {
+    "conditionId": "cond_quest_factory_1_6",
+    "desc": {
+      "text": "检查电驱矿机",
+      "id": "3EB821689D2FA6FE"
+    },
+    "conditionType": "GuideFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "guide_factory_1_6"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_1_7": {
+    "conditionId": "cond_quest_factory_1_7",
+    "desc": {
+      "text": "将电驱矿机与HUB进行连接",
+      "id": "4383C8A5BC3FC032"
+    },
+    "conditionType": "GuideFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "guide_factory_1_7"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_1_8": {
+    "conditionId": "cond_quest_factory_1_8",
+    "desc": {
+      "text": "检查协议核心的集成工业管理计划",
+      "id": "2EB5EFE4BF615E40"
+    },
+    "conditionType": "GuideFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "guide_factory_1_8"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_1_9_choose": {
+    "conditionId": "cond_quest_factory_1_9_choose",
+    "desc": {
+      "text": "与帕帕对话",
+      "id": "BF1FE09986C45490"
+    },
+    "conditionType": "TalkFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "dlg_factory_1_9"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_2_1_choose": {
+    "conditionId": "cond_quest_factory_2_1_choose",
+    "desc": {
+      "text": "与帕帕对话",
+      "id": "940C5FE8000AA855"
+    },
+    "conditionType": "TalkFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "dlg_factory_2_1"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_2_2": {
+    "conditionId": "cond_quest_factory_2_2",
+    "desc": {
+      "text": "在工厂放置技术站并查看\n>提示：打开背包点击技术站放置在工厂中\n>点击技术站进行查看",
+      "id": "B7181E769411C368"
+    },
+    "conditionType": "GuideFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "guide_factory_2_2"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_2_3": {
+    "conditionId": "cond_quest_factory_2_3",
+    "desc": {
+      "text": "在总装终端制造1个【熔炉】",
+      "id": "3B7C15AE8CF6F1E9"
+    },
+    "conditionType": "PlayerHasItem",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "item_port_furnance_1"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_2_5_1": {
+    "conditionId": "cond_quest_factory_2_5_1",
+    "desc": {
+      "text": "放置熔炉\n>提示：如果已放置过熔炉，需删除熔炉重新放置",
+      "id": "9DF7370A28C1433E"
+    },
+    "conditionType": "FacBuildingAdded",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "furnance_1"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "1"
+        ],
+        "valueIntList": [
+          1
+        ],
+        "valueFloatList": [
+          1.0
+        ],
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_2_5_3": {
+    "conditionId": "cond_quest_factory_2_5_3",
+    "desc": {
+      "text": "用传送带连接源石矿机与熔炉\n>提示：如果已进行上述连接，需要删除传送带并重新连接",
+      "id": "A2CB67BD45D3D7AB"
+    },
+    "conditionType": "GuideFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "guide_factory_2_5_2"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_2_6_1": {
+    "conditionId": "cond_quest_factory_2_6_1",
+    "desc": {
+      "text": "查看异常的熔炉",
+      "id": "41B5333490C55489"
+    },
+    "conditionType": "GuideFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "guide_factory_2_6_1"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_2_6_2": {
+    "conditionId": "cond_quest_factory_2_6_2",
+    "desc": {
+      "text": "将仓库中的供能节点放置在熔炉周围",
+      "id": "35CA1C753006937E"
+    },
+    "conditionType": "GuideFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "guide_factory_2_6_2"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_2_7": {
+    "conditionId": "cond_quest_factory_2_7",
+    "desc": {
+      "text": "将熔炉与技术站连接",
+      "id": "EC537734CB70B0E3"
+    },
+    "conditionType": "FacBuildingConnected",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "furnance_1"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "sp_mfg_sta_1"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_2_8": {
+    "conditionId": "cond_quest_factory_2_8",
+    "desc": {
+      "text": "查看技术站",
+      "id": "47539EAE195C9D35"
+    },
+    "conditionType": "GuideFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "guide_factory_2_8"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_3_1_choose": {
+    "conditionId": "cond_quest_factory_3_1_choose",
+    "desc": {
+      "text": "与阿莱西娅对话",
+      "id": "445D1F227F85B8C5"
+    },
+    "conditionType": "TalkFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "dlg_factory_3_1"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_3_2_1": {
+    "conditionId": "cond_quest_factory_3_2_1",
+    "desc": {
+      "text": "在工厂内放置回收站\n>提示：打开背包点击回收站放置在工厂中",
+      "id": "AB0B5B1668B8E256"
+    },
+    "conditionType": "FacBuildingAdded",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "sp_rec_sta_1"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "1"
+        ],
+        "valueIntList": [
+          1
+        ],
+        "valueFloatList": [
+          1.0
+        ],
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_3_2_2": {
+    "conditionId": "cond_quest_factory_3_2_2",
+    "desc": {
+      "text": "查看回收站进行玻璃纤维回收",
+      "id": "94B80E130205A9AF"
+    },
+    "conditionType": "GuideFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "guide_factory_3_2"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_3_3_choose": {
+    "conditionId": "cond_quest_factory_3_3_choose",
+    "desc": {
+      "text": "给阿莱西娅50个玻璃纤维",
+      "id": "1831C08CEB5CEE81"
+    },
+    "conditionType": "TalkFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "dlg_factory_3_3"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_4_1_choose": {
+    "conditionId": "cond_quest_factory_4_1_choose",
+    "desc": {
+      "text": "与实验基地的凯瑟琳对话",
+      "id": "8AFA819A1FC30470"
+    },
+    "conditionType": "TalkFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "dlg_factory_4_1"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_4_2_1": {
+    "conditionId": "cond_quest_factory_4_2_1",
+    "desc": {
+      "text": "连接供能节点-节点1",
+      "id": "B4F925E4FE259E16"
+    },
+    "conditionType": "CheckBaseAndPoleConnected",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "461"
+        ],
+        "valueIntList": [
+          461
+        ],
+        "valueFloatList": [
+          461.0
+        ],
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv001"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_4_2_2": {
+    "conditionId": "cond_quest_factory_4_2_2",
+    "desc": {
+      "text": "连接供能节点-节点2\n>提示：从最近的已通电供能节点选择拉线开始连接\n>拉线超过长度限制，电线将会断开，请注意",
+      "id": "5F123DC43B4ED1AA"
+    },
+    "conditionType": "CheckBaseAndPoleConnected",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "454"
+        ],
+        "valueIntList": [
+          454
+        ],
+        "valueFloatList": [
+          454.0
+        ],
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv001"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_4_3": {
+    "conditionId": "cond_quest_factory_4_3",
+    "desc": {
+      "text": "大门机关已通电，开启大门机关并获得箱内物品",
+      "id": "D7F5C0208A9E0287"
+    },
+    "conditionType": "PlayerHasItem",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "item_quest_fac_3"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_4_4_choose": {
+    "conditionId": "cond_quest_factory_4_4_choose",
+    "desc": {
+      "text": "获得物品后再次与凯瑟琳对话",
+      "id": "02E7DC3C6635942C"
+    },
+    "conditionType": "TalkFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "dlg_factory_4_4"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_5_1_checked": {
+    "conditionId": "cond_quest_factory_5_1_checked",
+    "desc": {
+      "text": "查看设备站进行升级\n>提示：点击设备站，再点击右上方的+号进行升级",
+      "id": "0340C3AFDF01B0F8"
+    },
+    "conditionType": "GuideFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "guide_factory_5_1"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_5_2_choose": {
+    "conditionId": "cond_quest_factory_5_2_choose",
+    "desc": {
+      "text": "给帕帕1个标准攻击装置·II",
+      "id": "5AA1482CC0B66305"
+    },
+    "conditionType": "TalkFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "dlg_factory_5_2"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_5_2_linked": {
+    "conditionId": "cond_quest_factory_5_2_linked",
+    "desc": {
+      "text": "将协议核心取货口与新的熔炉用传送带相连\n>提示：打开背包选择熔炉，推荐放置在协议核心附近\n>传送带连接模式下，协议核心标记向外箭头处即为取货口",
+      "id": "781CEF5DF60EC3AC"
+    },
+    "conditionType": "FacBuildingConnected",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "sp_hub_1"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "furnance_1"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_5_2_planted": {
+    "conditionId": "cond_quest_factory_5_2_planted",
+    "desc": {
+      "text": "查看总装终端，制造一个新的熔炉",
+      "id": "8211392FB8BA6A01"
+    },
+    "conditionType": "GuideFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "guide_factory_5_2n"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_5_3_working": {
+    "conditionId": "cond_quest_factory_5_3_working",
+    "desc": {
+      "text": "点击协议核心取货口进行设置，取出硅晶沙",
+      "id": "4EF93E31A35A1AE4"
+    },
+    "conditionType": "GuideFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "guide_factory_hint_hub_1"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_5_4": {
+    "conditionId": "cond_quest_factory_5_4",
+    "desc": {
+      "text": "玻璃纤维足够后，升级设备站到2级\n>提示：熔炉需要供电方可工作",
+      "id": "F70E66F69F067AD7"
+    },
+    "conditionType": "FacBuildingUpgrade",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "sp_proc_sta_1"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "2"
+        ],
+        "valueIntList": [
+          2
+        ],
+        "valueFloatList": [
+          2.0
+        ],
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_6_1_choose": {
+    "conditionId": "cond_quest_factory_6_1_choose",
+    "desc": {
+      "text": "与帕帕对话",
+      "id": "C5ED5D9659F6AF4B"
+    },
+    "conditionType": "TalkFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "dlg_factory_6_1"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_6_2": {
+    "conditionId": "cond_quest_factory_6_2",
+    "desc": {
+      "text": "在背包放入20个晶体电容后，再次与帕帕对话\n>提示：可以通过总装终端制造元件平台用于生产晶体电容",
+      "id": "03D4B384B5BDC9A9"
+    },
+    "conditionType": "GuideFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "guide_factory_6_2"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_6_3": {
+    "conditionId": "cond_quest_factory_6_3",
+    "desc": {
+      "text": "跟随菲奥娜查看员工手册WIKI",
+      "id": "903BD61DD7AAD01B"
+    },
+    "conditionType": "GuideFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "guide_factory_6_3"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_7_1": {
+    "conditionId": "cond_quest_factory_7_1",
+    "desc": {
+      "text": "与帕帕对话",
+      "id": "A83EC2F167F0F0E8"
+    },
+    "conditionType": "TalkFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "dlg_factory_7_1"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_7_2": {
+    "conditionId": "cond_quest_factory_7_2",
+    "desc": {
+      "text": "增加晶体外壳的产率到30个/分钟后与帕帕对话",
+      "id": "A23F8494FEF98AD8"
+    },
+    "conditionType": "TalkFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "dlg_factory_7_2"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_7_3": {
+    "conditionId": "cond_quest_factory_7_3",
+    "desc": {
+      "text": "切换电驱矿机到无人机模式",
+      "id": "BBBCBF0D0AE14B13"
+    },
+    "conditionType": "GuideFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "guide_factory_7_3_3"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_8_1_choose": {
+    "conditionId": "cond_quest_factory_8_1_choose",
+    "desc": {
+      "text": "与帕帕对话",
+      "id": "D0783A8568FF168A"
+    },
+    "conditionType": "TalkFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "dlg_factory_8_1"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_8_2_choose": {
+    "conditionId": "cond_quest_factory_8_2_choose",
+    "desc": {
+      "text": "放置热能池使发电功率到达700KW后与帕帕对话\n>提示：可以通过总装终端制造热能池",
+      "id": "801F80CA6DD6CBF9"
+    },
+    "conditionType": "TalkFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "dlg_factory_8_2"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_9_1_choose": {
+    "conditionId": "cond_quest_factory_9_1_choose",
+    "desc": {
+      "text": "与帕帕对话",
+      "id": "A63ADDF4CFB38F85"
+    },
+    "conditionType": "TalkFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "dlg_factory_9_1"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_9_2_choose": {
+    "conditionId": "cond_quest_factory_9_2_choose",
+    "desc": {
+      "text": "与实验基地的吕梁对话",
+      "id": "66394E84EA81FB91"
+    },
+    "conditionType": "TalkFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "dlg_factory_9_2"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_9_3": {
+    "conditionId": "cond_quest_factory_9_3",
+    "desc": {
+      "text": "回工厂一趟，查看工厂内的总装终端",
+      "id": "56009CE6F3A7A58E"
+    },
+    "conditionType": "GuideFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "guide_factory_9_3"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_9_4_choose": {
+    "conditionId": "cond_quest_factory_9_4_choose",
+    "desc": {
+      "text": "与吕梁对话\n>提示：请在背包中携带一些供能节点和大型供能节点，推荐至少携带4个供能节点",
+      "id": "AC2526758FD4A4A2"
+    },
+    "conditionType": "TalkFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "dlg_factory_9_4c"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_9_4_miner": {
+    "conditionId": "cond_quest_factory_9_4_miner",
+    "desc": {
+      "text": "生产5个电驱矿机并放入背包\n>提示：将铁矿石置入熔炉输入缓存，再进行进一步生产\n>提示：如果铁矿石不足，可以试着在吕梁附近的仓库区域寻找采集",
+      "id": "D8C4E8E181B8C159"
+    },
+    "conditionType": "ItemBagHasItem",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "item_port_miner_2"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 5,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_9_5": {
+    "conditionId": "cond_quest_factory_9_5",
+    "desc": {
+      "text": "放置5个电驱矿机并通电使矿机正常工作",
+      "id": "42FBF426FEAF902B"
+    },
+    "conditionType": "CheckBaseAndMinerRunning",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "529",
+          "530",
+          "531",
+          "532",
+          "533"
+        ],
+        "valueIntList": [
+          529,
+          530,
+          531,
+          532,
+          533
+        ],
+        "valueFloatList": [
+          529.0,
+          530.0,
+          531.0,
+          532.0,
+          533.0
+        ],
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv001",
+          "map01_lv001",
+          "map01_lv001",
+          "map01_lv001",
+          "map01_lv001"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 5,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_9_6_choose": {
+    "conditionId": "cond_quest_factory_9_6_choose",
+    "desc": {
+      "text": "放置完毕后与吕梁对话",
+      "id": "A285129CF52B6FF5"
+    },
+    "conditionType": "TalkFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "dlg_factory_9_6"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_n1_1_choose": {
+    "conditionId": "cond_quest_factory_n1_1_choose",
+    "desc": {
+      "text": "与终端机交流",
+      "id": "9E045617F4F1DB75"
+    },
+    "conditionType": "TalkFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "dlg_factory_n1_1"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_n1_2": {
+    "conditionId": "cond_quest_factory_n1_2",
+    "desc": {
+      "text": "点击查看总装终端",
+      "id": "F3873A8E8BDF89A3"
+    },
+    "conditionType": "GuideFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "guide_factory_n1_2"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_n1_3": {
+    "conditionId": "cond_quest_factory_n1_3",
+    "desc": {
+      "text": "制造3个源石矿机",
+      "id": "65FB24BF60770218"
+    },
+    "conditionType": "PlayerHasItem",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "item_port_miner_1"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 3,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_n1_4": {
+    "conditionId": "cond_quest_factory_n1_4",
+    "desc": {
+      "text": "在场景中放置3个源石矿机\n>提示：只有在矿点可以放置矿机",
+      "id": "C69825DB2E2579AB"
+    },
+    "conditionType": "FacBuildingAdded",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "miner_1"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "3"
+        ],
+        "valueIntList": [
+          3
+        ],
+        "valueFloatList": [
+          3.0
+        ],
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_n1_5_choose": {
+    "conditionId": "cond_quest_factory_n1_5_choose",
+    "desc": {
+      "text": "源石数量足够后和帕帕说话",
+      "id": "5AB5B7A32E52C7F5"
+    },
+    "conditionType": "TalkFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "dlg_factory_n1_5"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_factory_n1_5_originium": {
+    "conditionId": "cond_quest_factory_n1_5_originium",
+    "desc": {
+      "text": "拥有100个源石\n>提示：可将源石直接从矿机的输出缓存拖入背包\n>提示：也可使用传送带将开采的源石输入协议核心",
+      "id": "27D895018D96D9D6"
+    },
+    "conditionType": "PlayerHasItem",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "item_originium_ore"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 100,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_finish_bloc_introduce_dialog": {
+    "conditionId": "cond_quest_finish_bloc_introduce_dialog",
+    "desc": {
+      "text": "与终端机进行权限认证",
+      "id": "DE4C445CA2B203D1"
+    },
+    "conditionType": "TalkFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "dlg_g_union_unlock_7"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_first_meet_terminal_1": {
+    "conditionId": "cond_quest_first_meet_terminal_1",
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "conditionType": "ReachDestination",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv001_area_guide_2"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv001"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "Equal",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_first_talk_to_bloc_1": {
+    "conditionId": "cond_quest_first_talk_to_bloc_1",
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "conditionType": "TalkFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "dlg_g_union_unlock_7"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_get_trash": {
+    "conditionId": "cond_quest_get_trash",
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "conditionType": "Combined",
+    "parameters": [],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [
+      "cond_get_trash1",
+      "cond_get_trash2",
+      "cond_get_trash3",
+      "cond_get_trash4"
+    ],
+    "subConditionIdLogics": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  "cond_quest_hidden_fac_1": {
+    "conditionId": "cond_quest_hidden_fac_1",
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "conditionType": "ReachDestination",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv002_area_fac_01"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv002"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "Equal",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_hidden_fac_2": {
+    "conditionId": "cond_quest_hidden_fac_2",
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "conditionType": "ReachDestination",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv002_area_fac_02"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv002"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "Equal",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_ms01_01_02_end": {
+    "conditionId": "cond_quest_ms01_01_02_end",
+    "desc": {
+      "text": "完成对白",
+      "id": "80FCCC04E01BDB15"
+    },
+    "conditionType": "TalkFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "34"
+        ],
+        "valueIntList": [
+          34
+        ],
+        "valueFloatList": [
+          34.0
+        ],
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_ms01_01_03": {
+    "conditionId": "cond_quest_ms01_01_03",
+    "desc": {
+      "text": "击败怪物",
+      "id": "274F2D9758B1E959"
+    },
+    "conditionType": "KillSpecificEnemy",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "647",
+          "648",
+          "649"
+        ],
+        "valueIntList": [
+          647,
+          648,
+          649
+        ],
+        "valueFloatList": [
+          647.0,
+          648.0,
+          649.0
+        ],
+        "valueBoolList": null,
+        "valueVector3": {
+          "x": 647.0,
+          "y": 648.0,
+          "z": 649.0
+        }
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv001"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 3,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_ms01_01_04": {
+    "conditionId": "cond_quest_ms01_01_04",
+    "desc": {
+      "text": "与安德烈对话",
+      "id": "F3204DCA74DCA1EB"
+    },
+    "conditionType": "ReachDestination",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv001_area_03"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv001"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_ms01_01_04a": {
+    "conditionId": "cond_quest_ms01_01_04a",
+    "desc": {
+      "text": "前往营地稍作休整",
+      "id": "7B0952C3F99059BE"
+    },
+    "conditionType": "CheckInteract",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "246"
+        ],
+        "valueIntList": [
+          246
+        ],
+        "valueFloatList": [
+          246.0
+        ],
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv001"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_ms01_01_05_01": {
+    "conditionId": "cond_quest_ms01_01_05_01",
+    "desc": {
+      "text": "击败南部的怪物",
+      "id": "D804853A7BCD7F07"
+    },
+    "conditionType": "KillSpecificEnemy",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "650",
+          "651",
+          "652"
+        ],
+        "valueIntList": [
+          650,
+          651,
+          652
+        ],
+        "valueFloatList": [
+          650.0,
+          651.0,
+          652.0
+        ],
+        "valueBoolList": null,
+        "valueVector3": {
+          "x": 650.0,
+          "y": 651.0,
+          "z": 652.0
+        }
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv001"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 3,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_ms01_01_05_02": {
+    "conditionId": "cond_quest_ms01_01_05_02",
+    "desc": {
+      "text": "击败东部的怪物",
+      "id": "07511DCF231BF32F"
+    },
+    "conditionType": "KillSpecificEnemy",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "653",
+          "654",
+          "655"
+        ],
+        "valueIntList": [
+          653,
+          654,
+          655
+        ],
+        "valueFloatList": [
+          653.0,
+          654.0,
+          655.0
+        ],
+        "valueBoolList": null,
+        "valueVector3": {
+          "x": 653.0,
+          "y": 654.0,
+          "z": 655.0
+        }
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv001"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 3,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_ms01_01_05a": {
+    "conditionId": "cond_quest_ms01_01_05a",
+    "desc": {
+      "text": "前往高处侦查",
+      "id": "FE798142A77E14A2"
+    },
+    "conditionType": "ReachDestination",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv001_area_07"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv001"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_ms01_01_05b": {
+    "conditionId": "cond_quest_ms01_01_05b",
+    "desc": {
+      "text": "前往高处侦查",
+      "id": "56D5E76E1D783DD2"
+    },
+    "conditionType": "ReachDestination",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv001_area_08"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv001"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_ms01_01_05c": {
+    "conditionId": "cond_quest_ms01_01_05c",
+    "desc": {
+      "text": "前往高处侦查",
+      "id": "4FD13DAEE3CA3D10"
+    },
+    "conditionType": "ReachDestination",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv001_area_09"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv001"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_ms01_01_05d": {
+    "conditionId": "cond_quest_ms01_01_05d",
+    "desc": {
+      "text": "前往高处侦查",
+      "id": "47E5660D7B3CE764"
+    },
+    "conditionType": "ReachDestination",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv001_area_10"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv001"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_ms01_01_06": {
+    "conditionId": "cond_quest_ms01_01_06",
+    "desc": {
+      "text": "回复秦茳尺",
+      "id": "D5515D830750DA0F"
+    },
+    "conditionType": "ReachDestination",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv001_area_04"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv001"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_ms01_01_06a": {
+    "conditionId": "cond_quest_ms01_01_06a",
+    "desc": {
+      "text": "在门口寻找安德烈",
+      "id": "D54B03FC4FB68BA3"
+    },
+    "conditionType": "TalkFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "34"
+        ],
+        "valueIntList": [
+          34
+        ],
+        "valueFloatList": [
+          34.0
+        ],
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_ms01_01_07": {
+    "conditionId": "cond_quest_ms01_01_07",
+    "desc": {
+      "text": "收集三个机械配件",
+      "id": "DAB5D5530DE58B90"
+    },
+    "conditionType": "Combined",
+    "parameters": [],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [
+      "cond_quest_ms01_01_07_01",
+      "cond_quest_ms01_01_07_02",
+      "cond_quest_ms01_01_07_03"
+    ],
+    "subConditionIdLogics": [
+      1,
+      2,
+      3
+    ]
+  },
+  "cond_quest_ms01_01_07_01": {
+    "conditionId": "cond_quest_ms01_01_07_01",
+    "desc": {
+      "text": "收集道具",
+      "id": "1D53932A50307469"
+    },
+    "conditionType": "PlayerHasItem",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "item_quest_ms01_accessories_1"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_ms01_01_07_02": {
+    "conditionId": "cond_quest_ms01_01_07_02",
+    "desc": {
+      "text": "收集道具",
+      "id": "685925DE03637D9E"
+    },
+    "conditionType": "PlayerHasItem",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "item_quest_ms01_accessories_2"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_ms01_01_07_03": {
+    "conditionId": "cond_quest_ms01_01_07_03",
+    "desc": {
+      "text": "收集道具",
+      "id": "15B40550F7047AEA"
+    },
+    "conditionType": "PlayerHasItem",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "item_quest_ms01_accessories_3"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_ms01_01_08": {
+    "conditionId": "cond_quest_ms01_01_08",
+    "desc": {
+      "text": "去通向裂地者营地的路口找安德烈",
+      "id": "8ECA6B34E7EC6850"
+    },
+    "conditionType": "TalkFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "31"
+        ],
+        "valueIntList": [
+          31
+        ],
+        "valueFloatList": [
+          31.0
+        ],
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_ms02_01_01": {
+    "conditionId": "cond_quest_ms02_01_01",
+    "desc": {
+      "text": "前往新区域",
+      "id": "7DD3BB15224B1499"
+    },
+    "conditionType": "ReachDestination",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv002_area_01"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv002"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_ms02_01_02": {
+    "conditionId": "cond_quest_ms02_01_02",
+    "desc": {
+      "text": "向区域深处继续前进",
+      "id": "568754B48CD9207D"
+    },
+    "conditionType": "ReachDestination",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv002_area_02"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv002"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_ms02_01_02a": {
+    "conditionId": "cond_quest_ms02_01_02a",
+    "desc": {
+      "text": "向区域深处继续前进",
+      "id": "665FD55DF807A449"
+    },
+    "conditionType": "ReachDestination",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv002_area_03"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv002"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_ms02_01_02b": {
+    "conditionId": "cond_quest_ms02_01_02b",
+    "desc": {
+      "text": "向区域深处继续前进",
+      "id": "916AC6682DD6F7F0"
+    },
+    "conditionType": "ReachDestination",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv002_area_04"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv002"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_ms02_01_02c": {
+    "conditionId": "cond_quest_ms02_01_02c",
+    "desc": {
+      "text": "探索该区域，尝试找到开门的方法",
+      "id": "F0022FC79829732E"
+    },
+    "conditionType": "PlayerHasItem",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "item_quest_common_battery"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_ms02_01_02d": {
+    "conditionId": "cond_quest_ms02_01_02d",
+    "desc": {
+      "text": "打开大门并继续前进",
+      "id": "D1E0E5EC7235B8D8"
+    },
+    "conditionType": "ReachDestination",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv002_area_05"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv002"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_ms02_01_03": {
+    "conditionId": "cond_quest_ms02_01_03",
+    "desc": {
+      "text": "前往裂地者营地",
+      "id": "B3A404F37D1E388A"
+    },
+    "conditionType": "ReachDestination",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv002_area_06"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv002"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_ms02_01_04": {
+    "conditionId": "cond_quest_ms02_01_04",
+    "desc": {
+      "text": "继续探索并解除营地的威胁",
+      "id": "870455FEEEB64BAB"
+    },
+    "conditionType": "KillSpecificEnemy",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "446"
+        ],
+        "valueIntList": [
+          446
+        ],
+        "valueFloatList": [
+          446.0
+        ],
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv002"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_ms02_01_05": {
+    "conditionId": "cond_quest_ms02_01_05",
+    "desc": {
+      "text": "找到所需的物资",
+      "id": "1409102FC12401AA"
+    },
+    "conditionType": "PlayerHasItem",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "item_quest_ms02_accessories"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_ms02_01sp_00": {
+    "conditionId": "cond_quest_ms02_01sp_00",
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "conditionType": "MissionProcessing",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "quest_ms02_01_02c"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "Equal",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_ms02_01sp_01": {
+    "conditionId": "cond_quest_ms02_01sp_01",
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "conditionType": "ReachDestination",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv002_area_07"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv002"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "Equal",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_ms02_02_01": {
+    "conditionId": "cond_quest_ms02_02_01",
+    "desc": {
+      "text": "回实验基地向秦茳尺复命\n【可点击地图上的便携营地，进行传送】",
+      "id": "8C39B9050F26F8C8"
+    },
+    "conditionType": "ReachDestination",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv001_area_04"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv001"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_ms02_02_02": {
+    "conditionId": "cond_quest_ms02_02_02",
+    "desc": {
+      "text": "找阿莱西娅了解工厂",
+      "id": "F6AC90F99FB4FB65"
+    },
+    "conditionType": "ReachDestination",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv001_area_11"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv001"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_ms02_03_01": {
+    "conditionId": "cond_quest_ms02_03_01",
+    "desc": {
+      "text": "找安德烈聊聊后续的工作",
+      "id": "F7BD24AABB0693EB"
+    },
+    "conditionType": "ReachDestination",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv001_area_01"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv001"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_ms02_03_02": {
+    "conditionId": "cond_quest_ms02_03_02",
+    "desc": {
+      "text": "将任一角色升至15级",
+      "id": "4F68384E174D4B1A"
+    },
+    "conditionType": "CharMaxLevel",
+    "parameters": [],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 15,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_ms03_01_01": {
+    "conditionId": "cond_quest_ms03_01_01",
+    "desc": {
+      "text": "前往核心联盟矿场",
+      "id": "851F069C12F373C6"
+    },
+    "conditionType": "ReachDestination",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv003_area_01"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv003"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_ms03_01_02": {
+    "conditionId": "cond_quest_ms03_01_02",
+    "desc": {
+      "text": "兔子枪入队",
+      "id": "EF5AAE3E95CE2545"
+    },
+    "conditionType": "TalkFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "dlg_ms03_20"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_ms03_01_03": {
+    "conditionId": "cond_quest_ms03_01_03",
+    "desc": {
+      "text": "找到调查员芙蕾雅",
+      "id": "494B0D3A3646D679"
+    },
+    "conditionType": "ReachDestination",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv003_area_02"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv003"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_ms03_01_04": {
+    "conditionId": "cond_quest_ms03_01_04",
+    "desc": {
+      "text": "击败芙蕾雅附近的怪物",
+      "id": "70B5FFAE89C8AA06"
+    },
+    "conditionType": "KillSpecificEnemy",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "1083",
+          "1084",
+          "1094"
+        ],
+        "valueIntList": [
+          1083,
+          1084,
+          1094
+        ],
+        "valueFloatList": [
+          1083.0,
+          1084.0,
+          1094.0
+        ],
+        "valueBoolList": null,
+        "valueVector3": {
+          "x": 1083.0,
+          "y": 1084.0,
+          "z": 1094.0
+        }
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv003"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 3,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_ms03_01_05": {
+    "conditionId": "cond_quest_ms03_01_05",
+    "desc": {
+      "text": "听芙蕾雅介绍情况",
+      "id": "25D34ACA2DEE868C"
+    },
+    "conditionType": "TalkFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "dlg_ms03_40c"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_ms03_02_01": {
+    "conditionId": "cond_quest_ms03_02_01",
+    "desc": {
+      "text": "找到被裂地者抢走的电梯卡",
+      "id": "55D8B716AC6BB391"
+    },
+    "conditionType": "PlayerHasItem",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "item_quest_ms03_lift_card"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_ms03_03_01": {
+    "conditionId": "cond_quest_ms03_03_01",
+    "desc": {
+      "text": "找到修理工具箱",
+      "id": "B7D88B444FD691C5"
+    },
+    "conditionType": "PlayerHasItem",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "item_quest_ms03_maintenance"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_ms03_04_01": {
+    "conditionId": "cond_quest_ms03_04_01",
+    "desc": {
+      "text": "激活终端机",
+      "id": "AF67555B954F2629"
+    },
+    "conditionType": "ReachDestination",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv003_area_03"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv003"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_ms03_04_02": {
+    "conditionId": "cond_quest_ms03_04_02",
+    "desc": {
+      "text": "击败最终boss",
+      "id": "A29794C5DC95BAFE"
+    },
+    "conditionType": "NumberOfKills",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "eny_0008_gorgax_formal"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_ms03_04_03": {
+    "conditionId": "cond_quest_ms03_04_03",
+    "desc": {
+      "text": "激活终端机",
+      "id": "F9819F30DADAA549"
+    },
+    "conditionType": "ReachDestination",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv003_area_05"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv003"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_ms03_04_04": {
+    "conditionId": "cond_quest_ms03_04_04",
+    "desc": {
+      "text": "向东方进发",
+      "id": "CCAB49480E4F2F64"
+    },
+    "conditionType": "ReachDestination",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv003_area_04"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv003"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_ms03_05_01": {
+    "conditionId": "cond_quest_ms03_05_01",
+    "desc": {
+      "text": "收集醚质",
+      "id": "FE6AAAF3966E5D60"
+    },
+    "conditionType": "PlayerHasItem",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "item_collection_ether"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 51,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_ms03_05_02": {
+    "conditionId": "cond_quest_ms03_05_02",
+    "desc": {
+      "text": "收集超域实体",
+      "id": "0DF99DD4FA7CE0DF"
+    },
+    "conditionType": "PlayerHasItem",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "item_collection_instance"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 15,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_ms03_05_03": {
+    "conditionId": "cond_quest_ms03_05_03",
+    "desc": {
+      "text": "激活工厂外矿机",
+      "id": "0E7292D5E36ABF43"
+    },
+    "conditionType": "CheckBaseAndMinerRunning",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "475",
+          "476",
+          "477",
+          "478",
+          "479",
+          "529",
+          "530",
+          "531",
+          "532",
+          "533",
+          "534",
+          "535",
+          "536",
+          "414",
+          "415",
+          "417",
+          "418",
+          "419",
+          "420",
+          "421",
+          "540",
+          "719",
+          "720",
+          "721",
+          "722",
+          "723",
+          "724",
+          "725",
+          "726",
+          "727"
+        ],
+        "valueIntList": [
+          475,
+          476,
+          477,
+          478,
+          479,
+          529,
+          530,
+          531,
+          532,
+          533,
+          534,
+          535,
+          536,
+          414,
+          415,
+          417,
+          418,
+          419,
+          420,
+          421,
+          540,
+          719,
+          720,
+          721,
+          722,
+          723,
+          724,
+          725,
+          726,
+          727
+        ],
+        "valueFloatList": [
+          475.0,
+          476.0,
+          477.0,
+          478.0,
+          479.0,
+          529.0,
+          530.0,
+          531.0,
+          532.0,
+          533.0,
+          534.0,
+          535.0,
+          536.0,
+          414.0,
+          415.0,
+          417.0,
+          418.0,
+          419.0,
+          420.0,
+          421.0,
+          540.0,
+          719.0,
+          720.0,
+          721.0,
+          722.0,
+          723.0,
+          724.0,
+          725.0,
+          726.0,
+          727.0
+        ],
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv001",
+          "map01_lv001",
+          "map01_lv001",
+          "map01_lv001",
+          "map01_lv001",
+          "map01_lv001",
+          "map01_lv001",
+          "map01_lv001",
+          "map01_lv001",
+          "map01_lv001",
+          "map01_lv001",
+          "map01_lv001",
+          "map01_lv001",
+          "map01_lv002",
+          "map01_lv002",
+          "map01_lv002",
+          "map01_lv002",
+          "map01_lv002",
+          "map01_lv002",
+          "map01_lv002",
+          "map01_lv002",
+          "map01_lv003",
+          "map01_lv003",
+          "map01_lv003",
+          "map01_lv003",
+          "map01_lv003",
+          "map01_lv003",
+          "map01_lv003",
+          "map01_lv003",
+          "map01_lv003"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 30,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_ms03_05_04": {
+    "conditionId": "cond_quest_ms03_05_04",
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "conditionType": "CheckTotalMinerRunning",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv001"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 14,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_ms03_05_05": {
+    "conditionId": "cond_quest_ms03_05_05",
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "conditionType": "CheckTotalMinerRunning",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv002"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 7,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_ms03_05_06": {
+    "conditionId": "cond_quest_ms03_05_06",
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "conditionType": "CheckTotalMinerRunning",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv003"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 9,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_ss01_01002_minearea": {
+    "conditionId": "cond_quest_ss01_01002_minearea",
+    "desc": {
+      "text": "清理矿区",
+      "id": "B6ABDFFC6E2F3967"
+    },
+    "conditionType": "KillSpecificEnemy",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "621",
+          "622",
+          "623",
+          "624",
+          "625"
+        ],
+        "valueIntList": [
+          621,
+          622,
+          623,
+          624,
+          625
+        ],
+        "valueFloatList": [
+          621.0,
+          622.0,
+          623.0,
+          624.0,
+          625.0
+        ],
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv002"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 5,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_ss02_01003_01": {
+    "conditionId": "cond_quest_ss02_01003_01",
+    "desc": {
+      "text": "激活矿区内全部矿机",
+      "id": "A76731B0A737286A"
+    },
+    "conditionType": "CheckBaseAndMinerRunning",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "722",
+          "723",
+          "724",
+          "725",
+          "726",
+          "727"
+        ],
+        "valueIntList": [
+          722,
+          723,
+          724,
+          725,
+          726,
+          727
+        ],
+        "valueFloatList": [
+          722.0,
+          723.0,
+          724.0,
+          725.0,
+          726.0,
+          727.0
+        ],
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv003"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 6,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_ss03_01003_01": {
+    "conditionId": "cond_quest_ss03_01003_01",
+    "desc": {
+      "text": "根据奇怪的句子找到藏起的宝物：\n“登高俯视，巨臂之下，否定之三，吾爱所藏”",
+      "id": "F81E1A85C8EB44D6"
+    },
+    "conditionType": "PlayerHasItem",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "item_book_jail_04"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_ss_01002_book_01": {
+    "conditionId": "cond_quest_ss_01002_book_01",
+    "desc": {
+      "text": "找到书籍《揭露实验室惨剧》上",
+      "id": "C025B3ABD37F390A"
+    },
+    "conditionType": "PlayerHasItem",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "item_book_lab_01"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_ss_01002_book_02": {
+    "conditionId": "cond_quest_ss_01002_book_02",
+    "desc": {
+      "text": "与百炼对话",
+      "id": "745E112B9DBBD848"
+    },
+    "conditionType": "TalkFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "dlg_ss01_20"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_ss_01002_book_03": {
+    "conditionId": "cond_quest_ss_01002_book_03",
+    "desc": {
+      "text": "在裂地者营地收集完整的《荒地的审判》",
+      "id": "3CD092093EA8320F"
+    },
+    "conditionType": "Combined",
+    "parameters": [],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [
+      "cond_quest_ss_01002_book_03a",
+      "cond_quest_ss_01002_book_03b",
+      "cond_quest_ss_01002_book_03c",
+      "cond_quest_ss_01002_book_03d"
+    ],
+    "subConditionIdLogics": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  "cond_quest_ss_01002_book_03a": {
+    "conditionId": "cond_quest_ss_01002_book_03a",
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "conditionType": "PlayerHasItem",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "item_book_trial_01"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_ss_01002_book_03b": {
+    "conditionId": "cond_quest_ss_01002_book_03b",
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "conditionType": "PlayerHasItem",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "item_book_trial_02"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_ss_01002_book_03c": {
+    "conditionId": "cond_quest_ss_01002_book_03c",
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "conditionType": "PlayerHasItem",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "item_book_trial_03"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_ss_01002_book_03d": {
+    "conditionId": "cond_quest_ss_01002_book_03d",
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "conditionType": "PlayerHasItem",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "item_book_trial_04"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_tips_des_obj_01": {
+    "conditionId": "cond_quest_tips_des_obj_01",
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "conditionType": "ReachDestination",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv001_area_guide_1"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv001"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "Equal",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_tips_interrupt": {
+    "conditionId": "cond_quest_tips_interrupt",
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "conditionType": "ReachDestination",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv002_area_guid_01"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "map01_lv002"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "Equal",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_tut_1_1_0": {
+    "conditionId": "cond_quest_tut_1_1_0",
+    "desc": {
+      "text": "完成对话",
+      "id": "4529133FA5C403A7"
+    },
+    "conditionType": "TalkFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "dlg_tut_start"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_tut_1_1_1": {
+    "conditionId": "cond_quest_tut_1_1_1",
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "conditionType": "ReachDestination",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "mission_area_1"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "tut01_lv001"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_tut_1_1_1_c": {
+    "conditionId": "cond_quest_tut_1_1_1_c",
+    "desc": {
+      "text": "熟悉基础操作，抵达目标点\n·使用<@qu.key>左摇杆</>（或<@qu.key>WSAD键</>）移动\n·点击<@qu.key>奔跑键</>（或<@qu.key>Space键</>）进行奔跑\n·<@qu.key>拖动</>屏幕右半部分（或<@qu.key>鼠标右键</>）调整镜头",
+      "id": "94123E56E27F8CBA"
+    },
+    "conditionType": "Combined",
+    "parameters": [],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [
+      "cond_quest_tut_1_1_1"
+    ],
+    "subConditionIdLogics": [
+      1
+    ]
+  },
+  "cond_quest_tut_1_2_1": {
+    "conditionId": "cond_quest_tut_1_2_1",
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "conditionType": "ReachDestination",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "mission_area_2"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "tut01_lv001"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_tut_1_2_1_c": {
+    "conditionId": "cond_quest_tut_1_2_1_c",
+    "desc": {
+      "text": "熟悉攀爬操作，抵达目标点\n·以<@qu.key>奔跑状态</>（按奔跑键或Space键）靠近较矮障碍物时，角色会自动攀爬",
+      "id": "86A9B07D033FDE88"
+    },
+    "conditionType": "Combined",
+    "parameters": [],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [
+      "cond_quest_tut_1_2_1"
+    ],
+    "subConditionIdLogics": [
+      1
+    ]
+  },
+  "cond_quest_tut_1_3_1": {
+    "conditionId": "cond_quest_tut_1_3_1",
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "conditionType": "ReachDestination",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "mission_area_3"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "tut01_lv001"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_tut_1_3_1_c": {
+    "conditionId": "cond_quest_tut_1_3_1_c",
+    "desc": {
+      "text": "熟悉机关的交互操作，抵达目标点\n·靠近机关，点击屏幕<@qu.key>交互键</>（或<@qu.key>F键</>）可进行交互\n·大部分机关<@qu.key>无法</>在战斗状态交互",
+      "id": "E577559E5566C4F5"
+    },
+    "conditionType": "Combined",
+    "parameters": [],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [
+      "cond_quest_tut_1_3_1"
+    ],
+    "subConditionIdLogics": [
+      1
+    ]
+  },
+  "cond_quest_tut_1_4_1": {
+    "conditionId": "cond_quest_tut_1_4_1",
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "conditionType": "KillSpecificEnemy",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "25",
+          "58"
+        ],
+        "valueIntList": [
+          25,
+          58
+        ],
+        "valueFloatList": [
+          25.0,
+          58.0
+        ],
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "tut01_lv001"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 2,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_tut_1_4_1_c": {
+    "conditionId": "cond_quest_tut_1_4_1_c",
+    "desc": {
+      "text": "学习如何锁定敌人，击败目标\n·单击<@qu.key>锁定键</>（或<@qu.key>Tab键</>）锁定最近目标\n·再次单击锁定键可<@qu.key>取消</>已锁定的目标\n·拖拽锁定键可以<@qu.key>手动选择</>目标\n·小队成员会自动攻击锁定目标",
+      "id": "5D8E2B4CF3384A71"
+    },
+    "conditionType": "Combined",
+    "parameters": [],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [
+      "cond_quest_tut_1_4_1"
+    ],
+    "subConditionIdLogics": [
+      1
+    ]
+  },
+  "cond_quest_tut_2_1_1": {
+    "conditionId": "cond_quest_tut_2_1_1",
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "conditionType": "KillSpecificEnemy",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "34"
+        ],
+        "valueIntList": [
+          34
+        ],
+        "valueFloatList": [
+          34.0
+        ],
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "tut01_lv001"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_tut_2_1_1_c": {
+    "conditionId": "cond_quest_tut_2_1_1_c",
+    "desc": {
+      "text": "学习如何使用技能，击败目标\n·单击<@qu.key>技能图标</>（或键盘<@qu.key>1键</>）可对目标使用技能\n·<@qu.key>双击</>技能图标会直接对锁定目标释放技能",
+      "id": "B5EFEB2A22C4DA78"
+    },
+    "conditionType": "Combined",
+    "parameters": [],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [
+      "cond_quest_tut_2_1_1"
+    ],
+    "subConditionIdLogics": [
+      1
+    ]
+  },
+  "cond_quest_tut_2_2_1": {
+    "conditionId": "cond_quest_tut_2_2_1",
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "conditionType": "KillSpecificEnemy",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "96",
+          "97"
+        ],
+        "valueIntList": [
+          96,
+          97
+        ],
+        "valueFloatList": [
+          96.0,
+          97.0
+        ],
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "tut01_lv001"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 2,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_tut_2_2_1_c": {
+    "conditionId": "cond_quest_tut_2_2_1_c",
+    "desc": {
+      "text": "学习如何选择技能目标，击败目标\n·单击技能图标后选择目标释放（移动端也可以<@qu.key>拖动屏幕</>选择目标）",
+      "id": "70A401E43A37F020"
+    },
+    "conditionType": "Combined",
+    "parameters": [],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [
+      "cond_quest_tut_2_2_1"
+    ],
+    "subConditionIdLogics": [
+      1
+    ]
+  },
+  "cond_quest_tut_2_3_1": {
+    "conditionId": "cond_quest_tut_2_3_1",
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "conditionType": "KillSpecificEnemy",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "77"
+        ],
+        "valueIntList": [
+          77
+        ],
+        "valueFloatList": [
+          77.0
+        ],
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "tut01_lv001"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_tut_2_3_1_c": {
+    "conditionId": "cond_quest_tut_2_3_1_c",
+    "desc": {
+      "text": "学习如何使用终极技能，击败目标\n·当能量条已经充满时，点击<@qu.key>角色头像</>可对当前锁定目标释放终极技能",
+      "id": "97E05ABEA6222267"
+    },
+    "conditionType": "Combined",
+    "parameters": [],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [
+      "cond_quest_tut_2_3_1"
+    ],
+    "subConditionIdLogics": [
+      1
+    ]
+  },
+  "cond_quest_tut_2_4_1": {
+    "conditionId": "cond_quest_tut_2_4_1",
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "conditionType": "KillSpecificEnemy",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "285"
+        ],
+        "valueIntList": [
+          285
+        ],
+        "valueFloatList": [
+          285.0
+        ],
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "tut01_lv001"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_tut_2_4_1_c": {
+    "conditionId": "cond_quest_tut_2_4_1_c",
+    "desc": {
+      "text": "学习削减敌人坚韧条，击败目标\n·敌人拥有坚韧效果时，<@qu.key>免疫</>所有<@qu.key>物理性</>效果，且受到的伤害<@qu.key>大幅度降低</>\n·敌人的坚韧条只能通过<@qu.key>自动攻击</>削减，大部分技能<@qu.key>无法</>削减坚韧条\n·敌人的坚韧条被清空后，会在一段时间后恢复",
+      "id": "19E7A65E607EAB4D"
+    },
+    "conditionType": "Combined",
+    "parameters": [],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [
+      "cond_quest_tut_2_4_1"
+    ],
+    "subConditionIdLogics": [
+      1
+    ]
+  },
+  "cond_quest_tut_2_5_1": {
+    "conditionId": "cond_quest_tut_2_5_1",
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "conditionType": "KillSpecificEnemy",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "271",
+          "283"
+        ],
+        "valueIntList": [
+          271,
+          283
+        ],
+        "valueFloatList": [
+          271.0,
+          283.0
+        ],
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "tut01_lv001"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 2,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_tut_2_5_1_c": {
+    "conditionId": "cond_quest_tut_2_5_1_c",
+    "desc": {
+      "text": "学习打断敌人蓄力，击败敌人\n·敌人在蓄力时会发出蓝光，此时用击飞等<@qu.key>物理性技能</>可以进行<@qu.key>打断</>（无视敌人的坚韧效果）\n·成功打断不仅可以阻止敌方技能的释放，还可以大幅度<@qu.key>削减</>敌人的坚韧条",
+      "id": "15A44E9EE0EF9BFB"
+    },
+    "conditionType": "Combined",
+    "parameters": [],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [
+      "cond_quest_tut_2_5_1"
+    ],
+    "subConditionIdLogics": [
+      1
+    ]
+  },
+  "cond_quest_tut_2_6_1": {
+    "conditionId": "cond_quest_tut_2_6_1",
+    "desc": {
+      "text": "到达目的地，与队友汇合",
+      "id": "701968F398269A38"
+    },
+    "conditionType": "ReachDestination",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "mission_area_2_6"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "tut01_lv001"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_tut_2_7_1": {
+    "conditionId": "cond_quest_tut_2_7_1",
+    "desc": {
+      "text": "和伙伴们一起行动，击败敌人\n·锁定目标后，所有小队成员会一起攻击该目标\n·提示：敌人蓄力时可以用物理性技能进行<@qu.key>打断</>\n·提示：能量条满时，可以使用终极技能",
+      "id": "F1AD5B7821D10D87"
+    },
+    "conditionType": "KillSpecificEnemy",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "88",
+          "90"
+        ],
+        "valueIntList": [
+          88,
+          90
+        ],
+        "valueFloatList": [
+          88.0,
+          90.0
+        ],
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "tut01_lv001"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 2,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_tut_3_1_1": {
+    "conditionId": "cond_quest_tut_3_1_1",
+    "desc": {
+      "text": "前往目标点，离开训练场地",
+      "id": "922186E8355C8E79"
+    },
+    "conditionType": "ReachDestination",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "mission_area_12"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "tut01_lv001"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_tut_rd_10": {
+    "conditionId": "cond_quest_tut_rd_10",
+    "desc": {
+      "text": "前往下一个目标点",
+      "id": "3769A8421C06AEA1"
+    },
+    "conditionType": "ReachDestination",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "mission_area_10"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "tut01_lv001"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_tut_rd_11": {
+    "conditionId": "cond_quest_tut_rd_11",
+    "desc": {
+      "text": "前往下一个目标点",
+      "id": "CD84B57DF88AFD1B"
+    },
+    "conditionType": "ReachDestination",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "mission_area_11"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "tut01_lv001"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_tut_rd_12": {
+    "conditionId": "cond_quest_tut_rd_12",
+    "desc": {
+      "text": "前往下一个目标点",
+      "id": "8CDDFBCE49656567"
+    },
+    "conditionType": "ReachDestination",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "mission_area_12"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "tut01_lv001"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_tut_rd_2": {
+    "conditionId": "cond_quest_tut_rd_2",
+    "desc": {
+      "text": "前往下一个目标点",
+      "id": "1D6AA7378638D4FE"
+    },
+    "conditionType": "ReachDestination",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "mission_area_2"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "tut01_lv001"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_tut_rd_3": {
+    "conditionId": "cond_quest_tut_rd_3",
+    "desc": {
+      "text": "前往下一个目标点",
+      "id": "52A2838874A4CB3E"
+    },
+    "conditionType": "ReachDestination",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "mission_area_3"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "tut01_lv001"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_tut_rd_4": {
+    "conditionId": "cond_quest_tut_rd_4",
+    "desc": {
+      "text": "前往下一个目标点",
+      "id": "23EE45D7F6DDBEC2"
+    },
+    "conditionType": "ReachDestination",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "mission_area_4"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "tut01_lv001"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_tut_rd_5": {
+    "conditionId": "cond_quest_tut_rd_5",
+    "desc": {
+      "text": "前往下一个目标点",
+      "id": "541D05AAFD802251"
+    },
+    "conditionType": "ReachDestination",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "mission_area_5"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "tut01_lv001"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_tut_rd_6": {
+    "conditionId": "cond_quest_tut_rd_6",
+    "desc": {
+      "text": "前往下一个目标点",
+      "id": "2E088B265F9063D9"
+    },
+    "conditionType": "ReachDestination",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "mission_area_6"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "tut01_lv001"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_tut_rd_7": {
+    "conditionId": "cond_quest_tut_rd_7",
+    "desc": {
+      "text": "前往下一个目标点",
+      "id": "F651CCF85B26AD11"
+    },
+    "conditionType": "ReachDestination",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "mission_area_7"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "tut01_lv001"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_tut_rd_8": {
+    "conditionId": "cond_quest_tut_rd_8",
+    "desc": {
+      "text": "前往下一个目标点",
+      "id": "2D8C8460B86B38B0"
+    },
+    "conditionType": "ReachDestination",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "mission_area_8"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "tut01_lv001"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_quest_tut_rd_9": {
+    "conditionId": "cond_quest_tut_rd_9",
+    "desc": {
+      "text": "前往下一个目标点",
+      "id": "DC74D4AAD7930585"
+    },
+    "conditionType": "ReachDestination",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "mission_area_9"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "tut01_lv001"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_ready_to_learn_bloc": {
+    "conditionId": "cond_ready_to_learn_bloc",
+    "desc": {
+      "text": "出现势力联络请求对话的条件",
+      "id": "88F2F7735763A514"
+    },
+    "conditionType": "MissionProcessing",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "questms_bloc_startup"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "Equal",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_ready_to_upgradeTo_lv02": {
+    "conditionId": "cond_ready_to_upgradeTo_lv02",
+    "desc": {
+      "text": "势力关系等级突破任务对话（1级升2级）",
+      "id": "B4C1FBE3B6A360F2"
+    },
+    "conditionType": "Combined",
+    "parameters": [],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [
+      "child_cond_blocLevel_01",
+      "child_cond_bloc_exp_full1",
+      "child_cond_bloc_upgradeMisson1_on"
+    ],
+    "subConditionIdLogics": [
+      1,
+      2,
+      3
+    ]
+  },
+  "cond_ready_to_upgradeTo_lv03": {
+    "conditionId": "cond_ready_to_upgradeTo_lv03",
+    "desc": {
+      "text": "势力关系等级突破任务对话（2级升3级）",
+      "id": "575F688342479B17"
+    },
+    "conditionType": "Combined",
+    "parameters": [],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [
+      "child_cond_blocLevel_02",
+      "child_cond_bloc_exp_full2",
+      "child_cond_bloc_upgradeMisson2_on"
+    ],
+    "subConditionIdLogics": [
+      1,
+      2,
+      3
+    ]
+  },
+  "cond_unlock_bloc": {
+    "conditionId": "cond_unlock_bloc",
+    "desc": {
+      "text": "已经和势力接洽人打过招呼",
+      "id": "E508FCB3581C8BCC"
+    },
+    "conditionType": "MissionGroupComplete",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "questgroup_bloc_startup"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "Equal",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "cond_unlock_bloc_all_func": {
+    "conditionId": "cond_unlock_bloc_all_func",
+    "desc": {
+      "text": "解锁势力所有功能",
+      "id": "57EAD8E7E9D973B4"
+    },
+    "conditionType": "MissionCompleted",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "quest_factory_12_1"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "Equal",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "test10_target": {
+    "conditionId": "test10_target",
+    "desc": {
+      "text": "矿脉上放置矿机且运行",
+      "id": "547C4576139DA0AC"
+    },
+    "conditionType": "CheckBaseAndMinerRunning",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "253",
+          "254",
+          "255"
+        ],
+        "valueIntList": [
+          253,
+          254,
+          255
+        ],
+        "valueFloatList": [
+          253.0,
+          254.0,
+          255.0
+        ],
+        "valueBoolList": null,
+        "valueVector3": {
+          "x": 253.0,
+          "y": 254.0,
+          "z": 255.0
+        }
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "testbed_interactive",
+          "testbed_interactive",
+          "testbed_interactive"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 3,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "test1_hide_target": {
+    "conditionId": "test1_hide_target",
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "conditionType": "NumberOfKills",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "eny_0001_agscout"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 2,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "test1_target": {
+    "conditionId": "test1_target",
+    "desc": {
+      "text": "消灭2只指定的怪 ({0}/2)",
+      "id": "3C9B55C3CB3F63CF"
+    },
+    "conditionType": "NumberOfKills",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "eny_0001_agscout"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 2,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "test2_target": {
+    "conditionId": "test2_target",
+    "desc": {
+      "text": "消灭2只指定的怪 ({0}/2)",
+      "id": "5B6B4A09CB0CE624"
+    },
+    "conditionType": "NumberOfKills",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "eny_0001_agscout"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 2,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "test3_target": {
+    "conditionId": "test3_target",
+    "desc": {
+      "text": "消灭2只指定的怪",
+      "id": "E64A8308764ECE4D"
+    },
+    "conditionType": "KillSpecificEnemy",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "238",
+          "239"
+        ],
+        "valueIntList": [
+          238,
+          239
+        ],
+        "valueFloatList": [
+          238.0,
+          239.0
+        ],
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "testbed_interactive"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 2,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "test4_target": {
+    "conditionId": "test4_target",
+    "desc": {
+      "text": "消灭2只指定的怪 (复合版)",
+      "id": "9D5B96D63C58D46F"
+    },
+    "conditionType": "Combined",
+    "parameters": [],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [
+      "test4_target_1",
+      "test4_target_2"
+    ],
+    "subConditionIdLogics": [
+      1,
+      2
+    ]
+  },
+  "test4_target_1": {
+    "conditionId": "test4_target_1",
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "conditionType": "KillSpecificEnemy",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "238"
+        ],
+        "valueIntList": [
+          238
+        ],
+        "valueFloatList": [
+          238.0
+        ],
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "testbed_interactive"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "test4_target_2": {
+    "conditionId": "test4_target_2",
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "conditionType": "KillSpecificEnemy",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "239"
+        ],
+        "valueIntList": [
+          239
+        ],
+        "valueFloatList": [
+          239.0
+        ],
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "testbed_interactive"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "test5_target": {
+    "conditionId": "test5_target",
+    "desc": {
+      "text": "底座点上放置电杆且通电",
+      "id": "5A340CA7705A8951"
+    },
+    "conditionType": "CheckBaseAndPoleConnected",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "243",
+          "244",
+          "245",
+          "246"
+        ],
+        "valueIntList": [
+          243,
+          244,
+          245,
+          246
+        ],
+        "valueFloatList": [
+          243.0,
+          244.0,
+          245.0,
+          246.0
+        ],
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "testbed_interactive",
+          "testbed_interactive",
+          "testbed_interactive",
+          "testbed_interactive"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 4,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "test6_target": {
+    "conditionId": "test6_target",
+    "desc": {
+      "text": "和交互终端对话",
+      "id": "9D9FED646FC71EDF"
+    },
+    "conditionType": "TalkFinish",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "test6_talk"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "test7_target": {
+    "conditionId": "test7_target",
+    "desc": {
+      "text": "底座点上放置电杆且通电 (复合版)",
+      "id": "8B45A69E169EAE6D"
+    },
+    "conditionType": "Combined",
+    "parameters": [],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [
+      "test7_target_1",
+      "test7_target_2",
+      "test7_target_3"
+    ],
+    "subConditionIdLogics": [
+      1,
+      2,
+      3
+    ]
+  },
+  "test7_target_1": {
+    "conditionId": "test7_target_1",
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "conditionType": "CheckBaseAndPoleConnected",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "243"
+        ],
+        "valueIntList": [
+          243
+        ],
+        "valueFloatList": [
+          243.0
+        ],
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "testbed_interactive"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "test7_target_2": {
+    "conditionId": "test7_target_2",
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "conditionType": "CheckBaseAndPoleConnected",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "244"
+        ],
+        "valueIntList": [
+          244
+        ],
+        "valueFloatList": [
+          244.0
+        ],
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "testbed_interactive"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "test7_target_3": {
+    "conditionId": "test7_target_3",
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "conditionType": "CheckBaseAndPoleConnected",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "245"
+        ],
+        "valueIntList": [
+          245
+        ],
+        "valueFloatList": [
+          245.0
+        ],
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "testbed_interactive"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "test9_target": {
+    "conditionId": "test9_target",
+    "desc": {
+      "text": "复合任务",
+      "id": "7BF1681CD690A662"
+    },
+    "conditionType": "Combined",
+    "parameters": [],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [
+      "test3_target",
+      "test5_target",
+      "test8_target"
+    ],
+    "subConditionIdLogics": [
+      1,
+      2,
+      3
+    ]
+  },
+  "test_ci1_target": {
+    "conditionId": "test_ci1_target",
+    "desc": {
+      "text": "与交互物交互",
+      "id": "B00CBF5805D2BB82"
+    },
+    "conditionType": "CheckInteract",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "147"
+        ],
+        "valueIntList": [
+          147
+        ],
+        "valueFloatList": [
+          147.0
+        ],
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "testbed_interactive"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "test_ci2_target": {
+    "conditionId": "test_ci2_target",
+    "desc": {
+      "text": "与交互物交互",
+      "id": "50341CDFE0255529"
+    },
+    "conditionType": "CheckInteract",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "148",
+          "183"
+        ],
+        "valueIntList": [
+          148,
+          183
+        ],
+        "valueFloatList": [
+          148.0,
+          183.0
+        ],
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "testbed_interactive"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 2,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "test_rd1_target": {
+    "conditionId": "test_rd1_target",
+    "desc": {
+      "text": "到达目的地",
+      "id": "A0E4431BB4D6037C"
+    },
+    "conditionType": "ReachDestination",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "test_mission_area_1"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "testbed_interactive"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  },
+  "test_rd2_target": {
+    "conditionId": "test_rd2_target",
+    "desc": {
+      "text": "到达目的地",
+      "id": "9499B16AA925A3DB"
+    },
+    "conditionType": "ReachDestination",
+    "parameters": [
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "test_mission_area_2"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      },
+      {
+        "valueType": 0,
+        "realType": 0,
+        "valueStringList": [
+          "testbed_interactive"
+        ],
+        "valueIntList": null,
+        "valueFloatList": null,
+        "valueBoolList": null,
+        "valueVector3": null
+      }
+    ],
+    "compareOperator": "GreaterEqual",
+    "progressToCompare": 1,
+    "subConditionIds": [],
+    "subConditionIdLogics": []
+  }
+}

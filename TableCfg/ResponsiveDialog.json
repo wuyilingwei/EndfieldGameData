@@ -1,0 +1,6351 @@
+{
+  "chr_0003_endmin": {
+    "triggers": {
+      "action_dash": {
+        "triggerType": "VO_ACTION_DASH",
+        "response": [
+          "chr_0003_endmin_action_dash_start_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "action_jump_nor": {
+        "triggerType": "VO_ACTION_JUMP",
+        "response": [
+          "chr_0003_endmin_action_jump_nor_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "action_jump_running": {
+        "triggerType": "VO_ACTION_JUMP",
+        "response": [
+          "chr_0003_endmin_action_jump_running_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "action_land_nor": {
+        "triggerType": "VO_ACTION_LAND",
+        "response": [
+          "chr_0003_endmin_action_land_nor_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "action_throw": {
+        "triggerType": "VO_ACTION_THROW",
+        "response": [
+          "chr_0003_endmin_action_throw"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrbark_join": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0003_endmin_chrbark_join_01",
+          "chr_0003_endmin_chrbark_join_02",
+          "chr_0003_endmin_chrbark_join_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrbark_loginslogan": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrbark_squad": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrbark_switch": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0003_endmin_chrbark_switch_01",
+          "chr_0003_endmin_chrbark_switch_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrup_gear": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0003_endmin_chrup_gear_01",
+          "chr_0003_endmin_chrup_gear_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrup_level": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0003_endmin_chrup_level_01",
+          "chr_0003_endmin_chrup_level_02",
+          "chr_0003_endmin_chrup_level_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrup_promt_lower": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0003_endmin_chrup_promt_lower"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrup_promt_lv01": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0003_endmin_chrup_promt_lv01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrup_promt_lv04": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0003_endmin_chrup_promt_lv04"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrup_skill": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0003_endmin_chrup_skill_01",
+          "chr_0003_endmin_chrup_skill_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_attack01": {
+        "triggerType": "VO_COMBAT_ATK",
+        "response": [
+          "chr_0003_endmin_combat_attack01_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_attack02": {
+        "triggerType": "VO_COMBAT_ATK",
+        "response": [
+          "chr_0003_endmin_combat_attack02_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_attack03": {
+        "triggerType": "VO_COMBAT_ATK",
+        "response": [
+          "chr_0003_endmin_combat_attack03_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_attack04": {
+        "triggerType": "VO_COMBAT_ATK",
+        "response": [
+          "chr_0003_endmin_combat_attack04_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_attack_extra": {
+        "triggerType": "VO_COMBAT_ATK_EXTRA",
+        "response": [
+          "chr_0003_endmin_combat_extra_attack_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_dead": {
+        "triggerType": "VO_COMBAT_DEAD",
+        "response": [
+          "chr_0003_endmin_combat_dead_02",
+          "chr_0003_endmin_combat_dead_03",
+          "chr_0003_endmin_combat_dead_01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_hurt": {
+        "triggerType": "VO_COMBAT_HURT",
+        "response": [
+          "chr_0003_endmin_combat_hurt_01",
+          "chr_0003_endmin_combat_hurt_02",
+          "chr_0003_endmin_combat_hurt_03",
+          "chr_0003_endmin_combat_hurt_sv_nor"
+        ],
+        "weight": [
+          25,
+          25,
+          25,
+          100
+        ],
+        "delay": 0.0
+      },
+      "combat_hurt_heavy": {
+        "triggerType": "VO_COMBAT_HURT",
+        "response": [
+          "chr_0003_endmin_combat_hurt_sv_heavy"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_hurt_lowhp": {
+        "triggerType": "VO_COMBAT_HURT_LOWHP",
+        "response": [
+          "chr_0003_endmin_combat_hurt_lowhp_01",
+          "chr_0003_endmin_combat_hurt_lowhp_02",
+          "chr_0003_endmin_combat_hurt_lowhp_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_hurt_stun": {
+        "triggerType": "VO_COMBAT_HURT_STUN",
+        "response": [
+          "chr_0003_endmin_combat_hurt_sv_stun"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_intobattle": {
+        "triggerType": "VO_COMBAT_START",
+        "response": [
+          "chr_0003_endmin_combat_intobattle_01",
+          "chr_0003_endmin_combat_intobattle_02",
+          "chr_0003_endmin_combat_intobattle_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_intobattle_enyag": {
+        "triggerType": "VO_COMBAT_START",
+        "response": [
+          "chr_0003_endmin_combat_intobattle_enyag_01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_intobattle_enylb": {
+        "triggerType": "VO_COMBAT_START",
+        "response": [
+          "chr_0003_endmin_combat_intobattle_enylb_01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_kill": {
+        "triggerType": "VO_COMBAT_KILL",
+        "response": [
+          "chr_0003_endmin_combat_kill_01",
+          "chr_0003_endmin_combat_kill_02",
+          "chr_0003_endmin_combat_kill_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_kill_enyag": {
+        "triggerType": "VO_COMBAT_KILL",
+        "response": [
+          "chr_0003_endmin_combat_kill_enyag_01",
+          "chr_0003_endmin_combat_kill_enyag_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_kill_enylb": {
+        "triggerType": "VO_COMBAT_KILL",
+        "response": [
+          "chr_0003_endmin_combat_kill_enylb_01",
+          "chr_0003_endmin_combat_kill_enylb_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_outbattle": {
+        "triggerType": "VO_COMBAT_END",
+        "response": [
+          "chr_0003_endmin_combat_outbattle_01",
+          "chr_0003_endmin_combat_outbattle_02",
+          "chr_0003_endmin_combat_outbattle_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_skill_hold": {
+        "triggerType": "VO_COMBAT_HOLD",
+        "response": [
+          "chr_0003_endmin_combat_skill_hold_01",
+          "chr_0003_endmin_combat_skill_hold_02",
+          "chr_0003_endmin_combat_skill_hold_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_skill_nor": {
+        "triggerType": "VO_COMBAT_SKILL_NORM",
+        "response": [
+          "chr_0003_endmin_combat_skill_nor_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_skill_ultimate": {
+        "triggerType": "VO_COMBAT_SKILL_ULT",
+        "response": [
+          "chr_0003_endmin_combat_skill_ultimate_01",
+          "chr_0003_endmin_combat_skill_ultimate_02",
+          "chr_0003_endmin_combat_skill_ultimate_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_finddanger": {
+        "triggerType": "VO_EXP_INDANGER",
+        "response": [
+          "chr_0003_endmin_explore_finddanger_01",
+          "chr_0003_endmin_explore_finddanger_02",
+          "chr_0003_endmin_explore_finddanger_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_finddanger_enyag": {
+        "triggerType": "VO_EXP_INDANGER",
+        "response": [
+          "chr_0003_endmin_explore_finddanger_enyag_01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_finddanger_enylb": {
+        "triggerType": "VO_EXP_INDANGER",
+        "response": [
+          "chr_0003_endmin_explore_finddanger_enylb_01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_findtreasure": {
+        "triggerType": "VO_EXP_FINDTREASURE",
+        "response": [
+          "chr_0003_endmin_explore_findtreasure_01",
+          "chr_0003_endmin_explore_findtreasure_02",
+          "chr_0003_endmin_explore_findtreasure_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_idle": {
+        "triggerType": "VO_EXP_IDLE",
+        "response": [
+          "chr_0003_endmin_explore_idle_01",
+          "chr_0003_endmin_explore_idle_02",
+          "chr_0003_endmin_explore_idle_03",
+          "chr_0003_endmin_explore_idle_04",
+          "chr_0003_endmin_explore_idle_05"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_loc_hq": {
+        "triggerType": "VO_EXP_LOC",
+        "response": [
+          "chr_0003_endmin_explore_loc_hq_01",
+          "chr_0003_endmin_explore_loc_hq_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_loc_openair": {
+        "triggerType": "VO_EXP_LOC",
+        "response": [
+          "chr_0003_endmin_explore_loc_openair_01",
+          "chr_0003_endmin_explore_loc_openair_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_loc_orgi": {
+        "triggerType": "VO_EXP_LOC",
+        "response": [
+          "chr_0003_endmin_explore_loc_orgi_01",
+          "chr_0003_endmin_explore_loc_orgi_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "factory_assign": {
+        "triggerType": "VO_FAC_ASSIGN",
+        "response": [
+          "chr_0003_endmin_factory_assign_01",
+          "chr_0003_endmin_factory_assign_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "factory_produc_colloct": {
+        "triggerType": "VO_FAC_COLLECT",
+        "response": [
+          "chr_0003_endmin_factory_produc_colloct_01",
+          "chr_0003_endmin_factory_produc_colloct_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "factory_unit_deploy": {
+        "triggerType": "VO_FAC_INSTALL",
+        "response": [
+          "chr_0003_endmin_factory_unit_deploy_01",
+          "chr_0003_endmin_factory_unit_deploy_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "factory_unit_lowpwr": {
+        "triggerType": "VO_FAC_LOWPWR",
+        "response": [
+          "chr_0003_endmin_factory_unit_lowpwr_01",
+          "chr_0003_endmin_factory_unit_lowpwr_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "factory_unit_shutdn": {
+        "triggerType": "VO_FAC_SHUTDOWN",
+        "response": [
+          "chr_0003_endmin_factory_unit_shutdn_02",
+          "chr_0003_endmin_factory_unit_shutdn_01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "hp_gain": {
+        "triggerType": "VO_CHAR_HEAL",
+        "response": [
+          "chr_0003_endmin_hp_gain_01",
+          "chr_0003_endmin_hp_gain_02",
+          "chr_0003_endmin_hp_gain_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "interact_pickupItem": {
+        "triggerType": "VO_INT_PICK",
+        "response": [
+          "chr_0003_endmin_interact_pickupitem_01",
+          "chr_0003_endmin_interact_pickupitem_02",
+          "chr_0003_endmin_interact_pickupitem_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "interact_pickupItem_brnew": {
+        "triggerType": "VO_INT_PICK",
+        "response": [
+          "chr_0003_endmin_interact_pickupitem_brnew_01",
+          "chr_0003_endmin_interact_pickupitem_brnew_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "interact_pickupItem_valub": {
+        "triggerType": "VO_INT_PICK",
+        "response": [
+          "chr_0003_endmin_interact_pickupitem_valub_01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "interact_rest": {
+        "triggerType": "VO_INT_REST",
+        "response": [
+          "chr_0003_endmin_interact_rest_01",
+          "chr_0003_endmin_interact_rest_02",
+          "chr_0003_endmin_interact_rest_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "interact_treasure": {
+        "triggerType": "VO_INT_TREASURE",
+        "response": [
+          "chr_0003_endmin_interact_treasure_01",
+          "chr_0003_endmin_interact_treasure_02",
+          "chr_0003_endmin_interact_treasure_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      }
+    }
+  },
+  "chr_0004_pelica": {
+    "triggers": {
+      "action_dash": {
+        "triggerType": "VO_ACTION_DASH",
+        "response": [
+          "chr_0004_pelica_action_dash_start_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "action_jump_nor": {
+        "triggerType": "VO_ACTION_JUMP",
+        "response": [
+          "chr_0004_pelica_action_jump_nor_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "action_jump_running": {
+        "triggerType": "VO_ACTION_JUMP",
+        "response": [
+          "chr_0004_pelica_action_jump_running_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "action_land_nor": {
+        "triggerType": "VO_ACTION_LAND",
+        "response": [
+          "chr_0004_pelica_action_land_nor_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "action_throw": {
+        "triggerType": "VO_ACTION_THROW",
+        "response": [
+          "chr_0004_pelica_action_throw"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrbark_Introduce": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0004_pelica_introduce_01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrbark_join": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0004_pelica_chrbark_join_01",
+          "chr_0004_pelica_chrbark_join_02",
+          "chr_0004_pelica_chrbark_join_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrbark_loginslogan": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrbark_squad": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0004_pelica_chrbark_squad_01",
+          "chr_0004_pelica_chrbark_squad_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrbark_switch": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0004_pelica_chrbark_switch_01",
+          "chr_0004_pelica_chrbark_switch_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrup_gear": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0004_pelica_chrup_gear_01",
+          "chr_0004_pelica_chrup_gear_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrup_level": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0004_pelica_chrup_level_01",
+          "chr_0004_pelica_chrup_level_02",
+          "chr_0004_pelica_chrup_level_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrup_promt_lower": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0004_pelica_chrup_promt_lower"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrup_promt_lv01": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0004_pelica_chrup_promt_lv01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrup_promt_lv04": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0004_pelica_chrup_promt_lv04"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrup_skill": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0004_pelica_chrup_skill_01",
+          "chr_0004_pelica_chrup_skill_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_attack01": {
+        "triggerType": "VO_COMBAT_ATK_RANG",
+        "response": [
+          "chr_0004_pelica_combat_attackrg01_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_attack02": {
+        "triggerType": "VO_COMBAT_ATK_RANG",
+        "response": [
+          "chr_0004_pelica_combat_attackrg02_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_attack03": {
+        "triggerType": "VO_COMBAT_ATK_RANG",
+        "response": [
+          "chr_0004_pelica_combat_attackrg03_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_attack04": {
+        "triggerType": "VO_COMBAT_ATK_RANG",
+        "response": [
+          "chr_0004_pelica_combat_attackrg04_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_attack_extra": {
+        "triggerType": "VO_COMBAT_ATK_EXTRA",
+        "response": [
+          "chr_0004_pelica_combat_extra_attack"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_attack_rise": {
+        "triggerType": "VO_COMBAT_ATK_EXTRA",
+        "response": [
+          "chr_0004_pelica_combat_attack_rise_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_attackrg01": {
+        "triggerType": "VO_COMBAT_ATK_RANG",
+        "response": [
+          "chr_0004_pelica_combat_attackrg01_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_attackrg02": {
+        "triggerType": "VO_COMBAT_ATK_RANG",
+        "response": [
+          "chr_0004_pelica_combat_attackrg02_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_attackrg03": {
+        "triggerType": "VO_COMBAT_ATK_RANG",
+        "response": [
+          "chr_0004_pelica_combat_attackrg03_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_dead": {
+        "triggerType": "VO_COMBAT_DEAD",
+        "response": [
+          "chr_0004_pelica_combat_dead_01",
+          "chr_0004_pelica_combat_dead_02",
+          "chr_0004_pelica_combat_dead_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_hurt": {
+        "triggerType": "VO_COMBAT_HURT",
+        "response": [
+          "chr_0004_pelica_combat_hurt_01",
+          "chr_0004_pelica_combat_hurt_02",
+          "chr_0004_pelica_combat_hurt_03",
+          "chr_0004_pelica_combat_hurt_sv_nor"
+        ],
+        "weight": [
+          25,
+          25,
+          25,
+          100
+        ],
+        "delay": 0.0
+      },
+      "combat_hurt_heavy": {
+        "triggerType": "VO_COMBAT_HURT",
+        "response": [
+          "chr_0004_pelica_combat_hurt_sv_heavy"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_hurt_lowhp": {
+        "triggerType": "VO_COMBAT_HURT_LOWHP",
+        "response": [
+          "chr_0004_pelica_combat_hurt_lowhp_01",
+          "chr_0004_pelica_combat_hurt_lowhp_02",
+          "chr_0004_pelica_combat_hurt_lowhp_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_hurt_stun": {
+        "triggerType": "VO_COMBAT_HURT_STUN",
+        "response": [
+          "chr_0004_pelica_combat_hurt_sv_stun"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_intobattle": {
+        "triggerType": "VO_COMBAT_START",
+        "response": [
+          "chr_0004_pelica_combat_intobattle_01",
+          "chr_0004_pelica_combat_intobattle_02",
+          "chr_0004_pelica_combat_intobattle_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_intobattle_enyag": {
+        "triggerType": "VO_COMBAT_START",
+        "response": [
+          "chr_0004_pelica_combat_intobattle_enyag_01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_intobattle_enylb": {
+        "triggerType": "VO_COMBAT_START",
+        "response": [
+          "chr_0004_pelica_combat_intobattle_enylb_01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_kill": {
+        "triggerType": "VO_COMBAT_KILL",
+        "response": [
+          "chr_0004_pelica_combat_kill_01",
+          "chr_0004_pelica_combat_kill_02",
+          "chr_0004_pelica_combat_kill_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_kill_enyag": {
+        "triggerType": "VO_COMBAT_KILL",
+        "response": [
+          "chr_0004_pelica_combat_kill_enyag_01",
+          "chr_0004_pelica_combat_kill_enyag_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_kill_enylb": {
+        "triggerType": "VO_COMBAT_KILL",
+        "response": [
+          "chr_0004_pelica_combat_kill_enylb_01",
+          "chr_0004_pelica_combat_kill_enylb_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_outbattle": {
+        "triggerType": "VO_COMBAT_END",
+        "response": [
+          "chr_0004_pelica_combat_outbattle_01",
+          "chr_0004_pelica_combat_outbattle_02",
+          "chr_0004_pelica_combat_outbattle_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_skill_hold": {
+        "triggerType": "VO_COMBAT_HOLD",
+        "response": [
+          "chr_0004_pelica_combat_skill_hold_01",
+          "chr_0004_pelica_combat_skill_hold_02",
+          "chr_0004_pelica_combat_skill_hold_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_skill_nor": {
+        "triggerType": "VO_COMBAT_SKILL_NORM",
+        "response": [
+          "chr_0004_pelica_combat_skill_nor_01",
+          "chr_0004_pelica_combat_skill_nor_02",
+          "chr_0004_pelica_combat_skill_nor_03",
+          "chr_0004_pelica_combat_skill_nor_sv"
+        ],
+        "weight": [
+          50,
+          50,
+          50,
+          100
+        ],
+        "delay": 0.0
+      },
+      "combat_skill_ultimate": {
+        "triggerType": "VO_COMBAT_SKILL_ULT",
+        "response": [
+          "chr_0004_pelica_combat_skill_ultimate_01",
+          "chr_0004_pelica_combat_skill_ultimate_02",
+          "chr_0004_pelica_combat_skill_ultimate_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_finddanger": {
+        "triggerType": "VO_EXP_INDANGER",
+        "response": [
+          "chr_0004_pelica_explore_finddanger_01",
+          "chr_0004_pelica_explore_finddanger_02",
+          "chr_0004_pelica_explore_finddanger_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_finddanger_enyag": {
+        "triggerType": "VO_EXP_INDANGER",
+        "response": [
+          "chr_0004_pelica_explore_finddanger_enyag_01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_finddanger_enylb": {
+        "triggerType": "VO_EXP_INDANGER",
+        "response": [
+          "chr_0004_pelica_explore_finddanger_enylb_01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_findtreasure": {
+        "triggerType": "VO_EXP_FINDTREASURE",
+        "response": [
+          "chr_0004_pelica_explore_findtreasure_01",
+          "chr_0004_pelica_explore_findtreasure_02",
+          "chr_0004_pelica_explore_findtreasure_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_idle": {
+        "triggerType": "VO_EXP_IDLE",
+        "response": [
+          "chr_0004_pelica_explore_idle_01",
+          "chr_0004_pelica_explore_idle_02",
+          "chr_0004_pelica_explore_idle_03",
+          "chr_0004_pelica_explore_idle_04"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_loc_hq": {
+        "triggerType": "VO_EXP_LOC",
+        "response": [
+          "chr_0004_pelica_explore_loc_hq_01",
+          "chr_0004_pelica_explore_loc_hq_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_loc_openair": {
+        "triggerType": "VO_EXP_LOC",
+        "response": [
+          "chr_0004_pelica_explore_loc_openair_01",
+          "chr_0004_pelica_explore_loc_openair_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_loc_orgi": {
+        "triggerType": "VO_EXP_LOC",
+        "response": [
+          "chr_0004_pelica_explore_loc_orgi_01",
+          "chr_0004_pelica_explore_loc_orgi_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "factory_assign": {
+        "triggerType": "VO_FAC_ASSIGN",
+        "response": [
+          "chr_0004_pelica_factory_assign_01",
+          "chr_0004_pelica_factory_assign_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "factory_produc_colloct": {
+        "triggerType": "VO_FAC_COLLECT",
+        "response": [
+          "chr_0004_pelica_factory_produc_colloct_01",
+          "chr_0004_pelica_factory_produc_colloct_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "factory_unit_deploy": {
+        "triggerType": "VO_FAC_INSTALL",
+        "response": [
+          "chr_0004_pelica_factory_unit_deploy_01",
+          "chr_0004_pelica_factory_unit_deploy_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "factory_unit_lowpwr": {
+        "triggerType": "VO_FAC_LOWPWR",
+        "response": [
+          "chr_0004_pelica_factory_unit_lowpwr_01",
+          "chr_0004_pelica_factory_unit_lowpwr_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "factory_unit_shutdn": {
+        "triggerType": "VO_FAC_SHUTDOWN",
+        "response": [
+          "chr_0004_pelica_factory_unit_shutdn_01",
+          "chr_0004_pelica_factory_unit_shutdn_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "hp_gain": {
+        "triggerType": "VO_CHAR_HEAL",
+        "response": [
+          "chr_0004_pelica_hp_gain_01",
+          "chr_0004_pelica_hp_gain_02",
+          "chr_0004_pelica_hp_gain_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "interact_pickupItem": {
+        "triggerType": "VO_INT_PICK",
+        "response": [
+          "chr_0004_pelica_interact_pickupitem_01",
+          "chr_0004_pelica_interact_pickupitem_02",
+          "chr_0004_pelica_interact_pickupitem_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "interact_pickupItem_brnew": {
+        "triggerType": "VO_INT_PICK",
+        "response": [
+          "chr_0004_pelica_interact_pickupitem_brnew_01",
+          "chr_0004_pelica_interact_pickupitem_brnew_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "interact_pickupItem_valub": {
+        "triggerType": "VO_INT_PICK",
+        "response": [
+          "chr_0004_pelica_interact_pickupitem_valub_01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "interact_rest": {
+        "triggerType": "VO_INT_REST",
+        "response": [
+          "chr_0004_pelica_interact_rest_01",
+          "chr_0004_pelica_interact_rest_02",
+          "chr_0004_pelica_interact_rest_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "interact_treasure": {
+        "triggerType": "VO_INT_TREASURE",
+        "response": [
+          "chr_0004_pelica_interact_treasure_01",
+          "chr_0004_pelica_interact_treasure_02",
+          "chr_0004_pelica_interact_treasure_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "mainpage": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0004_pelica_mainpage"
+        ],
+        "weight": [],
+        "delay": 0.0
+      }
+    }
+  },
+  "chr_0005_chen": {
+    "triggers": {
+      "action_dash": {
+        "triggerType": "VO_ACTION_DASH",
+        "response": [
+          "chr_0005_chen_action_dash_start_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "action_jump_nor": {
+        "triggerType": "VO_ACTION_JUMP",
+        "response": [
+          "chr_0005_chen_action_jump_nor_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "action_jump_running": {
+        "triggerType": "VO_ACTION_JUMP",
+        "response": [
+          "chr_0005_chen_action_jump_running_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "action_land_nor": {
+        "triggerType": "VO_ACTION_LAND",
+        "response": [
+          "chr_0005_chen_action_land_nor_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "action_throw": {
+        "triggerType": "VO_ACTION_THROW",
+        "response": [
+          "chr_0005_chen_action_throw"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrbark_Introduce": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0005_chen_introduce_01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrbark_join": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0005_chen_chrbark_join_01",
+          "chr_0005_chen_chrbark_join_02",
+          "chr_0005_chen_chrbark_join_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrbark_loginslogan": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrbark_squad": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0005_chen_chrbark_squad_01",
+          "chr_0005_chen_chrbark_squad_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrbark_switch": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0005_chen_chrbark_switch_01",
+          "chr_0005_chen_chrbark_switch_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrup_gear": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0005_chen_chrup_gear_01",
+          "chr_0005_chen_chrup_gear_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrup_level": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0005_chen_chrup_level_01",
+          "chr_0005_chen_chrup_level_02",
+          "chr_0005_chen_chrup_level_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrup_promt_lower": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0005_chen_chrup_promt_lower"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrup_promt_lv01": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0005_chen_chrup_promt_lv01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrup_promt_lv04": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0005_chen_chrup_promt_lv04"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrup_skill": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0005_chen_chrup_skill_01",
+          "chr_0005_chen_chrup_skill_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_attack01": {
+        "triggerType": "VO_COMBAT_ATK",
+        "response": [
+          "chr_0005_chen_combat_attack01_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_attack02": {
+        "triggerType": "VO_COMBAT_ATK",
+        "response": [
+          "chr_0005_chen_combat_attack02_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_attack03": {
+        "triggerType": "VO_COMBAT_ATK",
+        "response": [
+          "chr_0005_chen_combat_attack03_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_attack_extra": {
+        "triggerType": "VO_COMBAT_ATK_EXTRA",
+        "response": [
+          "chr_0005_chen_combat_extra_attack_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_dead": {
+        "triggerType": "VO_COMBAT_DEAD",
+        "response": [
+          "chr_0005_chen_combat_dead_02",
+          "chr_0005_chen_combat_dead_03",
+          "chr_0005_chen_combat_dead_01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_hurt": {
+        "triggerType": "VO_COMBAT_HURT",
+        "response": [
+          "chr_0005_chen_combat_hurt_03",
+          "chr_0005_chen_combat_hurt_01",
+          "chr_0005_chen_combat_hurt_02",
+          "chr_0005_chen_combat_hurt_sv_nor"
+        ],
+        "weight": [
+          25,
+          25,
+          25,
+          100
+        ],
+        "delay": 0.0
+      },
+      "combat_hurt_heavy": {
+        "triggerType": "VO_COMBAT_HURT",
+        "response": [
+          "chr_0005_chen_combat_hurt_sv_heavy"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_hurt_lowhp": {
+        "triggerType": "VO_COMBAT_HURT_LOWHP",
+        "response": [
+          "chr_0005_chen_combat_hurt_lowhp_03",
+          "chr_0005_chen_combat_hurt_lowhp_01",
+          "chr_0005_chen_combat_hurt_lowhp_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_hurt_stun": {
+        "triggerType": "VO_COMBAT_HURT_STUN",
+        "response": [
+          "chr_0005_chen_combat_hurt_sv_stun"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_intobattle": {
+        "triggerType": "VO_COMBAT_START",
+        "response": [
+          "chr_0005_chen_combat_intobattle_02",
+          "chr_0005_chen_combat_intobattle_03",
+          "chr_0005_chen_combat_intobattle_01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_intobattle_enyag": {
+        "triggerType": "VO_COMBAT_START",
+        "response": [
+          "chr_0005_chen_combat_intobattle_enyag_01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_intobattle_enylb": {
+        "triggerType": "VO_COMBAT_START",
+        "response": [
+          "chr_0005_chen_combat_intobattle_enylb_01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_kill": {
+        "triggerType": "VO_COMBAT_KILL",
+        "response": [
+          "chr_0005_chen_combat_kill_03",
+          "chr_0005_chen_combat_kill_01",
+          "chr_0005_chen_combat_kill_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_kill_enyag": {
+        "triggerType": "VO_COMBAT_KILL",
+        "response": [
+          "chr_0005_chen_combat_kill_enyag_01",
+          "chr_0005_chen_combat_kill_enyag_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_kill_enylb": {
+        "triggerType": "VO_COMBAT_KILL",
+        "response": [
+          "chr_0005_chen_combat_kill_enylb_01",
+          "chr_0005_chen_combat_kill_enylb_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_outbattle": {
+        "triggerType": "VO_COMBAT_END",
+        "response": [
+          "chr_0005_chen_combat_outbattle_03",
+          "chr_0005_chen_combat_outbattle_01",
+          "chr_0005_chen_combat_outbattle_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_skill_hold": {
+        "triggerType": "VO_COMBAT_HOLD",
+        "response": [
+          "chr_0005_chen_combat_skill_hold_03",
+          "chr_0005_chen_combat_skill_hold_01",
+          "chr_0005_chen_combat_skill_hold_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_skill_nor": {
+        "triggerType": "VO_COMBAT_SKILL_NORM",
+        "response": [
+          "chr_0005_chen_combat_skill_nor_01",
+          "chr_0005_chen_combat_skill_nor_02",
+          "chr_0005_chen_combat_skill_nor_sv"
+        ],
+        "weight": [
+          50,
+          50,
+          25
+        ],
+        "delay": 0.0
+      },
+      "combat_skill_ultimate": {
+        "triggerType": "VO_COMBAT_SKILL_ULT",
+        "response": [
+          "chr_0005_chen_combat_skill_ultimate_01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_finddanger": {
+        "triggerType": "VO_EXP_INDANGER",
+        "response": [
+          "chr_0005_chen_explore_finddanger_01",
+          "chr_0005_chen_explore_finddanger_02",
+          "chr_0005_chen_explore_finddanger_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_finddanger_enyag": {
+        "triggerType": "VO_EXP_INDANGER",
+        "response": [
+          "chr_0005_chen_explore_finddanger_enyag_01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_finddanger_enylb": {
+        "triggerType": "VO_EXP_INDANGER",
+        "response": [
+          "chr_0005_chen_explore_finddanger_enylb_01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_findtreasure": {
+        "triggerType": "VO_EXP_FINDTREASURE",
+        "response": [
+          "chr_0005_chen_explore_findtreasure_01",
+          "chr_0005_chen_explore_findtreasure_02",
+          "chr_0005_chen_explore_findtreasure_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_idle": {
+        "triggerType": "VO_EXP_IDLE",
+        "response": [
+          "chr_0005_chen_explore_idle_04",
+          "chr_0005_chen_explore_idle_01",
+          "chr_0005_chen_explore_idle_02",
+          "chr_0005_chen_explore_idle_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_loc_hq": {
+        "triggerType": "VO_EXP_LOC",
+        "response": [
+          "chr_0005_chen_explore_loc_hq_02",
+          "chr_0005_chen_explore_loc_hq_01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_loc_openair": {
+        "triggerType": "VO_EXP_LOC",
+        "response": [
+          "chr_0005_chen_explore_loc_openair_01",
+          "chr_0005_chen_explore_loc_openair_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_loc_orgi": {
+        "triggerType": "VO_EXP_LOC",
+        "response": [
+          "chr_0005_chen_explore_loc_orgi_02",
+          "chr_0005_chen_explore_loc_orgi_01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "factory_assign": {
+        "triggerType": "VO_FAC_ASSIGN",
+        "response": [
+          "chr_0005_chen_factory_assign_02",
+          "chr_0005_chen_factory_assign_01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "factory_produc_colloct": {
+        "triggerType": "VO_FAC_COLLECT",
+        "response": [
+          "chr_0005_chen_factory_produc_colloct_02",
+          "chr_0005_chen_factory_produc_colloct_01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "factory_unit_deploy": {
+        "triggerType": "VO_FAC_INSTALL",
+        "response": [
+          "chr_0005_chen_factory_unit_deploy_01",
+          "chr_0005_chen_factory_unit_deploy_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "factory_unit_lowpwr": {
+        "triggerType": "VO_FAC_LOWPWR",
+        "response": [
+          "chr_0005_chen_factory_unit_lowpwr_02",
+          "chr_0005_chen_factory_unit_lowpwr_01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "factory_unit_shutdn": {
+        "triggerType": "VO_FAC_SHUTDOWN",
+        "response": [
+          "chr_0005_chen_factory_unit_shutdn_02",
+          "chr_0005_chen_factory_unit_shutdn_01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "hp_gain": {
+        "triggerType": "VO_CHAR_HEAL",
+        "response": [
+          "chr_0005_chen_hp_gain_03",
+          "chr_0005_chen_hp_gain_01",
+          "chr_0005_chen_hp_gain_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "interact_pickupItem": {
+        "triggerType": "VO_INT_PICK",
+        "response": [
+          "chr_0005_chen_interact_pickupitem_03",
+          "chr_0005_chen_interact_pickupitem_01",
+          "chr_0005_chen_interact_pickupitem_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "interact_pickupItem_brnew": {
+        "triggerType": "VO_INT_PICK",
+        "response": [
+          "chr_0005_chen_interact_pickupitem_brnew_02",
+          "chr_0005_chen_interact_pickupitem_brnew_01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "interact_pickupItem_valub": {
+        "triggerType": "VO_INT_PICK",
+        "response": [
+          "chr_0005_chen_interact_pickupitem_valub_01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "interact_rest": {
+        "triggerType": "VO_INT_REST",
+        "response": [
+          "chr_0005_chen_interact_rest_03",
+          "chr_0005_chen_interact_rest_01",
+          "chr_0005_chen_interact_rest_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "interact_treasure": {
+        "triggerType": "VO_INT_TREASURE",
+        "response": [
+          "chr_0005_chen_interact_treasure_02",
+          "chr_0005_chen_interact_treasure_03",
+          "chr_0005_chen_interact_treasure_01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      }
+    }
+  },
+  "chr_0006_wolfgd": {
+    "triggers": {
+      "action_dash": {
+        "triggerType": "VO_ACTION_DASH",
+        "response": [
+          "chr_0006_wolfgd_action_dash_start_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "action_jump_nor": {
+        "triggerType": "VO_ACTION_JUMP",
+        "response": [
+          "chr_0006_wolfgd_action_jump_nor_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "action_jump_running": {
+        "triggerType": "VO_ACTION_JUMP",
+        "response": [
+          "chr_0006_wolfgd_action_jump_running_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "action_land_nor": {
+        "triggerType": "VO_ACTION_LAND",
+        "response": [
+          "chr_0006_wolfgd_action_land_nor_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "action_throw": {
+        "triggerType": "VO_ACTION_THROW",
+        "response": [
+          "chr_0006_wolfgd_action_throw"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrbark_Introduce": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0006_wolfgd_introduce_01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrbark_join": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0006_wolfgd_chrbark_join_01",
+          "chr_0006_wolfgd_chrbark_join_02",
+          "chr_0006_wolfgd_chrbark_join_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrbark_loginslogan": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrbark_squad": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0006_wolfgd_chrbark_squad_01",
+          "chr_0006_wolfgd_chrbark_squad_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrbark_switch": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0006_wolfgd_chrbark_switch_01",
+          "chr_0006_wolfgd_chrbark_switch_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrup_gear": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0006_wolfgd_chrup_gear_01",
+          "chr_0006_wolfgd_chrup_gear_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrup_level": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0006_wolfgd_chrup_level_01",
+          "chr_0006_wolfgd_chrup_level_02",
+          "chr_0006_wolfgd_chrup_level_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrup_promt_lower": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0006_wolfgd_chrup_promt_lower"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrup_promt_lv01": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0006_wolfgd_chrup_promt_lv01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrup_promt_lv04": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0006_wolfgd_chrup_promt_lv04"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrup_skill": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0006_wolfgd_chrup_skill_01",
+          "chr_0006_wolfgd_chrup_skill_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_attack01": {
+        "triggerType": "VO_COMBAT_ATK",
+        "response": [
+          "chr_0006_wolfgd_combat_attack01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_attack02": {
+        "triggerType": "VO_COMBAT_ATK",
+        "response": [
+          "chr_0006_wolfgd_combat_attack02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_attack03": {
+        "triggerType": "VO_COMBAT_ATK",
+        "response": [
+          "chr_0006_wolfgd_combat_attack03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_attack04": {
+        "triggerType": "VO_COMBAT_ATK",
+        "response": [
+          "chr_0006_wolfgd_combat_attack04"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_attack_extra": {
+        "triggerType": "VO_COMBAT_ATK_EXTRA",
+        "response": [
+          "chr_0006_wolfgd_combat_extra_attack"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_dead": {
+        "triggerType": "VO_COMBAT_DEAD",
+        "response": [
+          "chr_0006_wolfgd_combat_dead_03",
+          "chr_0006_wolfgd_combat_dead_01",
+          "chr_0006_wolfgd_combat_dead_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_hurt": {
+        "triggerType": "VO_COMBAT_HURT",
+        "response": [
+          "chr_0006_wolfgd_combat_hurt_03",
+          "chr_0006_wolfgd_combat_hurt_01",
+          "chr_0006_wolfgd_combat_hurt_02",
+          "chr_0006_wolfgd_combat_hurt_sv_nor"
+        ],
+        "weight": [
+          25,
+          25,
+          25,
+          100
+        ],
+        "delay": 0.0
+      },
+      "combat_hurt_heavy": {
+        "triggerType": "VO_COMBAT_HURT",
+        "response": [
+          "chr_0006_wolfgd_combat_hurt_sv_heavy"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_hurt_lowhp": {
+        "triggerType": "VO_COMBAT_HURT_LOWHP",
+        "response": [
+          "chr_0006_wolfgd_combat_hurt_lowhp_01",
+          "chr_0006_wolfgd_combat_hurt_lowhp_02",
+          "chr_0006_wolfgd_combat_hurt_lowhp_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_hurt_stun": {
+        "triggerType": "VO_COMBAT_HURT_STUN",
+        "response": [
+          "chr_0006_wolfgd_combat_hurt_sv_stun"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_intobattle": {
+        "triggerType": "VO_COMBAT_START",
+        "response": [
+          "chr_0006_wolfgd_combat_intobattle_03",
+          "chr_0006_wolfgd_combat_intobattle_01",
+          "chr_0006_wolfgd_combat_intobattle_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_intobattle_enyag": {
+        "triggerType": "VO_COMBAT_START",
+        "response": [
+          "chr_0006_wolfgd_combat_intobattle_enyag_01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_intobattle_enylb": {
+        "triggerType": "VO_COMBAT_START",
+        "response": [
+          "chr_0006_wolfgd_combat_intobattle_enylb_01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_kill": {
+        "triggerType": "VO_COMBAT_KILL",
+        "response": [
+          "chr_0006_wolfgd_combat_kill_01",
+          "chr_0006_wolfgd_combat_kill_02",
+          "chr_0006_wolfgd_combat_kill_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_kill_enyag": {
+        "triggerType": "VO_COMBAT_KILL",
+        "response": [
+          "chr_0006_wolfgd_combat_kill_enyag_01",
+          "chr_0006_wolfgd_combat_kill_enyag_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_kill_enylb": {
+        "triggerType": "VO_COMBAT_KILL",
+        "response": [
+          "chr_0006_wolfgd_combat_kill_enylb_01",
+          "chr_0006_wolfgd_combat_kill_enylb_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_outbattle": {
+        "triggerType": "VO_COMBAT_END",
+        "response": [
+          "chr_0006_wolfgd_combat_outbattle_01",
+          "chr_0006_wolfgd_combat_outbattle_02",
+          "chr_0006_wolfgd_combat_outbattle_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_skill_hold": {
+        "triggerType": "VO_COMBAT_HOLD",
+        "response": [
+          "chr_0006_wolfgd_combat_skill_hold_03",
+          "chr_0006_wolfgd_combat_skill_hold_01",
+          "chr_0006_wolfgd_combat_skill_hold_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_skill_nor": {
+        "triggerType": "VO_COMBAT_SKILL_NORM",
+        "response": [
+          "chr_0006_wolfgd_combat_skill_nor_01",
+          "chr_0006_wolfgd_combat_skill_nor_02",
+          "chr_0006_wolfgd_combat_skill_nor_sv"
+        ],
+        "weight": [
+          50,
+          50,
+          100
+        ],
+        "delay": 0.0
+      },
+      "combat_skill_ultimate": {
+        "triggerType": "VO_COMBAT_SKILL_ULT",
+        "response": [
+          "chr_0006_wolfgd_combat_skill_ultimate_01",
+          "chr_0006_wolfgd_combat_skill_ultimate_02",
+          "chr_0006_wolfgd_combat_skill_ultimate_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_finddanger": {
+        "triggerType": "VO_EXP_INDANGER",
+        "response": [
+          "chr_0006_wolfgd_explore_finddanger_01",
+          "chr_0006_wolfgd_explore_finddanger_02",
+          "chr_0006_wolfgd_explore_finddanger_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_finddanger_enyag": {
+        "triggerType": "VO_EXP_INDANGER",
+        "response": [
+          "chr_0006_wolfgd_explore_finddanger_enyag_01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_finddanger_enylb": {
+        "triggerType": "VO_EXP_INDANGER",
+        "response": [
+          "chr_0006_wolfgd_explore_finddanger_enylb_01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_findtreasure": {
+        "triggerType": "VO_EXP_FINDTREASURE",
+        "response": [
+          "chr_0006_wolfgd_explore_findtreasure_01",
+          "chr_0006_wolfgd_explore_findtreasure_02",
+          "chr_0006_wolfgd_explore_findtreasure_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_idle": {
+        "triggerType": "VO_EXP_IDLE",
+        "response": [
+          "chr_0006_wolfgd_explore_idle_01",
+          "chr_0006_wolfgd_explore_idle_02",
+          "chr_0006_wolfgd_explore_idle_03",
+          "chr_0006_wolfgd_explore_idle_04"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_loc_hq": {
+        "triggerType": "VO_EXP_LOC",
+        "response": [
+          "chr_0006_wolfgd_explore_loc_hq_01",
+          "chr_0006_wolfgd_explore_loc_hq_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_loc_openair": {
+        "triggerType": "VO_EXP_LOC",
+        "response": [
+          "chr_0006_wolfgd_explore_loc_openair_01",
+          "chr_0006_wolfgd_explore_loc_openair_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_loc_orgi": {
+        "triggerType": "VO_EXP_LOC",
+        "response": [
+          "chr_0006_wolfgd_explore_loc_orgi_01",
+          "chr_0006_wolfgd_explore_loc_orgi_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "factory_assign": {
+        "triggerType": "VO_FAC_ASSIGN",
+        "response": [
+          "chr_0006_wolfgd_factory_assign_01",
+          "chr_0006_wolfgd_factory_assign_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "factory_produc_colloct": {
+        "triggerType": "VO_FAC_COLLECT",
+        "response": [
+          "chr_0006_wolfgd_factory_produc_colloct_01",
+          "chr_0006_wolfgd_factory_produc_colloct_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "factory_unit_deploy": {
+        "triggerType": "VO_FAC_INSTALL",
+        "response": [
+          "chr_0006_wolfgd_factory_unit_deploy_01",
+          "chr_0006_wolfgd_factory_unit_deploy_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "factory_unit_lowpwr": {
+        "triggerType": "VO_FAC_LOWPWR",
+        "response": [
+          "chr_0006_wolfgd_factory_unit_lowpwr_01",
+          "chr_0006_wolfgd_factory_unit_lowpwr_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "factory_unit_shutdn": {
+        "triggerType": "VO_FAC_SHUTDOWN",
+        "response": [
+          "chr_0006_wolfgd_factory_unit_shutdn_01",
+          "chr_0006_wolfgd_factory_unit_shutdn_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "hp_gain": {
+        "triggerType": "VO_CHAR_HEAL",
+        "response": [
+          "chr_0006_wolfgd_hp_gain_01",
+          "chr_0006_wolfgd_hp_gain_02",
+          "chr_0006_wolfgd_hp_gain_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "interact_pickupItem": {
+        "triggerType": "VO_INT_PICK",
+        "response": [
+          "chr_0006_wolfgd_interact_pickupitem_01",
+          "chr_0006_wolfgd_interact_pickupitem_02",
+          "chr_0006_wolfgd_interact_pickupitem_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "interact_pickupItem_brnew": {
+        "triggerType": "VO_INT_PICK",
+        "response": [
+          "chr_0006_wolfgd_interact_pickupitem_brnew_01",
+          "chr_0006_wolfgd_interact_pickupitem_brnew_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "interact_pickupItem_valub": {
+        "triggerType": "VO_INT_PICK",
+        "response": [
+          "chr_0006_wolfgd_interact_pickupitem_valub_01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "interact_rest": {
+        "triggerType": "VO_INT_REST",
+        "response": [
+          "chr_0006_wolfgd_interact_rest_01",
+          "chr_0006_wolfgd_interact_rest_02",
+          "chr_0006_wolfgd_interact_rest_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "interact_treasure": {
+        "triggerType": "VO_INT_TREASURE",
+        "response": [
+          "chr_0006_wolfgd_interact_treasure_01",
+          "chr_0006_wolfgd_interact_treasure_02",
+          "chr_0006_wolfgd_interact_treasure_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      }
+    }
+  },
+  "chr_0008_kholec": {
+    "triggers": {
+      "action_dash": {
+        "triggerType": "VO_ACTION_DASH",
+        "response": [
+          "chr_0008_kholec_action_dash_start_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "action_jump_nor": {
+        "triggerType": "VO_ACTION_JUMP",
+        "response": [
+          "chr_0008_kholec_action_jump_nor_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "action_jump_running": {
+        "triggerType": "VO_ACTION_JUMP",
+        "response": [
+          "chr_0008_kholec_action_jump_running_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "action_land_nor": {
+        "triggerType": "VO_ACTION_LAND",
+        "response": [
+          "chr_0008_kholec_action_land_nor_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "action_throw": {
+        "triggerType": "VO_ACTION_THROW",
+        "response": [
+          "chr_0008_kholec_action_throw"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrbark_Introduce": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0008_kholec_introduce_01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrbark_join": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0008_kholec_chrbark_join_01",
+          "chr_0008_kholec_chrbark_join_02",
+          "chr_0008_kholec_chrbark_join_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrbark_loginslogan": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrbark_squad": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0008_kholec_chrbark_squad_01",
+          "chr_0008_kholec_chrbark_squad_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrbark_switch": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0008_kholec_chrbark_switch_01",
+          "chr_0008_kholec_chrbark_switch_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrup_gear": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0008_kholec_chrup_gear_01",
+          "chr_0008_kholec_chrup_gear_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrup_level": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0008_kholec_chrup_level_01",
+          "chr_0008_kholec_chrup_level_02",
+          "chr_0008_kholec_chrup_level_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrup_promt_lower": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0008_kholec_chrup_promt_lower"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrup_promt_lv01": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0008_kholec_chrup_promt_lv01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrup_promt_lv04": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0008_kholec_chrup_promt_lv04"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrup_skill": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0008_kholec_chrup_skill_01",
+          "chr_0008_kholec_chrup_skill_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_attack01": {
+        "triggerType": "VO_COMBAT_ATK",
+        "response": [
+          "chr_0008_kholec_combat_attack01_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_attack02": {
+        "triggerType": "VO_COMBAT_ATK",
+        "response": [
+          "chr_0008_kholec_combat_attack02_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_attack03": {
+        "triggerType": "VO_COMBAT_ATK",
+        "response": [
+          "chr_0008_kholec_combat_attack03_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_attack_extra": {
+        "triggerType": "VO_COMBAT_ATK_EXTRA",
+        "response": [
+          "chr_0008_kholec_combat_extra_attack_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_dead": {
+        "triggerType": "VO_COMBAT_DEAD",
+        "response": [
+          "chr_0008_kholec_combat_dead_01",
+          "chr_0008_kholec_combat_dead_02",
+          "chr_0008_kholec_combat_dead_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_hurt": {
+        "triggerType": "VO_COMBAT_HURT",
+        "response": [
+          "chr_0008_kholec_combat_hurt_01",
+          "chr_0008_kholec_combat_hurt_02",
+          "chr_0008_kholec_combat_hurt_03",
+          "chr_0008_kholec_combat_hurt_sv_nor"
+        ],
+        "weight": [
+          25,
+          25,
+          25,
+          100
+        ],
+        "delay": 0.0
+      },
+      "combat_hurt_heavy": {
+        "triggerType": "VO_COMBAT_HURT",
+        "response": [
+          "chr_0008_kholec_combat_hurt_sv_heavy"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_hurt_lowhp": {
+        "triggerType": "VO_COMBAT_HURT_LOWHP",
+        "response": [
+          "chr_0008_kholec_combat_hurt_lowhp_01",
+          "chr_0008_kholec_combat_hurt_lowhp_02",
+          "chr_0008_kholec_combat_hurt_lowhp_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_hurt_stun": {
+        "triggerType": "VO_COMBAT_HURT_STUN",
+        "response": [
+          "chr_0008_kholec_combat_hurt_sv_stun"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_intobattle": {
+        "triggerType": "VO_COMBAT_START",
+        "response": [
+          "chr_0008_kholec_combat_intobattle_01",
+          "chr_0008_kholec_combat_intobattle_02",
+          "chr_0008_kholec_combat_intobattle_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_intobattle_enyag": {
+        "triggerType": "VO_COMBAT_START",
+        "response": [
+          "chr_0008_kholec_combat_intobattle_enyag_01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_intobattle_enylb": {
+        "triggerType": "VO_COMBAT_START",
+        "response": [
+          "chr_0008_kholec_combat_intobattle_enylb_01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_kill": {
+        "triggerType": "VO_COMBAT_KILL",
+        "response": [
+          "chr_0008_kholec_combat_kill_01",
+          "chr_0008_kholec_combat_kill_02",
+          "chr_0008_kholec_combat_kill_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_kill_enyag": {
+        "triggerType": "VO_COMBAT_KILL",
+        "response": [
+          "chr_0008_kholec_combat_kill_enyag_01",
+          "chr_0008_kholec_combat_kill_enyag_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_kill_enylb": {
+        "triggerType": "VO_COMBAT_KILL",
+        "response": [
+          "chr_0008_kholec_combat_kill_enylb_01",
+          "chr_0008_kholec_combat_kill_enylb_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_outbattle": {
+        "triggerType": "VO_COMBAT_END",
+        "response": [
+          "chr_0008_kholec_combat_outbattle_01",
+          "chr_0008_kholec_combat_outbattle_02",
+          "chr_0008_kholec_combat_outbattle_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_skill_hold": {
+        "triggerType": "VO_COMBAT_HOLD",
+        "response": [
+          "chr_0008_kholec_combat_skill_hold_01",
+          "chr_0008_kholec_combat_skill_hold_02",
+          "chr_0008_kholec_combat_skill_hold_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_skill_nor": {
+        "triggerType": "VO_COMBAT_SKILL_NORM",
+        "response": [
+          "chr_0008_kholec_combat_skill_nor_01",
+          "chr_0008_kholec_combat_skill_nor_02",
+          "chr_0008_kholec_combat_skill_nor_03",
+          "chr_0008_kholec_combat_skill_nor_sv"
+        ],
+        "weight": [
+          50,
+          50,
+          50,
+          100
+        ],
+        "delay": 0.0
+      },
+      "combat_skill_ultimate": {
+        "triggerType": "VO_COMBAT_SKILL_ULT",
+        "response": [
+          "chr_0008_kholec_combat_skill_ultimate_01",
+          "chr_0008_kholec_combat_skill_ultimate_02",
+          "chr_0008_kholec_combat_skill_ultimate_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_finddanger": {
+        "triggerType": "VO_EXP_INDANGER",
+        "response": [
+          "chr_0008_kholec_explore_finddanger_01",
+          "chr_0008_kholec_explore_finddanger_02",
+          "chr_0008_kholec_explore_finddanger_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_finddanger_enyag": {
+        "triggerType": "VO_EXP_INDANGER",
+        "response": [
+          "chr_0008_kholec_explore_finddanger_enyag_01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_finddanger_enylb": {
+        "triggerType": "VO_EXP_INDANGER",
+        "response": [
+          "chr_0008_kholec_explore_finddanger_enylb_01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_findtreasure": {
+        "triggerType": "VO_EXP_FINDTREASURE",
+        "response": [
+          "chr_0008_kholec_explore_findtreasure_01",
+          "chr_0008_kholec_explore_findtreasure_02",
+          "chr_0008_kholec_explore_findtreasure_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_idle": {
+        "triggerType": "VO_EXP_IDLE",
+        "response": [
+          "chr_0008_kholec_explore_idle_01",
+          "chr_0008_kholec_explore_idle_02",
+          "chr_0008_kholec_explore_idle_03",
+          "chr_0008_kholec_explore_idle_04"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_loc_hq": {
+        "triggerType": "VO_EXP_LOC",
+        "response": [
+          "chr_0008_kholec_explore_loc_hq_01",
+          "chr_0008_kholec_explore_loc_hq_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_loc_openair": {
+        "triggerType": "VO_EXP_LOC",
+        "response": [
+          "chr_0008_kholec_explore_loc_openair_01",
+          "chr_0008_kholec_explore_loc_openair_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_loc_orgi": {
+        "triggerType": "VO_EXP_LOC",
+        "response": [
+          "chr_0008_kholec_explore_loc_orgi_01",
+          "chr_0008_kholec_explore_loc_orgi_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "factory_assign": {
+        "triggerType": "VO_FAC_ASSIGN",
+        "response": [
+          "chr_0008_kholec_factory_assign_01",
+          "chr_0008_kholec_factory_assign_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "factory_produc_colloct": {
+        "triggerType": "VO_FAC_COLLECT",
+        "response": [
+          "chr_0008_kholec_factory_produc_colloct_01",
+          "chr_0008_kholec_factory_produc_colloct_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "factory_unit_deploy": {
+        "triggerType": "VO_FAC_INSTALL",
+        "response": [
+          "chr_0008_kholec_factory_unit_deploy_01",
+          "chr_0008_kholec_factory_unit_deploy_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "factory_unit_lowpwr": {
+        "triggerType": "VO_FAC_LOWPWR",
+        "response": [
+          "chr_0008_kholec_factory_unit_lowpwr_01",
+          "chr_0008_kholec_factory_unit_lowpwr_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "factory_unit_shutdn": {
+        "triggerType": "VO_FAC_SHUTDOWN",
+        "response": [
+          "chr_0008_kholec_factory_unit_shutdn_01",
+          "chr_0008_kholec_factory_unit_shutdn_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "hp_gain": {
+        "triggerType": "VO_CHAR_HEAL",
+        "response": [
+          "chr_0008_kholec_hp_gain_01",
+          "chr_0008_kholec_hp_gain_02",
+          "chr_0008_kholec_hp_gain_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "interact_pickupItem": {
+        "triggerType": "VO_INT_PICK",
+        "response": [
+          "chr_0008_kholec_interact_pickupitem_01",
+          "chr_0008_kholec_interact_pickupitem_02",
+          "chr_0008_kholec_interact_pickupitem_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "interact_pickupItem_brnew": {
+        "triggerType": "VO_INT_PICK",
+        "response": [
+          "chr_0008_kholec_interact_pickupitem_brnew_01",
+          "chr_0008_kholec_interact_pickupitem_brnew_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "interact_pickupItem_valub": {
+        "triggerType": "VO_INT_PICK",
+        "response": [
+          "chr_0008_kholec_interact_pickupitem_valub_01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "interact_rest": {
+        "triggerType": "VO_INT_REST",
+        "response": [
+          "chr_0008_kholec_interact_rest_01",
+          "chr_0008_kholec_interact_rest_02",
+          "chr_0008_kholec_interact_rest_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "interact_treasure": {
+        "triggerType": "VO_INT_TREASURE",
+        "response": [
+          "chr_0008_kholec_interact_treasure_01",
+          "chr_0008_kholec_interact_treasure_02",
+          "chr_0008_kholec_interact_treasure_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      }
+    }
+  },
+  "chr_0009_azrila": {
+    "triggers": {
+      "action_dash": {
+        "triggerType": "VO_ACTION_DASH",
+        "response": [
+          "chr_0009_azrila_action_dash_start_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "action_jump_nor": {
+        "triggerType": "VO_ACTION_JUMP",
+        "response": [
+          "chr_0009_azrila_action_jump_nor_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "action_jump_running": {
+        "triggerType": "VO_ACTION_JUMP",
+        "response": [
+          "chr_0009_azrila_action_jump_running_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "action_land_nor": {
+        "triggerType": "VO_ACTION_LAND",
+        "response": [
+          "chr_0009_azrila_action_land_nor_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "action_throw": {
+        "triggerType": "VO_ACTION_THROW",
+        "response": [
+          "chr_0009_azrila_action_throw"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrbark_Introduce": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0009_azrila_introduce_01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrbark_join": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0009_azrila_chrbark_join_01",
+          "chr_0009_azrila_chrbark_join_02",
+          "chr_0009_azrila_chrbark_join_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrbark_loginslogan": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrbark_squad": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0009_azrila_chrbark_squad_01",
+          "chr_0009_azrila_chrbark_squad_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrbark_switch": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0009_azrila_chrbark_switch_01",
+          "chr_0009_azrila_chrbark_switch_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrup_gear": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0009_azrila_chrup_gear_01",
+          "chr_0009_azrila_chrup_gear_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrup_level": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0009_azrila_chrup_level_01",
+          "chr_0009_azrila_chrup_level_02",
+          "chr_0009_azrila_chrup_level_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrup_promt_lower": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0009_azrila_chrup_promt_lower"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrup_promt_lv01": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0009_azrila_chrup_promt_lv01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrup_promt_lv04": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0009_azrila_chrup_promt_lv04"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrup_skill": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0009_azrila_chrup_skill_01",
+          "chr_0009_azrila_chrup_skill_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_attack01": {
+        "triggerType": "VO_COMBAT_ATK",
+        "response": [
+          "chr_0009_azrila_combat_attack01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_attack02": {
+        "triggerType": "VO_COMBAT_ATK",
+        "response": [
+          "chr_0009_azrila_combat_attack02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_attack03": {
+        "triggerType": "VO_COMBAT_ATK",
+        "response": [
+          "chr_0009_azrila_combat_attack03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_attack_extra": {
+        "triggerType": "VO_COMBAT_ATK_EXTRA",
+        "response": [
+          "chr_0009_azrila_combat_extra_attack"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_dead": {
+        "triggerType": "VO_COMBAT_DEAD",
+        "response": [
+          "chr_0009_azrila_combat_dead_01",
+          "chr_0009_azrila_combat_dead_02",
+          "chr_0009_azrila_combat_dead_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_hurt": {
+        "triggerType": "VO_COMBAT_HURT",
+        "response": [
+          "chr_0009_azrila_combat_hurt_01",
+          "chr_0009_azrila_combat_hurt_02",
+          "chr_0009_azrila_combat_hurt_03",
+          "chr_0009_azrila_combat_hurt_sv_nor"
+        ],
+        "weight": [
+          25,
+          25,
+          25,
+          100
+        ],
+        "delay": 0.0
+      },
+      "combat_hurt_heavy": {
+        "triggerType": "VO_COMBAT_HURT",
+        "response": [
+          "chr_0009_azrila_combat_hurt_sv_heavy"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_hurt_lowhp": {
+        "triggerType": "VO_COMBAT_HURT_LOWHP",
+        "response": [
+          "chr_0009_azrila_combat_hurt_lowhp_01",
+          "chr_0009_azrila_combat_hurt_lowhp_02",
+          "chr_0009_azrila_combat_hurt_lowhp_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_hurt_stun": {
+        "triggerType": "VO_COMBAT_HURT_STUN",
+        "response": [
+          "chr_0009_azrila_combat_hurt_sv_stun"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_intobattle": {
+        "triggerType": "VO_COMBAT_START",
+        "response": [
+          "chr_0009_azrila_combat_intobattle_01",
+          "chr_0009_azrila_combat_intobattle_02",
+          "chr_0009_azrila_combat_intobattle_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_intobattle_enyag": {
+        "triggerType": "VO_COMBAT_START",
+        "response": [
+          "chr_0009_azrila_combat_intobattle_enyag_01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_intobattle_enylb": {
+        "triggerType": "VO_COMBAT_START",
+        "response": [
+          "chr_0009_azrila_combat_intobattle_enylb_01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_kill": {
+        "triggerType": "VO_COMBAT_KILL",
+        "response": [
+          "chr_0009_azrila_combat_kill_01",
+          "chr_0009_azrila_combat_kill_02",
+          "chr_0009_azrila_combat_kill_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_kill_enyag": {
+        "triggerType": "VO_COMBAT_KILL",
+        "response": [
+          "chr_0009_azrila_combat_kill_enyag_01",
+          "chr_0009_azrila_combat_kill_enyag_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_kill_enylb": {
+        "triggerType": "VO_COMBAT_KILL",
+        "response": [
+          "chr_0009_azrila_combat_kill_enylb_01",
+          "chr_0009_azrila_combat_kill_enylb_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_outbattle": {
+        "triggerType": "VO_COMBAT_END",
+        "response": [
+          "chr_0009_azrila_combat_outbattle_01",
+          "chr_0009_azrila_combat_outbattle_02",
+          "chr_0009_azrila_combat_outbattle_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_skill_hold": {
+        "triggerType": "VO_COMBAT_HOLD",
+        "response": [
+          "chr_0009_azrila_combat_skill_hold_01",
+          "chr_0009_azrila_combat_skill_hold_02",
+          "chr_0009_azrila_combat_skill_hold_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_skill_nor": {
+        "triggerType": "VO_COMBAT_SKILL_NORM",
+        "response": [
+          "chr_0009_azrila_combat_skill_nor_01",
+          "chr_0009_azrila_combat_skill_nor_02",
+          "chr_0009_azrila_combat_skill_nor_sv"
+        ],
+        "weight": [
+          25,
+          25,
+          100
+        ],
+        "delay": 0.0
+      },
+      "combat_skill_ultimate": {
+        "triggerType": "VO_COMBAT_SKILL_ULT",
+        "response": [
+          "chr_0009_azrila_combat_skill_ultimate_01",
+          "chr_0009_azrila_combat_skill_ultimate_02",
+          "chr_0009_azrila_combat_skill_ultimate_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_finddanger": {
+        "triggerType": "VO_EXP_INDANGER",
+        "response": [
+          "chr_0009_azrila_explore_finddanger_01",
+          "chr_0009_azrila_explore_finddanger_02",
+          "chr_0009_azrila_explore_finddanger_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_finddanger_enyag": {
+        "triggerType": "VO_EXP_INDANGER",
+        "response": [
+          "chr_0009_azrila_explore_finddanger_enyag_01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_finddanger_enylb": {
+        "triggerType": "VO_EXP_INDANGER",
+        "response": [
+          "chr_0009_azrila_explore_finddanger_enylb_01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_findtreasure": {
+        "triggerType": "VO_EXP_FINDTREASURE",
+        "response": [
+          "chr_0009_azrila_explore_findtreasure_01",
+          "chr_0009_azrila_explore_findtreasure_02",
+          "chr_0009_azrila_explore_findtreasure_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_idle": {
+        "triggerType": "VO_EXP_IDLE",
+        "response": [
+          "chr_0009_azrila_explore_idle_01",
+          "chr_0009_azrila_explore_idle_02",
+          "chr_0009_azrila_explore_idle_03",
+          "chr_0009_azrila_explore_idle_04"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_loc_hq": {
+        "triggerType": "VO_EXP_LOC",
+        "response": [
+          "chr_0009_azrila_explore_loc_hq_01",
+          "chr_0009_azrila_explore_loc_hq_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_loc_openair": {
+        "triggerType": "VO_EXP_LOC",
+        "response": [
+          "chr_0009_azrila_explore_loc_openair_01",
+          "chr_0009_azrila_explore_loc_openair_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_loc_orgi": {
+        "triggerType": "VO_EXP_LOC",
+        "response": [
+          "chr_0009_azrila_explore_loc_orgi_01",
+          "chr_0009_azrila_explore_loc_orgi_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "factory_assign": {
+        "triggerType": "VO_FAC_ASSIGN",
+        "response": [
+          "chr_0009_azrila_factory_assign_01",
+          "chr_0009_azrila_factory_assign_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "factory_produc_colloct": {
+        "triggerType": "VO_FAC_COLLECT",
+        "response": [
+          "chr_0009_azrila_factory_produc_colloct_01",
+          "chr_0009_azrila_factory_produc_colloct_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "factory_unit_deploy": {
+        "triggerType": "VO_FAC_INSTALL",
+        "response": [
+          "chr_0009_azrila_factory_unit_deploy_01",
+          "chr_0009_azrila_factory_unit_deploy_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "factory_unit_lowpwr": {
+        "triggerType": "VO_FAC_LOWPWR",
+        "response": [
+          "chr_0009_azrila_factory_unit_lowpwr_01",
+          "chr_0009_azrila_factory_unit_lowpwr_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "factory_unit_shutdn": {
+        "triggerType": "VO_FAC_SHUTDOWN",
+        "response": [
+          "chr_0009_azrila_factory_unit_shutdn_01",
+          "chr_0009_azrila_factory_unit_shutdn_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "hp_gain": {
+        "triggerType": "VO_CHAR_HEAL",
+        "response": [
+          "chr_0009_azrila_hp_gain_01",
+          "chr_0009_azrila_hp_gain_02",
+          "chr_0009_azrila_hp_gain_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "interact_pickupItem": {
+        "triggerType": "VO_INT_PICK",
+        "response": [
+          "chr_0009_azrila_interact_pickupitem_01",
+          "chr_0009_azrila_interact_pickupitem_02",
+          "chr_0009_azrila_interact_pickupitem_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "interact_pickupItem_brnew": {
+        "triggerType": "VO_INT_PICK",
+        "response": [
+          "chr_0009_azrila_interact_pickupitem_brnew_01",
+          "chr_0009_azrila_interact_pickupitem_brnew_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "interact_pickupItem_valub": {
+        "triggerType": "VO_INT_PICK",
+        "response": [
+          "chr_0009_azrila_interact_pickupitem_valub_01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "interact_rest": {
+        "triggerType": "VO_INT_REST",
+        "response": [
+          "chr_0009_azrila_interact_rest_01",
+          "chr_0009_azrila_interact_rest_02",
+          "chr_0009_azrila_interact_rest_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "interact_treasure": {
+        "triggerType": "VO_INT_TREASURE",
+        "response": [
+          "chr_0009_azrila_interact_treasure_01",
+          "chr_0009_azrila_interact_treasure_02",
+          "chr_0009_azrila_interact_treasure_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      }
+    }
+  },
+  "chr_0011_seraph": {
+    "triggers": {
+      "None": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0011_seraph_mainpage"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "action_dash": {
+        "triggerType": "VO_ACTION_DASH",
+        "response": [
+          "chr_0011_seraph_action_dash_start_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "action_jump_nor": {
+        "triggerType": "VO_ACTION_JUMP",
+        "response": [
+          "chr_0011_seraph_action_jump_nor_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "action_jump_running": {
+        "triggerType": "VO_ACTION_JUMP",
+        "response": [
+          "chr_0011_seraph_action_jump_running_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "action_land_nor": {
+        "triggerType": "VO_ACTION_LAND",
+        "response": [
+          "chr_0011_seraph_action_land_nor_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "action_throw": {
+        "triggerType": "VO_ACTION_THROW",
+        "response": [
+          "chr_0011_seraph_action_throw"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrbark_Introduce": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0011_seraph_introduce_01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrbark_join": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0011_seraph_chrbark_join_01",
+          "chr_0011_seraph_chrbark_join_02",
+          "chr_0011_seraph_chrbark_join_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrbark_loginslogan": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrbark_squad": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0011_seraph_chrbark_squad_01",
+          "chr_0011_seraph_chrbark_squad_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrbark_switch": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0011_seraph_chrbark_switch_01",
+          "chr_0011_seraph_chrbark_switch_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrup_gear": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0011_seraph_chrup_gear_01",
+          "chr_0011_seraph_chrup_gear_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrup_level": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0011_seraph_chrup_level_01",
+          "chr_0011_seraph_chrup_level_02",
+          "chr_0011_seraph_chrup_level_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrup_promt_lower": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0011_seraph_chrup_promt_lower"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrup_promt_lv01": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0011_seraph_chrup_promt_lv01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrup_promt_lv04": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0011_seraph_chrup_promt_lv04"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrup_skill": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0011_seraph_chrup_skill_01",
+          "chr_0011_seraph_chrup_skill_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_attack01": {
+        "triggerType": "VO_COMBAT_ATK_RANG",
+        "response": [
+          "chr_0011_seraph_combat_attackrg01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_attack02": {
+        "triggerType": "VO_COMBAT_ATK_RANG",
+        "response": [
+          "chr_0011_seraph_combat_attackrg02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_attack03": {
+        "triggerType": "VO_COMBAT_ATK_RANG",
+        "response": [
+          "chr_0011_seraph_combat_attackrg03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_attack_extra": {
+        "triggerType": "VO_COMBAT_ATK_EXTRA",
+        "response": [
+          "chr_0011_seraph_combat_extra_attack"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_attackrg01": {
+        "triggerType": "VO_COMBAT_ATK_RANG",
+        "response": [
+          "chr_0011_seraph_combat_attackrg01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_attackrg02": {
+        "triggerType": "VO_COMBAT_ATK_RANG",
+        "response": [
+          "chr_0011_seraph_combat_attackrg02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_attackrg03": {
+        "triggerType": "VO_COMBAT_ATK_RANG",
+        "response": [
+          "chr_0011_seraph_combat_attackrg03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_dead": {
+        "triggerType": "VO_COMBAT_DEAD",
+        "response": [
+          "chr_0011_seraph_combat_dead_01",
+          "chr_0011_seraph_combat_dead_02",
+          "chr_0011_seraph_combat_dead_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_hurt": {
+        "triggerType": "VO_COMBAT_HURT",
+        "response": [
+          "chr_0011_seraph_combat_hurt_01",
+          "chr_0011_seraph_combat_hurt_02",
+          "chr_0011_seraph_combat_hurt_03",
+          "chr_0011_seraph_combat_hurt_sv_nor"
+        ],
+        "weight": [
+          25,
+          25,
+          25,
+          100
+        ],
+        "delay": 0.0
+      },
+      "combat_hurt_heavy": {
+        "triggerType": "VO_COMBAT_HURT",
+        "response": [
+          "chr_0011_seraph_combat_hurt_sv_heavy"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_hurt_lowhp": {
+        "triggerType": "VO_COMBAT_HURT_LOWHP",
+        "response": [
+          "chr_0011_seraph_combat_hurt_lowhp_01",
+          "chr_0011_seraph_combat_hurt_lowhp_02",
+          "chr_0011_seraph_combat_hurt_lowhp_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_hurt_stun": {
+        "triggerType": "VO_COMBAT_HURT_STUN",
+        "response": [
+          "chr_0011_seraph_combat_hurt_sv_stun"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_intobattle": {
+        "triggerType": "VO_COMBAT_START",
+        "response": [
+          "chr_0011_seraph_combat_intobattle_01",
+          "chr_0011_seraph_combat_intobattle_02",
+          "chr_0011_seraph_combat_intobattle_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_intobattle_enyag": {
+        "triggerType": "VO_COMBAT_START",
+        "response": [
+          "chr_0011_seraph_combat_intobattle_enyag_01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_intobattle_enylb": {
+        "triggerType": "VO_COMBAT_START",
+        "response": [
+          "chr_0011_seraph_combat_intobattle_enylb_01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_kill": {
+        "triggerType": "VO_COMBAT_KILL",
+        "response": [
+          "chr_0011_seraph_combat_kill_01",
+          "chr_0011_seraph_combat_kill_02",
+          "chr_0011_seraph_combat_kill_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_kill_enyag": {
+        "triggerType": "VO_COMBAT_KILL",
+        "response": [
+          "chr_0011_seraph_combat_kill_enyag_01",
+          "chr_0011_seraph_combat_kill_enyag_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_kill_enylb": {
+        "triggerType": "VO_COMBAT_KILL",
+        "response": [
+          "chr_0011_seraph_combat_kill_enylb_01",
+          "chr_0011_seraph_combat_kill_enylb_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_outbattle": {
+        "triggerType": "VO_COMBAT_END",
+        "response": [
+          "chr_0011_seraph_combat_outbattle_01",
+          "chr_0011_seraph_combat_outbattle_02",
+          "chr_0011_seraph_combat_outbattle_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_skill_hold": {
+        "triggerType": "VO_COMBAT_HOLD",
+        "response": [
+          "chr_0011_seraph_combat_skill_hold_01",
+          "chr_0011_seraph_combat_skill_hold_02",
+          "chr_0011_seraph_combat_skill_hold_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_skill_nor": {
+        "triggerType": "VO_COMBAT_SKILL_NORM",
+        "response": [
+          "chr_0011_seraph_combat_skill_nor_01",
+          "chr_0011_seraph_combat_skill_nor_02",
+          "chr_0011_seraph_combat_skill_nor_03",
+          "chr_0011_seraph_combat_skill_nor_sv"
+        ],
+        "weight": [
+          50,
+          50,
+          50,
+          100
+        ],
+        "delay": 0.0
+      },
+      "combat_skill_ultimate": {
+        "triggerType": "VO_COMBAT_SKILL_ULT",
+        "response": [
+          "chr_0011_seraph_combat_skill_ultimate_01",
+          "chr_0011_seraph_combat_skill_ultimate_02",
+          "chr_0011_seraph_combat_skill_ultimate_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_finddanger": {
+        "triggerType": "VO_EXP_INDANGER",
+        "response": [
+          "chr_0011_seraph_explore_finddanger_01",
+          "chr_0011_seraph_explore_finddanger_02",
+          "chr_0011_seraph_explore_finddanger_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_finddanger_enyag": {
+        "triggerType": "VO_EXP_INDANGER",
+        "response": [
+          "chr_0011_seraph_explore_finddanger_enyag_01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_finddanger_enylb": {
+        "triggerType": "VO_EXP_INDANGER",
+        "response": [
+          "chr_0011_seraph_explore_finddanger_enylb_01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_findtreasure": {
+        "triggerType": "VO_EXP_FINDTREASURE",
+        "response": [
+          "chr_0011_seraph_explore_findtreasure_01",
+          "chr_0011_seraph_explore_findtreasure_02",
+          "chr_0011_seraph_explore_findtreasure_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_idle": {
+        "triggerType": "VO_EXP_IDLE",
+        "response": [
+          "chr_0011_seraph_explore_idle_01",
+          "chr_0011_seraph_explore_idle_02",
+          "chr_0011_seraph_explore_idle_03",
+          "chr_0011_seraph_explore_idle_04"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_loc_hq": {
+        "triggerType": "VO_EXP_LOC",
+        "response": [
+          "chr_0011_seraph_explore_loc_hq_01",
+          "chr_0011_seraph_explore_loc_hq_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_loc_openair": {
+        "triggerType": "VO_EXP_LOC",
+        "response": [
+          "chr_0011_seraph_explore_loc_openair_01",
+          "chr_0011_seraph_explore_loc_openair_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_loc_orgi": {
+        "triggerType": "VO_EXP_LOC",
+        "response": [
+          "chr_0011_seraph_explore_loc_orgi_01",
+          "chr_0011_seraph_explore_loc_orgi_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "factory_assign": {
+        "triggerType": "VO_FAC_ASSIGN",
+        "response": [
+          "chr_0011_seraph_factory_assign_01",
+          "chr_0011_seraph_factory_assign_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "factory_produc_colloct": {
+        "triggerType": "VO_FAC_COLLECT",
+        "response": [
+          "chr_0011_seraph_factory_produc_colloct_01",
+          "chr_0011_seraph_factory_produc_colloct_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "factory_unit_deploy": {
+        "triggerType": "VO_FAC_INSTALL",
+        "response": [
+          "chr_0011_seraph_factory_unit_deploy_01",
+          "chr_0011_seraph_factory_unit_deploy_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "factory_unit_lowpwr": {
+        "triggerType": "VO_FAC_LOWPWR",
+        "response": [
+          "chr_0011_seraph_factory_unit_lowpwr_01",
+          "chr_0011_seraph_factory_unit_lowpwr_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "factory_unit_shutdn": {
+        "triggerType": "VO_FAC_SHUTDOWN",
+        "response": [
+          "chr_0011_seraph_factory_unit_shutdn_01",
+          "chr_0011_seraph_factory_unit_shutdn_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "hp_gain": {
+        "triggerType": "VO_CHAR_HEAL",
+        "response": [
+          "chr_0011_seraph_hp_gain_01",
+          "chr_0011_seraph_hp_gain_02",
+          "chr_0011_seraph_hp_gain_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "interact_pickupItem": {
+        "triggerType": "VO_INT_PICK",
+        "response": [
+          "chr_0011_seraph_interact_pickupitem_01",
+          "chr_0011_seraph_interact_pickupitem_02",
+          "chr_0011_seraph_interact_pickupitem_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "interact_pickupItem_brnew": {
+        "triggerType": "VO_INT_PICK",
+        "response": [
+          "chr_0011_seraph_interact_pickupitem_brnew_01",
+          "chr_0011_seraph_interact_pickupitem_brnew_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "interact_pickupItem_valub": {
+        "triggerType": "VO_INT_PICK",
+        "response": [
+          "chr_0011_seraph_interact_pickupitem_valub_01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "interact_rest": {
+        "triggerType": "VO_INT_REST",
+        "response": [
+          "chr_0011_seraph_interact_rest_01",
+          "chr_0011_seraph_interact_rest_02",
+          "chr_0011_seraph_interact_rest_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "interact_treasure": {
+        "triggerType": "VO_INT_TREASURE",
+        "response": [
+          "chr_0011_seraph_interact_treasure_01",
+          "chr_0011_seraph_interact_treasure_02",
+          "chr_0011_seraph_interact_treasure_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      }
+    }
+  },
+  "chr_0012_avywen": {
+    "triggers": {
+      "action_dash": {
+        "triggerType": "VO_ACTION_DASH",
+        "response": [
+          "chr_0012_avywen_action_dash_start_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "action_jump_nor": {
+        "triggerType": "VO_ACTION_JUMP",
+        "response": [
+          "chr_0012_avywen_action_jump_nor_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "action_jump_running": {
+        "triggerType": "VO_ACTION_JUMP",
+        "response": [
+          "chr_0012_avywen_action_jump_running_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "action_land_nor": {
+        "triggerType": "VO_ACTION_LAND",
+        "response": [
+          "chr_0012_avywen_action_land_nor_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "action_throw": {
+        "triggerType": "VO_ACTION_THROW",
+        "response": [
+          "chr_0012_avywen_action_throw"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrbark_Introduce": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0012_avywen_introduce_01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrbark_join": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0012_avywen_chrbark_join_01",
+          "chr_0012_avywen_chrbark_join_02",
+          "chr_0012_avywen_chrbark_join_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrbark_loginslogan": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrbark_squad": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0012_avywen_chrbark_squad_01",
+          "chr_0012_avywen_chrbark_squad_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrbark_switch": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0012_avywen_chrbark_switch_01",
+          "chr_0012_avywen_chrbark_switch_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrup_gear": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0012_avywen_chrup_gear_01",
+          "chr_0012_avywen_chrup_gear_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrup_level": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0012_avywen_chrup_level_01",
+          "chr_0012_avywen_chrup_level_02",
+          "chr_0012_avywen_chrup_level_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrup_promt_lower": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0012_avywen_chrup_promt_lower"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrup_promt_lv01": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0012_avywen_chrup_promt_lv01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrup_promt_lv04": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0012_avywen_chrup_promt_lv04"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrup_skill": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0012_avywen_chrup_skill_01",
+          "chr_0012_avywen_chrup_skill_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_attack01": {
+        "triggerType": "VO_COMBAT_ATK",
+        "response": [
+          "chr_0012_avywen_combat_attack01_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_attack02": {
+        "triggerType": "VO_COMBAT_ATK",
+        "response": [
+          "chr_0012_avywen_combat_attack02_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_attack03": {
+        "triggerType": "VO_COMBAT_ATK",
+        "response": [
+          "chr_0012_avywen_combat_attack03_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_attack04": {
+        "triggerType": "VO_COMBAT_ATK",
+        "response": [
+          "chr_0012_avywen_combat_attack04_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_attack_extra": {
+        "triggerType": "VO_COMBAT_ATK_EXTRA",
+        "response": [
+          "chr_0012_avywen_combat_extra_attack_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_dead": {
+        "triggerType": "VO_COMBAT_DEAD",
+        "response": [
+          "chr_0012_avywen_combat_dead_01",
+          "chr_0012_avywen_combat_dead_02",
+          "chr_0012_avywen_combat_dead_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_hurt": {
+        "triggerType": "VO_COMBAT_HURT",
+        "response": [
+          "chr_0012_avywen_combat_hurt_01",
+          "chr_0012_avywen_combat_hurt_03",
+          "chr_0012_avywen_combat_hurt_02",
+          "chr_0012_avywen_combat_hurt_sv_nor"
+        ],
+        "weight": [
+          25,
+          25,
+          25,
+          100
+        ],
+        "delay": 0.0
+      },
+      "combat_hurt_heavy": {
+        "triggerType": "VO_COMBAT_HURT",
+        "response": [
+          "chr_0012_avywen_combat_hurt_sv_heavy"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_hurt_lowhp": {
+        "triggerType": "VO_COMBAT_HURT_LOWHP",
+        "response": [
+          "chr_0012_avywen_combat_hurt_lowhp_01",
+          "chr_0012_avywen_combat_hurt_lowhp_02",
+          "chr_0012_avywen_combat_hurt_lowhp_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_hurt_stun": {
+        "triggerType": "VO_COMBAT_HURT_STUN",
+        "response": [
+          "chr_0012_avywen_combat_hurt_sv_stun"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_intobattle": {
+        "triggerType": "VO_COMBAT_START",
+        "response": [
+          "chr_0012_avywen_combat_intobattle_03",
+          "chr_0012_avywen_combat_intobattle_01",
+          "chr_0012_avywen_combat_intobattle_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_intobattle_enyag": {
+        "triggerType": "VO_COMBAT_START",
+        "response": [
+          "chr_0012_avywen_combat_intobattle_enyag_01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_intobattle_enylb": {
+        "triggerType": "VO_COMBAT_START",
+        "response": [
+          "chr_0012_avywen_combat_intobattle_enylb_01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_kill": {
+        "triggerType": "VO_COMBAT_KILL",
+        "response": [
+          "chr_0012_avywen_combat_kill_01",
+          "chr_0012_avywen_combat_kill_02",
+          "chr_0012_avywen_combat_kill_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_kill_enyag": {
+        "triggerType": "VO_COMBAT_KILL",
+        "response": [
+          "chr_0012_avywen_combat_kill_enyag_01",
+          "chr_0012_avywen_combat_kill_enyag_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_kill_enylb": {
+        "triggerType": "VO_COMBAT_KILL",
+        "response": [
+          "chr_0012_avywen_combat_kill_enylb_01",
+          "chr_0012_avywen_combat_kill_enylb_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_outbattle": {
+        "triggerType": "VO_COMBAT_END",
+        "response": [
+          "chr_0012_avywen_combat_outbattle_01",
+          "chr_0012_avywen_combat_outbattle_02",
+          "chr_0012_avywen_combat_outbattle_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_skill_hold": {
+        "triggerType": "VO_COMBAT_HOLD",
+        "response": [
+          "chr_0012_avywen_combat_skill_hold_03",
+          "chr_0012_avywen_combat_skill_hold_01",
+          "chr_0012_avywen_combat_skill_hold_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_skill_nor": {
+        "triggerType": "VO_COMBAT_SKILL_NORM",
+        "response": [
+          "chr_0012_avywen_combat_skill_nor_01",
+          "chr_0012_avywen_combat_skill_nor_02",
+          "chr_0012_avywen_combat_skill_nor_03",
+          "chr_0012_avywen_combat_skill_nor_sv"
+        ],
+        "weight": [
+          50,
+          50,
+          50,
+          100
+        ],
+        "delay": 0.0
+      },
+      "combat_skill_ultimate": {
+        "triggerType": "VO_COMBAT_SKILL_ULT",
+        "response": [
+          "chr_0012_avywen_combat_skill_ultimate_01",
+          "chr_0012_avywen_combat_skill_ultimate_02",
+          "chr_0012_avywen_combat_skill_ultimate_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_finddanger": {
+        "triggerType": "VO_EXP_INDANGER",
+        "response": [
+          "chr_0012_avywen_explore_finddanger_01",
+          "chr_0012_avywen_explore_finddanger_02",
+          "chr_0012_avywen_explore_finddanger_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_finddanger_enyag": {
+        "triggerType": "VO_EXP_INDANGER",
+        "response": [
+          "chr_0012_avywen_explore_finddanger_enyag_01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_finddanger_enylb": {
+        "triggerType": "VO_EXP_INDANGER",
+        "response": [
+          "chr_0012_avywen_explore_finddanger_enylb_01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_findtreasure": {
+        "triggerType": "VO_EXP_FINDTREASURE",
+        "response": [
+          "chr_0012_avywen_explore_findtreasure_01",
+          "chr_0012_avywen_explore_findtreasure_02",
+          "chr_0012_avywen_explore_findtreasure_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_idle": {
+        "triggerType": "VO_EXP_IDLE",
+        "response": [
+          "chr_0012_avywen_explore_idle_01",
+          "chr_0012_avywen_explore_idle_02",
+          "chr_0012_avywen_explore_idle_03",
+          "chr_0012_avywen_explore_idle_04"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_loc_hq": {
+        "triggerType": "VO_EXP_LOC",
+        "response": [
+          "chr_0012_avywen_explore_loc_hq_01",
+          "chr_0012_avywen_explore_loc_hq_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_loc_openair": {
+        "triggerType": "VO_EXP_LOC",
+        "response": [
+          "chr_0012_avywen_explore_loc_openair_01",
+          "chr_0012_avywen_explore_loc_openair_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_loc_orgi": {
+        "triggerType": "VO_EXP_LOC",
+        "response": [
+          "chr_0012_avywen_explore_loc_orgi_01",
+          "chr_0012_avywen_explore_loc_orgi_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "factory_assign": {
+        "triggerType": "VO_FAC_ASSIGN",
+        "response": [
+          "chr_0012_avywen_factory_assign_01",
+          "chr_0012_avywen_factory_assign_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "factory_produc_colloct": {
+        "triggerType": "VO_FAC_COLLECT",
+        "response": [
+          "chr_0012_avywen_factory_produc_colloct_01",
+          "chr_0012_avywen_factory_produc_colloct_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "factory_unit_deploy": {
+        "triggerType": "VO_FAC_INSTALL",
+        "response": [
+          "chr_0012_avywen_factory_unit_deploy_01",
+          "chr_0012_avywen_factory_unit_deploy_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "factory_unit_lowpwr": {
+        "triggerType": "VO_FAC_LOWPWR",
+        "response": [
+          "chr_0012_avywen_factory_unit_lowpwr_01",
+          "chr_0012_avywen_factory_unit_lowpwr_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "factory_unit_shutdn": {
+        "triggerType": "VO_FAC_SHUTDOWN",
+        "response": [
+          "chr_0012_avywen_factory_unit_shutdn_01",
+          "chr_0012_avywen_factory_unit_shutdn_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "hp_gain": {
+        "triggerType": "VO_CHAR_HEAL",
+        "response": [
+          "chr_0012_avywen_hp_gain_01",
+          "chr_0012_avywen_hp_gain_02",
+          "chr_0012_avywen_hp_gain_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "interact_pickupItem": {
+        "triggerType": "VO_INT_PICK",
+        "response": [
+          "chr_0012_avywen_interact_pickupitem_01",
+          "chr_0012_avywen_interact_pickupitem_02",
+          "chr_0012_avywen_interact_pickupitem_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "interact_pickupItem_brnew": {
+        "triggerType": "VO_INT_PICK",
+        "response": [
+          "chr_0012_avywen_interact_pickupitem_brnew_01",
+          "chr_0012_avywen_interact_pickupitem_brnew_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "interact_pickupItem_valub": {
+        "triggerType": "VO_INT_PICK",
+        "response": [
+          "chr_0012_avywen_interact_pickupitem_valub_01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "interact_rest": {
+        "triggerType": "VO_INT_REST",
+        "response": [
+          "chr_0012_avywen_interact_rest_01",
+          "chr_0012_avywen_interact_rest_02",
+          "chr_0012_avywen_interact_rest_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "interact_treasure": {
+        "triggerType": "VO_INT_TREASURE",
+        "response": [
+          "chr_0012_avywen_interact_treasure_01",
+          "chr_0012_avywen_interact_treasure_02",
+          "chr_0012_avywen_interact_treasure_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      }
+    }
+  },
+  "chr_0013_aglina": {
+    "triggers": {
+      "action_dash": {
+        "triggerType": "VO_ACTION_DASH",
+        "response": [
+          "chr_0013_aglina_action_dash_start_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "action_jump_nor": {
+        "triggerType": "VO_ACTION_JUMP",
+        "response": [
+          "chr_0013_aglina_action_jump_nor_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "action_jump_running": {
+        "triggerType": "VO_ACTION_JUMP",
+        "response": [
+          "chr_0013_aglina_action_jump_running_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "action_land_nor": {
+        "triggerType": "VO_ACTION_LAND",
+        "response": [
+          "chr_0013_aglina_action_land_nor_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "action_throw": {
+        "triggerType": "VO_ACTION_THROW",
+        "response": [
+          "chr_0013_aglina_action_throw"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrbark_Introduce": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0013_aglina_introduce_01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrbark_join": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0013_aglina_chrbark_join_01",
+          "chr_0013_aglina_chrbark_join_02",
+          "chr_0013_aglina_chrbark_join_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrbark_loginslogan": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrbark_squad": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0013_aglina_chrbark_squad_01",
+          "chr_0013_aglina_chrbark_squad_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrbark_switch": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0013_aglina_chrbark_switch_01",
+          "chr_0013_aglina_chrbark_switch_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrup_gear": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0013_aglina_chrup_gear_01",
+          "chr_0013_aglina_chrup_gear_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrup_level": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0013_aglina_chrup_level_01",
+          "chr_0013_aglina_chrup_level_02",
+          "chr_0013_aglina_chrup_level_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrup_promt_lower": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0013_aglina_chrup_promt_lower"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrup_promt_lv01": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0013_aglina_chrup_promt_lv01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrup_promt_lv04": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0013_aglina_chrup_promt_lv04"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "chrup_skill": {
+        "triggerType": "VO_SYSTEM_ANNOUNCE",
+        "response": [
+          "chr_0013_aglina_chrup_skill_01",
+          "chr_0013_aglina_chrup_skill_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_attack01": {
+        "triggerType": "VO_COMBAT_ATK_RANG",
+        "response": [
+          "chr_0013_aglina_combat_attackrg01_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_attack02": {
+        "triggerType": "VO_COMBAT_ATK_RANG",
+        "response": [
+          "chr_0013_aglina_combat_attackrg02_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_attack03": {
+        "triggerType": "VO_COMBAT_ATK_RANG",
+        "response": [
+          "chr_0013_aglina_combat_attackrg03_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_attack04": {
+        "triggerType": "VO_COMBAT_ATK_RANG",
+        "response": [
+          "chr_0013_aglina_combat_attackrg04_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_attack_extra": {
+        "triggerType": "VO_COMBAT_ATK_EXTRA",
+        "response": [
+          "chr_0013_aglina_combat_extra_attack_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_dead": {
+        "triggerType": "VO_COMBAT_DEAD",
+        "response": [
+          "chr_0013_aglina_combat_dead_01",
+          "chr_0013_aglina_combat_dead_02",
+          "chr_0013_aglina_combat_dead_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_hurt": {
+        "triggerType": "VO_COMBAT_HURT",
+        "response": [
+          "chr_0013_aglina_combat_hurt_01",
+          "chr_0013_aglina_combat_hurt_02",
+          "chr_0013_aglina_combat_hurt_03",
+          "chr_0013_aglina_combat_hurt_sv_nor"
+        ],
+        "weight": [
+          25,
+          25,
+          25,
+          100
+        ],
+        "delay": 0.0
+      },
+      "combat_hurt_heavy": {
+        "triggerType": "VO_COMBAT_HURT",
+        "response": [
+          "chr_0013_aglina_combat_hurt_sv_heavy"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_hurt_lowhp": {
+        "triggerType": "VO_COMBAT_HURT_LOWHP",
+        "response": [
+          "chr_0013_aglina_combat_hurt_lowhp_01",
+          "chr_0013_aglina_combat_hurt_lowhp_02",
+          "chr_0013_aglina_combat_hurt_lowhp_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_hurt_stun": {
+        "triggerType": "VO_COMBAT_HURT_STUN",
+        "response": [
+          "chr_0013_aglina_combat_hurt_sv_stun"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_intobattle": {
+        "triggerType": "VO_COMBAT_START",
+        "response": [
+          "chr_0013_aglina_combat_intobattle_01",
+          "chr_0013_aglina_combat_intobattle_02",
+          "chr_0013_aglina_combat_intobattle_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_intobattle_enyag": {
+        "triggerType": "VO_COMBAT_START",
+        "response": [
+          "chr_0013_aglina_combat_intobattle_enyag_01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_intobattle_enylb": {
+        "triggerType": "VO_COMBAT_START",
+        "response": [
+          "chr_0013_aglina_combat_intobattle_enylb_01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_kill": {
+        "triggerType": "VO_COMBAT_KILL",
+        "response": [
+          "chr_0013_aglina_combat_kill_01",
+          "chr_0013_aglina_combat_kill_02",
+          "chr_0013_aglina_combat_kill_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_kill_enyag": {
+        "triggerType": "VO_COMBAT_KILL",
+        "response": [
+          "chr_0013_aglina_combat_kill_enyag_01",
+          "chr_0013_aglina_combat_kill_enyag_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_kill_enylb": {
+        "triggerType": "VO_COMBAT_KILL",
+        "response": [
+          "chr_0013_aglina_combat_kill_enylb_01",
+          "chr_0013_aglina_combat_kill_enylb_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_outbattle": {
+        "triggerType": "VO_COMBAT_END",
+        "response": [
+          "chr_0013_aglina_combat_outbattle_01",
+          "chr_0013_aglina_combat_outbattle_02",
+          "chr_0013_aglina_combat_outbattle_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_skill_hold": {
+        "triggerType": "VO_COMBAT_HOLD",
+        "response": [
+          "chr_0013_aglina_combat_skill_hold_01",
+          "chr_0013_aglina_combat_skill_hold_02",
+          "chr_0013_aglina_combat_skill_hold_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_skill_nor": {
+        "triggerType": "VO_COMBAT_SKILL_NORM",
+        "response": [
+          "chr_0013_aglina_combat_skill_nor_01",
+          "chr_0013_aglina_combat_skill_nor_02",
+          "chr_0013_aglina_combat_skill_nor_03",
+          "chr_0013_aglina_combat_skill_nor_sv"
+        ],
+        "weight": [
+          25,
+          25,
+          25,
+          100
+        ],
+        "delay": 0.0
+      },
+      "combat_skill_ultimate": {
+        "triggerType": "VO_COMBAT_SKILL_ULT",
+        "response": [
+          "chr_0013_aglina_combat_skill_ultimate_01",
+          "chr_0013_aglina_combat_skill_ultimate_02",
+          "chr_0013_aglina_combat_skill_ultimate_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_finddanger": {
+        "triggerType": "VO_EXP_INDANGER",
+        "response": [
+          "chr_0013_aglina_explore_finddanger_01",
+          "chr_0013_aglina_explore_finddanger_02",
+          "chr_0013_aglina_explore_finddanger_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_finddanger_enyag": {
+        "triggerType": "VO_EXP_INDANGER",
+        "response": [
+          "chr_0013_aglina_explore_finddanger_enyag_01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_finddanger_enylb": {
+        "triggerType": "VO_EXP_INDANGER",
+        "response": [
+          "chr_0013_aglina_explore_finddanger_enylb_01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_findtreasure": {
+        "triggerType": "VO_EXP_FINDTREASURE",
+        "response": [
+          "chr_0013_aglina_explore_findtreasure_01",
+          "chr_0013_aglina_explore_findtreasure_02",
+          "chr_0013_aglina_explore_findtreasure_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_idle": {
+        "triggerType": "VO_EXP_IDLE",
+        "response": [
+          "chr_0013_aglina_explore_idle_01",
+          "chr_0013_aglina_explore_idle_02",
+          "chr_0013_aglina_explore_idle_03",
+          "chr_0013_aglina_explore_idle_04"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_loc_hq": {
+        "triggerType": "VO_EXP_LOC",
+        "response": [
+          "chr_0013_aglina_explore_loc_hq_01",
+          "chr_0013_aglina_explore_loc_hq_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_loc_openair": {
+        "triggerType": "VO_EXP_LOC",
+        "response": [
+          "chr_0013_aglina_explore_loc_openair_01",
+          "chr_0013_aglina_explore_loc_openair_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "explore_loc_orgi": {
+        "triggerType": "VO_EXP_LOC",
+        "response": [
+          "chr_0013_aglina_explore_loc_orgi_01",
+          "chr_0013_aglina_explore_loc_orgi_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "factory_assign": {
+        "triggerType": "VO_FAC_ASSIGN",
+        "response": [
+          "chr_0013_aglina_factory_assign_01",
+          "chr_0013_aglina_factory_assign_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "factory_produc_colloct": {
+        "triggerType": "VO_FAC_COLLECT",
+        "response": [
+          "chr_0013_aglina_factory_produc_colloct_01",
+          "chr_0013_aglina_factory_produc_colloct_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "factory_unit_deploy": {
+        "triggerType": "VO_FAC_INSTALL",
+        "response": [
+          "chr_0013_aglina_factory_unit_deploy_01",
+          "chr_0013_aglina_factory_unit_deploy_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "factory_unit_lowpwr": {
+        "triggerType": "VO_FAC_LOWPWR",
+        "response": [
+          "chr_0013_aglina_factory_unit_lowpwr_01",
+          "chr_0013_aglina_factory_unit_lowpwr_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "factory_unit_shutdn": {
+        "triggerType": "VO_FAC_SHUTDOWN",
+        "response": [
+          "chr_0013_aglina_factory_unit_shutdn_01",
+          "chr_0013_aglina_factory_unit_shutdn_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "hp_gain": {
+        "triggerType": "VO_CHAR_HEAL",
+        "response": [
+          "chr_0013_aglina_hp_gain_01",
+          "chr_0013_aglina_hp_gain_02",
+          "chr_0013_aglina_hp_gain_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "interact_pickupItem": {
+        "triggerType": "VO_INT_PICK",
+        "response": [
+          "chr_0013_aglina_interact_pickupitem_01",
+          "chr_0013_aglina_interact_pickupitem_02",
+          "chr_0013_aglina_interact_pickupitem_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "interact_pickupItem_brnew": {
+        "triggerType": "VO_INT_PICK",
+        "response": [
+          "chr_0013_aglina_interact_pickupitem_brnew_01",
+          "chr_0013_aglina_interact_pickupitem_brnew_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "interact_pickupItem_valub": {
+        "triggerType": "VO_INT_PICK",
+        "response": [
+          "chr_0013_aglina_interact_pickupitem_valub_01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "interact_rest": {
+        "triggerType": "VO_INT_REST",
+        "response": [
+          "chr_0013_aglina_interact_rest_01",
+          "chr_0013_aglina_interact_rest_02",
+          "chr_0013_aglina_interact_rest_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "interact_treasure": {
+        "triggerType": "VO_INT_TREASURE",
+        "response": [
+          "chr_0013_aglina_interact_treasure_01",
+          "chr_0013_aglina_interact_treasure_02",
+          "chr_0013_aglina_interact_treasure_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      }
+    }
+  },
+  "eny_0017_dexasco": {
+    "triggers": {
+      "announ_special01": {
+        "triggerType": "VO_COMBAT_ANNOUNCE",
+        "response": [
+          "eny_0017_dexasco_combat_announ_jump_01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "announ_stage02": {
+        "triggerType": "VO_COMBAT_ANNOUNCE",
+        "response": [
+          "eny_0017_dexasco_combat_announ_stage02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_attack_rise": {
+        "triggerType": "VO_COMBAT_ATK",
+        "response": [
+          "eny_0017_dexasco_combat_attack_sv_rise"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_fighting": {
+        "triggerType": "VO_COMBAT_FIGHTING",
+        "response": [
+          "eny_0017_dexasco_combat_fighting_01",
+          "eny_0017_dexasco_combat_fighting_02",
+          "eny_0017_dexasco_combat_fighting_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_hurt": {
+        "triggerType": "VO_COMBAT_HURT",
+        "response": [
+          "eny_0017_dexasco_combat_hurt_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_hurt_stun": {
+        "triggerType": "VO_COMBAT_HURT_STUN",
+        "response": [
+          "eny_0017_dexasco_combat_hurt_stun_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_intobattle": {
+        "triggerType": "VO_COMBAT_START",
+        "response": [
+          "eny_0017_dexasco_combat_intobattle_01",
+          "eny_0017_dexasco_combat_intobattle_01_a",
+          "eny_0017_dexasco_combat_intobattle_01_b"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_kill": {
+        "triggerType": "VO_COMBAT_KILL",
+        "response": [
+          "eny_0017_dexasco_combat_kill_01",
+          "eny_0017_dexasco_combat_kill_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_skill01": {
+        "triggerType": "VO_COMBAT_SKILL",
+        "response": [
+          "eny_0017_dexasco_combat_skill01_01",
+          "eny_0017_dexasco_combat_skill01_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_skill02": {
+        "triggerType": "VO_COMBAT_SKILL",
+        "response": [
+          "eny_0017_dexasco_combat_skill02_01",
+          "eny_0017_dexasco_combat_skill02_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_skill02_hit": {
+        "triggerType": "VO_COMBAT_SKILL",
+        "response": [
+          "eny_0017_dexasco_combat_skill02_hit_01",
+          "eny_0017_dexasco_combat_skill02_hit_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_skill03": {
+        "triggerType": "VO_COMBAT_SKILL",
+        "response": [
+          "eny_0017_dexasco_combat_skill03_01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_skill04": {
+        "triggerType": "VO_COMBAT_SKILL",
+        "response": [
+          "eny_0017_dexasco_combat_skill04_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_skill05": {
+        "triggerType": "VO_COMBAT_SKILL",
+        "response": [
+          "eny_0017_dexasco_combat_skill05_01",
+          "eny_0017_dexasco_combat_skill05_02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_skill06": {
+        "triggerType": "VO_COMBAT_SKILL",
+        "response": [
+          "eny_0017_dexasco_combat_skill06_01_a",
+          "eny_0017_dexasco_combat_skill06_01_b",
+          "eny_0017_dexasco_combat_skill06_sv"
+        ],
+        "weight": [
+          50,
+          50,
+          100
+        ],
+        "delay": 0.0
+      },
+      "combat_skill07": {
+        "triggerType": "VO_COMBAT_SKILL",
+        "response": [
+          "eny_0017_dexasco_combat_skill07"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_skill_jumpback": {
+        "triggerType": "VO_COMBAT_SKILL",
+        "response": [
+          "eny_0017_dexasco_combat_skill_jumpback_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "common_laugh": {
+        "triggerType": "VO_COMMON_LAUGH",
+        "response": [
+          "eny_0017_dexasco_common_laugh_a",
+          "eny_0017_dexasco_common_laugh_b",
+          "eny_0017_dexasco_common_laugh_c"
+        ],
+        "weight": [],
+        "delay": 0.0
+      }
+    }
+  },
+  "eny_0018_lbtough": {
+    "triggers": {
+      "combat_alarm": {
+        "triggerType": "VO_COMBAT_ALARM",
+        "response": [
+          "eny_0018_lbtough_combat_alarm_01",
+          "eny_0018_lbtough_combat_alarm_02",
+          "eny_0018_lbtough_combat_alarm_03",
+          "eny_0018_lbtough_combat_alarm_sv"
+        ],
+        "weight": [
+          50,
+          50,
+          50,
+          100
+        ],
+        "delay": 0.0
+      },
+      "combat_attack01": {
+        "triggerType": "VO_COMBAT_ATK",
+        "response": [
+          "eny_0018_lbtough_combat_attack01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_attack02": {
+        "triggerType": "VO_COMBAT_ATK",
+        "response": [
+          "eny_0018_lbtough_combat_attack02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_attack_rise": {
+        "triggerType": "VO_COMBAT_SKILL",
+        "response": [
+          "eny_0018_lbtough_combat_attack_sv_rise"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_dead": {
+        "triggerType": "VO_COMBAT_DEAD",
+        "response": [
+          "eny_0018_lbtough_combat_dead_01",
+          "eny_0018_lbtough_combat_dead_02",
+          "eny_0018_lbtough_combat_dead_sv"
+        ],
+        "weight": [
+          50,
+          50,
+          100
+        ],
+        "delay": 0.0
+      },
+      "combat_fighting": {
+        "triggerType": "VO_COMBAT_FIGHTING",
+        "response": [
+          "eny_0018_lbtough_combat_laugh_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_hurt": {
+        "triggerType": "VO_COMBAT_HURT",
+        "response": [
+          "eny_0018_lbtough_combat_hurt_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_hurt_stun": {
+        "triggerType": "VO_COMBAT_HURT_STUN",
+        "response": [
+          "eny_0018_lbtough_combat_hurt_stun_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_intobattle": {
+        "triggerType": "VO_COMBAT_START",
+        "response": [
+          "eny_0018_lbtough_combat_intobattle_01",
+          "eny_0018_lbtough_combat_intobattle_02",
+          "eny_0018_lbtough_combat_intobattle_03",
+          "eny_0018_lbtough_combat_intobattle_sv"
+        ],
+        "weight": [
+          50,
+          50,
+          50,
+          100
+        ],
+        "delay": 0.0
+      },
+      "combat_laugh": {
+        "triggerType": "VO_COMMON_LAUGH",
+        "response": [
+          "eny_0018_lbtough_combat_laugh_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_outbattle_flee": {
+        "triggerType": "VO_COMBAT_END_FLEE",
+        "response": [
+          "eny_0018_lbtough_combat_outbattle_flee_01",
+          "eny_0018_lbtough_combat_outbattle_flee_02",
+          "eny_0018_lbtough_combat_outbattle_flee_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_skill01": {
+        "triggerType": "VO_COMBAT_SKILL",
+        "response": [
+          "eny_0018_lbtough_combat_skill01_01",
+          "eny_0018_lbtough_combat_skill01_02",
+          "eny_0018_lbtough_combat_skill01_sv"
+        ],
+        "weight": [
+          50,
+          50,
+          100
+        ],
+        "delay": 0.0
+      },
+      "combat_skill01_fast": {
+        "triggerType": "VO_COMBAT_SKILL",
+        "response": [
+          "eny_0018_lbtough_combat_skill01_fast_01",
+          "eny_0018_lbtough_combat_skill01_fast_sv"
+        ],
+        "weight": [
+          50,
+          50
+        ],
+        "delay": 0.0
+      },
+      "combat_skill02": {
+        "triggerType": "VO_COMBAT_SKILL",
+        "response": [
+          "eny_0018_lbtough_combat_skill02_01",
+          "eny_0018_lbtough_combat_skill02_02",
+          "eny_0018_lbtough_combat_skill02_sv"
+        ],
+        "weight": [
+          50,
+          50,
+          100
+        ],
+        "delay": 0.0
+      },
+      "combat_skill03": {
+        "triggerType": "VO_COMBAT_SKILL",
+        "response": [
+          "eny_0018_lbtough_combat_skill03_01",
+          "eny_0018_lbtough_combat_skill03_02",
+          "eny_0018_lbtough_combat_skill03_sv"
+        ],
+        "weight": [
+          50,
+          50,
+          100
+        ],
+        "delay": 0.0
+      },
+      "combat_skill03_fast": {
+        "triggerType": "VO_COMBAT_SKILL",
+        "response": [
+          "eny_0018_lbtough_combat_skill03_fast_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_skill04": {
+        "triggerType": "VO_COMBAT_SKILL",
+        "response": [
+          "eny_0018_lbtough_combat_skill04_01",
+          "eny_0018_lbtough_combat_skill04_sv"
+        ],
+        "weight": [
+          50100
+        ],
+        "delay": 0.0
+      },
+      "combat_skill05": {
+        "triggerType": "VO_COMBAT_SKILL",
+        "response": [
+          "eny_0018_lbtough_combat_skill05_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_skill06": {
+        "triggerType": "VO_COMBAT_SKILL",
+        "response": [
+          "eny_0018_lbtough_combat_skill06_01",
+          "eny_0018_lbtough_combat_skill06_02",
+          "eny_0018_lbtough_combat_skill06_sv"
+        ],
+        "weight": [
+          50,
+          50,
+          100
+        ],
+        "delay": 0.0
+      },
+      "combat_skill06_explo": {
+        "triggerType": "VO_COMBAT_SKILL",
+        "response": [
+          "eny_0018_lbtough_combat_skill06_explo_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      }
+    }
+  },
+  "eny_0019_lbtough2": {
+    "triggers": {
+      "combat_alarm": {
+        "triggerType": "VO_COMBAT_ALARM",
+        "response": [
+          "eny_0018_lbtough_combat_alarm_01",
+          "eny_0018_lbtough_combat_alarm_02",
+          "eny_0018_lbtough_combat_alarm_03",
+          "eny_0018_lbtough_combat_alarm_sv"
+        ],
+        "weight": [
+          50,
+          50,
+          50,
+          100
+        ],
+        "delay": 0.0
+      },
+      "combat_attack01": {
+        "triggerType": "VO_COMBAT_ATK",
+        "response": [
+          "eny_0018_lbtough_combat_attack01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_attack02": {
+        "triggerType": "VO_COMBAT_ATK",
+        "response": [
+          "eny_0018_lbtough_combat_attack02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_attack_rise": {
+        "triggerType": "VO_COMBAT_SKILL",
+        "response": [
+          "eny_0018_lbtough_combat_attack_sv_rise"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_dead": {
+        "triggerType": "VO_COMBAT_DEAD",
+        "response": [
+          "eny_0018_lbtough_combat_dead_01",
+          "eny_0018_lbtough_combat_dead_02",
+          "eny_0018_lbtough_combat_dead_sv"
+        ],
+        "weight": [
+          50,
+          50,
+          100
+        ],
+        "delay": 0.0
+      },
+      "combat_fighting": {
+        "triggerType": "VO_COMBAT_FIGHTING",
+        "response": [
+          "eny_0018_lbtough_combat_laugh_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_hurt": {
+        "triggerType": "VO_COMBAT_HURT",
+        "response": [
+          "eny_0018_lbtough_combat_hurt_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_hurt_stun": {
+        "triggerType": "VO_COMBAT_HURT_STUN",
+        "response": [
+          "eny_0018_lbtough_combat_hurt_stun_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_intobattle": {
+        "triggerType": "VO_COMBAT_START",
+        "response": [
+          "eny_0018_lbtough_combat_intobattle_01",
+          "eny_0018_lbtough_combat_intobattle_02",
+          "eny_0018_lbtough_combat_intobattle_03",
+          "eny_0018_lbtough_combat_intobattle_sv"
+        ],
+        "weight": [
+          50,
+          50,
+          50,
+          100
+        ],
+        "delay": 0.0
+      },
+      "combat_laugh": {
+        "triggerType": "VO_COMMON_LAUGH",
+        "response": [
+          "eny_0018_lbtough_combat_laugh_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_outbattle_flee": {
+        "triggerType": "VO_COMBAT_END_FLEE",
+        "response": [
+          "eny_0018_lbtough_combat_outbattle_flee_01",
+          "eny_0018_lbtough_combat_outbattle_flee_02",
+          "eny_0018_lbtough_combat_outbattle_flee_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_skill01": {
+        "triggerType": "VO_COMBAT_SKILL",
+        "response": [
+          "eny_0018_lbtough_combat_skill01_01",
+          "eny_0018_lbtough_combat_skill01_02",
+          "eny_0018_lbtough_combat_skill01_sv"
+        ],
+        "weight": [
+          50,
+          50,
+          100
+        ],
+        "delay": 0.0
+      },
+      "combat_skill01_fast": {
+        "triggerType": "VO_COMBAT_SKILL",
+        "response": [
+          "eny_0018_lbtough_combat_skill01_fast_01",
+          "eny_0018_lbtough_combat_skill01_fast_sv"
+        ],
+        "weight": [
+          50,
+          50
+        ],
+        "delay": 0.0
+      },
+      "combat_skill02": {
+        "triggerType": "VO_COMBAT_SKILL",
+        "response": [
+          "eny_0018_lbtough_combat_skill02_01",
+          "eny_0018_lbtough_combat_skill02_02",
+          "eny_0018_lbtough_combat_skill02_sv"
+        ],
+        "weight": [
+          50,
+          50,
+          100
+        ],
+        "delay": 0.0
+      },
+      "combat_skill03": {
+        "triggerType": "VO_COMBAT_SKILL",
+        "response": [
+          "eny_0018_lbtough_combat_skill03_01",
+          "eny_0018_lbtough_combat_skill03_02",
+          "eny_0018_lbtough_combat_skill03_sv"
+        ],
+        "weight": [
+          50,
+          50,
+          100
+        ],
+        "delay": 0.0
+      },
+      "combat_skill03_fast": {
+        "triggerType": "VO_COMBAT_SKILL",
+        "response": [
+          "eny_0018_lbtough_combat_skill03_fast_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_skill04": {
+        "triggerType": "VO_COMBAT_SKILL",
+        "response": [
+          "eny_0018_lbtough_combat_skill04_01",
+          "eny_0018_lbtough_combat_skill04_sv"
+        ],
+        "weight": [
+          50100
+        ],
+        "delay": 0.0
+      },
+      "combat_skill05": {
+        "triggerType": "VO_COMBAT_SKILL",
+        "response": [
+          "eny_0018_lbtough_combat_skill05_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_skill06": {
+        "triggerType": "VO_COMBAT_SKILL",
+        "response": [
+          "eny_0018_lbtough_combat_skill06_01",
+          "eny_0018_lbtough_combat_skill06_02",
+          "eny_0018_lbtough_combat_skill06_sv"
+        ],
+        "weight": [
+          50,
+          50,
+          100
+        ],
+        "delay": 0.0
+      },
+      "combat_skill06_explo": {
+        "triggerType": "VO_COMBAT_SKILL",
+        "response": [
+          "eny_0018_lbtough_combat_skill06_explo_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      }
+    }
+  },
+  "eny_0020_lbtough3": {
+    "triggers": {
+      "combat_alarm": {
+        "triggerType": "VO_COMBAT_ALARM",
+        "response": [
+          "eny_0018_lbtough_combat_alarm_01",
+          "eny_0018_lbtough_combat_alarm_02",
+          "eny_0018_lbtough_combat_alarm_03",
+          "eny_0018_lbtough_combat_alarm_sv"
+        ],
+        "weight": [
+          50,
+          50,
+          50,
+          100
+        ],
+        "delay": 0.0
+      },
+      "combat_attack01": {
+        "triggerType": "VO_COMBAT_ATK",
+        "response": [
+          "eny_0018_lbtough_combat_attack01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_attack02": {
+        "triggerType": "VO_COMBAT_ATK",
+        "response": [
+          "eny_0018_lbtough_combat_attack02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_attack_rise": {
+        "triggerType": "VO_COMBAT_SKILL",
+        "response": [
+          "eny_0018_lbtough_combat_attack_sv_rise"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_dead": {
+        "triggerType": "VO_COMBAT_DEAD",
+        "response": [
+          "eny_0018_lbtough_combat_dead_01",
+          "eny_0018_lbtough_combat_dead_02",
+          "eny_0018_lbtough_combat_dead_sv"
+        ],
+        "weight": [
+          50,
+          50,
+          100
+        ],
+        "delay": 0.0
+      },
+      "combat_fighting": {
+        "triggerType": "VO_COMBAT_FIGHTING",
+        "response": [
+          "eny_0018_lbtough_combat_laugh_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_hurt": {
+        "triggerType": "VO_COMBAT_HURT",
+        "response": [
+          "eny_0018_lbtough_combat_hurt_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_hurt_stun": {
+        "triggerType": "VO_COMBAT_HURT_STUN",
+        "response": [
+          "eny_0018_lbtough_combat_hurt_stun_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_intobattle": {
+        "triggerType": "VO_COMBAT_START",
+        "response": [
+          "eny_0018_lbtough_combat_intobattle_01",
+          "eny_0018_lbtough_combat_intobattle_02",
+          "eny_0018_lbtough_combat_intobattle_03",
+          "eny_0018_lbtough_combat_intobattle_sv"
+        ],
+        "weight": [
+          50,
+          50,
+          50,
+          100
+        ],
+        "delay": 0.0
+      },
+      "combat_laugh": {
+        "triggerType": "VO_COMMON_LAUGH",
+        "response": [
+          "eny_0018_lbtough_combat_laugh_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_outbattle_flee": {
+        "triggerType": "VO_COMBAT_END_FLEE",
+        "response": [
+          "eny_0018_lbtough_combat_outbattle_flee_01",
+          "eny_0018_lbtough_combat_outbattle_flee_02",
+          "eny_0018_lbtough_combat_outbattle_flee_03"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_skill01": {
+        "triggerType": "VO_COMBAT_SKILL",
+        "response": [
+          "eny_0018_lbtough_combat_skill01_01",
+          "eny_0018_lbtough_combat_skill01_02",
+          "eny_0018_lbtough_combat_skill01_sv"
+        ],
+        "weight": [
+          50,
+          50,
+          100
+        ],
+        "delay": 0.0
+      },
+      "combat_skill01_fast": {
+        "triggerType": "VO_COMBAT_SKILL",
+        "response": [
+          "eny_0018_lbtough_combat_skill01_fast_01",
+          "eny_0018_lbtough_combat_skill01_fast_sv"
+        ],
+        "weight": [
+          50,
+          50
+        ],
+        "delay": 0.0
+      },
+      "combat_skill02": {
+        "triggerType": "VO_COMBAT_SKILL",
+        "response": [
+          "eny_0018_lbtough_combat_skill02_01",
+          "eny_0018_lbtough_combat_skill02_02",
+          "eny_0018_lbtough_combat_skill02_sv"
+        ],
+        "weight": [
+          50,
+          50,
+          100
+        ],
+        "delay": 0.0
+      },
+      "combat_skill03": {
+        "triggerType": "VO_COMBAT_SKILL",
+        "response": [
+          "eny_0018_lbtough_combat_skill03_01",
+          "eny_0018_lbtough_combat_skill03_02",
+          "eny_0018_lbtough_combat_skill03_sv"
+        ],
+        "weight": [
+          50,
+          50,
+          100
+        ],
+        "delay": 0.0
+      },
+      "combat_skill03_fast": {
+        "triggerType": "VO_COMBAT_SKILL",
+        "response": [
+          "eny_0018_lbtough_combat_skill03_fast_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_skill04": {
+        "triggerType": "VO_COMBAT_SKILL",
+        "response": [
+          "eny_0018_lbtough_combat_skill04_01",
+          "eny_0018_lbtough_combat_skill04_sv"
+        ],
+        "weight": [
+          50100
+        ],
+        "delay": 0.0
+      },
+      "combat_skill05": {
+        "triggerType": "VO_COMBAT_SKILL",
+        "response": [
+          "eny_0018_lbtough_combat_skill05_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_skill06": {
+        "triggerType": "VO_COMBAT_SKILL",
+        "response": [
+          "eny_0018_lbtough_combat_skill06_01",
+          "eny_0018_lbtough_combat_skill06_02",
+          "eny_0018_lbtough_combat_skill06_sv"
+        ],
+        "weight": [
+          50,
+          50,
+          100
+        ],
+        "delay": 0.0
+      },
+      "combat_skill06_explo": {
+        "triggerType": "VO_COMBAT_SKILL",
+        "response": [
+          "eny_0018_lbtough_combat_skill06_explo_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      }
+    }
+  },
+  "eny_0029_lbmob": {
+    "triggers": {
+      "combat_alarm": {
+        "triggerType": "VO_COMBAT_ALARM",
+        "response": [
+          "eny_lb_combat_alarm_01",
+          "eny_lb_combat_alarm_02",
+          "eny_lb_combat_alarm_03",
+          "eny_lb_combat_alarm_04",
+          "eny_lb_combat_alarm_sv"
+        ],
+        "weight": [
+          50,
+          50,
+          50,
+          50,
+          100
+        ],
+        "delay": 0.0
+      },
+      "combat_attack01": {
+        "triggerType": "VO_COMBAT_ATK",
+        "response": [
+          "eny_0029_lbmob_combat_attack01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_attack02": {
+        "triggerType": "VO_COMBAT_ATK",
+        "response": [
+          "eny_0029_lbmob_combat_attack02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_attack_rise": {
+        "triggerType": "VO_COMBAT_ATK",
+        "response": [
+          "eny_0029_lbmob_combat_attack_rise"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_dead": {
+        "triggerType": "VO_COMBAT_DEAD",
+        "response": [
+          "eny_lb_combat_dead_01",
+          "eny_lb_combat_dead_02",
+          "eny_lb_combat_dead_03",
+          "eny_lb_combat_dead_sv"
+        ],
+        "weight": [
+          50,
+          50,
+          50,
+          100
+        ],
+        "delay": 0.0
+      },
+      "combat_fighting": {
+        "triggerType": "VO_COMBAT_FIGHTING",
+        "response": [
+          "eny_lb_combat_laugh_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_hurt": {
+        "triggerType": "VO_COMBAT_HURT",
+        "response": [
+          "eny_lb_combat_hurt_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_hurt_knockdown": {
+        "triggerType": "VO_COMBAT_HURT_STUN",
+        "response": [
+          "eny_lb_combat_hurt_knockdown_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_hurt_stun": {
+        "triggerType": "VO_COMBAT_HURT_STUN",
+        "response": [
+          "eny_lb_combat_hurt_stun_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_intobattle": {
+        "triggerType": "VO_COMBAT_START",
+        "response": [
+          "eny_lb_combat_intobattle_01",
+          "eny_lb_combat_intobattle_02",
+          "eny_lb_combat_intobattle_04",
+          "eny_lb_combat_intobattle_05",
+          "eny_lb_combat_intobattle_03",
+          "eny_lb_combat_intobattle_sv"
+        ],
+        "weight": [
+          50,
+          50,
+          50,
+          50,
+          50,
+          100
+        ],
+        "delay": 0.0
+      },
+      "combat_laugh": {
+        "triggerType": "VO_COMMON_LAUGH",
+        "response": [
+          "eny_lb_combat_laugh_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_outbattle_flee": {
+        "triggerType": "VO_COMBAT_END_FLEE",
+        "response": [
+          "eny_lb_combat_outbattle_flee_01",
+          "eny_lb_combat_outbattle_flee_02",
+          "eny_lb_combat_outbattle_flee_03",
+          "eny_lb_combat_outbattle_flee_04"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_skill01": {
+        "triggerType": "VO_COMBAT_SKILL",
+        "response": [
+          "eny_0029_lbmob_combat_skill01_01",
+          "eny_0029_lbmob_combat_skill01_02",
+          "eny_0029_lbmob_combat_skill01_sv"
+        ],
+        "weight": [
+          50,
+          50,
+          100
+        ],
+        "delay": 0.0
+      },
+      "combat_skill01_strike": {
+        "triggerType": "VO_COMBAT_SKILL",
+        "response": [
+          "eny_0029_lbmob_combat_skill01_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_skill02": {
+        "triggerType": "VO_COMBAT_SKILL",
+        "response": [
+          "eny_0029_lbmob_combat_skill02_01",
+          "eny_0029_lbmob_combat_skill02_02",
+          "eny_0029_lbmob_combat_skill02_sv"
+        ],
+        "weight": [
+          50,
+          50,
+          100
+        ],
+        "delay": 0.0
+      },
+      "combat_skill02_strike": {
+        "triggerType": "VO_COMBAT_SKILL",
+        "response": [
+          "eny_0029_lbmob_combat_skill02_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      }
+    }
+  },
+  "eny_0030_lbmob2": {
+    "triggers": {
+      "combat_alarm": {
+        "triggerType": "VO_COMBAT_ALARM",
+        "response": [
+          "eny_lb_combat_alarm_01",
+          "eny_lb_combat_alarm_02",
+          "eny_lb_combat_alarm_03",
+          "eny_lb_combat_alarm_04",
+          "eny_lb_combat_alarm_sv"
+        ],
+        "weight": [
+          50,
+          50,
+          50,
+          50,
+          100
+        ],
+        "delay": 0.0
+      },
+      "combat_attack01": {
+        "triggerType": "VO_COMBAT_ATK",
+        "response": [
+          "eny_0029_lbmob_combat_attack01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_attack02": {
+        "triggerType": "VO_COMBAT_ATK",
+        "response": [
+          "eny_0029_lbmob_combat_attack02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_attack_rise": {
+        "triggerType": "VO_COMBAT_ATK",
+        "response": [
+          "eny_0029_lbmob_combat_attack_rise"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_dead": {
+        "triggerType": "VO_COMBAT_DEAD",
+        "response": [
+          "eny_lb_combat_dead_01",
+          "eny_lb_combat_dead_02",
+          "eny_lb_combat_dead_03",
+          "eny_lb_combat_dead_sv"
+        ],
+        "weight": [
+          50,
+          50,
+          50,
+          100
+        ],
+        "delay": 0.0
+      },
+      "combat_fighting": {
+        "triggerType": "VO_COMBAT_FIGHTING",
+        "response": [
+          "eny_lb_combat_laugh_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_hurt": {
+        "triggerType": "VO_COMBAT_HURT",
+        "response": [
+          "eny_lb_combat_hurt_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_hurt_knockdown": {
+        "triggerType": "VO_COMBAT_HURT_STUN",
+        "response": [
+          "eny_lb_combat_hurt_knockdown_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_hurt_stun": {
+        "triggerType": "VO_COMBAT_HURT_STUN",
+        "response": [
+          "eny_lb_combat_hurt_stun_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_intobattle": {
+        "triggerType": "VO_COMBAT_START",
+        "response": [
+          "eny_lb_combat_intobattle_01",
+          "eny_lb_combat_intobattle_02",
+          "eny_lb_combat_intobattle_04",
+          "eny_lb_combat_intobattle_05",
+          "eny_lb_combat_intobattle_03",
+          "eny_lb_combat_intobattle_sv"
+        ],
+        "weight": [
+          50,
+          50,
+          50,
+          50,
+          50,
+          100
+        ],
+        "delay": 0.0
+      },
+      "combat_laugh": {
+        "triggerType": "VO_COMMON_LAUGH",
+        "response": [
+          "eny_lb_combat_laugh_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_outbattle_flee": {
+        "triggerType": "VO_COMBAT_END_FLEE",
+        "response": [
+          "eny_lb_combat_outbattle_flee_01",
+          "eny_lb_combat_outbattle_flee_02",
+          "eny_lb_combat_outbattle_flee_03",
+          "eny_lb_combat_outbattle_flee_04"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_skill01": {
+        "triggerType": "VO_COMBAT_SKILL",
+        "response": [
+          "eny_0029_lbmob_combat_skill01_01",
+          "eny_0029_lbmob_combat_skill01_02",
+          "eny_0029_lbmob_combat_skill01_sv"
+        ],
+        "weight": [
+          50,
+          50,
+          100
+        ],
+        "delay": 0.0
+      },
+      "combat_skill01_strike": {
+        "triggerType": "VO_COMBAT_SKILL",
+        "response": [
+          "eny_0029_lbmob_combat_skill01_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_skill02": {
+        "triggerType": "VO_COMBAT_SKILL",
+        "response": [
+          "eny_0029_lbmob_combat_skill02_01",
+          "eny_0029_lbmob_combat_skill02_02",
+          "eny_0029_lbmob_combat_skill02_sv"
+        ],
+        "weight": [
+          50,
+          50,
+          100
+        ],
+        "delay": 0.0
+      },
+      "combat_skill02_strike": {
+        "triggerType": "VO_COMBAT_SKILL",
+        "response": [
+          "eny_0029_lbmob_combat_skill02_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      }
+    }
+  },
+  "eny_0031_lbmob3": {
+    "triggers": {
+      "combat_alarm": {
+        "triggerType": "VO_COMBAT_ALARM",
+        "response": [
+          "eny_lb_combat_alarm_01",
+          "eny_lb_combat_alarm_02",
+          "eny_lb_combat_alarm_03",
+          "eny_lb_combat_alarm_04",
+          "eny_lb_combat_alarm_sv"
+        ],
+        "weight": [
+          50,
+          50,
+          50,
+          50,
+          100
+        ],
+        "delay": 0.0
+      },
+      "combat_attack01": {
+        "triggerType": "VO_COMBAT_ATK",
+        "response": [
+          "eny_0029_lbmob_combat_attack01"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_attack02": {
+        "triggerType": "VO_COMBAT_ATK",
+        "response": [
+          "eny_0029_lbmob_combat_attack02"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_attack_rise": {
+        "triggerType": "VO_COMBAT_ATK",
+        "response": [
+          "eny_0029_lbmob_combat_attack_rise"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_dead": {
+        "triggerType": "VO_COMBAT_DEAD",
+        "response": [
+          "eny_lb_combat_dead_01",
+          "eny_lb_combat_dead_02",
+          "eny_lb_combat_dead_03",
+          "eny_lb_combat_dead_sv"
+        ],
+        "weight": [
+          50,
+          50,
+          50,
+          100
+        ],
+        "delay": 0.0
+      },
+      "combat_fighting": {
+        "triggerType": "VO_COMBAT_FIGHTING",
+        "response": [
+          "eny_lb_combat_laugh_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_hurt": {
+        "triggerType": "VO_COMBAT_HURT",
+        "response": [
+          "eny_lb_combat_hurt_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_hurt_knockdown": {
+        "triggerType": "VO_COMBAT_HURT_STUN",
+        "response": [
+          "eny_lb_combat_hurt_knockdown_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_hurt_stun": {
+        "triggerType": "VO_COMBAT_HURT_STUN",
+        "response": [
+          "eny_lb_combat_hurt_stun_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_intobattle": {
+        "triggerType": "VO_COMBAT_START",
+        "response": [
+          "eny_lb_combat_intobattle_01",
+          "eny_lb_combat_intobattle_02",
+          "eny_lb_combat_intobattle_04",
+          "eny_lb_combat_intobattle_05",
+          "eny_lb_combat_intobattle_03",
+          "eny_lb_combat_intobattle_sv"
+        ],
+        "weight": [
+          50,
+          50,
+          50,
+          50,
+          50,
+          100
+        ],
+        "delay": 0.0
+      },
+      "combat_laugh": {
+        "triggerType": "VO_COMMON_LAUGH",
+        "response": [
+          "eny_lb_combat_laugh_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_outbattle_flee": {
+        "triggerType": "VO_COMBAT_END_FLEE",
+        "response": [
+          "eny_lb_combat_outbattle_flee_01",
+          "eny_lb_combat_outbattle_flee_02",
+          "eny_lb_combat_outbattle_flee_03",
+          "eny_lb_combat_outbattle_flee_04"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_skill01": {
+        "triggerType": "VO_COMBAT_SKILL",
+        "response": [
+          "eny_0029_lbmob_combat_skill01_01",
+          "eny_0029_lbmob_combat_skill01_02",
+          "eny_0029_lbmob_combat_skill01_sv"
+        ],
+        "weight": [
+          50,
+          50,
+          100
+        ],
+        "delay": 0.0
+      },
+      "combat_skill01_strike": {
+        "triggerType": "VO_COMBAT_SKILL",
+        "response": [
+          "eny_0029_lbmob_combat_skill01_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_skill02": {
+        "triggerType": "VO_COMBAT_SKILL",
+        "response": [
+          "eny_0029_lbmob_combat_skill02_01",
+          "eny_0029_lbmob_combat_skill02_02",
+          "eny_0029_lbmob_combat_skill02_sv"
+        ],
+        "weight": [
+          50,
+          50,
+          100
+        ],
+        "delay": 0.0
+      },
+      "combat_skill02_strike": {
+        "triggerType": "VO_COMBAT_SKILL",
+        "response": [
+          "eny_0029_lbmob_combat_skill02_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      }
+    }
+  },
+  "eny_0033_lbhunt": {
+    "triggers": {
+      "combat_alarm": {
+        "triggerType": "VO_COMBAT_ALARM",
+        "response": [
+          "eny_lb_combat_alarm_01",
+          "eny_lb_combat_alarm_02",
+          "eny_lb_combat_alarm_03",
+          "eny_lb_combat_alarm_04",
+          "eny_lb_combat_alarm_sv"
+        ],
+        "weight": [
+          50,
+          50,
+          50,
+          50,
+          100
+        ],
+        "delay": 0.0
+      },
+      "combat_attack_rise": {
+        "triggerType": "VO_COMBAT_ATK",
+        "response": [
+          "eny_lb_combat_attack_sv_rise"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_dead": {
+        "triggerType": "VO_COMBAT_DEAD",
+        "response": [
+          "eny_lb_combat_dead_01",
+          "eny_lb_combat_dead_02",
+          "eny_lb_combat_dead_03",
+          "eny_lb_combat_dead_sv"
+        ],
+        "weight": [
+          50,
+          50,
+          50,
+          100
+        ],
+        "delay": 0.0
+      },
+      "combat_fighting": {
+        "triggerType": "VO_COMBAT_FIGHTING",
+        "response": [
+          "eny_lb_combat_laugh_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_hurt": {
+        "triggerType": "VO_COMBAT_HURT",
+        "response": [
+          "eny_lb_combat_hurt_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_hurt_knockdown": {
+        "triggerType": "VO_COMBAT_HURT_STUN",
+        "response": [
+          "eny_lb_combat_hurt_knockdown_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_hurt_stun": {
+        "triggerType": "VO_COMBAT_HURT_STUN",
+        "response": [
+          "eny_lb_combat_hurt_stun_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_intobattle": {
+        "triggerType": "VO_COMBAT_START",
+        "response": [
+          "eny_lb_combat_intobattle_01",
+          "eny_lb_combat_intobattle_02",
+          "eny_lb_combat_intobattle_04",
+          "eny_lb_combat_intobattle_05",
+          "eny_lb_combat_intobattle_03",
+          "eny_lb_combat_intobattle_sv"
+        ],
+        "weight": [
+          50,
+          50,
+          50,
+          50,
+          50,
+          100
+        ],
+        "delay": 0.0
+      },
+      "combat_laugh": {
+        "triggerType": "VO_COMMON_LAUGH",
+        "response": [
+          "eny_lb_combat_laugh_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_outbattle_flee": {
+        "triggerType": "VO_COMBAT_END_FLEE",
+        "response": [
+          "eny_lb_combat_outbattle_flee_01",
+          "eny_lb_combat_outbattle_flee_02",
+          "eny_lb_combat_outbattle_flee_03",
+          "eny_lb_combat_outbattle_flee_04"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_skill01": {
+        "triggerType": "VO_COMBAT_SKILL",
+        "response": [
+          "eny_0033_lbhunt_combat_skill01_01",
+          "eny_0033_lbhunt_combat_skill01_02",
+          "eny_0033_lbhunt_combat_skill01_sv"
+        ],
+        "weight": [
+          50,
+          50,
+          50
+        ],
+        "delay": 0.0
+      },
+      "combat_skill02": {
+        "triggerType": "VO_COMBAT_SKILL",
+        "response": [
+          "eny_0033_lbhunt_combat_skill02_01",
+          "eny_0033_lbhunt_combat_skill02_sv"
+        ],
+        "weight": [
+          100,
+          50
+        ],
+        "delay": 0.0
+      }
+    }
+  },
+  "eny_0034_lbhunt2": {
+    "triggers": {
+      "combat_alarm": {
+        "triggerType": "VO_COMBAT_ALARM",
+        "response": [
+          "eny_lb_combat_alarm_01",
+          "eny_lb_combat_alarm_02",
+          "eny_lb_combat_alarm_03",
+          "eny_lb_combat_alarm_04",
+          "eny_lb_combat_alarm_sv"
+        ],
+        "weight": [
+          50,
+          50,
+          50,
+          50,
+          100
+        ],
+        "delay": 0.0
+      },
+      "combat_attack_rise": {
+        "triggerType": "VO_COMBAT_ATK",
+        "response": [
+          "eny_lb_combat_attack_sv_rise"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_dead": {
+        "triggerType": "VO_COMBAT_DEAD",
+        "response": [
+          "eny_lb_combat_dead_01",
+          "eny_lb_combat_dead_02",
+          "eny_lb_combat_dead_03",
+          "eny_lb_combat_dead_sv"
+        ],
+        "weight": [
+          50,
+          50,
+          100
+        ],
+        "delay": 0.0
+      },
+      "combat_fighting": {
+        "triggerType": "VO_COMBAT_FIGHTING",
+        "response": [
+          "eny_lb_combat_laugh_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_hurt": {
+        "triggerType": "VO_COMBAT_HURT",
+        "response": [
+          "eny_lb_combat_hurt_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_hurt_knockdown": {
+        "triggerType": "VO_COMBAT_HURT_STUN",
+        "response": [
+          "eny_lb_combat_hurt_knockdown_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_hurt_stun": {
+        "triggerType": "VO_COMBAT_HURT_STUN",
+        "response": [
+          "eny_lb_combat_hurt_stun_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_intobattle": {
+        "triggerType": "VO_COMBAT_START",
+        "response": [
+          "eny_lb_combat_intobattle_01",
+          "eny_lb_combat_intobattle_02",
+          "eny_lb_combat_intobattle_04",
+          "eny_lb_combat_intobattle_05",
+          "eny_lb_combat_intobattle_03",
+          "eny_lb_combat_intobattle_sv"
+        ],
+        "weight": [
+          50,
+          50,
+          50,
+          50,
+          50,
+          100
+        ],
+        "delay": 0.0
+      },
+      "combat_laugh": {
+        "triggerType": "VO_COMMON_LAUGH",
+        "response": [
+          "eny_lb_combat_laugh_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_outbattle_flee": {
+        "triggerType": "VO_COMBAT_END_FLEE",
+        "response": [
+          "eny_lb_combat_outbattle_flee_01",
+          "eny_lb_combat_outbattle_flee_02",
+          "eny_lb_combat_outbattle_flee_03",
+          "eny_lb_combat_outbattle_flee_04"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_skill01": {
+        "triggerType": "VO_COMBAT_SKILL",
+        "response": [
+          "eny_0033_lbhunt_combat_skill01_01",
+          "eny_0033_lbhunt_combat_skill01_02",
+          "eny_0033_lbhunt_combat_skill01_sv"
+        ],
+        "weight": [
+          50,
+          50,
+          50
+        ],
+        "delay": 0.0
+      },
+      "combat_skill02": {
+        "triggerType": "VO_COMBAT_SKILL",
+        "response": [
+          "eny_0033_lbhunt_combat_skill02_01",
+          "eny_0033_lbhunt_combat_skill02_sv"
+        ],
+        "weight": [
+          100,
+          50
+        ],
+        "delay": 0.0
+      }
+    }
+  },
+  "eny_0035_lbhunt3": {
+    "triggers": {
+      "combat_alarm": {
+        "triggerType": "VO_COMBAT_ALARM",
+        "response": [
+          "eny_lb_combat_alarm_01",
+          "eny_lb_combat_alarm_02",
+          "eny_lb_combat_alarm_03",
+          "eny_lb_combat_alarm_04",
+          "eny_lb_combat_alarm_sv"
+        ],
+        "weight": [
+          50,
+          50,
+          50,
+          50,
+          100
+        ],
+        "delay": 0.0
+      },
+      "combat_attack_rise": {
+        "triggerType": "VO_COMBAT_ATK",
+        "response": [
+          "eny_lb_combat_attack_sv_rise"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_dead": {
+        "triggerType": "VO_COMBAT_DEAD",
+        "response": [
+          "eny_lb_combat_dead_01",
+          "eny_lb_combat_dead_02",
+          "eny_lb_combat_dead_03",
+          "eny_lb_combat_dead_sv"
+        ],
+        "weight": [
+          50,
+          50,
+          50,
+          100
+        ],
+        "delay": 0.0
+      },
+      "combat_fighting": {
+        "triggerType": "VO_COMBAT_FIGHTING",
+        "response": [
+          "eny_lb_combat_laugh_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_hurt": {
+        "triggerType": "VO_COMBAT_HURT",
+        "response": [
+          "eny_lb_combat_hurt_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_hurt_knockdown": {
+        "triggerType": "VO_COMBAT_HURT_STUN",
+        "response": [
+          "eny_lb_combat_hurt_knockdown_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_hurt_stun": {
+        "triggerType": "VO_COMBAT_HURT_STUN",
+        "response": [
+          "eny_lb_combat_hurt_stun_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_intobattle": {
+        "triggerType": "VO_COMBAT_START",
+        "response": [
+          "eny_lb_combat_intobattle_01",
+          "eny_lb_combat_intobattle_02",
+          "eny_lb_combat_intobattle_04",
+          "eny_lb_combat_intobattle_05",
+          "eny_lb_combat_intobattle_03",
+          "eny_lb_combat_intobattle_sv"
+        ],
+        "weight": [
+          50,
+          50,
+          50,
+          50,
+          50,
+          100
+        ],
+        "delay": 0.0
+      },
+      "combat_laugh": {
+        "triggerType": "VO_COMMON_LAUGH",
+        "response": [
+          "eny_lb_combat_laugh_sv"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_outbattle_flee": {
+        "triggerType": "VO_COMBAT_END_FLEE",
+        "response": [
+          "eny_lb_combat_outbattle_flee_01",
+          "eny_lb_combat_outbattle_flee_02",
+          "eny_lb_combat_outbattle_flee_03",
+          "eny_lb_combat_outbattle_flee_04"
+        ],
+        "weight": [],
+        "delay": 0.0
+      },
+      "combat_skill01": {
+        "triggerType": "VO_COMBAT_SKILL",
+        "response": [
+          "eny_0033_lbhunt_combat_skill01_01",
+          "eny_0033_lbhunt_combat_skill01_02",
+          "eny_0033_lbhunt_combat_skill01_sv"
+        ],
+        "weight": [
+          50,
+          50,
+          50
+        ],
+        "delay": 0.0
+      },
+      "combat_skill02": {
+        "triggerType": "VO_COMBAT_SKILL",
+        "response": [
+          "eny_0033_lbhunt_combat_skill02_01",
+          "eny_0033_lbhunt_combat_skill02_sv"
+        ],
+        "weight": [
+          100,
+          50
+        ],
+        "delay": 0.0
+      }
+    }
+  }
+}

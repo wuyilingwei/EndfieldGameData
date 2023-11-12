@@ -1,0 +1,122 @@
+{
+  "nar_col_doc_endField_1": {
+    "id": "nar_col_doc_endField_1",
+    "name": {
+      "text": "概况",
+      "id": "452AA5D0DFD50C69"
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "type": "document",
+    "firstLvId": "doc_endField",
+    "order": 1,
+    "contentId": "text_doc_endField_1"
+  },
+  "nar_col_doc_endField_2": {
+    "id": "nar_col_doc_endField_2",
+    "name": {
+      "text": "各部门",
+      "id": "A3C02341D5335FC7"
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "type": "document",
+    "firstLvId": "doc_endField",
+    "order": 2,
+    "contentId": "text_doc_endField_2"
+  },
+  "nar_col_doc_endField_3": {
+    "id": "nar_col_doc_endField_3",
+    "name": {
+      "text": "工程中心",
+      "id": "3E1ACE64C59C0200"
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "type": "document",
+    "firstLvId": "doc_endField",
+    "order": 3,
+    "contentId": "text_doc_endField_3"
+  },
+  "nar_col_doc_organization_1": {
+    "id": "nar_col_doc_organization_1",
+    "name": {
+      "text": "罗德岛",
+      "id": "63EDFDDA3CE963BB"
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "type": "document",
+    "firstLvId": "doc_organization",
+    "order": 1,
+    "contentId": "text_doc_organization_1"
+  },
+  "nar_col_doc_organization_2": {
+    "id": "nar_col_doc_organization_2",
+    "name": {
+      "text": "联盟工团",
+      "id": "46F29FB6D74C3648"
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "type": "document",
+    "firstLvId": "doc_organization",
+    "order": 2,
+    "contentId": "text_doc_organization_2"
+  },
+  "nar_col_doc_talos_1": {
+    "id": "nar_col_doc_talos_1",
+    "name": {
+      "text": "塔卫二",
+      "id": "AF03AA545505DC23"
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "type": "document",
+    "firstLvId": "doc_talos",
+    "order": 1,
+    "contentId": "text_doc_talos_1"
+  },
+  "nar_col_doc_talos_2": {
+    "id": "nar_col_doc_talos_2",
+    "name": {
+      "text": "源石",
+      "id": "FF63F8D0D853904C"
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "type": "document",
+    "firstLvId": "doc_talos",
+    "order": 3,
+    "contentId": "text_doc_talos_2"
+  },
+  "nar_col_doc_talos_3": {
+    "id": "nar_col_doc_talos_3",
+    "name": {
+      "text": "侵蚀",
+      "id": "D4A0E716B0604899"
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "type": "document",
+    "firstLvId": "doc_talos",
+    "order": 2,
+    "contentId": "text_doc_talos_3"
+  }
+}

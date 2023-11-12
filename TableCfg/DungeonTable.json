@@ -1,0 +1,1776 @@
+{
+  "dung01_challenge01": {
+    "dungeonId": "dung01_challenge01",
+    "difficulty": 1,
+    "dungeonType": "resource",
+    "sceneId": "map01_dg009",
+    "unlockText": {
+      "text": "完成[主线第一章第二幕]后解锁",
+      "id": "A57D0652C44AEE75"
+    },
+    "unlockConditions": [
+      {
+        "unlockType": "CompleteMission",
+        "unlockArg": "mission_mai_e2m8"
+      },
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      },
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      }
+    ],
+    "markInstId": "dgpoint_lv003_4",
+    "costStamina": 0,
+    "dungeonName": {
+      "text": "裂隙-危境 编号2",
+      "id": "1B8D53B3925DC912"
+    },
+    "dungeonDesc": {
+      "text": "极度危险的裂隙，想要进入其中的话，就做好全方位的准备吧。\n“经过我们的判断，该裂隙内部人类宜居度约等于零。”",
+      "id": "0763917201332C56"
+    },
+    "difficultyDesc": {
+      "text": "推荐队伍成员65级后挑战",
+      "id": "96CE957EFDE76D2C"
+    },
+    "featureDesc": {
+      "text": "三头蛇？三头，蛇！小心强力敌人之间的协同作战。",
+      "id": "AE36C4FC43776F74"
+    },
+    "rewardId": "reward_dung_challenge01",
+    "enemyIds": [
+      "eny_0007_mimicw",
+      "eny_0024_aghornb2",
+      "eny_0021_agmelee"
+    ],
+    "enemyLevels": [
+      60,
+      55,
+      53
+    ],
+    "probRewardItemIds": [
+      "item_diamond",
+      "item_unit_t4_parts_body_02",
+      "item_unit_t4_parts_body_03",
+      "item_unit_t4_suit_05_body_01",
+      "item_unit_t4_suit_01_body_01",
+      "item_unit_t4_suit_10_body_02",
+      "item_unit_t4_suit_08_body_01",
+      "item_unit_t4_suit_04_body_01",
+      "item_unit_t4_parts_hand_02",
+      "item_unit_t4_parts_hand_04",
+      "item_unit_t4_suit_06_hand_01",
+      "item_unit_t4_suit_02_hand_01",
+      "item_unit_t4_suit_10_hand_02",
+      "item_unit_t4_suit_09_hand_01",
+      "item_unit_t4_suit_07_hand_01",
+      "item_unit_t4_parts_edc_01",
+      "item_unit_t4_parts_edc_02",
+      "item_unit_t4_parts_edc_03",
+      "item_unit_t4_suit_05_edc_01",
+      "item_unit_t4_suit_06_edc_02",
+      "item_unit_t4_suit_07_edc_01"
+    ]
+  },
+  "dung01_challenge02": {
+    "dungeonId": "dung01_challenge02",
+    "difficulty": 1,
+    "dungeonType": "resource",
+    "sceneId": "map01_dg009",
+    "unlockText": {
+      "text": "完成[主线第一章第二幕]后解锁",
+      "id": "C7B17309E1C83121"
+    },
+    "unlockConditions": [
+      {
+        "unlockType": "CompleteMission",
+        "unlockArg": "mission_mai_e2m8"
+      },
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      },
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      }
+    ],
+    "markInstId": "dgpoint_lv005_4",
+    "costStamina": 0,
+    "dungeonName": {
+      "text": "裂隙-危境 编号1",
+      "id": "B9BF329A68414F19"
+    },
+    "dungeonDesc": {
+      "text": "极度危险的裂隙，想要进入其中的话，就做好全方位的准备吧。\n“经过我们的判断，该裂隙内部人类宜居度约等于零。”",
+      "id": "8AAE60078206BBA8"
+    },
+    "difficultyDesc": {
+      "text": "推荐队伍成员60级后挑战",
+      "id": "979D2D619D72227B"
+    },
+    "featureDesc": {
+      "text": "貌似出现了神秘的气体，敌人的<@ba.key>韧性</>变得极高，小心被<@ba.key>大量</>敌人围攻。",
+      "id": "BB21453C6EDF469E"
+    },
+    "rewardId": "reward_dung_challenge02",
+    "enemyIds": [
+      "eny_0021_agmelee",
+      "eny_0022_agmelee2",
+      "eny_0025_agrange"
+    ],
+    "enemyLevels": [
+      53,
+      53,
+      53
+    ],
+    "probRewardItemIds": [
+      "item_diamond",
+      "item_unit_t4_parts_body_02",
+      "item_unit_t4_parts_body_03",
+      "item_unit_t4_suit_05_body_01",
+      "item_unit_t4_suit_01_body_01",
+      "item_unit_t4_suit_10_body_02",
+      "item_unit_t4_suit_08_body_01",
+      "item_unit_t4_suit_04_body_01",
+      "item_unit_t4_parts_hand_02",
+      "item_unit_t4_parts_hand_04",
+      "item_unit_t4_suit_06_hand_01",
+      "item_unit_t4_suit_02_hand_01",
+      "item_unit_t4_suit_10_hand_02",
+      "item_unit_t4_suit_09_hand_01",
+      "item_unit_t4_suit_07_hand_01",
+      "item_unit_t4_parts_edc_01",
+      "item_unit_t4_parts_edc_02",
+      "item_unit_t4_parts_edc_03",
+      "item_unit_t4_suit_05_edc_01",
+      "item_unit_t4_suit_06_edc_02",
+      "item_unit_t4_suit_07_edc_01"
+    ]
+  },
+  "dung01_challenge03": {
+    "dungeonId": "dung01_challenge03",
+    "difficulty": 1,
+    "dungeonType": "resource",
+    "sceneId": "map01_dg010",
+    "unlockText": {
+      "text": "完成[主线第一章第二幕]后解锁",
+      "id": "8D1AC1ACCD220202"
+    },
+    "unlockConditions": [
+      {
+        "unlockType": "CompleteMission",
+        "unlockArg": "mission_mai_e2m8"
+      },
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      },
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      }
+    ],
+    "markInstId": "dgpoint_lv006_6",
+    "costStamina": 0,
+    "dungeonName": {
+      "text": "裂隙-危境 编号3",
+      "id": "B42F095CDF16B0D2"
+    },
+    "dungeonDesc": {
+      "text": "极度危险的裂隙，想要进入其中的话，就做好全方位的准备吧。\n“经过我们的判断，该裂隙内部人类宜居度约等于零。”",
+      "id": "F4008BAFDB22B0E1"
+    },
+    "difficultyDesc": {
+      "text": "推荐队伍成员70级后挑战",
+      "id": "5F3AF0DDFB46740D"
+    },
+    "featureDesc": {
+      "text": "同时面对两个强敌，一切将变得不同。注意，<@ba.key>击倒其中一个可能会激怒另一个</>。",
+      "id": "6FC43A36B8647DD7"
+    },
+    "rewardId": "reward_dung_challenge03",
+    "enemyIds": [
+      "eny_0040_ergori",
+      "eny_0042_erhedge"
+    ],
+    "enemyLevels": [
+      65,
+      57
+    ],
+    "probRewardItemIds": [
+      "item_diamond",
+      "item_unit_t4_parts_body_02",
+      "item_unit_t4_parts_body_03",
+      "item_unit_t4_suit_05_body_01",
+      "item_unit_t4_suit_01_body_01",
+      "item_unit_t4_suit_10_body_02",
+      "item_unit_t4_suit_08_body_01",
+      "item_unit_t4_suit_04_body_01",
+      "item_unit_t4_parts_hand_02",
+      "item_unit_t4_parts_hand_04",
+      "item_unit_t4_suit_06_hand_01",
+      "item_unit_t4_suit_02_hand_01",
+      "item_unit_t4_suit_10_hand_02",
+      "item_unit_t4_suit_09_hand_01",
+      "item_unit_t4_suit_07_hand_01",
+      "item_unit_t4_parts_edc_01",
+      "item_unit_t4_parts_edc_02",
+      "item_unit_t4_parts_edc_03",
+      "item_unit_t4_suit_05_edc_01",
+      "item_unit_t4_suit_06_edc_02",
+      "item_unit_t4_suit_07_edc_01"
+    ]
+  },
+  "dung01_charbreak01": {
+    "dungeonId": "dung01_charbreak01",
+    "difficulty": 1,
+    "dungeonType": "resource",
+    "sceneId": "map01_dg009",
+    "unlockText": {
+      "text": "",
+      "id": ""
+    },
+    "unlockConditions": [
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      },
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      },
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      }
+    ],
+    "markInstId": "dgpoint_lv002_1",
+    "costStamina": 20,
+    "dungeonName": {
+      "text": "裂隙-干员进阶 D1",
+      "id": "E1043F74BC07FBB0"
+    },
+    "dungeonDesc": {
+      "text": "这是一处充满未知的空间裂隙，认真探索其中的话，或许能够发现用于干员进阶的道具。\n你应直面你的内心，感受它的强壮与虚弱，欢欣与苦痛。",
+      "id": "A427217FD93052D4"
+    },
+    "difficultyDesc": {
+      "text": "推荐队伍成员20级后挑战",
+      "id": "9C46BBAECA5E17F5"
+    },
+    "featureDesc": {
+      "text": "在<@gd.key>恶劣作战环境</>下迎击敌人；<毒性雾霾>，我方干员<@gd.key>持续失去生命</>；击杀敌人则可以恢复生命。",
+      "id": "DDA6F4ECFB6605F4"
+    },
+    "rewardId": "reward_dung_stageup_20",
+    "enemyIds": [
+      "eny_0021_agmelee",
+      "eny_0022_agmelee2",
+      "eny_0025_agrange",
+      "eny_0026_agrange2",
+      "eny_0023_aghornb"
+    ],
+    "enemyLevels": [
+      20,
+      20,
+      20,
+      20,
+      20
+    ],
+    "probRewardItemIds": []
+  },
+  "dung01_charbreak02": {
+    "dungeonId": "dung01_charbreak02",
+    "difficulty": 2,
+    "dungeonType": "resource",
+    "sceneId": "map01_dg009",
+    "unlockText": {
+      "text": "通关[裂隙-干员进阶 D1]后解锁",
+      "id": "E87310C2A4351241"
+    },
+    "unlockConditions": [
+      {
+        "unlockType": "PassDungeon",
+        "unlockArg": "dung01_charbreak01"
+      },
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      },
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      }
+    ],
+    "markInstId": "dgpoint_lv002_1",
+    "costStamina": 30,
+    "dungeonName": {
+      "text": "裂隙-干员进阶 D2",
+      "id": "76A59532DD1A38D6"
+    },
+    "dungeonDesc": {
+      "text": "这是一处充满未知的空间裂隙，认真探索其中的话，或许能够发现用于干员进阶的道具。\n你应直面你的内心，感受它的强壮与虚弱，欢欣与苦痛。",
+      "id": "0047891A09BA4579"
+    },
+    "difficultyDesc": {
+      "text": "推荐队伍成员30级后挑战",
+      "id": "FA9ADB43A52512B6"
+    },
+    "featureDesc": {
+      "text": "在<@gd.key>恶劣作战环境</>下迎击敌人；<毒性雾霾>，我方干员<@gd.key>持续失去生命</>；击杀敌人则可以恢复生命。",
+      "id": "C0F0FBA2926445DB"
+    },
+    "rewardId": "reward_dung_stageup_30",
+    "enemyIds": [
+      "eny_0021_agmelee",
+      "eny_0022_agmelee2",
+      "eny_0025_agrange",
+      "eny_0026_agrange2",
+      "eny_0023_aghornb"
+    ],
+    "enemyLevels": [
+      30,
+      30,
+      30,
+      30,
+      30
+    ],
+    "probRewardItemIds": []
+  },
+  "dung01_charbreak03": {
+    "dungeonId": "dung01_charbreak03",
+    "difficulty": 3,
+    "dungeonType": "resource",
+    "sceneId": "map01_dg009",
+    "unlockText": {
+      "text": "通关[裂隙-干员进阶 D2]后解锁",
+      "id": "67AC056299F4E586"
+    },
+    "unlockConditions": [
+      {
+        "unlockType": "PassDungeon",
+        "unlockArg": "dung01_charbreak02"
+      },
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      },
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      }
+    ],
+    "markInstId": "dgpoint_lv002_1",
+    "costStamina": 40,
+    "dungeonName": {
+      "text": "裂隙-干员进阶 D3",
+      "id": "4F1B3CF631B21731"
+    },
+    "dungeonDesc": {
+      "text": "这是一处充满未知的空间裂隙，认真探索其中的话，或许能够发现用于干员进阶的道具。\n你应直面你的内心，感受它的强壮与虚弱，欢欣与苦痛。",
+      "id": "0DEC9FC7B4E391DC"
+    },
+    "difficultyDesc": {
+      "text": "推荐队伍成员40级后挑战",
+      "id": "1F84BCA427167F1B"
+    },
+    "featureDesc": {
+      "text": "在<@gd.key>恶劣作战环境</>下迎击敌人；<毒性雾霾>，我方干员<@gd.key>持续失去生命</>；击杀敌人则可以恢复生命。",
+      "id": "43AB948F249F4FE3"
+    },
+    "rewardId": "reward_dung_stageup_40",
+    "enemyIds": [
+      "eny_0021_agmelee",
+      "eny_0022_agmelee2",
+      "eny_0025_agrange",
+      "eny_0026_agrange2",
+      "eny_0023_aghornb"
+    ],
+    "enemyLevels": [
+      40,
+      40,
+      40,
+      40,
+      40
+    ],
+    "probRewardItemIds": []
+  },
+  "dung01_charbreak04": {
+    "dungeonId": "dung01_charbreak04",
+    "difficulty": 4,
+    "dungeonType": "resource",
+    "sceneId": "map01_dg009",
+    "unlockText": {
+      "text": "通关[裂隙-干员进阶 D3]后解锁",
+      "id": "B4A113A767A836C1"
+    },
+    "unlockConditions": [
+      {
+        "unlockType": "PassDungeon",
+        "unlockArg": "dung01_charbreak03"
+      },
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      },
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      }
+    ],
+    "markInstId": "dgpoint_lv006_2",
+    "costStamina": 50,
+    "dungeonName": {
+      "text": "裂隙-干员进阶 D4",
+      "id": "69AE0FF5112B25FC"
+    },
+    "dungeonDesc": {
+      "text": "这是一处充满未知的空间裂隙，认真探索其中的话，或许能够发现用于干员进阶的高阶道具。\n你应直面你的内心，感受它的强壮与虚弱，欢欣与苦痛。",
+      "id": "FA4593BC8012BB63"
+    },
+    "difficultyDesc": {
+      "text": "推荐队伍成员50级后挑战",
+      "id": "B66AE8634E480933"
+    },
+    "featureDesc": {
+      "text": "在<@ba.key>恶劣作战环境</>下迎击敌人；<毒性雾霾>，我方干员<@gd.key>持续失去生命</>；击杀敌人则可以恢复生命。",
+      "id": "047FCA4B5145348A"
+    },
+    "rewardId": "reward_dung_stageup_50",
+    "enemyIds": [
+      "eny_0021_agmelee",
+      "eny_0022_agmelee2",
+      "eny_0025_agrange",
+      "eny_0026_agrange2",
+      "eny_0023_aghornb"
+    ],
+    "enemyLevels": [
+      50,
+      50,
+      50,
+      50,
+      50
+    ],
+    "probRewardItemIds": []
+  },
+  "dung01_embedding": {
+    "dungeonId": "dung01_embedding",
+    "difficulty": 1,
+    "dungeonType": "resource",
+    "sceneId": "map01_dg009",
+    "unlockText": {
+      "text": "",
+      "id": ""
+    },
+    "unlockConditions": [
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      },
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      },
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      }
+    ],
+    "markInstId": "dgpoint_lv006_1",
+    "costStamina": 50,
+    "dungeonName": {
+      "text": "裂隙-基质提取 D1",
+      "id": "E1A12D0756CCD9F4"
+    },
+    "dungeonDesc": {
+      "text": "这是一处充满未知的空间裂隙，认真探索其中的话，或许能够发现基质柔化剂。\n“人们推测裂隙中或许不存在时间概念，他们相信凋亡的历史堆积于此。”",
+      "id": "6A7C5D1B749B9A0C"
+    },
+    "difficultyDesc": {
+      "text": "推荐队伍成员50级后挑战",
+      "id": "EFF3333BD9361353"
+    },
+    "featureDesc": {
+      "text": "再次挑战那些“人”，小心<@ba.key>精英敌人</>。",
+      "id": "90B797991F5E3ABB"
+    },
+    "rewardId": "reward_dung_gem_upgrade",
+    "enemyIds": [
+      "eny_0019_lbtough2"
+    ],
+    "enemyLevels": [
+      50
+    ],
+    "probRewardItemIds": []
+  },
+  "dung01_exp01": {
+    "dungeonId": "dung01_exp01",
+    "difficulty": 1,
+    "dungeonType": "resource",
+    "sceneId": "map01_dg010",
+    "unlockText": {
+      "text": "",
+      "id": ""
+    },
+    "unlockConditions": [
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      },
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      },
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      }
+    ],
+    "markInstId": "dgpoint_lv001_1",
+    "costStamina": 20,
+    "dungeonName": {
+      "text": "裂隙-经验获取 D1",
+      "id": "795AA4F1F1CFE886"
+    },
+    "dungeonDesc": {
+      "text": "这是一处充满未知的空间裂隙，认真探索其中的话，或许能够发现用于提升经验的道具。\n“我看着他消失在光里——黑色的光芒——可这世上是不该有黑色光芒的。”",
+      "id": "4729B90A723F121C"
+    },
+    "difficultyDesc": {
+      "text": "推荐队伍成员20级后挑战",
+      "id": "5F918E268A821606"
+    },
+    "featureDesc": {
+      "text": "迎击全部由<@ba.key>强力敌人</>组成的阻碍者。",
+      "id": "6A3068F60FE92243"
+    },
+    "rewardId": "reward_dung_exp_20",
+    "enemyIds": [
+      "eny_0030_lbmob2",
+      "eny_0034_lbhunt2"
+    ],
+    "enemyLevels": [
+      15,
+      15
+    ],
+    "probRewardItemIds": []
+  },
+  "dung01_exp02": {
+    "dungeonId": "dung01_exp02",
+    "difficulty": 2,
+    "dungeonType": "resource",
+    "sceneId": "map01_dg010",
+    "unlockText": {
+      "text": "通关[裂隙-经验获取 D1]后解锁",
+      "id": "4E3B0C7E8CE4BDA8"
+    },
+    "unlockConditions": [
+      {
+        "unlockType": "PassDungeon",
+        "unlockArg": "dung01_exp01"
+      },
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      },
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      }
+    ],
+    "markInstId": "dgpoint_lv001_1",
+    "costStamina": 30,
+    "dungeonName": {
+      "text": "裂隙-经验获取 D2",
+      "id": "32B921C134890AD5"
+    },
+    "dungeonDesc": {
+      "text": "这是一处充满未知的空间裂隙，认真探索其中的话，或许能够发现用于提升经验的道具。\n“我看着他消失在光里——黑色的光芒——可这世上是不该有黑色光芒的。”",
+      "id": "037328B94C583FFA"
+    },
+    "difficultyDesc": {
+      "text": "推荐队伍成员30级后挑战",
+      "id": "B32EAA72668A14CE"
+    },
+    "featureDesc": {
+      "text": "迎击全部由<@ba.key>强力敌人</>组成的阻碍者。",
+      "id": "8DFE5A4D6B014E70"
+    },
+    "rewardId": "reward_dung_exp_30",
+    "enemyIds": [
+      "eny_0030_lbmob2",
+      "eny_0034_lbhunt2"
+    ],
+    "enemyLevels": [
+      25,
+      25
+    ],
+    "probRewardItemIds": []
+  },
+  "dung01_exp03": {
+    "dungeonId": "dung01_exp03",
+    "difficulty": 3,
+    "dungeonType": "resource",
+    "sceneId": "map01_dg010",
+    "unlockText": {
+      "text": "通关[裂隙-经验获取 D2]后解锁",
+      "id": "EF7668399B9D53D5"
+    },
+    "unlockConditions": [
+      {
+        "unlockType": "PassDungeon",
+        "unlockArg": "dung01_exp02"
+      },
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      },
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      }
+    ],
+    "markInstId": "dgpoint_lv001_1",
+    "costStamina": 40,
+    "dungeonName": {
+      "text": "裂隙-经验获取 D3",
+      "id": "418E508D187BA3D4"
+    },
+    "dungeonDesc": {
+      "text": "这是一处充满未知的空间裂隙，认真探索其中的话，或许能够发现用于提升经验的道具。\n“我看着他消失在光里——黑色的光芒——可这世上是不该有黑色光芒的。”",
+      "id": "77B09855A4D6538D"
+    },
+    "difficultyDesc": {
+      "text": "推荐队伍成员40级后挑战",
+      "id": "66D179A575C97086"
+    },
+    "featureDesc": {
+      "text": "迎击全部由<@ba.key>强力敌人</>组成的阻碍者。",
+      "id": "639C2E2E204E326F"
+    },
+    "rewardId": "reward_dung_exp_40",
+    "enemyIds": [
+      "eny_0030_lbmob2",
+      "eny_0034_lbhunt2"
+    ],
+    "enemyLevels": [
+      35,
+      35
+    ],
+    "probRewardItemIds": []
+  },
+  "dung01_exp04": {
+    "dungeonId": "dung01_exp04",
+    "difficulty": 4,
+    "dungeonType": "resource",
+    "sceneId": "map01_dg010",
+    "unlockText": {
+      "text": "通关[裂隙-经验获取 D3]后解锁",
+      "id": "19B49F0B91CA52C4"
+    },
+    "unlockConditions": [
+      {
+        "unlockType": "PassDungeon",
+        "unlockArg": "dung01_exp03"
+      },
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      },
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      }
+    ],
+    "markInstId": "dgpoint_lv005_1",
+    "costStamina": 50,
+    "dungeonName": {
+      "text": "裂隙-经验获取 D4",
+      "id": "D03B1A3F0C75C37E"
+    },
+    "dungeonDesc": {
+      "text": "这是一处充满未知的空间裂隙，认真探索其中的话，或许能够发现用于提升经验的高阶道具。\n“我看着他消失在光里——黑色的光芒——可这世上是不该有黑色光芒的。”",
+      "id": "7925E94DE83E8324"
+    },
+    "difficultyDesc": {
+      "text": "推荐队伍成员50级后挑战",
+      "id": "6D46D7270B69576F"
+    },
+    "featureDesc": {
+      "text": "迎击全部由<@ba.key>强力敌人</>组成的阻碍者。",
+      "id": "F26C21B72D5DF59A"
+    },
+    "rewardId": "reward_dung_exp_50",
+    "enemyIds": [
+      "eny_0030_lbmob2",
+      "eny_0034_lbhunt2"
+    ],
+    "enemyLevels": [
+      45,
+      45
+    ],
+    "probRewardItemIds": []
+  },
+  "dung01_gold01": {
+    "dungeonId": "dung01_gold01",
+    "difficulty": 1,
+    "dungeonType": "resource",
+    "sceneId": "map01_dg009",
+    "unlockText": {
+      "text": "",
+      "id": ""
+    },
+    "unlockConditions": [
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      },
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      },
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      }
+    ],
+    "markInstId": "dgpoint_lv003_1",
+    "costStamina": 20,
+    "dungeonName": {
+      "text": "裂隙-钱币收集 D1",
+      "id": "A8BB72BD367B78F8"
+    },
+    "dungeonDesc": {
+      "text": "这是一处充满未知的空间裂隙，认真探索其中的话，或许能够发现折金票。\n“在荒地上流传着这样的故事：曾有穷苦之人走进裂隙，重回人世之时，他们的内脏已被替换成了黄金。”",
+      "id": "1504F556DCA427E0"
+    },
+    "difficultyDesc": {
+      "text": "推荐队伍成员20级后挑战",
+      "id": "1A7A9230670DCCBD"
+    },
+    "featureDesc": {
+      "text": "场地内会<@gd.key>大量生成属性能量</>，但是<@ba.key>敌人的攻击力大幅提升</>。适时地激发属性能量变得非常关键。",
+      "id": "10108A051AC86FE1"
+    },
+    "rewardId": "reward_dung_gold_20",
+    "enemyIds": [
+      "eny_0029_lbmob",
+      "eny_0030_lbmob2",
+      "eny_0033_lbhunt",
+      "eny_0034_lbhunt2"
+    ],
+    "enemyLevels": [
+      15,
+      15,
+      15,
+      15
+    ],
+    "probRewardItemIds": []
+  },
+  "dung01_gold02": {
+    "dungeonId": "dung01_gold02",
+    "difficulty": 2,
+    "dungeonType": "resource",
+    "sceneId": "map01_dg009",
+    "unlockText": {
+      "text": "通关[裂隙-钱币收集 D1]后解锁",
+      "id": "97EAED673D016421"
+    },
+    "unlockConditions": [
+      {
+        "unlockType": "PassDungeon",
+        "unlockArg": "dung01_gold01"
+      },
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      },
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      }
+    ],
+    "markInstId": "dgpoint_lv003_1",
+    "costStamina": 30,
+    "dungeonName": {
+      "text": "裂隙-钱币收集 D2",
+      "id": "316BF4855DF25943"
+    },
+    "dungeonDesc": {
+      "text": "这是一处充满未知的空间裂隙，认真探索其中的话，或许能够发现折金票。\n“在荒地上流传着这样的故事：曾有穷苦之人走进裂隙，重回人世之时，他们的内脏已被替换成了黄金。”",
+      "id": "1B85A1BAEBB34107"
+    },
+    "difficultyDesc": {
+      "text": "推荐队伍成员30级后挑战",
+      "id": "86E798AE76AF56BB"
+    },
+    "featureDesc": {
+      "text": "场地内会<@gd.key>大量生成属性能量</>，但是<@ba.key>敌人的攻击力大幅提升</>。适时地激发属性能量变得非常关键。",
+      "id": "031497BC276A34A6"
+    },
+    "rewardId": "reward_dung_gold_30",
+    "enemyIds": [
+      "eny_0029_lbmob",
+      "eny_0030_lbmob2",
+      "eny_0033_lbhunt",
+      "eny_0034_lbhunt2"
+    ],
+    "enemyLevels": [
+      25,
+      25,
+      25,
+      25
+    ],
+    "probRewardItemIds": []
+  },
+  "dung01_gold03": {
+    "dungeonId": "dung01_gold03",
+    "difficulty": 3,
+    "dungeonType": "resource",
+    "sceneId": "map01_dg009",
+    "unlockText": {
+      "text": "通关[裂隙-钱币收集 D2]后解锁",
+      "id": "EA05CB428BA0E020"
+    },
+    "unlockConditions": [
+      {
+        "unlockType": "PassDungeon",
+        "unlockArg": "dung01_gold02"
+      },
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      },
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      }
+    ],
+    "markInstId": "dgpoint_lv003_1",
+    "costStamina": 40,
+    "dungeonName": {
+      "text": "裂隙-钱币收集 D3",
+      "id": "FB5DC72B1AD9F229"
+    },
+    "dungeonDesc": {
+      "text": "这是一处充满未知的空间裂隙，认真探索其中的话，或许能够发现折金票。\n“在荒地上流传着这样的故事：曾有穷苦之人走进裂隙，重回人世之时，他们的内脏已被替换成了黄金。”",
+      "id": "22C316CBCF3C94C0"
+    },
+    "difficultyDesc": {
+      "text": "推荐队伍成员40级后挑战",
+      "id": "A502309D0B452640"
+    },
+    "featureDesc": {
+      "text": "场地内会<@gd.key>大量生成属性能量</>，但是<@ba.key>敌人的攻击力大幅提升</>。适时地激发属性能量变得非常关键。",
+      "id": "22F5D0CBD8A4A0D4"
+    },
+    "rewardId": "reward_dung_gold_40",
+    "enemyIds": [
+      "eny_0029_lbmob",
+      "eny_0030_lbmob2",
+      "eny_0033_lbhunt",
+      "eny_0034_lbhunt2"
+    ],
+    "enemyLevels": [
+      35,
+      35,
+      35,
+      35
+    ],
+    "probRewardItemIds": []
+  },
+  "dung01_gold04": {
+    "dungeonId": "dung01_gold04",
+    "difficulty": 4,
+    "dungeonType": "resource",
+    "sceneId": "map01_dg009",
+    "unlockText": {
+      "text": "通关[裂隙-钱币收集 D3]后解锁",
+      "id": "C64FF4C45E10A927"
+    },
+    "unlockConditions": [
+      {
+        "unlockType": "PassDungeon",
+        "unlockArg": "dung01_gold03"
+      },
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      },
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      }
+    ],
+    "markInstId": "dgpoint_lv006_4",
+    "costStamina": 50,
+    "dungeonName": {
+      "text": "裂隙-钱币收集 D4",
+      "id": "2BEC8D1E5D31598F"
+    },
+    "dungeonDesc": {
+      "text": "这是一处充满未知的空间裂隙，认真探索其中的话，或许能够发现折金票。\n“在荒地上流传着这样的故事：曾有穷苦之人走进裂隙，重回人世之时，他们的内脏已被替换成了黄金。”",
+      "id": "B895A049C43500C0"
+    },
+    "difficultyDesc": {
+      "text": "推荐队伍成员50级后挑战",
+      "id": "9B051FE683BEDFEF"
+    },
+    "featureDesc": {
+      "text": "场地内会<@gd.key>大量生成属性能量</>，但是<@ba.key>敌人的攻击力大幅提升</>。适时地激发属性能量变得非常关键。",
+      "id": "E958AB7922A2E80D"
+    },
+    "rewardId": "reward_dung_gold_50",
+    "enemyIds": [
+      "eny_0029_lbmob",
+      "eny_0030_lbmob2",
+      "eny_0033_lbhunt",
+      "eny_0034_lbhunt2"
+    ],
+    "enemyLevels": [
+      45,
+      45,
+      45,
+      45
+    ],
+    "probRewardItemIds": []
+  },
+  "dung01_puzzle01": {
+    "dungeonId": "dung01_puzzle01",
+    "difficulty": 1,
+    "dungeonType": "challenge",
+    "sceneId": "map01_dg005",
+    "unlockText": {
+      "text": "",
+      "id": ""
+    },
+    "unlockConditions": [
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      },
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      },
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      }
+    ],
+    "markInstId": "dgpoint_lv001_4",
+    "costStamina": 0,
+    "dungeonName": {
+      "text": "裂隙-不稳定 编号1",
+      "id": "DB587A5007BCD120"
+    },
+    "dungeonDesc": {
+      "text": "内部不稳定的裂隙，其中出现什么都不令人意外。\n“你真的要进去？它看起来随时都会爆炸啊……”",
+      "id": "C181D28EB001A036"
+    },
+    "difficultyDesc": {
+      "text": "",
+      "id": ""
+    },
+    "featureDesc": {
+      "text": "使用可移动箱子和压感开关达成目标。",
+      "id": "2B63DF546A4E0DCF"
+    },
+    "rewardId": "reward_dung01_puzzle01",
+    "enemyIds": [],
+    "enemyLevels": [],
+    "probRewardItemIds": []
+  },
+  "dung01_puzzle02": {
+    "dungeonId": "dung01_puzzle02",
+    "difficulty": 1,
+    "dungeonType": "challenge",
+    "sceneId": "map01_dg004",
+    "unlockText": {
+      "text": "",
+      "id": ""
+    },
+    "unlockConditions": [
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      },
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      },
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      }
+    ],
+    "markInstId": "dgpoint_lv003_3",
+    "costStamina": 0,
+    "dungeonName": {
+      "text": "裂隙-不稳定 编号2",
+      "id": "6433ECBE8F123898"
+    },
+    "dungeonDesc": {
+      "text": "内部不稳定的裂隙，其中出现什么都不令人意外。\n“你真的要进去？它看起来随时都会爆炸啊……”",
+      "id": "AAFB25F307492750"
+    },
+    "difficultyDesc": {
+      "text": "",
+      "id": ""
+    },
+    "featureDesc": {
+      "text": "使用弹跳装置和移动平台达成目标。",
+      "id": "758A08A1C797EDBB"
+    },
+    "rewardId": "reward_dung01_puzzle02",
+    "enemyIds": [],
+    "enemyLevels": [],
+    "probRewardItemIds": []
+  },
+  "dung01_puzzle03": {
+    "dungeonId": "dung01_puzzle03",
+    "difficulty": 1,
+    "dungeonType": "challenge",
+    "sceneId": "map01_dg006",
+    "unlockText": {
+      "text": "",
+      "id": ""
+    },
+    "unlockConditions": [
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      },
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      },
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      }
+    ],
+    "markInstId": "dgpoint_lv005_3",
+    "costStamina": 0,
+    "dungeonName": {
+      "text": "裂隙-不稳定 编号3",
+      "id": "B109D96312CFF687"
+    },
+    "dungeonDesc": {
+      "text": "内部不稳定的裂隙，其中出现什么都不令人意外。\n“你真的要进去？它看起来随时都会爆炸啊……”",
+      "id": "021D435C877CFBC4"
+    },
+    "difficultyDesc": {
+      "text": "",
+      "id": ""
+    },
+    "featureDesc": {
+      "text": "使用受击反应开关和炸弹达成目标。",
+      "id": "A0D06C924761DD28"
+    },
+    "rewardId": "reward_dung01_puzzle03",
+    "enemyIds": [],
+    "enemyLevels": [],
+    "probRewardItemIds": []
+  },
+  "dung01_skill01": {
+    "dungeonId": "dung01_skill01",
+    "difficulty": 1,
+    "dungeonType": "resource",
+    "sceneId": "map01_dg010",
+    "unlockText": {
+      "text": "",
+      "id": ""
+    },
+    "unlockConditions": [
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      },
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      },
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      }
+    ],
+    "markInstId": "dgpoint_lv003_2",
+    "costStamina": 20,
+    "dungeonName": {
+      "text": "裂隙-技能提升 D1",
+      "id": "819C0420B44B763E"
+    },
+    "dungeonDesc": {
+      "text": "这是一处充满未知的空间裂隙，认真探索其中的话，或许能够发现用于提升干员能力的道具。\n“你应触摸你的精神，感受它的炽热与冰冷，充盈与虚无。”",
+      "id": "0C2D20773C0CB868"
+    },
+    "difficultyDesc": {
+      "text": "推荐队伍成员20级后挑战",
+      "id": "93CE324EA937068E"
+    },
+    "featureDesc": {
+      "text": "迎击<@ba.key>脆弱却凶猛</>的敌人。敌人的<@gd.key>韧性大幅削减</>，但是<@ba.key>攻击力大幅提升</>。击破韧性和控制敌人变得非常关键。",
+      "id": "FC018402DC48F2B4"
+    },
+    "rewardId": "reward_dung_skillup_20",
+    "enemyIds": [
+      "eny_0029_lbmob",
+      "eny_0030_lbmob2",
+      "eny_0034_lbhunt2"
+    ],
+    "enemyLevels": [
+      15,
+      15,
+      15
+    ],
+    "probRewardItemIds": []
+  },
+  "dung01_skill02": {
+    "dungeonId": "dung01_skill02",
+    "difficulty": 2,
+    "dungeonType": "resource",
+    "sceneId": "map01_dg010",
+    "unlockText": {
+      "text": "通关[裂隙-技能提升 D1]后解锁",
+      "id": "291A4B1F015BE215"
+    },
+    "unlockConditions": [
+      {
+        "unlockType": "PassDungeon",
+        "unlockArg": "dung01_skill01"
+      },
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      },
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      }
+    ],
+    "markInstId": "dgpoint_lv003_2",
+    "costStamina": 30,
+    "dungeonName": {
+      "text": "裂隙-技能提升 D2",
+      "id": "CC62B18A2BA6B448"
+    },
+    "dungeonDesc": {
+      "text": "这是一处充满未知的空间裂隙，认真探索其中的话，或许能够发现用于提升干员能力的道具。\n“你应触摸你的精神，感受它的炽热与冰冷，充盈与虚无。”",
+      "id": "BF34F0B168DDF652"
+    },
+    "difficultyDesc": {
+      "text": "推荐队伍成员30级后挑战",
+      "id": "A743B3A0643EC365"
+    },
+    "featureDesc": {
+      "text": "迎击<@ba.key>脆弱却凶猛</>的敌人。敌人的<@gd.key>韧性大幅削减</>，但是<@ba.key>攻击力大幅提升</>。击破韧性和控制敌人变得非常关键。",
+      "id": "F0794620E09C722C"
+    },
+    "rewardId": "reward_dung_skillup_30",
+    "enemyIds": [
+      "eny_0029_lbmob",
+      "eny_0030_lbmob2",
+      "eny_0034_lbhunt2"
+    ],
+    "enemyLevels": [
+      25,
+      25,
+      25
+    ],
+    "probRewardItemIds": []
+  },
+  "dung01_skill03": {
+    "dungeonId": "dung01_skill03",
+    "difficulty": 3,
+    "dungeonType": "resource",
+    "sceneId": "map01_dg010",
+    "unlockText": {
+      "text": "通关[裂隙-技能提升 D2]后解锁",
+      "id": "D66531A7F239C23D"
+    },
+    "unlockConditions": [
+      {
+        "unlockType": "PassDungeon",
+        "unlockArg": "dung01_skill02"
+      },
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      },
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      }
+    ],
+    "markInstId": "dgpoint_lv003_2",
+    "costStamina": 40,
+    "dungeonName": {
+      "text": "裂隙-技能提升 D3",
+      "id": "873CF8FA05613451"
+    },
+    "dungeonDesc": {
+      "text": "这是一处充满未知的空间裂隙，认真探索其中的话，或许能够发现用于提升干员能力的道具。\n“你应触摸你的精神，感受它的炽热与冰冷，充盈与虚无。”",
+      "id": "C312435B2608364E"
+    },
+    "difficultyDesc": {
+      "text": "推荐队伍成员40级后挑战",
+      "id": "B9B161632A29CD7F"
+    },
+    "featureDesc": {
+      "text": "迎击<@ba.key>脆弱却凶猛</>的敌人。敌人的<@gd.key>韧性大幅削减</>，但是<@ba.key>攻击力大幅提升</>。击破韧性和控制敌人变得非常关键。",
+      "id": "5227D6AF77AC5CB7"
+    },
+    "rewardId": "reward_dung_skillup_40",
+    "enemyIds": [
+      "eny_0029_lbmob",
+      "eny_0030_lbmob2",
+      "eny_0034_lbhunt2"
+    ],
+    "enemyLevels": [
+      35,
+      35,
+      35
+    ],
+    "probRewardItemIds": []
+  },
+  "dung01_skill04": {
+    "dungeonId": "dung01_skill04",
+    "difficulty": 4,
+    "dungeonType": "resource",
+    "sceneId": "map01_dg010",
+    "unlockText": {
+      "text": "通关[裂隙-技能提升 D3]后解锁",
+      "id": "76AFCB079522EB08"
+    },
+    "unlockConditions": [
+      {
+        "unlockType": "PassDungeon",
+        "unlockArg": "dung01_skill03"
+      },
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      },
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      }
+    ],
+    "markInstId": "dgpoint_lv006_5",
+    "costStamina": 50,
+    "dungeonName": {
+      "text": "裂隙-技能提升 D4",
+      "id": "014B5303828E188A"
+    },
+    "dungeonDesc": {
+      "text": "这是一处充满未知的空间裂隙，认真探索其中的话，或许能够发现用于提升干员能力的道具。\n“你应触摸你的精神，感受它的炽热与冰冷，充盈与虚无。”",
+      "id": "28FC30F5EAE5D2ED"
+    },
+    "difficultyDesc": {
+      "text": "推荐队伍成员50级后挑战",
+      "id": "802086641C954F26"
+    },
+    "featureDesc": {
+      "text": "迎击<@ba.key>脆弱却凶猛</>的敌人。敌人的<@gd.key>韧性大幅削减</>，但是<@ba.key>攻击力大幅提升</>。击破韧性和控制敌人变得非常关键。",
+      "id": "756106056CCBB6B9"
+    },
+    "rewardId": "reward_dung_skillup_50",
+    "enemyIds": [
+      "eny_0029_lbmob",
+      "eny_0030_lbmob2",
+      "eny_0034_lbhunt2"
+    ],
+    "enemyLevels": [
+      45,
+      45,
+      45
+    ],
+    "probRewardItemIds": []
+  },
+  "dung01_wpbreak01": {
+    "dungeonId": "dung01_wpbreak01",
+    "difficulty": 1,
+    "dungeonType": "resource",
+    "sceneId": "map01_dg011",
+    "unlockText": {
+      "text": "",
+      "id": ""
+    },
+    "unlockConditions": [
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      },
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      },
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      }
+    ],
+    "markInstId": "dgpoint_lv001_3",
+    "costStamina": 20,
+    "dungeonName": {
+      "text": "裂隙-武器进阶 D1",
+      "id": "7C64131CD36792B2"
+    },
+    "dungeonDesc": {
+      "text": "这是一处充满未知的空间裂隙，认真探索其中的话，或许能够发现用于提高武器出力上限的道具。\n“在这片荒芜的土地上，些许苦痛是必不可少的。”",
+      "id": "298FE9C6CAA9CC6F"
+    },
+    "difficultyDesc": {
+      "text": "推荐队伍成员20级后挑战",
+      "id": "78EB95BBE99A9C30"
+    },
+    "featureDesc": {
+      "text": "<@ba.key>无法使用恢复药品</>，但是击杀敌人将恢复大量生命。",
+      "id": "9B78670985FE1444"
+    },
+    "rewardId": "reward_dung_breakthrough_20",
+    "enemyIds": [
+      "eny_0021_agmelee",
+      "eny_0022_agmelee2",
+      "eny_0025_agrange",
+      "eny_0026_agrange2",
+      "eny_0023_aghornb"
+    ],
+    "enemyLevels": [
+      20,
+      20,
+      20,
+      20,
+      20
+    ],
+    "probRewardItemIds": []
+  },
+  "dung01_wpbreak02": {
+    "dungeonId": "dung01_wpbreak02",
+    "difficulty": 2,
+    "dungeonType": "resource",
+    "sceneId": "map01_dg011",
+    "unlockText": {
+      "text": "通关[裂隙-武器进阶 D1]后解锁",
+      "id": "AFCB1A613F692E7C"
+    },
+    "unlockConditions": [
+      {
+        "unlockType": "PassDungeon",
+        "unlockArg": "dung01_wpbreak01"
+      },
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      },
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      }
+    ],
+    "markInstId": "dgpoint_lv001_3",
+    "costStamina": 30,
+    "dungeonName": {
+      "text": "裂隙-武器进阶 D2",
+      "id": "67F4986503D71C74"
+    },
+    "dungeonDesc": {
+      "text": "这是一处充满未知的空间裂隙，认真探索其中的话，或许能够发现用于提高武器出力上限的道具。\n“在这片荒芜的土地上，些许苦痛是必不可少的。”",
+      "id": "D8295667781B9FCF"
+    },
+    "difficultyDesc": {
+      "text": "推荐队伍成员30级后挑战",
+      "id": "ACA8FC2126538615"
+    },
+    "featureDesc": {
+      "text": "<@ba.key>无法使用恢复药品</>，但是击杀敌人将恢复大量生命。",
+      "id": "E632AE7406336B3B"
+    },
+    "rewardId": "reward_dung_breakthrough_30",
+    "enemyIds": [
+      "eny_0021_agmelee",
+      "eny_0022_agmelee2",
+      "eny_0025_agrange",
+      "eny_0026_agrange2",
+      "eny_0023_aghornb"
+    ],
+    "enemyLevels": [
+      30,
+      30,
+      30,
+      30,
+      30
+    ],
+    "probRewardItemIds": []
+  },
+  "dung01_wpbreak03": {
+    "dungeonId": "dung01_wpbreak03",
+    "difficulty": 3,
+    "dungeonType": "resource",
+    "sceneId": "map01_dg011",
+    "unlockText": {
+      "text": "通关[裂隙-武器进阶 D2]后解锁",
+      "id": "007DEB8CE4A87050"
+    },
+    "unlockConditions": [
+      {
+        "unlockType": "PassDungeon",
+        "unlockArg": "dung01_wpbreak02"
+      },
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      },
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      }
+    ],
+    "markInstId": "dgpoint_lv001_3",
+    "costStamina": 40,
+    "dungeonName": {
+      "text": "裂隙-武器进阶 D3",
+      "id": "F08CD5132D5D4BC7"
+    },
+    "dungeonDesc": {
+      "text": "这是一处充满未知的空间裂隙，认真探索其中的话，或许能够发现用于提高武器出力上限的道具。\n“在这片荒芜的土地上，些许苦痛是必不可少的。”",
+      "id": "C5DC48261BCA8BBB"
+    },
+    "difficultyDesc": {
+      "text": "推荐队伍成员45级后挑战",
+      "id": "6C9B40072F4BE4CF"
+    },
+    "featureDesc": {
+      "text": "<@ba.key>无法使用恢复药品</>，但是击杀敌人将恢复大量生命。",
+      "id": "54B3438DD70384D9"
+    },
+    "rewardId": "reward_dung_breakthrough_40",
+    "enemyIds": [
+      "eny_0021_agmelee",
+      "eny_0022_agmelee2",
+      "eny_0025_agrange",
+      "eny_0026_agrange2",
+      "eny_0023_aghornb"
+    ],
+    "enemyLevels": [
+      40,
+      40,
+      40,
+      40,
+      40
+    ],
+    "probRewardItemIds": []
+  },
+  "dung01_wpbreak04": {
+    "dungeonId": "dung01_wpbreak04",
+    "difficulty": 4,
+    "dungeonType": "resource",
+    "sceneId": "map01_dg011",
+    "unlockText": {
+      "text": "通关[裂隙-武器进阶 D3]后解锁",
+      "id": "4B39019C692E4740"
+    },
+    "unlockConditions": [
+      {
+        "unlockType": "PassDungeon",
+        "unlockArg": "dung01_wpbreak03"
+      },
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      },
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      }
+    ],
+    "markInstId": "dgpoint_lv006_3",
+    "costStamina": 50,
+    "dungeonName": {
+      "text": "裂隙-武器进阶 D4",
+      "id": "5726E71992648549"
+    },
+    "dungeonDesc": {
+      "text": "这是一处充满未知的空间裂隙，认真探索其中的话，或许能够发现用于提高武器出力上限的道具。\n“在这片荒芜的土地上，些许苦痛是必不可少的。”",
+      "id": "71809DE94CCB8EE2"
+    },
+    "difficultyDesc": {
+      "text": "推荐队伍成员55级后挑战",
+      "id": "CC330173388BC9F2"
+    },
+    "featureDesc": {
+      "text": "<@ba.key>无法使用恢复药品</>，但是击杀敌人将恢复大量生命。",
+      "id": "BC1D680389E0680D"
+    },
+    "rewardId": "reward_dung_breakthrough_50",
+    "enemyIds": [
+      "eny_0021_agmelee",
+      "eny_0022_agmelee2",
+      "eny_0025_agrange",
+      "eny_0026_agrange2",
+      "eny_0023_aghornb"
+    ],
+    "enemyLevels": [
+      50,
+      50,
+      50,
+      50,
+      50
+    ],
+    "probRewardItemIds": []
+  },
+  "dung01_wpexp01": {
+    "dungeonId": "dung01_wpexp01",
+    "difficulty": 1,
+    "dungeonType": "resource",
+    "sceneId": "map01_dg011",
+    "unlockText": {
+      "text": "",
+      "id": ""
+    },
+    "unlockConditions": [
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      },
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      },
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      }
+    ],
+    "markInstId": "dgpoint_lv001_2",
+    "costStamina": 20,
+    "dungeonName": {
+      "text": "裂隙-武器强化 D1",
+      "id": "74436E9C4797C962"
+    },
+    "dungeonDesc": {
+      "text": "这是一处充满未知的空间裂隙，认真探索其中的话，或许能够发现用于磨砺武器的道具。\n“在这片荒芜的土地上，些许愤怒是必不可少的。”",
+      "id": "AC883D58F0C4AD84"
+    },
+    "difficultyDesc": {
+      "text": "推荐队伍成员20级后挑战",
+      "id": "D34778CB0DE4A6F0"
+    },
+    "featureDesc": {
+      "text": "小心<@ba.key>特殊敌人</>，敌人周期性地对场地进行轰炸将阻碍战斗。",
+      "id": "CC2E615191E8DB08"
+    },
+    "rewardId": "reward_dung_weapon_upgrade_20",
+    "enemyIds": [
+      "eny_0021_agmelee",
+      "eny_0022_agmelee2",
+      "eny_0025_agrange",
+      "eny_0026_agrange2",
+      "eny_0023_aghornb",
+      "eny_0027_agscorp",
+      "eny_0039_agcanno_dung01"
+    ],
+    "enemyLevels": [
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20
+    ],
+    "probRewardItemIds": []
+  },
+  "dung01_wpexp02": {
+    "dungeonId": "dung01_wpexp02",
+    "difficulty": 2,
+    "dungeonType": "resource",
+    "sceneId": "map01_dg011",
+    "unlockText": {
+      "text": "通关[裂隙-武器强化 D1]后解锁",
+      "id": "82B8DCF21C5532F9"
+    },
+    "unlockConditions": [
+      {
+        "unlockType": "PassDungeon",
+        "unlockArg": "dung01_wpexp01"
+      },
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      },
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      }
+    ],
+    "markInstId": "dgpoint_lv001_2",
+    "costStamina": 30,
+    "dungeonName": {
+      "text": "裂隙-武器强化 D2",
+      "id": "70D8780800AD3BA3"
+    },
+    "dungeonDesc": {
+      "text": "这是一处充满未知的空间裂隙，认真探索其中的话，或许能够发现用于磨砺武器的道具。\n“在这片荒芜的土地上，些许愤怒是必不可少的。”",
+      "id": "60AE0542E9E34F7A"
+    },
+    "difficultyDesc": {
+      "text": "推荐队伍成员30级后挑战",
+      "id": "135EE54D2628B59E"
+    },
+    "featureDesc": {
+      "text": "小心<@ba.key>特殊敌人</>，敌人周期性地对场地进行轰炸将阻碍战斗。",
+      "id": "060411523597DC1A"
+    },
+    "rewardId": "reward_dung_weapon_upgrade_30",
+    "enemyIds": [
+      "eny_0021_agmelee",
+      "eny_0022_agmelee2",
+      "eny_0025_agrange",
+      "eny_0026_agrange2",
+      "eny_0023_aghornb",
+      "eny_0027_agscorp",
+      "eny_0039_agcanno_dung01"
+    ],
+    "enemyLevels": [
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30
+    ],
+    "probRewardItemIds": []
+  },
+  "dung01_wpexp03": {
+    "dungeonId": "dung01_wpexp03",
+    "difficulty": 3,
+    "dungeonType": "resource",
+    "sceneId": "map01_dg011",
+    "unlockText": {
+      "text": "通关[裂隙-武器强化 D2]后解锁",
+      "id": "5FE848454582DE9A"
+    },
+    "unlockConditions": [
+      {
+        "unlockType": "PassDungeon",
+        "unlockArg": "dung01_wpexp02"
+      },
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      },
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      }
+    ],
+    "markInstId": "dgpoint_lv001_2",
+    "costStamina": 40,
+    "dungeonName": {
+      "text": "裂隙-武器强化 D3",
+      "id": "5CD798A6C1C9F30F"
+    },
+    "dungeonDesc": {
+      "text": "这是一处充满未知的空间裂隙，认真探索其中的话，或许能够发现用于磨砺武器的道具。\n“在这片荒芜的土地上，些许愤怒是必不可少的。”",
+      "id": "E0624F212647B9E4"
+    },
+    "difficultyDesc": {
+      "text": "推荐队伍成员45级后挑战",
+      "id": "0F44899E723C33EF"
+    },
+    "featureDesc": {
+      "text": "小心<@ba.key>特殊敌人</>，敌人周期性地对场地进行轰炸将阻碍战斗。",
+      "id": "DD6DA1E906A17AEF"
+    },
+    "rewardId": "reward_dung_weapon_upgrade_40",
+    "enemyIds": [
+      "eny_0021_agmelee",
+      "eny_0022_agmelee2",
+      "eny_0025_agrange",
+      "eny_0026_agrange2",
+      "eny_0023_aghornb",
+      "eny_0027_agscorp",
+      "eny_0039_agcanno_dung01"
+    ],
+    "enemyLevels": [
+      40,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40
+    ],
+    "probRewardItemIds": []
+  },
+  "dung01_wpexp04": {
+    "dungeonId": "dung01_wpexp04",
+    "difficulty": 4,
+    "dungeonType": "resource",
+    "sceneId": "map01_dg011",
+    "unlockText": {
+      "text": "通关[裂隙-武器强化 D3]后解锁",
+      "id": "3AEECBB68C1692C1"
+    },
+    "unlockConditions": [
+      {
+        "unlockType": "PassDungeon",
+        "unlockArg": "dung01_wpexp03"
+      },
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      },
+      {
+        "unlockType": "",
+        "unlockArg": ""
+      }
+    ],
+    "markInstId": "dgpoint_lv005_2",
+    "costStamina": 50,
+    "dungeonName": {
+      "text": "裂隙-武器强化 D4",
+      "id": "4FF70B35A080CE8C"
+    },
+    "dungeonDesc": {
+      "text": "这是一处充满未知的空间裂隙，认真探索其中的话，或许能够发现用于磨砺武器的道具。\n“在这片荒芜的土地上，些许愤怒是必不可少的。”",
+      "id": "ADA32583307BCAB2"
+    },
+    "difficultyDesc": {
+      "text": "推荐队伍成员55级后挑战",
+      "id": "0B7F1CD2B9A9BDCE"
+    },
+    "featureDesc": {
+      "text": "小心<@ba.key>特殊敌人</>，敌人周期性地对场地进行轰炸将阻碍战斗。",
+      "id": "0FD8052F73097A93"
+    },
+    "rewardId": "reward_dung_weapon_upgrade_50",
+    "enemyIds": [
+      "eny_0021_agmelee",
+      "eny_0022_agmelee2",
+      "eny_0025_agrange",
+      "eny_0026_agrange2",
+      "eny_0023_aghornb",
+      "eny_0027_agscorp",
+      "eny_0039_agcanno_dung01"
+    ],
+    "enemyLevels": [
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50
+    ],
+    "probRewardItemIds": []
+  }
+}

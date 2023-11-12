@@ -1,0 +1,1374 @@
+{
+  "blocpoint_lv001_1": {
+    "markInsId": "blocpoint_lv001_1",
+    "defaultState": "Invisible",
+    "visibleMethod": "Action",
+    "activeMethod": "Action",
+    "markInfoId": "mark_sp_bloc",
+    "levelId": "map01_lv001",
+    "logicId": 0,
+    "pos": {
+      "x": 418.28,
+      "y": 106.26,
+      "z": 276.1
+    }
+  },
+  "camp_lv001_246": {
+    "markInsId": "camp_lv001_246",
+    "defaultState": "Inactive",
+    "visibleMethod": "Fixed",
+    "activeMethod": "Action",
+    "markInfoId": "mark_sp_campfire",
+    "levelId": "map01_lv001",
+    "logicId": 246,
+    "pos": {
+      "x": 449.0,
+      "y": 107.0,
+      "z": 217.0
+    }
+  },
+  "camp_lv001_61": {
+    "markInsId": "camp_lv001_61",
+    "defaultState": "Inactive",
+    "visibleMethod": "Fixed",
+    "activeMethod": "Action",
+    "markInfoId": "mark_sp_campfire",
+    "levelId": "map01_lv001",
+    "logicId": 61,
+    "pos": {
+      "x": 182.0,
+      "y": 102.0,
+      "z": 259.0
+    }
+  },
+  "camp_lv002_1027": {
+    "markInsId": "camp_lv002_1027",
+    "defaultState": "Inactive",
+    "visibleMethod": "Fixed",
+    "activeMethod": "Action",
+    "markInfoId": "mark_sp_campfire",
+    "levelId": "map01_lv002",
+    "logicId": 1027,
+    "pos": {
+      "x": 167.0,
+      "y": 39.0,
+      "z": 252.0
+    }
+  },
+  "camp_lv002_57": {
+    "markInsId": "camp_lv002_57",
+    "defaultState": "Inactive",
+    "visibleMethod": "Fixed",
+    "activeMethod": "Action",
+    "markInfoId": "mark_sp_campfire",
+    "levelId": "map01_lv002",
+    "logicId": 57,
+    "pos": {
+      "x": 405.0,
+      "y": 28.0,
+      "z": 16.0
+    }
+  },
+  "camp_lv002_58": {
+    "markInsId": "camp_lv002_58",
+    "defaultState": "Inactive",
+    "visibleMethod": "Fixed",
+    "activeMethod": "Action",
+    "markInfoId": "mark_sp_campfire",
+    "levelId": "map01_lv002",
+    "logicId": 58,
+    "pos": {
+      "x": 202.0,
+      "y": 31.0,
+      "z": 120.0
+    }
+  },
+  "camp_lv003_514": {
+    "markInsId": "camp_lv003_514",
+    "defaultState": "Inactive",
+    "visibleMethod": "Fixed",
+    "activeMethod": "Action",
+    "markInfoId": "mark_sp_campfire",
+    "levelId": "map01_lv003",
+    "logicId": 514,
+    "pos": {
+      "x": 262.0,
+      "y": 132.8,
+      "z": 311.1
+    }
+  },
+  "camp_lv003_515": {
+    "markInsId": "camp_lv003_515",
+    "defaultState": "Inactive",
+    "visibleMethod": "Fixed",
+    "activeMethod": "Action",
+    "markInfoId": "mark_sp_campfire",
+    "levelId": "map01_lv003",
+    "logicId": 515,
+    "pos": {
+      "x": 428.5,
+      "y": 120.68,
+      "z": 425.13
+    }
+  },
+  "camp_lv005_40237": {
+    "markInsId": "camp_lv005_40237",
+    "defaultState": "Inactive",
+    "visibleMethod": "Fixed",
+    "activeMethod": "Action",
+    "markInfoId": "mark_sp_campfire",
+    "levelId": "map01_lv005",
+    "logicId": 40237,
+    "pos": {
+      "x": 1437.41,
+      "y": 80.3,
+      "z": 647.45
+    }
+  },
+  "camp_lv005_40238": {
+    "markInsId": "camp_lv005_40238",
+    "defaultState": "Inactive",
+    "visibleMethod": "Fixed",
+    "activeMethod": "Action",
+    "markInfoId": "mark_sp_campfire",
+    "levelId": "map01_lv005",
+    "logicId": 40238,
+    "pos": {
+      "x": 1705.0,
+      "y": 98.39,
+      "z": 667.0
+    }
+  },
+  "camp_lv005_40239": {
+    "markInsId": "camp_lv005_40239",
+    "defaultState": "Inactive",
+    "visibleMethod": "Fixed",
+    "activeMethod": "Action",
+    "markInfoId": "mark_sp_campfire",
+    "levelId": "map01_lv005",
+    "logicId": 40239,
+    "pos": {
+      "x": 1775.38,
+      "y": 93.88,
+      "z": 470.68
+    }
+  },
+  "camp_lv006_20615": {
+    "markInsId": "camp_lv006_20615",
+    "defaultState": "Inactive",
+    "visibleMethod": "Fixed",
+    "activeMethod": "Action",
+    "markInfoId": "mark_sp_campfire",
+    "levelId": "map01_lv006",
+    "logicId": 20615,
+    "pos": {
+      "x": 594.6,
+      "y": 49.17,
+      "z": 294.0
+    }
+  },
+  "camp_lv006_21248": {
+    "markInsId": "camp_lv006_21248",
+    "defaultState": "Inactive",
+    "visibleMethod": "Fixed",
+    "activeMethod": "Action",
+    "markInfoId": "mark_sp_campfire",
+    "levelId": "map01_lv006",
+    "logicId": 21248,
+    "pos": {
+      "x": 428.92,
+      "y": 54.99,
+      "z": 377.8
+    }
+  },
+  "camp_lv006_30213": {
+    "markInsId": "camp_lv006_30213",
+    "defaultState": "Inactive",
+    "visibleMethod": "Fixed",
+    "activeMethod": "Action",
+    "markInfoId": "mark_sp_campfire",
+    "levelId": "map01_lv006",
+    "logicId": 30213,
+    "pos": {
+      "x": 269.0,
+      "y": 61.0,
+      "z": 613.7
+    }
+  },
+  "camp_lv006_30214": {
+    "markInsId": "camp_lv006_30214",
+    "defaultState": "Inactive",
+    "visibleMethod": "Fixed",
+    "activeMethod": "Action",
+    "markInfoId": "mark_sp_campfire",
+    "levelId": "map01_lv006",
+    "logicId": 30214,
+    "pos": {
+      "x": 459.48,
+      "y": 60.4,
+      "z": 504.76
+    }
+  },
+  "dgpoint_lv001_1": {
+    "markInsId": "dgpoint_lv001_1",
+    "defaultState": "Invisible",
+    "visibleMethod": "Action",
+    "activeMethod": "Action",
+    "markInfoId": "mark_dg_pazzle",
+    "levelId": "map01_lv001",
+    "logicId": 30007,
+    "pos": {
+      "x": 381.11,
+      "y": 107.14,
+      "z": 298.1
+    }
+  },
+  "dgpoint_lv001_2": {
+    "markInsId": "dgpoint_lv001_2",
+    "defaultState": "Invisible",
+    "visibleMethod": "Action",
+    "activeMethod": "Action",
+    "markInfoId": "mark_dg_pazzle",
+    "levelId": "map01_lv001",
+    "logicId": 30203,
+    "pos": {
+      "x": 211.9,
+      "y": 115.62,
+      "z": 314.8
+    }
+  },
+  "dgpoint_lv001_3": {
+    "markInsId": "dgpoint_lv001_3",
+    "defaultState": "Invisible",
+    "visibleMethod": "Action",
+    "activeMethod": "Action",
+    "markInfoId": "mark_dg_pazzle",
+    "levelId": "map01_lv001",
+    "logicId": 30333,
+    "pos": {
+      "x": 295.34,
+      "y": 99.94,
+      "z": 215.87
+    }
+  },
+  "dgpoint_lv001_4": {
+    "markInsId": "dgpoint_lv001_4",
+    "defaultState": "Invisible",
+    "visibleMethod": "Action",
+    "activeMethod": "Action",
+    "markInfoId": "mark_dg_pazzle",
+    "levelId": "map01_lv001",
+    "logicId": 30006,
+    "pos": {
+      "x": 351.3,
+      "y": 127.59,
+      "z": 515.51
+    }
+  },
+  "dgpoint_lv002_1": {
+    "markInsId": "dgpoint_lv002_1",
+    "defaultState": "Invisible",
+    "visibleMethod": "Action",
+    "activeMethod": "Action",
+    "markInfoId": "mark_dg_pazzle",
+    "levelId": "map01_lv002",
+    "logicId": 1147,
+    "pos": {
+      "x": 311.3,
+      "y": 33.28,
+      "z": 142.96
+    }
+  },
+  "dgpoint_lv003_1": {
+    "markInsId": "dgpoint_lv003_1",
+    "defaultState": "Invisible",
+    "visibleMethod": "Action",
+    "activeMethod": "Action",
+    "markInfoId": "mark_dg_pazzle",
+    "levelId": "map01_lv003",
+    "logicId": 1526,
+    "pos": {
+      "x": 350.35,
+      "y": 117.59,
+      "z": 257.15
+    }
+  },
+  "dgpoint_lv003_2": {
+    "markInsId": "dgpoint_lv003_2",
+    "defaultState": "Invisible",
+    "visibleMethod": "Action",
+    "activeMethod": "Action",
+    "markInfoId": "mark_dg_pazzle",
+    "levelId": "map01_lv003",
+    "logicId": 1522,
+    "pos": {
+      "x": 251.99,
+      "y": 134.11,
+      "z": 404.82
+    }
+  },
+  "dgpoint_lv003_3": {
+    "markInsId": "dgpoint_lv003_3",
+    "defaultState": "Invisible",
+    "visibleMethod": "Action",
+    "activeMethod": "Action",
+    "markInfoId": "mark_dg_pazzle",
+    "levelId": "map01_lv003",
+    "logicId": 1528,
+    "pos": {
+      "x": 361.52,
+      "y": 102.68,
+      "z": 394.06
+    }
+  },
+  "dgpoint_lv003_4": {
+    "markInsId": "dgpoint_lv003_4",
+    "defaultState": "Invisible",
+    "visibleMethod": "Action",
+    "activeMethod": "Action",
+    "markInfoId": "mark_dg_pazzle",
+    "levelId": "map01_lv003",
+    "logicId": 1527,
+    "pos": {
+      "x": 447.9,
+      "y": 138.03,
+      "z": 308.73
+    }
+  },
+  "dgpoint_lv005_1": {
+    "markInsId": "dgpoint_lv005_1",
+    "defaultState": "Invisible",
+    "visibleMethod": "Action",
+    "activeMethod": "Action",
+    "markInfoId": "mark_dg_pazzle",
+    "levelId": "map01_lv005",
+    "logicId": 50487,
+    "pos": {
+      "x": 1781.66,
+      "y": 81.85,
+      "z": 469.04
+    }
+  },
+  "dgpoint_lv005_2": {
+    "markInsId": "dgpoint_lv005_2",
+    "defaultState": "Invisible",
+    "visibleMethod": "Action",
+    "activeMethod": "Action",
+    "markInfoId": "mark_dg_pazzle",
+    "levelId": "map01_lv005",
+    "logicId": 50488,
+    "pos": {
+      "x": 1581.67,
+      "y": 87.43,
+      "z": 564.74
+    }
+  },
+  "dgpoint_lv005_3": {
+    "markInsId": "dgpoint_lv005_3",
+    "defaultState": "Invisible",
+    "visibleMethod": "Action",
+    "activeMethod": "Action",
+    "markInfoId": "mark_dg_pazzle",
+    "levelId": "map01_lv005",
+    "logicId": 50534,
+    "pos": {
+      "x": 1585.78,
+      "y": 95.28,
+      "z": 427.64
+    }
+  },
+  "dgpoint_lv005_4": {
+    "markInsId": "dgpoint_lv005_4",
+    "defaultState": "Invisible",
+    "visibleMethod": "Action",
+    "activeMethod": "Action",
+    "markInfoId": "mark_dg_pazzle",
+    "levelId": "map01_lv005",
+    "logicId": 50629,
+    "pos": {
+      "x": 1715.93,
+      "y": 116.49,
+      "z": 529.39
+    }
+  },
+  "dgpoint_lv006_1": {
+    "markInsId": "dgpoint_lv006_1",
+    "defaultState": "Invisible",
+    "visibleMethod": "Action",
+    "activeMethod": "Action",
+    "markInfoId": "mark_dg_pazzle",
+    "levelId": "map01_lv006",
+    "logicId": 30528,
+    "pos": {
+      "x": 635.19,
+      "y": 52.81,
+      "z": 478.59
+    }
+  },
+  "dgpoint_lv006_2": {
+    "markInsId": "dgpoint_lv006_2",
+    "defaultState": "Invisible",
+    "visibleMethod": "Action",
+    "activeMethod": "Action",
+    "markInfoId": "mark_dg_pazzle",
+    "levelId": "map01_lv006",
+    "logicId": 21250,
+    "pos": {
+      "x": 530.43,
+      "y": 48.5,
+      "z": 293.86
+    }
+  },
+  "dgpoint_lv006_3": {
+    "markInsId": "dgpoint_lv006_3",
+    "defaultState": "Invisible",
+    "visibleMethod": "Action",
+    "activeMethod": "Action",
+    "markInfoId": "mark_dg_pazzle",
+    "levelId": "map01_lv006",
+    "logicId": 21249,
+    "pos": {
+      "x": 377.49,
+      "y": 53.97,
+      "z": 356.16
+    }
+  },
+  "dgpoint_lv006_4": {
+    "markInsId": "dgpoint_lv006_4",
+    "defaultState": "Invisible",
+    "visibleMethod": "Action",
+    "activeMethod": "Action",
+    "markInfoId": "mark_dg_pazzle",
+    "levelId": "map01_lv006",
+    "logicId": 30532,
+    "pos": {
+      "x": 678.69,
+      "y": 59.61,
+      "z": 718.49
+    }
+  },
+  "dgpoint_lv006_5": {
+    "markInsId": "dgpoint_lv006_5",
+    "defaultState": "Invisible",
+    "visibleMethod": "Action",
+    "activeMethod": "Action",
+    "markInfoId": "mark_dg_pazzle",
+    "levelId": "map01_lv006",
+    "logicId": 30530,
+    "pos": {
+      "x": 411.51,
+      "y": 61.34,
+      "z": 617.13
+    }
+  },
+  "dgpoint_lv006_6": {
+    "markInsId": "dgpoint_lv006_6",
+    "defaultState": "Invisible",
+    "visibleMethod": "Action",
+    "activeMethod": "Action",
+    "markInfoId": "mark_dg_pazzle",
+    "levelId": "map01_lv006",
+    "logicId": 30529,
+    "pos": {
+      "x": 411.51,
+      "y": 61.34,
+      "z": 617.13
+    }
+  },
+  "fac_unlocker_lv003_20031": {
+    "markInsId": "fac_unlocker_lv003_20031",
+    "defaultState": "Inactive",
+    "visibleMethod": "Fixed",
+    "activeMethod": "Action",
+    "markInfoId": "mark_fac_unlocker",
+    "levelId": "map01_lv003",
+    "logicId": 20031,
+    "pos": {
+      "x": 451.29,
+      "y": 141.94,
+      "z": 337.21
+    }
+  },
+  "fac_unlocker_lv005_140060": {
+    "markInsId": "fac_unlocker_lv005_140060",
+    "defaultState": "Inactive",
+    "visibleMethod": "Fixed",
+    "activeMethod": "Action",
+    "markInfoId": "mark_fac_unlocker",
+    "levelId": "map01_lv005",
+    "logicId": 140060,
+    "pos": {
+      "x": 691.68,
+      "y": 116.4,
+      "z": 378.1
+    }
+  },
+  "fac_unlocker_lv006_70001": {
+    "markInsId": "fac_unlocker_lv006_70001",
+    "defaultState": "Inactive",
+    "visibleMethod": "Fixed",
+    "activeMethod": "Action",
+    "markInfoId": "mark_fac_unlocker",
+    "levelId": "map01_lv006",
+    "logicId": 70001,
+    "pos": {
+      "x": 526.64,
+      "y": 46.44,
+      "z": 274.22
+    }
+  },
+  "fac_unlocker_lv006_70173": {
+    "markInsId": "fac_unlocker_lv006_70173",
+    "defaultState": "Inactive",
+    "visibleMethod": "Fixed",
+    "activeMethod": "Action",
+    "markInfoId": "mark_fac_unlocker",
+    "levelId": "map01_lv006",
+    "logicId": 70173,
+    "pos": {
+      "x": 404.29,
+      "y": 77.42,
+      "z": 581.1
+    }
+  },
+  "gatherpoint_lv001_3": {
+    "markInsId": "gatherpoint_lv001_3",
+    "defaultState": "Invisible",
+    "visibleMethod": "Near",
+    "activeMethod": "Near",
+    "markInfoId": "mark_p_plant1_2_1",
+    "levelId": "map01_lv001",
+    "logicId": 0,
+    "pos": {
+      "x": 373.6,
+      "y": 118.5,
+      "z": 395.0
+    }
+  },
+  "gatherpoint_lv001_4": {
+    "markInsId": "gatherpoint_lv001_4",
+    "defaultState": "Invisible",
+    "visibleMethod": "Near",
+    "activeMethod": "Near",
+    "markInfoId": "mark_p_plant2",
+    "levelId": "map01_lv001",
+    "logicId": 0,
+    "pos": {
+      "x": 149.5,
+      "y": 108.5,
+      "z": 299.5
+    }
+  },
+  "gatherpoint_lv001_5": {
+    "markInsId": "gatherpoint_lv001_5",
+    "defaultState": "Invisible",
+    "visibleMethod": "Near",
+    "activeMethod": "Near",
+    "markInfoId": "mark_p_plant2",
+    "levelId": "map01_lv001",
+    "logicId": 0,
+    "pos": {
+      "x": 312.4,
+      "y": 99.8,
+      "z": 259.5
+    }
+  },
+  "gatherpoint_lv001_6": {
+    "markInsId": "gatherpoint_lv001_6",
+    "defaultState": "Invisible",
+    "visibleMethod": "Near",
+    "activeMethod": "Near",
+    "markInfoId": "mark_p_plant3",
+    "levelId": "map01_lv001",
+    "logicId": 0,
+    "pos": {
+      "x": 200.7,
+      "y": 113.8,
+      "z": 353.5
+    }
+  },
+  "gatherpoint_lv001_7": {
+    "markInsId": "gatherpoint_lv001_7",
+    "defaultState": "Invisible",
+    "visibleMethod": "Near",
+    "activeMethod": "Near",
+    "markInfoId": "mark_p_plant5_1",
+    "levelId": "map01_lv001",
+    "logicId": 0,
+    "pos": {
+      "x": 147.8,
+      "y": 73.7,
+      "z": 307.8
+    }
+  },
+  "gatherpoint_lv002_1": {
+    "markInsId": "gatherpoint_lv002_1",
+    "defaultState": "Invisible",
+    "visibleMethod": "Near",
+    "activeMethod": "Near",
+    "markInfoId": "mark_p_plant1_1",
+    "levelId": "map01_lv002",
+    "logicId": 0,
+    "pos": {
+      "x": 266.4,
+      "y": 33.6,
+      "z": 167.2
+    }
+  },
+  "gatherpoint_lv002_2": {
+    "markInsId": "gatherpoint_lv002_2",
+    "defaultState": "Invisible",
+    "visibleMethod": "Near",
+    "activeMethod": "Near",
+    "markInfoId": "mark_p_plant2",
+    "levelId": "map01_lv002",
+    "logicId": 0,
+    "pos": {
+      "x": 318.8,
+      "y": 33.3,
+      "z": 130.9
+    }
+  },
+  "gatherpoint_lv002_3": {
+    "markInsId": "gatherpoint_lv002_3",
+    "defaultState": "Invisible",
+    "visibleMethod": "Near",
+    "activeMethod": "Near",
+    "markInfoId": "mark_p_plant2",
+    "levelId": "map01_lv002",
+    "logicId": 0,
+    "pos": {
+      "x": 105.9,
+      "y": 31.0,
+      "z": 147.6
+    }
+  },
+  "gatherpoint_lv002_4": {
+    "markInsId": "gatherpoint_lv002_4",
+    "defaultState": "Invisible",
+    "visibleMethod": "Near",
+    "activeMethod": "Near",
+    "markInfoId": "mark_p_plant1_2",
+    "levelId": "map01_lv002",
+    "logicId": 0,
+    "pos": {
+      "x": 169.9,
+      "y": 39.0,
+      "z": 239.2
+    }
+  },
+  "gatherpoint_lv003_1": {
+    "markInsId": "gatherpoint_lv003_1",
+    "defaultState": "Invisible",
+    "visibleMethod": "Near",
+    "activeMethod": "Near",
+    "markInfoId": "mark_p_plant5_2",
+    "levelId": "map01_lv003",
+    "logicId": 0,
+    "pos": {
+      "x": 483.6,
+      "y": 125.1,
+      "z": 444.2
+    }
+  },
+  "gatherpoint_lv003_2": {
+    "markInsId": "gatherpoint_lv003_2",
+    "defaultState": "Invisible",
+    "visibleMethod": "Near",
+    "activeMethod": "Near",
+    "markInfoId": "mark_p_plant6_1",
+    "levelId": "map01_lv003",
+    "logicId": 0,
+    "pos": {
+      "x": 296.1,
+      "y": 131.1,
+      "z": 423.8
+    }
+  },
+  "gatherpoint_lv003_3": {
+    "markInsId": "gatherpoint_lv003_3",
+    "defaultState": "Invisible",
+    "visibleMethod": "Near",
+    "activeMethod": "Near",
+    "markInfoId": "mark_p_plant4",
+    "levelId": "map01_lv003",
+    "logicId": 0,
+    "pos": {
+      "x": 334.3,
+      "y": 99.7,
+      "z": 284.8
+    }
+  },
+  "gatherpoint_lv003_4": {
+    "markInsId": "gatherpoint_lv003_4",
+    "defaultState": "Invisible",
+    "visibleMethod": "Near",
+    "activeMethod": "Near",
+    "markInfoId": "mark_p_plant3",
+    "levelId": "map01_lv003",
+    "logicId": 0,
+    "pos": {
+      "x": 316.0,
+      "y": 124.8,
+      "z": 404.1
+    }
+  },
+  "gatherpoint_lv003_5": {
+    "markInsId": "gatherpoint_lv003_5",
+    "defaultState": "Invisible",
+    "visibleMethod": "Near",
+    "activeMethod": "Near",
+    "markInfoId": "mark_p_plant1_1",
+    "levelId": "map01_lv003",
+    "logicId": 0,
+    "pos": {
+      "x": 296.3,
+      "y": 109.9,
+      "z": 314.5
+    }
+  },
+  "gatherpoint_lv003_6": {
+    "markInsId": "gatherpoint_lv003_6",
+    "defaultState": "Invisible",
+    "visibleMethod": "Near",
+    "activeMethod": "Near",
+    "markInfoId": "mark_p_plant6_2",
+    "levelId": "map01_lv003",
+    "logicId": 0,
+    "pos": {
+      "x": 470.7,
+      "y": 118.5,
+      "z": 267.7
+    }
+  },
+  "gatherpoint_lv005_1": {
+    "markInsId": "gatherpoint_lv005_1",
+    "defaultState": "Invisible",
+    "visibleMethod": "Near",
+    "activeMethod": "Near",
+    "markInfoId": "mark_p_plant3",
+    "levelId": "map01_lv005",
+    "logicId": 0,
+    "pos": {
+      "x": 605.0,
+      "y": 96.8,
+      "z": 331.2
+    }
+  },
+  "gatherpoint_lv005_2": {
+    "markInsId": "gatherpoint_lv005_2",
+    "defaultState": "Invisible",
+    "visibleMethod": "Near",
+    "activeMethod": "Near",
+    "markInfoId": "mark_p_plant6_3",
+    "levelId": "map01_lv005",
+    "logicId": 0,
+    "pos": {
+      "x": 574.0,
+      "y": 97.0,
+      "z": 376.5
+    }
+  },
+  "gatherpoint_lv005_3": {
+    "markInsId": "gatherpoint_lv005_3",
+    "defaultState": "Invisible",
+    "visibleMethod": "Near",
+    "activeMethod": "Near",
+    "markInfoId": "mark_p_plant3",
+    "levelId": "map01_lv005",
+    "logicId": 0,
+    "pos": {
+      "x": 852.2,
+      "y": 80.0,
+      "z": 578.3
+    }
+  },
+  "gatherpoint_lv005_4": {
+    "markInsId": "gatherpoint_lv005_4",
+    "defaultState": "Invisible",
+    "visibleMethod": "Near",
+    "activeMethod": "Near",
+    "markInfoId": "mark_p_plant6_3",
+    "levelId": "map01_lv005",
+    "logicId": 0,
+    "pos": {
+      "x": 830.6,
+      "y": 90.4,
+      "z": 361.7
+    }
+  },
+  "gatherpoint_lv005_5": {
+    "markInsId": "gatherpoint_lv005_5",
+    "defaultState": "Invisible",
+    "visibleMethod": "Near",
+    "activeMethod": "Near",
+    "markInfoId": "mark_p_plant4",
+    "levelId": "map01_lv005",
+    "logicId": 0,
+    "pos": {
+      "x": 752.3,
+      "y": 82.6,
+      "z": 303.5
+    }
+  },
+  "gatherpoint_lv006_1": {
+    "markInsId": "gatherpoint_lv006_1",
+    "defaultState": "Invisible",
+    "visibleMethod": "Near",
+    "activeMethod": "Near",
+    "markInfoId": "mark_p_plant5_3",
+    "levelId": "map01_lv006",
+    "logicId": 0,
+    "pos": {
+      "x": 614.0,
+      "y": 63.6,
+      "z": 284.0
+    }
+  },
+  "gatherpoint_lv006_2": {
+    "markInsId": "gatherpoint_lv006_2",
+    "defaultState": "Invisible",
+    "visibleMethod": "Near",
+    "activeMethod": "Near",
+    "markInfoId": "mark_p_plant6_1",
+    "levelId": "map01_lv006",
+    "logicId": 0,
+    "pos": {
+      "x": 421.3,
+      "y": 35.5,
+      "z": 343.8
+    }
+  },
+  "gatherpoint_lv006_3": {
+    "markInsId": "gatherpoint_lv006_3",
+    "defaultState": "Invisible",
+    "visibleMethod": "Near",
+    "activeMethod": "Near",
+    "markInfoId": "mark_p_plant6_2",
+    "levelId": "map01_lv006",
+    "logicId": 0,
+    "pos": {
+      "x": 411.9,
+      "y": 85.9,
+      "z": 658.5
+    }
+  },
+  "gatherpoint_lv006_4": {
+    "markInsId": "gatherpoint_lv006_4",
+    "defaultState": "Invisible",
+    "visibleMethod": "Near",
+    "activeMethod": "Near",
+    "markInfoId": "mark_p_plant8",
+    "levelId": "map01_lv006",
+    "logicId": 0,
+    "pos": {
+      "x": 530.6,
+      "y": 57.1,
+      "z": 464.0
+    }
+  },
+  "gatherpoint_lv006_5": {
+    "markInsId": "gatherpoint_lv006_5",
+    "defaultState": "Invisible",
+    "visibleMethod": "Near",
+    "activeMethod": "Near",
+    "markInfoId": "mark_p_plant4",
+    "levelId": "map01_lv006",
+    "logicId": 0,
+    "pos": {
+      "x": 299.9,
+      "y": 85.9,
+      "z": 603.5
+    }
+  },
+  "minepoint_lv001_1": {
+    "markInsId": "minepoint_lv001_1",
+    "defaultState": "Invisible",
+    "visibleMethod": "Near",
+    "activeMethod": "Near",
+    "markInfoId": "mark_p_mine1",
+    "levelId": "map01_lv001",
+    "logicId": 0,
+    "pos": {
+      "x": 419.0,
+      "y": 101.0,
+      "z": 291.0
+    }
+  },
+  "minepoint_lv001_2": {
+    "markInsId": "minepoint_lv001_2",
+    "defaultState": "Invisible",
+    "visibleMethod": "Near",
+    "activeMethod": "Near",
+    "markInfoId": "mark_p_mine2",
+    "levelId": "map01_lv001",
+    "logicId": 0,
+    "pos": {
+      "x": 153.0,
+      "y": 105.0,
+      "z": 133.0
+    }
+  },
+  "minepoint_lv001_3": {
+    "markInsId": "minepoint_lv001_3",
+    "defaultState": "Invisible",
+    "visibleMethod": "Near",
+    "activeMethod": "Near",
+    "markInfoId": "mark_p_mine1",
+    "levelId": "map01_lv001",
+    "logicId": 0,
+    "pos": {
+      "x": 240.0,
+      "y": 115.0,
+      "z": 415.0
+    }
+  },
+  "minepoint_lv001_4": {
+    "markInsId": "minepoint_lv001_4",
+    "defaultState": "Invisible",
+    "visibleMethod": "Near",
+    "activeMethod": "Near",
+    "markInfoId": "mark_p_mine1",
+    "levelId": "map01_lv001",
+    "logicId": 0,
+    "pos": {
+      "x": 234.0,
+      "y": 100.0,
+      "z": 273.0
+    }
+  },
+  "minepoint_lv001_5": {
+    "markInsId": "minepoint_lv001_5",
+    "defaultState": "Invisible",
+    "visibleMethod": "Near",
+    "activeMethod": "Near",
+    "markInfoId": "mark_p_mine2",
+    "levelId": "map01_lv001",
+    "logicId": 0,
+    "pos": {
+      "x": 295.0,
+      "y": 104.0,
+      "z": 328.0
+    }
+  },
+  "minepoint_lv002_1": {
+    "markInsId": "minepoint_lv002_1",
+    "defaultState": "Invisible",
+    "visibleMethod": "Near",
+    "activeMethod": "Near",
+    "markInfoId": "mark_p_mine2",
+    "levelId": "map01_lv002",
+    "logicId": 0,
+    "pos": {
+      "x": 120.4,
+      "y": 30.1,
+      "z": 153.9
+    }
+  },
+  "minepoint_lv002_2": {
+    "markInsId": "minepoint_lv002_2",
+    "defaultState": "Invisible",
+    "visibleMethod": "Near",
+    "activeMethod": "Near",
+    "markInfoId": "mark_p_mine1",
+    "levelId": "map01_lv002",
+    "logicId": 0,
+    "pos": {
+      "x": 265.4,
+      "y": 26.3,
+      "z": 3.3
+    }
+  },
+  "minepoint_lv002_3": {
+    "markInsId": "minepoint_lv002_3",
+    "defaultState": "Invisible",
+    "visibleMethod": "Near",
+    "activeMethod": "Near",
+    "markInfoId": "mark_p_mine1",
+    "levelId": "map01_lv002",
+    "logicId": 0,
+    "pos": {
+      "x": 90.3,
+      "y": 30.6,
+      "z": 289.1
+    }
+  },
+  "minepoint_lv003_1": {
+    "markInsId": "minepoint_lv003_1",
+    "defaultState": "Invisible",
+    "visibleMethod": "Near",
+    "activeMethod": "Near",
+    "markInfoId": "mark_p_mine1",
+    "levelId": "map01_lv003",
+    "logicId": 0,
+    "pos": {
+      "x": 278.3,
+      "y": 132.5,
+      "z": 423.7
+    }
+  },
+  "minepoint_lv003_2": {
+    "markInsId": "minepoint_lv003_2",
+    "defaultState": "Invisible",
+    "visibleMethod": "Near",
+    "activeMethod": "Near",
+    "markInfoId": "mark_p_mine1",
+    "levelId": "map01_lv003",
+    "logicId": 0,
+    "pos": {
+      "x": 314.0,
+      "y": 116.2,
+      "z": 253.8
+    }
+  },
+  "minepoint_lv003_3": {
+    "markInsId": "minepoint_lv003_3",
+    "defaultState": "Invisible",
+    "visibleMethod": "Near",
+    "activeMethod": "Near",
+    "markInfoId": "mark_p_mine2",
+    "levelId": "map01_lv003",
+    "logicId": 0,
+    "pos": {
+      "x": 359.0,
+      "y": 100.0,
+      "z": 338.1
+    }
+  },
+  "minepoint_lv003_4": {
+    "markInsId": "minepoint_lv003_4",
+    "defaultState": "Invisible",
+    "visibleMethod": "Near",
+    "activeMethod": "Near",
+    "markInfoId": "mark_p_mine3",
+    "levelId": "map01_lv003",
+    "logicId": 0,
+    "pos": {
+      "x": 409.0,
+      "y": 99.5,
+      "z": 382.2
+    }
+  },
+  "minepoint_lv003_5": {
+    "markInsId": "minepoint_lv003_5",
+    "defaultState": "Invisible",
+    "visibleMethod": "Near",
+    "activeMethod": "Near",
+    "markInfoId": "mark_p_mine1",
+    "levelId": "map01_lv003",
+    "logicId": 0,
+    "pos": {
+      "x": 435.6,
+      "y": 115.7,
+      "z": 301.8
+    }
+  },
+  "minepoint_lv005_1": {
+    "markInsId": "minepoint_lv005_1",
+    "defaultState": "Invisible",
+    "visibleMethod": "Near",
+    "activeMethod": "Near",
+    "markInfoId": "mark_p_mine1",
+    "levelId": "map01_lv005",
+    "logicId": 0,
+    "pos": {
+      "x": 410.3,
+      "y": 85.1,
+      "z": 465.9
+    }
+  },
+  "minepoint_lv005_2": {
+    "markInsId": "minepoint_lv005_2",
+    "defaultState": "Invisible",
+    "visibleMethod": "Near",
+    "activeMethod": "Near",
+    "markInfoId": "mark_p_mine3",
+    "levelId": "map01_lv005",
+    "logicId": 0,
+    "pos": {
+      "x": 793.9,
+      "y": 82.9,
+      "z": 270.2
+    }
+  },
+  "minepoint_lv005_3": {
+    "markInsId": "minepoint_lv005_3",
+    "defaultState": "Invisible",
+    "visibleMethod": "Near",
+    "activeMethod": "Near",
+    "markInfoId": "mark_p_mine3",
+    "levelId": "map01_lv005",
+    "logicId": 0,
+    "pos": {
+      "x": 538.6,
+      "y": 89.7,
+      "z": 378.8
+    }
+  },
+  "minepoint_lv005_4": {
+    "markInsId": "minepoint_lv005_4",
+    "defaultState": "Invisible",
+    "visibleMethod": "Near",
+    "activeMethod": "Near",
+    "markInfoId": "mark_p_mine3",
+    "levelId": "map01_lv005",
+    "logicId": 0,
+    "pos": {
+      "x": 844.3,
+      "y": 87.0,
+      "z": 481.4
+    }
+  },
+  "minepoint_lv005_5": {
+    "markInsId": "minepoint_lv005_5",
+    "defaultState": "Invisible",
+    "visibleMethod": "Near",
+    "activeMethod": "Near",
+    "markInfoId": "mark_p_mine1",
+    "levelId": "map01_lv005",
+    "logicId": 0,
+    "pos": {
+      "x": 424.5,
+      "y": 90.5,
+      "z": 377.0
+    }
+  },
+  "minepoint_lv005_6": {
+    "markInsId": "minepoint_lv005_6",
+    "defaultState": "Invisible",
+    "visibleMethod": "Near",
+    "activeMethod": "Near",
+    "markInfoId": "mark_p_mine3",
+    "levelId": "map01_lv005",
+    "logicId": 0,
+    "pos": {
+      "x": 838.3,
+      "y": 83.1,
+      "z": 292.3
+    }
+  },
+  "minepoint_lv006_1": {
+    "markInsId": "minepoint_lv006_1",
+    "defaultState": "Invisible",
+    "visibleMethod": "Near",
+    "activeMethod": "Near",
+    "markInfoId": "mark_p_mine3",
+    "levelId": "map01_lv006",
+    "logicId": 0,
+    "pos": {
+      "x": 522.4,
+      "y": 37.5,
+      "z": 318.6
+    }
+  },
+  "minepoint_lv006_2": {
+    "markInsId": "minepoint_lv006_2",
+    "defaultState": "Invisible",
+    "visibleMethod": "Near",
+    "activeMethod": "Near",
+    "markInfoId": "mark_p_mine3",
+    "levelId": "map01_lv006",
+    "logicId": 0,
+    "pos": {
+      "x": 318.3,
+      "y": 63.9,
+      "z": 401.4
+    }
+  },
+  "minepoint_lv006_3": {
+    "markInsId": "minepoint_lv006_3",
+    "defaultState": "Invisible",
+    "visibleMethod": "Near",
+    "activeMethod": "Near",
+    "markInfoId": "mark_p_mine3",
+    "levelId": "map01_lv006",
+    "logicId": 0,
+    "pos": {
+      "x": 676.8,
+      "y": 58.4,
+      "z": 737.0
+    }
+  },
+  "minepoint_lv006_4": {
+    "markInsId": "minepoint_lv006_4",
+    "defaultState": "Invisible",
+    "visibleMethod": "Near",
+    "activeMethod": "Near",
+    "markInfoId": "mark_p_mine1",
+    "levelId": "map01_lv006",
+    "logicId": 0,
+    "pos": {
+      "x": 664.9,
+      "y": 47.5,
+      "z": 545.0
+    }
+  },
+  "minepoint_lv006_5": {
+    "markInsId": "minepoint_lv006_5",
+    "defaultState": "Invisible",
+    "visibleMethod": "Near",
+    "activeMethod": "Near",
+    "markInfoId": "mark_p_mine3",
+    "levelId": "map01_lv006",
+    "logicId": 0,
+    "pos": {
+      "x": 380.4,
+      "y": 57.8,
+      "z": 724.2
+    }
+  },
+  "wall_lv001_1": {
+    "markInsId": "wall_lv001_1",
+    "defaultState": "Invisible",
+    "visibleMethod": "Near",
+    "activeMethod": "Near",
+    "markInfoId": "mark_wall",
+    "levelId": "map01_lv001",
+    "logicId": 0,
+    "pos": {
+      "x": 135.92,
+      "y": 107.7,
+      "z": 287.31
+    }
+  },
+  "wall_lv003_1": {
+    "markInsId": "wall_lv003_1",
+    "defaultState": "Invisible",
+    "visibleMethod": "Near",
+    "activeMethod": "Near",
+    "markInfoId": "mark_wall",
+    "levelId": "map01_lv003",
+    "logicId": 0,
+    "pos": {
+      "x": 414.41,
+      "y": 99.51,
+      "z": 365.16
+    }
+  },
+  "wall_lv003_2": {
+    "markInsId": "wall_lv003_2",
+    "defaultState": "Invisible",
+    "visibleMethod": "Near",
+    "activeMethod": "Near",
+    "markInfoId": "mark_wall",
+    "levelId": "map01_lv003",
+    "logicId": 0,
+    "pos": {
+      "x": 458.72,
+      "y": 126.99,
+      "z": 436.76
+    }
+  },
+  "wall_lv005_1": {
+    "markInsId": "wall_lv005_1",
+    "defaultState": "Invisible",
+    "visibleMethod": "Near",
+    "activeMethod": "Near",
+    "markInfoId": "mark_wall",
+    "levelId": "map01_lv005",
+    "logicId": 0,
+    "pos": {
+      "x": 833.72,
+      "y": 88.15,
+      "z": 506.54
+    }
+  },
+  "wall_lv005_2": {
+    "markInsId": "wall_lv005_2",
+    "defaultState": "Invisible",
+    "visibleMethod": "Near",
+    "activeMethod": "Near",
+    "markInfoId": "mark_wall",
+    "levelId": "map01_lv005",
+    "logicId": 0,
+    "pos": {
+      "x": 458.29,
+      "y": 82.91,
+      "z": 434.16
+    }
+  },
+  "wall_lv005_3": {
+    "markInsId": "wall_lv005_3",
+    "defaultState": "Invisible",
+    "visibleMethod": "Near",
+    "activeMethod": "Near",
+    "markInfoId": "mark_wall",
+    "levelId": "map01_lv005",
+    "logicId": 0,
+    "pos": {
+      "x": 625.49,
+      "y": 96.61,
+      "z": 339.7
+    }
+  },
+  "wall_lv005_5": {
+    "markInsId": "wall_lv005_5",
+    "defaultState": "Invisible",
+    "visibleMethod": "Near",
+    "activeMethod": "Near",
+    "markInfoId": "mark_wall",
+    "levelId": "map01_lv005",
+    "logicId": 0,
+    "pos": {
+      "x": 571.57,
+      "y": 89.58,
+      "z": 280.54
+    }
+  },
+  "wall_lv006_1": {
+    "markInsId": "wall_lv006_1",
+    "defaultState": "Invisible",
+    "visibleMethod": "Near",
+    "activeMethod": "Near",
+    "markInfoId": "mark_wall",
+    "levelId": "map01_lv006",
+    "logicId": 0,
+    "pos": {
+      "x": 749.5,
+      "y": 48.16,
+      "z": 738.47
+    }
+  },
+  "wall_lv006_2": {
+    "markInsId": "wall_lv006_2",
+    "defaultState": "Invisible",
+    "visibleMethod": "Near",
+    "activeMethod": "Near",
+    "markInfoId": "mark_wall",
+    "levelId": "map01_lv006",
+    "logicId": 0,
+    "pos": {
+      "x": 636.76,
+      "y": 52.04,
+      "z": 725.9
+    }
+  },
+  "wall_lv006_3": {
+    "markInsId": "wall_lv006_3",
+    "defaultState": "Invisible",
+    "visibleMethod": "Near",
+    "activeMethod": "Near",
+    "markInfoId": "mark_wall",
+    "levelId": "map01_lv006",
+    "logicId": 0,
+    "pos": {
+      "x": 289.09,
+      "y": 60.69,
+      "z": 613.96
+    }
+  },
+  "wall_lv006_4": {
+    "markInsId": "wall_lv006_4",
+    "defaultState": "Invisible",
+    "visibleMethod": "Near",
+    "activeMethod": "Near",
+    "markInfoId": "mark_wall",
+    "levelId": "map01_lv006",
+    "logicId": 0,
+    "pos": {
+      "x": 496.69,
+      "y": 53.2,
+      "z": 355.46
+    }
+  }
+}

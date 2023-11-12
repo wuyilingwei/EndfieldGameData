@@ -1,0 +1,601 @@
+{
+  "GeneralTable": {
+    "picks_bbflower_1": {
+      "id": "picks_bbflower_1",
+      "label": {
+        "text": "采集【酮化植物】",
+        "id": "5A31A8FC23A1B025"
+      },
+      "isPickable": 1,
+      "isBreakable": 1,
+      "maxHp": 1,
+      "breakCount": 0,
+      "modelName": ""
+    },
+    "picks_insect_1": {
+      "id": "picks_insect_1",
+      "label": {
+        "text": "采集【萤壳虫】",
+        "id": "6CE3D120857E7399"
+      },
+      "isPickable": 1,
+      "isBreakable": 1,
+      "maxHp": 1,
+      "breakCount": 0,
+      "modelName": ""
+    },
+    "picks_insect_2": {
+      "id": "picks_insect_2",
+      "label": {
+        "text": "采集【火石虫】",
+        "id": "B59A3F36BC68B3F4"
+      },
+      "isPickable": 1,
+      "isBreakable": 1,
+      "maxHp": 1,
+      "breakCount": 0,
+      "modelName": ""
+    },
+    "picks_iron_ore_cluster_1": {
+      "id": "picks_iron_ore_cluster_1",
+      "label": {
+        "text": "异铁簇",
+        "id": "71354BB42192082E"
+      },
+      "isPickable": 0,
+      "isBreakable": 1,
+      "maxHp": 50,
+      "breakCount": 2,
+      "modelName": ""
+    },
+    "picks_moss_1": {
+      "id": "picks_moss_1",
+      "label": {
+        "text": "采集【荞花】",
+        "id": "3F53A31302E8F8F9"
+      },
+      "isPickable": 1,
+      "isBreakable": 1,
+      "maxHp": 1,
+      "breakCount": 0,
+      "modelName": ""
+    },
+    "picks_moss_2": {
+      "id": "picks_moss_2",
+      "label": {
+        "text": "采集【柑实】",
+        "id": "551C8138A152E846"
+      },
+      "isPickable": 1,
+      "isBreakable": 1,
+      "maxHp": 1,
+      "breakCount": 0,
+      "modelName": ""
+    },
+    "picks_moss_3": {
+      "id": "picks_moss_3",
+      "label": {
+        "text": "采集【砂叶草】",
+        "id": "E3BA1AA71BB48E2F"
+      },
+      "isPickable": 1,
+      "isBreakable": 1,
+      "maxHp": 1,
+      "breakCount": 0,
+      "modelName": ""
+    },
+    "picks_mushroom_1": {
+      "id": "picks_mushroom_1",
+      "label": {
+        "text": "采集【荧光菌】",
+        "id": "FE640391752724B7"
+      },
+      "isPickable": 1,
+      "isBreakable": 1,
+      "maxHp": 1,
+      "breakCount": 0,
+      "modelName": ""
+    },
+    "picks_mushroom_2": {
+      "id": "picks_mushroom_2",
+      "label": {
+        "text": "采集【血菌】",
+        "id": "7C9BB962CB83B3A5"
+      },
+      "isPickable": 1,
+      "isBreakable": 1,
+      "maxHp": 1,
+      "breakCount": 0,
+      "modelName": ""
+    },
+    "picks_mushroom_3": {
+      "id": "picks_mushroom_3",
+      "label": {
+        "text": "采集【白化菌】",
+        "id": "3ACC001D8BC99252"
+      },
+      "isPickable": 1,
+      "isBreakable": 1,
+      "maxHp": 1,
+      "breakCount": 0,
+      "modelName": ""
+    },
+    "picks_mushroom_4": {
+      "id": "picks_mushroom_4",
+      "label": {
+        "text": "采集【灰蕈】",
+        "id": "20E2AF066B5AF7F5"
+      },
+      "isPickable": 1,
+      "isBreakable": 1,
+      "maxHp": 1,
+      "breakCount": 0,
+      "modelName": ""
+    },
+    "picks_mushroom_5": {
+      "id": "picks_mushroom_5",
+      "label": {
+        "text": "采集【岩球蕈】",
+        "id": "B2FA5E6BC0849D80"
+      },
+      "isPickable": 1,
+      "isBreakable": 1,
+      "maxHp": 1,
+      "breakCount": 0,
+      "modelName": ""
+    },
+    "picks_mushroom_6": {
+      "id": "picks_mushroom_6",
+      "label": {
+        "text": "采集【铜球蕈】",
+        "id": "518574BBB91DCDD1"
+      },
+      "isPickable": 1,
+      "isBreakable": 1,
+      "maxHp": 1,
+      "breakCount": 0,
+      "modelName": ""
+    },
+    "picks_orgplant_1": {
+      "id": "picks_orgplant_1",
+      "label": {
+        "text": "采集【晶化茈叶】",
+        "id": "9883DE63519396EA"
+      },
+      "isPickable": 1,
+      "isBreakable": 1,
+      "maxHp": 1,
+      "breakCount": 0,
+      "modelName": ""
+    },
+    "picks_orgplant_2": {
+      "id": "picks_orgplant_2",
+      "label": {
+        "text": "采集【晶化铁荷】",
+        "id": "34EADC4FF4ECD7FF"
+      },
+      "isPickable": 1,
+      "isBreakable": 1,
+      "maxHp": 1,
+      "breakCount": 0,
+      "modelName": ""
+    },
+    "picks_orgplant_3": {
+      "id": "picks_orgplant_3",
+      "label": {
+        "text": "采集【晶化羽尾】",
+        "id": "B35AE9D081B47A4D"
+      },
+      "isPickable": 1,
+      "isBreakable": 1,
+      "maxHp": 1,
+      "breakCount": 0,
+      "modelName": ""
+    },
+    "picks_originium_ore_cluster_1": {
+      "id": "picks_originium_ore_cluster_1",
+      "label": {
+        "text": "源石簇",
+        "id": "CB3B880D51ACD1D0"
+      },
+      "isPickable": 0,
+      "isBreakable": 1,
+      "maxHp": 50,
+      "breakCount": 2,
+      "modelName": ""
+    },
+    "picks_plant_bbflower_seed_1": {
+      "id": "picks_plant_bbflower_seed_1",
+      "label": {
+        "text": "酮化植物",
+        "id": "2581F94133D8724A"
+      },
+      "isPickable": 1,
+      "isBreakable": 1,
+      "maxHp": 1,
+      "breakCount": 0,
+      "modelName": ""
+    },
+    "picks_plant_moss_seed_1": {
+      "id": "picks_plant_moss_seed_1",
+      "label": {
+        "text": "荞花",
+        "id": "A7C792951E36DCB2"
+      },
+      "isPickable": 1,
+      "isBreakable": 1,
+      "maxHp": 1,
+      "breakCount": 0,
+      "modelName": ""
+    },
+    "picks_plant_moss_seed_2": {
+      "id": "picks_plant_moss_seed_2",
+      "label": {
+        "text": "柑实",
+        "id": "0D1DD6DC69A12A3D"
+      },
+      "isPickable": 1,
+      "isBreakable": 1,
+      "maxHp": 1,
+      "breakCount": 0,
+      "modelName": ""
+    },
+    "picks_plant_moss_seed_3": {
+      "id": "picks_plant_moss_seed_3",
+      "label": {
+        "text": "砂叶草",
+        "id": "696916F842A06CD2"
+      },
+      "isPickable": 1,
+      "isBreakable": 1,
+      "maxHp": 1,
+      "breakCount": 0,
+      "modelName": ""
+    },
+    "picks_plant_mushroom_seed_1": {
+      "id": "picks_plant_mushroom_seed_1",
+      "label": {
+        "text": "荧光菌",
+        "id": "79288F1491609DBC"
+      },
+      "isPickable": 1,
+      "isBreakable": 1,
+      "maxHp": 1,
+      "breakCount": 0,
+      "modelName": ""
+    },
+    "picks_plant_mushroom_seed_2": {
+      "id": "picks_plant_mushroom_seed_2",
+      "label": {
+        "text": "血菌",
+        "id": "A36025F2311FD77E"
+      },
+      "isPickable": 1,
+      "isBreakable": 1,
+      "maxHp": 1,
+      "breakCount": 0,
+      "modelName": ""
+    },
+    "picks_plant_mushroom_seed_3": {
+      "id": "picks_plant_mushroom_seed_3",
+      "label": {
+        "text": "白化菌",
+        "id": "D3DBD52B727AA8B1"
+      },
+      "isPickable": 1,
+      "isBreakable": 1,
+      "maxHp": 1,
+      "breakCount": 0,
+      "modelName": ""
+    },
+    "picks_plant_mushroom_seed_4": {
+      "id": "picks_plant_mushroom_seed_4",
+      "label": {
+        "text": "灰蕈",
+        "id": "A7E6D05FF12EF1AE"
+      },
+      "isPickable": 1,
+      "isBreakable": 1,
+      "maxHp": 1,
+      "breakCount": 0,
+      "modelName": ""
+    },
+    "picks_plant_mushroom_seed_5": {
+      "id": "picks_plant_mushroom_seed_5",
+      "label": {
+        "text": "岩球蕈",
+        "id": "84E688CC877B1F9F"
+      },
+      "isPickable": 1,
+      "isBreakable": 1,
+      "maxHp": 1,
+      "breakCount": 0,
+      "modelName": ""
+    },
+    "picks_plant_mushroom_seed_6": {
+      "id": "picks_plant_mushroom_seed_6",
+      "label": {
+        "text": "铜球蕈",
+        "id": "833ACA513AB69A9B"
+      },
+      "isPickable": 1,
+      "isBreakable": 1,
+      "maxHp": 1,
+      "breakCount": 0,
+      "modelName": ""
+    },
+    "picks_plant_orgplant_seed_1": {
+      "id": "picks_plant_orgplant_seed_1",
+      "label": {
+        "text": "晶化茈叶",
+        "id": "38F2666C9619E186"
+      },
+      "isPickable": 1,
+      "isBreakable": 1,
+      "maxHp": 1,
+      "breakCount": 0,
+      "modelName": ""
+    },
+    "picks_plant_orgplant_seed_2": {
+      "id": "picks_plant_orgplant_seed_2",
+      "label": {
+        "text": "晶化铁荷",
+        "id": "DF8A93538DC0A9F9"
+      },
+      "isPickable": 1,
+      "isBreakable": 1,
+      "maxHp": 1,
+      "breakCount": 0,
+      "modelName": ""
+    },
+    "picks_plant_orgplant_seed_3": {
+      "id": "picks_plant_orgplant_seed_3",
+      "label": {
+        "text": "晶化羽尾",
+        "id": "21019CCBAD475A26"
+      },
+      "isPickable": 1,
+      "isBreakable": 1,
+      "maxHp": 1,
+      "breakCount": 0,
+      "modelName": ""
+    },
+    "picks_quartz_sand_cluster_1": {
+      "id": "picks_quartz_sand_cluster_1",
+      "label": {
+        "text": "类晶石簇",
+        "id": "F0A0500651F3A4F3"
+      },
+      "isPickable": 0,
+      "isBreakable": 1,
+      "maxHp": 50,
+      "breakCount": 2,
+      "modelName": ""
+    },
+    "picks_sp_metal_ore_cluster_1": {
+      "id": "picks_sp_metal_ore_cluster_1",
+      "label": {
+        "text": "锖岩簇",
+        "id": "C0A0347D2601CD0A"
+      },
+      "isPickable": 0,
+      "isBreakable": 1,
+      "maxHp": 50,
+      "breakCount": 2,
+      "modelName": ""
+    },
+    "picks_test_cooldown": {
+      "id": "picks_test_cooldown",
+      "label": {
+        "text": "测试_每分钟刷新",
+        "id": "82BE47A9A0337F50"
+      },
+      "isPickable": 1,
+      "isBreakable": 1,
+      "maxHp": 100,
+      "breakCount": 4,
+      "modelName": ""
+    },
+    "picks_test_daily": {
+      "id": "picks_test_daily",
+      "label": {
+        "text": "测试_每天刷新",
+        "id": "0B1E55DDCD3FFE42"
+      },
+      "isPickable": 1,
+      "isBreakable": 1,
+      "maxHp": 100,
+      "breakCount": 4,
+      "modelName": ""
+    },
+    "picks_test_monthly": {
+      "id": "picks_test_monthly",
+      "label": {
+        "text": "测试_每月刷新",
+        "id": "2C7106B270C78BB0"
+      },
+      "isPickable": 1,
+      "isBreakable": 1,
+      "maxHp": 100,
+      "breakCount": 4,
+      "modelName": ""
+    },
+    "picks_test_none": {
+      "id": "picks_test_none",
+      "label": {
+        "text": "测试_不刷新",
+        "id": "A75DA5A63FD17531"
+      },
+      "isPickable": 1,
+      "isBreakable": 1,
+      "maxHp": 100,
+      "breakCount": 4,
+      "modelName": ""
+    },
+    "picks_test_weekly": {
+      "id": "picks_test_weekly",
+      "label": {
+        "text": "测试_每周刷新",
+        "id": "E5FEE4530AA7A872"
+      },
+      "isPickable": 1,
+      "isBreakable": 1,
+      "maxHp": 100,
+      "breakCount": 4,
+      "modelName": ""
+    },
+    "picks_trash_spc_1": {
+      "id": "picks_trash_spc_1",
+      "label": {
+        "text": "",
+        "id": ""
+      },
+      "isPickable": 0,
+      "isBreakable": 1,
+      "maxHp": 50,
+      "breakCount": 0,
+      "modelName": ""
+    },
+    "picks_trash_spc_2": {
+      "id": "picks_trash_spc_2",
+      "label": {
+        "text": "",
+        "id": ""
+      },
+      "isPickable": 0,
+      "isBreakable": 1,
+      "maxHp": 50,
+      "breakCount": 0,
+      "modelName": ""
+    },
+    "picks_trash_spc_3": {
+      "id": "picks_trash_spc_3",
+      "label": {
+        "text": "",
+        "id": ""
+      },
+      "isPickable": 0,
+      "isBreakable": 1,
+      "maxHp": 50,
+      "breakCount": 0,
+      "modelName": ""
+    },
+    "picks_trash_uni_1": {
+      "id": "picks_trash_uni_1",
+      "label": {
+        "text": "",
+        "id": ""
+      },
+      "isPickable": 0,
+      "isBreakable": 1,
+      "maxHp": 50,
+      "breakCount": 0,
+      "modelName": ""
+    },
+    "picks_trash_uni_2": {
+      "id": "picks_trash_uni_2",
+      "label": {
+        "text": "",
+        "id": ""
+      },
+      "isPickable": 0,
+      "isBreakable": 1,
+      "maxHp": 50,
+      "breakCount": 0,
+      "modelName": ""
+    },
+    "picks_trash_uni_3": {
+      "id": "picks_trash_uni_3",
+      "label": {
+        "text": "",
+        "id": ""
+      },
+      "isPickable": 0,
+      "isBreakable": 1,
+      "maxHp": 50,
+      "breakCount": 0,
+      "modelName": ""
+    },
+    "picks_trash_uni_4": {
+      "id": "picks_trash_uni_4",
+      "label": {
+        "text": "",
+        "id": ""
+      },
+      "isPickable": 0,
+      "isBreakable": 1,
+      "maxHp": 50,
+      "breakCount": 0,
+      "modelName": ""
+    },
+    "picks_tundra_tree_1": {
+      "id": "picks_tundra_tree_1",
+      "label": {
+        "text": "苔地树木",
+        "id": "BA4F962D8817B6EF"
+      },
+      "isPickable": 0,
+      "isBreakable": 1,
+      "maxHp": 50,
+      "breakCount": 2,
+      "modelName": ""
+    }
+  },
+  "TreeTable": {
+    "picks_tundra_tree_1": {
+      "id": "picks_tundra_tree_1",
+      "breakEffect": "P_interactive_tree_pine+1_003_01",
+      "breakModel": "P_interactive_pine+1_003_01",
+      "normalModel": "P_tree_pine+1_003_01",
+      "modelId": "P_tree_pine+1_003_01",
+      "maxHp": 80,
+      "breakCount": 1,
+      "breakingDropRewardId": "reward_doodad_tree_1",
+      "breakedDropRewardId": "reward_doodad_tree_1"
+    },
+    "picks_tundra_tree_2": {
+      "id": "picks_tundra_tree_2",
+      "breakEffect": "P_interactive_tree_tybirch+1_001_01",
+      "breakModel": "P_interactive_tybirch+1_001_01",
+      "normalModel": "P_tree_tybirch+1_001_01",
+      "modelId": "P_tree_tybirch+1_001_01",
+      "maxHp": 80,
+      "breakCount": 1,
+      "breakingDropRewardId": "reward_doodad_tree_1",
+      "breakedDropRewardId": "reward_doodad_tree_1"
+    },
+    "picks_tundra_tree_3": {
+      "id": "picks_tundra_tree_3",
+      "breakEffect": "P_interactive_tree_tybirch+1_001_02",
+      "breakModel": "P_interactive_tybirch+1_001_01",
+      "normalModel": "P_tree_tybirch+1_001_02",
+      "modelId": "P_tree_tybirch+1_001_02",
+      "maxHp": 80,
+      "breakCount": 1,
+      "breakingDropRewardId": "reward_doodad_tree_1",
+      "breakedDropRewardId": "reward_doodad_tree_1"
+    },
+    "picks_tundra_tree_4": {
+      "id": "picks_tundra_tree_4",
+      "breakEffect": "P_interactive_tree_tybirch+1_001_04",
+      "breakModel": "P_interactive_tybirch+1_003_01",
+      "normalModel": "P_tree_tybirch+1_001_04",
+      "modelId": "P_tree_tybirch+1_001_04",
+      "maxHp": 80,
+      "breakCount": 1,
+      "breakingDropRewardId": "reward_doodad_tree_1",
+      "breakedDropRewardId": "reward_doodad_tree_1"
+    },
+    "picks_tundra_tree_5": {
+      "id": "picks_tundra_tree_5",
+      "breakEffect": "P_interactive_tree_tybirch+1_001_05",
+      "breakModel": "P_interactive_tybirch+1_003_01",
+      "normalModel": "P_tree_tybirch+1_001_05",
+      "modelId": "P_tree_tybirch+1_001_05",
+      "maxHp": 80,
+      "breakCount": 1,
+      "breakingDropRewardId": "reward_doodad_tree_1",
+      "breakedDropRewardId": "reward_doodad_tree_1"
+    }
+  }
+}

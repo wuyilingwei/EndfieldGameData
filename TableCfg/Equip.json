@@ -1,0 +1,5388 @@
+{
+  "equipBasicTable": {
+    "item_unit_t05_suit_01_body_01": {
+      "itemId": "item_unit_t05_suit_01_body_01",
+      "partType": "Body",
+      "name": {
+        "text": "简易探索防护服",
+        "id": "1F3EA2FA5EFEDFD3"
+      },
+      "attachSlotNum": 0,
+      "suitID": "",
+      "tierId": "T0.5",
+      "enhanceFrom": ""
+    },
+    "item_unit_t05_suit_01_hand_01": {
+      "itemId": "item_unit_t05_suit_01_hand_01",
+      "partType": "Hand",
+      "name": {
+        "text": "简易探索护手",
+        "id": "1511461003F509AA"
+      },
+      "attachSlotNum": 0,
+      "suitID": "",
+      "tierId": "T0.5",
+      "enhanceFrom": ""
+    },
+    "item_unit_t1_parts_body_01": {
+      "itemId": "item_unit_t1_parts_body_01",
+      "partType": "Body",
+      "name": {
+        "text": "耐用的工作背心",
+        "id": "4D3990C2C518C889"
+      },
+      "attachSlotNum": 0,
+      "suitID": "",
+      "tierId": "T1",
+      "enhanceFrom": ""
+    },
+    "item_unit_t1_parts_edc_01": {
+      "itemId": "item_unit_t1_parts_edc_01",
+      "partType": "EDC",
+      "name": {
+        "text": "削尖铅笔",
+        "id": "E17592056CA84FEF"
+      },
+      "attachSlotNum": 0,
+      "suitID": "",
+      "tierId": "T1",
+      "enhanceFrom": ""
+    },
+    "item_unit_t1_parts_edc_02": {
+      "itemId": "item_unit_t1_parts_edc_02",
+      "partType": "EDC",
+      "name": {
+        "text": "耐蚀的旋转件",
+        "id": "2822B7DEE650837A"
+      },
+      "attachSlotNum": 0,
+      "suitID": "",
+      "tierId": "T1",
+      "enhanceFrom": ""
+    },
+    "item_unit_t1_parts_hand_01": {
+      "itemId": "item_unit_t1_parts_hand_01",
+      "partType": "Hand",
+      "name": {
+        "text": "耐蚀的缠带",
+        "id": "A78948BBDF523544"
+      },
+      "attachSlotNum": 0,
+      "suitID": "",
+      "tierId": "T1",
+      "enhanceFrom": ""
+    },
+    "item_unit_t1_suit_01_edc_01": {
+      "itemId": "item_unit_t1_suit_01_edc_01",
+      "partType": "EDC",
+      "name": {
+        "text": "工程储存器I",
+        "id": "9CFA4427BDD6E9B4"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_atkup_01",
+      "tierId": "T1",
+      "enhanceFrom": ""
+    },
+    "item_unit_t1_suit_01_hand_01": {
+      "itemId": "item_unit_t1_suit_01_hand_01",
+      "partType": "Hand",
+      "name": {
+        "text": "工程护手I",
+        "id": "08784568F5C89564"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_atkup_01",
+      "tierId": "T1",
+      "enhanceFrom": ""
+    },
+    "item_unit_t1_suit_02_body_01": {
+      "itemId": "item_unit_t1_suit_02_body_01",
+      "partType": "Body",
+      "name": {
+        "text": "铁卫防护服I",
+        "id": "F17B5FF00C4FEA9C"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_defup_01",
+      "tierId": "T1",
+      "enhanceFrom": ""
+    },
+    "item_unit_t1_suit_02_hand_01": {
+      "itemId": "item_unit_t1_suit_02_hand_01",
+      "partType": "Hand",
+      "name": {
+        "text": "铁卫护手I",
+        "id": "0FE65A4C1BB2FA9A"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_defup_01",
+      "tierId": "T1",
+      "enhanceFrom": ""
+    },
+    "item_unit_t1_suit_03_body_01": {
+      "itemId": "item_unit_t1_suit_03_body_01",
+      "partType": "Body",
+      "name": {
+        "text": "活性防护服I",
+        "id": "A1932BEA1E402BE7"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_hpup_01",
+      "tierId": "T1",
+      "enhanceFrom": ""
+    },
+    "item_unit_t1_suit_03_edc_01": {
+      "itemId": "item_unit_t1_suit_03_edc_01",
+      "partType": "EDC",
+      "name": {
+        "text": "活性渗透器I",
+        "id": "1226BC33E5258F8E"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_hpup_01",
+      "tierId": "T1",
+      "enhanceFrom": ""
+    },
+    "item_unit_t1_suit_04_edc_01": {
+      "itemId": "item_unit_t1_suit_04_edc_01",
+      "partType": "EDC",
+      "name": {
+        "text": "撕裂平衡器I",
+        "id": "4CBB763E2D6EC7DF"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_critmulti_01",
+      "tierId": "T1",
+      "enhanceFrom": ""
+    },
+    "item_unit_t2_parts_body_01": {
+      "itemId": "item_unit_t2_parts_body_01",
+      "partType": "Body",
+      "name": {
+        "text": "加厚的求生马甲",
+        "id": "6A8C039C049BC05D"
+      },
+      "attachSlotNum": 0,
+      "suitID": "",
+      "tierId": "T2",
+      "enhanceFrom": ""
+    },
+    "item_unit_t2_parts_edc_01": {
+      "itemId": "item_unit_t2_parts_edc_01",
+      "partType": "EDC",
+      "name": {
+        "text": "旋转金属件",
+        "id": "D54450EC565E5F1E"
+      },
+      "attachSlotNum": 0,
+      "suitID": "",
+      "tierId": "T2",
+      "enhanceFrom": ""
+    },
+    "item_unit_t2_parts_hand_01": {
+      "itemId": "item_unit_t2_parts_hand_01",
+      "partType": "Hand",
+      "name": {
+        "text": "加厚的纤维手套",
+        "id": "DD1AEB7B409F8480"
+      },
+      "attachSlotNum": 0,
+      "suitID": "",
+      "tierId": "T2",
+      "enhanceFrom": ""
+    },
+    "item_unit_t2_suit_01_body_01": {
+      "itemId": "item_unit_t2_suit_01_body_01",
+      "partType": "Body",
+      "name": {
+        "text": "工程防护服II",
+        "id": "8375700094BB8E35"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_atkup_01",
+      "tierId": "T2",
+      "enhanceFrom": ""
+    },
+    "item_unit_t2_suit_01_edc_01": {
+      "itemId": "item_unit_t2_suit_01_edc_01",
+      "partType": "EDC",
+      "name": {
+        "text": "工程储存器II",
+        "id": "306233BE02174D11"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_atkup_01",
+      "tierId": "T2",
+      "enhanceFrom": ""
+    },
+    "item_unit_t2_suit_02_edc_01": {
+      "itemId": "item_unit_t2_suit_02_edc_01",
+      "partType": "EDC",
+      "name": {
+        "text": "铁卫储能器II",
+        "id": "B9FC37CEA3FA3A9F"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_defup_01",
+      "tierId": "T2",
+      "enhanceFrom": ""
+    },
+    "item_unit_t2_suit_02_hand_01": {
+      "itemId": "item_unit_t2_suit_02_hand_01",
+      "partType": "Hand",
+      "name": {
+        "text": "铁卫护手II",
+        "id": "45D8BCCF4657C172"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_defup_01",
+      "tierId": "T2",
+      "enhanceFrom": ""
+    },
+    "item_unit_t2_suit_03_edc_01": {
+      "itemId": "item_unit_t2_suit_03_edc_01",
+      "partType": "EDC",
+      "name": {
+        "text": "活性渗透器II",
+        "id": "D4FB2FEB1680496C"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_hpup_01",
+      "tierId": "T2",
+      "enhanceFrom": ""
+    },
+    "item_unit_t2_suit_03_hand_01": {
+      "itemId": "item_unit_t2_suit_03_hand_01",
+      "partType": "Hand",
+      "name": {
+        "text": "活性护手II",
+        "id": "08E43B99D49F05BE"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_hpup_01",
+      "tierId": "T2",
+      "enhanceFrom": ""
+    },
+    "item_unit_t2_suit_04_body_01": {
+      "itemId": "item_unit_t2_suit_04_body_01",
+      "partType": "Body",
+      "name": {
+        "text": "撕裂防护服II",
+        "id": "E713227319CAE0E0"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_critmulti_01",
+      "tierId": "T2",
+      "enhanceFrom": ""
+    },
+    "item_unit_t2_suit_04_hand_01": {
+      "itemId": "item_unit_t2_suit_04_hand_01",
+      "partType": "Hand",
+      "name": {
+        "text": "撕裂护手II",
+        "id": "F5CE83C63AC1CCE4"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_critmulti_01",
+      "tierId": "T2",
+      "enhanceFrom": ""
+    },
+    "item_unit_t2_suit_05_edc_01": {
+      "itemId": "item_unit_t2_suit_05_edc_01",
+      "partType": "EDC",
+      "name": {
+        "text": "点剑储存器II",
+        "id": "97B0519674280F0F"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_cd_01",
+      "tierId": "T2",
+      "enhanceFrom": ""
+    },
+    "item_unit_t2_suit_05_hand_01": {
+      "itemId": "item_unit_t2_suit_05_hand_01",
+      "partType": "Hand",
+      "name": {
+        "text": "点剑护手II",
+        "id": "4B32DFB731EF3C45"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_cd_01",
+      "tierId": "T2",
+      "enhanceFrom": ""
+    },
+    "item_unit_t2_suit_06_body_01": {
+      "itemId": "item_unit_t2_suit_06_body_01",
+      "partType": "Body",
+      "name": {
+        "text": "束缚防护服II",
+        "id": "2D349A34C9BBD392"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_knockdownup_01",
+      "tierId": "T2",
+      "enhanceFrom": ""
+    },
+    "item_unit_t2_suit_06_edc_01": {
+      "itemId": "item_unit_t2_suit_06_edc_01",
+      "partType": "EDC",
+      "name": {
+        "text": "束缚平衡器II",
+        "id": "B138C0F752D8F987"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_knockdownup_01",
+      "tierId": "T2",
+      "enhanceFrom": ""
+    },
+    "item_unit_t2_suit_07_edc_01": {
+      "itemId": "item_unit_t2_suit_07_edc_01",
+      "partType": "EDC",
+      "name": {
+        "text": "Lynx渗透器II",
+        "id": "AFF4262D71623F13"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_receivehealup_01",
+      "tierId": "T2",
+      "enhanceFrom": ""
+    },
+    "item_unit_t3_parts_body_01": {
+      "itemId": "item_unit_t3_parts_body_01",
+      "partType": "Body",
+      "name": {
+        "text": "坚韧的机车夹克",
+        "id": "6637C86C942AD8AB"
+      },
+      "attachSlotNum": 0,
+      "suitID": "",
+      "tierId": "T3",
+      "enhanceFrom": ""
+    },
+    "item_unit_t3_parts_body_02": {
+      "itemId": "item_unit_t3_parts_body_02",
+      "partType": "Body",
+      "name": {
+        "text": "沉重的抵抗锁装",
+        "id": "ACA4A0455D5D6F12"
+      },
+      "attachSlotNum": 0,
+      "suitID": "",
+      "tierId": "T3",
+      "enhanceFrom": ""
+    },
+    "item_unit_t3_parts_edc_01": {
+      "itemId": "item_unit_t3_parts_edc_01",
+      "partType": "EDC",
+      "name": {
+        "text": "耐蚀的综合扳手",
+        "id": "E72CD8E1EF3A011B"
+      },
+      "attachSlotNum": 0,
+      "suitID": "",
+      "tierId": "T3",
+      "enhanceFrom": ""
+    },
+    "item_unit_t3_parts_edc_02": {
+      "itemId": "item_unit_t3_parts_edc_02",
+      "partType": "EDC",
+      "name": {
+        "text": "趁手的小型钳",
+        "id": "B6D5E9F3BEB36EA0"
+      },
+      "attachSlotNum": 0,
+      "suitID": "",
+      "tierId": "T3",
+      "enhanceFrom": ""
+    },
+    "item_unit_t3_parts_hand_01": {
+      "itemId": "item_unit_t3_parts_hand_01",
+      "partType": "Hand",
+      "name": {
+        "text": "加固的防震手套",
+        "id": "7111A8A243BD17DB"
+      },
+      "attachSlotNum": 0,
+      "suitID": "",
+      "tierId": "T3",
+      "enhanceFrom": ""
+    },
+    "item_unit_t3_parts_hand_02": {
+      "itemId": "item_unit_t3_parts_hand_02",
+      "partType": "Hand",
+      "name": {
+        "text": "拼接的亮皮手套",
+        "id": "66B94A42EB077408"
+      },
+      "attachSlotNum": 0,
+      "suitID": "",
+      "tierId": "T3",
+      "enhanceFrom": ""
+    },
+    "item_unit_t3_suit_01_hand_01": {
+      "itemId": "item_unit_t3_suit_01_hand_01",
+      "partType": "Hand",
+      "name": {
+        "text": "工程护手III",
+        "id": "32E2FCC040500882"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_atkup_01",
+      "tierId": "T3",
+      "enhanceFrom": ""
+    },
+    "item_unit_t3_suit_02_body_01": {
+      "itemId": "item_unit_t3_suit_02_body_01",
+      "partType": "Body",
+      "name": {
+        "text": "铁卫防护服III",
+        "id": "B62FE0B91AB3AB5C"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_defup_01",
+      "tierId": "T3",
+      "enhanceFrom": ""
+    },
+    "item_unit_t3_suit_03_body_01": {
+      "itemId": "item_unit_t3_suit_03_body_01",
+      "partType": "Body",
+      "name": {
+        "text": "活性防护服III",
+        "id": "878F04DBB4679A06"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_hpup_01",
+      "tierId": "T3",
+      "enhanceFrom": ""
+    },
+    "item_unit_t3_suit_04_edc_01": {
+      "itemId": "item_unit_t3_suit_04_edc_01",
+      "partType": "EDC",
+      "name": {
+        "text": "撕裂调节器III",
+        "id": "390C2E28358B5AB5"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_critmulti_01",
+      "tierId": "T3",
+      "enhanceFrom": ""
+    },
+    "item_unit_t3_suit_04_hand_01": {
+      "itemId": "item_unit_t3_suit_04_hand_01",
+      "partType": "Hand",
+      "name": {
+        "text": "撕裂护手III",
+        "id": "2E607B6F1CC58562"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_critmulti_01",
+      "tierId": "T3",
+      "enhanceFrom": ""
+    },
+    "item_unit_t3_suit_05_body_01": {
+      "itemId": "item_unit_t3_suit_05_body_01",
+      "partType": "Body",
+      "name": {
+        "text": "点剑防护服III",
+        "id": "F308467B2B4156BB"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_cd_01",
+      "tierId": "T3",
+      "enhanceFrom": ""
+    },
+    "item_unit_t3_suit_05_edc_01": {
+      "itemId": "item_unit_t3_suit_05_edc_01",
+      "partType": "EDC",
+      "name": {
+        "text": "点剑绘图笔III",
+        "id": "8D4247FD400BE8FD"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_cd_01",
+      "tierId": "T3",
+      "enhanceFrom": ""
+    },
+    "item_unit_t3_suit_06_edc_01": {
+      "itemId": "item_unit_t3_suit_06_edc_01",
+      "partType": "EDC",
+      "name": {
+        "text": "束缚调节器III",
+        "id": "D27B135D3D2A322F"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_knockdownup_01",
+      "tierId": "T3",
+      "enhanceFrom": ""
+    },
+    "item_unit_t3_suit_06_hand_01": {
+      "itemId": "item_unit_t3_suit_06_hand_01",
+      "partType": "Hand",
+      "name": {
+        "text": "束缚护手III",
+        "id": "E123358589FCBD5A"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_knockdownup_01",
+      "tierId": "T3",
+      "enhanceFrom": ""
+    },
+    "item_unit_t3_suit_07_body_01": {
+      "itemId": "item_unit_t3_suit_07_body_01",
+      "partType": "Body",
+      "name": {
+        "text": "Lynx防护服III",
+        "id": "93F9B5EBD616193D"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_receivehealup_01",
+      "tierId": "T3",
+      "enhanceFrom": ""
+    },
+    "item_unit_t3_suit_07_hand_01": {
+      "itemId": "item_unit_t3_suit_07_hand_01",
+      "partType": "Hand",
+      "name": {
+        "text": "Lynx护手III",
+        "id": "4A9A10845FAF7367"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_receivehealup_01",
+      "tierId": "T3",
+      "enhanceFrom": ""
+    },
+    "item_unit_t3_suit_08_edc_01": {
+      "itemId": "item_unit_t3_suit_08_edc_01",
+      "partType": "EDC",
+      "name": {
+        "text": "脉冲防暴器III",
+        "id": "81BA8C606F3AEFC8"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_pulseup_01",
+      "tierId": "T3",
+      "enhanceFrom": ""
+    },
+    "item_unit_t3_suit_08_hand_01": {
+      "itemId": "item_unit_t3_suit_08_hand_01",
+      "partType": "Hand",
+      "name": {
+        "text": "脉冲护手III",
+        "id": "1B10E444F641F6EA"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_pulseup_01",
+      "tierId": "T3",
+      "enhanceFrom": ""
+    },
+    "item_unit_t3_suit_09_body_01": {
+      "itemId": "item_unit_t3_suit_09_body_01",
+      "partType": "Body",
+      "name": {
+        "text": "焚火防护服III",
+        "id": "143BA12CA917255E"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_fireup_01",
+      "tierId": "T3",
+      "enhanceFrom": ""
+    },
+    "item_unit_t3_suit_09_edc_01": {
+      "itemId": "item_unit_t3_suit_09_edc_01",
+      "partType": "EDC",
+      "name": {
+        "text": "焚火钳压器III",
+        "id": "DC0DEF2A96DD3022"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_fireup_01",
+      "tierId": "T3",
+      "enhanceFrom": ""
+    },
+    "item_unit_t3_suit_10_edc_01": {
+      "itemId": "item_unit_t3_suit_10_edc_01",
+      "partType": "EDC",
+      "name": {
+        "text": "结晶防护器III",
+        "id": "12780BF536DBE145"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_crystup_01",
+      "tierId": "T3",
+      "enhanceFrom": ""
+    },
+    "item_unit_t3_suit_10_edc_02": {
+      "itemId": "item_unit_t3_suit_10_edc_02",
+      "partType": "EDC",
+      "name": {
+        "text": "结晶防护III·改",
+        "id": "2EFA1F93F3E4513F"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_crystup_01",
+      "tierId": "T3",
+      "enhanceFrom": ""
+    },
+    "item_unit_t4_parts_body_01": {
+      "itemId": "item_unit_t4_parts_body_01",
+      "partType": "Body",
+      "name": {
+        "text": "轻盈的钢索束衣",
+        "id": "A74046DC4BA36B87"
+      },
+      "attachSlotNum": 0,
+      "suitID": "",
+      "tierId": "T4",
+      "enhanceFrom": ""
+    },
+    "item_unit_t4_parts_body_01_eh": {
+      "itemId": "item_unit_t4_parts_body_01",
+      "partType": "Body",
+      "name": {
+        "text": "轻盈的钢索束衣",
+        "id": "A74046DC4BA36B87"
+      },
+      "attachSlotNum": 0,
+      "suitID": "",
+      "tierId": "T4",
+      "enhanceFrom": "item_unit_t4_parts_body_01"
+    },
+    "item_unit_t4_parts_body_02": {
+      "itemId": "item_unit_t4_parts_body_02",
+      "partType": "Body",
+      "name": {
+        "text": "拼接的钢索束衣",
+        "id": "C5E972F1C7AD72A3"
+      },
+      "attachSlotNum": 0,
+      "suitID": "",
+      "tierId": "T4",
+      "enhanceFrom": ""
+    },
+    "item_unit_t4_parts_body_02_eh": {
+      "itemId": "item_unit_t4_parts_body_02",
+      "partType": "Body",
+      "name": {
+        "text": "拼接的钢索束衣",
+        "id": "C5E972F1C7AD72A3"
+      },
+      "attachSlotNum": 0,
+      "suitID": "",
+      "tierId": "T4",
+      "enhanceFrom": "item_unit_t4_parts_body_02"
+    },
+    "item_unit_t4_parts_body_03": {
+      "itemId": "item_unit_t4_parts_body_03",
+      "partType": "Body",
+      "name": {
+        "text": "拼接的抵抗锁装",
+        "id": "12B67411D7A82740"
+      },
+      "attachSlotNum": 0,
+      "suitID": "",
+      "tierId": "T4",
+      "enhanceFrom": ""
+    },
+    "item_unit_t4_parts_body_03_eh": {
+      "itemId": "item_unit_t4_parts_body_03",
+      "partType": "Body",
+      "name": {
+        "text": "拼接的抵抗锁装",
+        "id": "12B67411D7A82740"
+      },
+      "attachSlotNum": 0,
+      "suitID": "",
+      "tierId": "T4",
+      "enhanceFrom": "item_unit_t4_parts_body_03"
+    },
+    "item_unit_t4_parts_body_04": {
+      "itemId": "item_unit_t4_parts_body_04",
+      "partType": "Body",
+      "name": {
+        "text": "精致的冲压铠",
+        "id": "BC3D17D405D3B758"
+      },
+      "attachSlotNum": 0,
+      "suitID": "",
+      "tierId": "T4",
+      "enhanceFrom": ""
+    },
+    "item_unit_t4_parts_body_04_eh": {
+      "itemId": "item_unit_t4_parts_body_04",
+      "partType": "Body",
+      "name": {
+        "text": "精致的冲压铠",
+        "id": "BC3D17D405D3B758"
+      },
+      "attachSlotNum": 0,
+      "suitID": "",
+      "tierId": "T4",
+      "enhanceFrom": "item_unit_t4_parts_body_04"
+    },
+    "item_unit_t4_parts_edc_01": {
+      "itemId": "item_unit_t4_parts_edc_01",
+      "partType": "EDC",
+      "name": {
+        "text": "趁手的战术手电",
+        "id": "DF0CEEA712FCCFBE"
+      },
+      "attachSlotNum": 0,
+      "suitID": "",
+      "tierId": "T4",
+      "enhanceFrom": ""
+    },
+    "item_unit_t4_parts_edc_01_eh": {
+      "itemId": "item_unit_t4_parts_edc_01",
+      "partType": "EDC",
+      "name": {
+        "text": "趁手的战术手电",
+        "id": "DF0CEEA712FCCFBE"
+      },
+      "attachSlotNum": 0,
+      "suitID": "",
+      "tierId": "T4",
+      "enhanceFrom": "item_unit_t4_parts_edc_01"
+    },
+    "item_unit_t4_parts_edc_02": {
+      "itemId": "item_unit_t4_parts_edc_02",
+      "partType": "EDC",
+      "name": {
+        "text": "耐用的战术短刃",
+        "id": "95EA87ABB98289D7"
+      },
+      "attachSlotNum": 0,
+      "suitID": "",
+      "tierId": "T4",
+      "enhanceFrom": ""
+    },
+    "item_unit_t4_parts_edc_02_eh": {
+      "itemId": "item_unit_t4_parts_edc_02",
+      "partType": "EDC",
+      "name": {
+        "text": "耐用的战术短刃",
+        "id": "95EA87ABB98289D7"
+      },
+      "attachSlotNum": 0,
+      "suitID": "",
+      "tierId": "T4",
+      "enhanceFrom": "item_unit_t4_parts_edc_02"
+    },
+    "item_unit_t4_parts_edc_03": {
+      "itemId": "item_unit_t4_parts_edc_03",
+      "partType": "EDC",
+      "name": {
+        "text": "精致的标记器",
+        "id": "5944AB38E6B6FC91"
+      },
+      "attachSlotNum": 0,
+      "suitID": "",
+      "tierId": "T4",
+      "enhanceFrom": ""
+    },
+    "item_unit_t4_parts_edc_03_eh": {
+      "itemId": "item_unit_t4_parts_edc_03",
+      "partType": "EDC",
+      "name": {
+        "text": "精致的标记器",
+        "id": "5944AB38E6B6FC91"
+      },
+      "attachSlotNum": 0,
+      "suitID": "",
+      "tierId": "T4",
+      "enhanceFrom": "item_unit_t4_parts_edc_03"
+    },
+    "item_unit_t4_parts_edc_04": {
+      "itemId": "item_unit_t4_parts_edc_04",
+      "partType": "EDC",
+      "name": {
+        "text": "轻盈的标记器",
+        "id": "D46781548100629E"
+      },
+      "attachSlotNum": 0,
+      "suitID": "",
+      "tierId": "T4",
+      "enhanceFrom": ""
+    },
+    "item_unit_t4_parts_edc_04_eh": {
+      "itemId": "item_unit_t4_parts_edc_04",
+      "partType": "EDC",
+      "name": {
+        "text": "轻盈的标记器",
+        "id": "D46781548100629E"
+      },
+      "attachSlotNum": 0,
+      "suitID": "",
+      "tierId": "T4",
+      "enhanceFrom": "item_unit_t4_parts_edc_04"
+    },
+    "item_unit_t4_parts_hand_01": {
+      "itemId": "item_unit_t4_parts_hand_01",
+      "partType": "Hand",
+      "name": {
+        "text": "耐蚀的嵌钉手套",
+        "id": "62E9B926A49D5A49"
+      },
+      "attachSlotNum": 0,
+      "suitID": "",
+      "tierId": "T4",
+      "enhanceFrom": ""
+    },
+    "item_unit_t4_parts_hand_01_eh": {
+      "itemId": "item_unit_t4_parts_hand_01",
+      "partType": "Hand",
+      "name": {
+        "text": "耐蚀的嵌钉手套",
+        "id": "62E9B926A49D5A49"
+      },
+      "attachSlotNum": 0,
+      "suitID": "",
+      "tierId": "T4",
+      "enhanceFrom": "item_unit_t4_parts_hand_01"
+    },
+    "item_unit_t4_parts_hand_02": {
+      "itemId": "item_unit_t4_parts_hand_02",
+      "partType": "Hand",
+      "name": {
+        "text": "加固的嵌钉手套",
+        "id": "BFF2CA1A9F0725AB"
+      },
+      "attachSlotNum": 0,
+      "suitID": "",
+      "tierId": "T4",
+      "enhanceFrom": ""
+    },
+    "item_unit_t4_parts_hand_02_eh": {
+      "itemId": "item_unit_t4_parts_hand_02",
+      "partType": "Hand",
+      "name": {
+        "text": "加固的嵌钉手套",
+        "id": "BFF2CA1A9F0725AB"
+      },
+      "attachSlotNum": 0,
+      "suitID": "",
+      "tierId": "T4",
+      "enhanceFrom": "item_unit_t4_parts_hand_02"
+    },
+    "item_unit_t4_parts_hand_03": {
+      "itemId": "item_unit_t4_parts_hand_03",
+      "partType": "Hand",
+      "name": {
+        "text": "坚韧的嵌组护手",
+        "id": "2835DE5B21B69231"
+      },
+      "attachSlotNum": 0,
+      "suitID": "",
+      "tierId": "T4",
+      "enhanceFrom": ""
+    },
+    "item_unit_t4_parts_hand_03_eh": {
+      "itemId": "item_unit_t4_parts_hand_03",
+      "partType": "Hand",
+      "name": {
+        "text": "坚韧的嵌组护手",
+        "id": "2835DE5B21B69231"
+      },
+      "attachSlotNum": 0,
+      "suitID": "",
+      "tierId": "T4",
+      "enhanceFrom": "item_unit_t4_parts_hand_03"
+    },
+    "item_unit_t4_parts_hand_04": {
+      "itemId": "item_unit_t4_parts_hand_04",
+      "partType": "Hand",
+      "name": {
+        "text": "耐用的嵌组护手",
+        "id": "2F98F6E579AD2AE8"
+      },
+      "attachSlotNum": 0,
+      "suitID": "",
+      "tierId": "T4",
+      "enhanceFrom": ""
+    },
+    "item_unit_t4_parts_hand_04_eh": {
+      "itemId": "item_unit_t4_parts_hand_04",
+      "partType": "Hand",
+      "name": {
+        "text": "耐用的嵌组护手",
+        "id": "2F98F6E579AD2AE8"
+      },
+      "attachSlotNum": 0,
+      "suitID": "",
+      "tierId": "T4",
+      "enhanceFrom": "item_unit_t4_parts_hand_04"
+    },
+    "item_unit_t4_suit_01_body_01": {
+      "itemId": "item_unit_t4_suit_01_body_01",
+      "partType": "Body",
+      "name": {
+        "text": "工程防护服IV",
+        "id": "A0DDC51E31EE2D82"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_atkup_01",
+      "tierId": "T4",
+      "enhanceFrom": ""
+    },
+    "item_unit_t4_suit_01_body_01_eh": {
+      "itemId": "item_unit_t4_suit_01_body_01",
+      "partType": "Body",
+      "name": {
+        "text": "工程防护服IV",
+        "id": "A0DDC51E31EE2D82"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_atkup_01",
+      "tierId": "T4",
+      "enhanceFrom": "item_unit_t4_suit_01_body_01"
+    },
+    "item_unit_t4_suit_01_edc_01": {
+      "itemId": "item_unit_t4_suit_01_edc_01",
+      "partType": "EDC",
+      "name": {
+        "text": "工程防暴器IV",
+        "id": "9E4AF66B1210C39F"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_atkup_01",
+      "tierId": "T4",
+      "enhanceFrom": ""
+    },
+    "item_unit_t4_suit_01_edc_01_eh": {
+      "itemId": "item_unit_t4_suit_01_edc_01",
+      "partType": "EDC",
+      "name": {
+        "text": "工程防暴器IV",
+        "id": "9E4AF66B1210C39F"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_atkup_01",
+      "tierId": "T4",
+      "enhanceFrom": "item_unit_t4_suit_01_edc_01"
+    },
+    "item_unit_t4_suit_01_edc_02": {
+      "itemId": "item_unit_t4_suit_01_edc_02",
+      "partType": "EDC",
+      "name": {
+        "text": "工程防暴器IV·改",
+        "id": "11449A9AC096A23F"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_atkup_01",
+      "tierId": "T4",
+      "enhanceFrom": ""
+    },
+    "item_unit_t4_suit_01_edc_02_eh": {
+      "itemId": "item_unit_t4_suit_01_edc_02",
+      "partType": "EDC",
+      "name": {
+        "text": "工程防暴器IV·改",
+        "id": "11449A9AC096A23F"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_atkup_01",
+      "tierId": "T4",
+      "enhanceFrom": "item_unit_t4_suit_01_edc_02"
+    },
+    "item_unit_t4_suit_02_edc_01": {
+      "itemId": "item_unit_t4_suit_02_edc_01",
+      "partType": "EDC",
+      "name": {
+        "text": "铁卫防护器IV",
+        "id": "D56E93DE440E9810"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_defup_01",
+      "tierId": "T4",
+      "enhanceFrom": ""
+    },
+    "item_unit_t4_suit_02_edc_01_eh": {
+      "itemId": "item_unit_t4_suit_02_edc_01",
+      "partType": "EDC",
+      "name": {
+        "text": "铁卫防护器IV",
+        "id": "D56E93DE440E9810"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_defup_01",
+      "tierId": "T4",
+      "enhanceFrom": "item_unit_t4_suit_02_edc_01"
+    },
+    "item_unit_t4_suit_02_hand_01": {
+      "itemId": "item_unit_t4_suit_02_hand_01",
+      "partType": "Hand",
+      "name": {
+        "text": "铁卫护手IV",
+        "id": "E4AC08D971866686"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_defup_01",
+      "tierId": "T4",
+      "enhanceFrom": ""
+    },
+    "item_unit_t4_suit_02_hand_01_eh": {
+      "itemId": "item_unit_t4_suit_02_hand_01",
+      "partType": "Hand",
+      "name": {
+        "text": "铁卫护手IV",
+        "id": "E4AC08D971866686"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_defup_01",
+      "tierId": "T4",
+      "enhanceFrom": "item_unit_t4_suit_02_hand_01"
+    },
+    "item_unit_t4_suit_03_edc_01": {
+      "itemId": "item_unit_t4_suit_03_edc_01",
+      "partType": "EDC",
+      "name": {
+        "text": "活性标记器IV",
+        "id": "F0846957C35E94A7"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_hpup_01",
+      "tierId": "T4",
+      "enhanceFrom": ""
+    },
+    "item_unit_t4_suit_03_edc_01_eh": {
+      "itemId": "item_unit_t4_suit_03_edc_01",
+      "partType": "EDC",
+      "name": {
+        "text": "活性标记器IV",
+        "id": "F0846957C35E94A7"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_hpup_01",
+      "tierId": "T4",
+      "enhanceFrom": "item_unit_t4_suit_03_edc_01"
+    },
+    "item_unit_t4_suit_03_hand_01": {
+      "itemId": "item_unit_t4_suit_03_hand_01",
+      "partType": "Hand",
+      "name": {
+        "text": "活性护手IV",
+        "id": "8A36940ECF96DC2D"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_hpup_01",
+      "tierId": "T4",
+      "enhanceFrom": ""
+    },
+    "item_unit_t4_suit_03_hand_01_eh": {
+      "itemId": "item_unit_t4_suit_03_hand_01",
+      "partType": "Hand",
+      "name": {
+        "text": "活性护手IV",
+        "id": "8A36940ECF96DC2D"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_hpup_01",
+      "tierId": "T4",
+      "enhanceFrom": "item_unit_t4_suit_03_hand_01"
+    },
+    "item_unit_t4_suit_04_body_01": {
+      "itemId": "item_unit_t4_suit_04_body_01",
+      "partType": "Body",
+      "name": {
+        "text": "撕裂防护服IV",
+        "id": "ECD1AB01E150BDE3"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_critmulti_01",
+      "tierId": "T4",
+      "enhanceFrom": ""
+    },
+    "item_unit_t4_suit_04_body_01_eh": {
+      "itemId": "item_unit_t4_suit_04_body_01",
+      "partType": "Body",
+      "name": {
+        "text": "撕裂防护服IV",
+        "id": "ECD1AB01E150BDE3"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_critmulti_01",
+      "tierId": "T4",
+      "enhanceFrom": "item_unit_t4_suit_04_body_01"
+    },
+    "item_unit_t4_suit_04_edc_01": {
+      "itemId": "item_unit_t4_suit_04_edc_01",
+      "partType": "EDC",
+      "name": {
+        "text": "撕裂调节器IV",
+        "id": "B70DE29E5F16216D"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_critmulti_01",
+      "tierId": "T4",
+      "enhanceFrom": ""
+    },
+    "item_unit_t4_suit_04_edc_01_eh": {
+      "itemId": "item_unit_t4_suit_04_edc_01",
+      "partType": "EDC",
+      "name": {
+        "text": "撕裂调节器IV",
+        "id": "B70DE29E5F16216D"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_critmulti_01",
+      "tierId": "T4",
+      "enhanceFrom": "item_unit_t4_suit_04_edc_01"
+    },
+    "item_unit_t4_suit_05_body_01": {
+      "itemId": "item_unit_t4_suit_05_body_01",
+      "partType": "Body",
+      "name": {
+        "text": "点剑防护服IV",
+        "id": "8D769456CF004985"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_cd_01",
+      "tierId": "T4",
+      "enhanceFrom": ""
+    },
+    "item_unit_t4_suit_05_body_01_eh": {
+      "itemId": "item_unit_t4_suit_05_body_01",
+      "partType": "Body",
+      "name": {
+        "text": "点剑防护服IV",
+        "id": "8D769456CF004985"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_cd_01",
+      "tierId": "T4",
+      "enhanceFrom": "item_unit_t4_suit_05_body_01"
+    },
+    "item_unit_t4_suit_05_edc_01": {
+      "itemId": "item_unit_t4_suit_05_edc_01",
+      "partType": "EDC",
+      "name": {
+        "text": "点剑绘图笔IV",
+        "id": "09340E1D1E8E2910"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_cd_01",
+      "tierId": "T4",
+      "enhanceFrom": ""
+    },
+    "item_unit_t4_suit_05_edc_01_eh": {
+      "itemId": "item_unit_t4_suit_05_edc_01",
+      "partType": "EDC",
+      "name": {
+        "text": "点剑绘图笔IV",
+        "id": "09340E1D1E8E2910"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_cd_01",
+      "tierId": "T4",
+      "enhanceFrom": "item_unit_t4_suit_05_edc_01"
+    },
+    "item_unit_t4_suit_05_edc_02": {
+      "itemId": "item_unit_t4_suit_05_edc_02",
+      "partType": "EDC",
+      "name": {
+        "text": "点剑绘图笔IV·改",
+        "id": "7A7312E16580A23B"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_cd_01",
+      "tierId": "T4",
+      "enhanceFrom": ""
+    },
+    "item_unit_t4_suit_05_edc_02_eh": {
+      "itemId": "item_unit_t4_suit_05_edc_02",
+      "partType": "EDC",
+      "name": {
+        "text": "点剑绘图笔IV·改",
+        "id": "7A7312E16580A23B"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_cd_01",
+      "tierId": "T4",
+      "enhanceFrom": "item_unit_t4_suit_05_edc_02"
+    },
+    "item_unit_t4_suit_05_hand_01": {
+      "itemId": "item_unit_t4_suit_05_hand_01",
+      "partType": "Hand",
+      "name": {
+        "text": "点剑护手IV",
+        "id": "61FDC68D8BABDDE1"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_cd_01",
+      "tierId": "T4",
+      "enhanceFrom": ""
+    },
+    "item_unit_t4_suit_05_hand_01_eh": {
+      "itemId": "item_unit_t4_suit_05_hand_01",
+      "partType": "Hand",
+      "name": {
+        "text": "点剑护手IV",
+        "id": "61FDC68D8BABDDE1"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_cd_01",
+      "tierId": "T4",
+      "enhanceFrom": "item_unit_t4_suit_05_hand_01"
+    },
+    "item_unit_t4_suit_06_body_01": {
+      "itemId": "item_unit_t4_suit_06_body_01",
+      "partType": "Body",
+      "name": {
+        "text": "束缚防护服IV",
+        "id": "BEFB8B27CC0D3925"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_knockdownup_01",
+      "tierId": "T4",
+      "enhanceFrom": ""
+    },
+    "item_unit_t4_suit_06_body_01_eh": {
+      "itemId": "item_unit_t4_suit_06_body_01",
+      "partType": "Body",
+      "name": {
+        "text": "束缚防护服IV",
+        "id": "BEFB8B27CC0D3925"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_knockdownup_01",
+      "tierId": "T4",
+      "enhanceFrom": "item_unit_t4_suit_06_body_01"
+    },
+    "item_unit_t4_suit_06_edc_01": {
+      "itemId": "item_unit_t4_suit_06_edc_01",
+      "partType": "EDC",
+      "name": {
+        "text": "束缚调节器IV",
+        "id": "E16222C6575DF55A"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_knockdownup_01",
+      "tierId": "T4",
+      "enhanceFrom": ""
+    },
+    "item_unit_t4_suit_06_edc_01_eh": {
+      "itemId": "item_unit_t4_suit_06_edc_01",
+      "partType": "EDC",
+      "name": {
+        "text": "束缚调节器IV",
+        "id": "E16222C6575DF55A"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_knockdownup_01",
+      "tierId": "T4",
+      "enhanceFrom": "item_unit_t4_suit_06_edc_01"
+    },
+    "item_unit_t4_suit_06_edc_02": {
+      "itemId": "item_unit_t4_suit_06_edc_02",
+      "partType": "EDC",
+      "name": {
+        "text": "束缚调节器IV·改",
+        "id": "E1CF8C2C6F19BA32"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_knockdownup_01",
+      "tierId": "T4",
+      "enhanceFrom": ""
+    },
+    "item_unit_t4_suit_06_edc_02_eh": {
+      "itemId": "item_unit_t4_suit_06_edc_02",
+      "partType": "EDC",
+      "name": {
+        "text": "束缚调节器IV·改",
+        "id": "E1CF8C2C6F19BA32"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_knockdownup_01",
+      "tierId": "T4",
+      "enhanceFrom": "item_unit_t4_suit_06_edc_02"
+    },
+    "item_unit_t4_suit_06_hand_01": {
+      "itemId": "item_unit_t4_suit_06_hand_01",
+      "partType": "Hand",
+      "name": {
+        "text": "束缚护手IV",
+        "id": "824E39FE3F89878C"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_knockdownup_01",
+      "tierId": "T4",
+      "enhanceFrom": ""
+    },
+    "item_unit_t4_suit_06_hand_01_eh": {
+      "itemId": "item_unit_t4_suit_06_hand_01",
+      "partType": "Hand",
+      "name": {
+        "text": "束缚护手IV",
+        "id": "824E39FE3F89878C"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_knockdownup_01",
+      "tierId": "T4",
+      "enhanceFrom": "item_unit_t4_suit_06_hand_01"
+    },
+    "item_unit_t4_suit_07_body_01": {
+      "itemId": "item_unit_t4_suit_07_body_01",
+      "partType": "Body",
+      "name": {
+        "text": "Lynx防护服IV",
+        "id": "2E90FF48196B623D"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_receivehealup_01",
+      "tierId": "T4",
+      "enhanceFrom": ""
+    },
+    "item_unit_t4_suit_07_body_01_eh": {
+      "itemId": "item_unit_t4_suit_07_body_01",
+      "partType": "Body",
+      "name": {
+        "text": "Lynx防护服IV",
+        "id": "2E90FF48196B623D"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_receivehealup_01",
+      "tierId": "T4",
+      "enhanceFrom": "item_unit_t4_suit_07_body_01"
+    },
+    "item_unit_t4_suit_07_edc_01": {
+      "itemId": "item_unit_t4_suit_07_edc_01",
+      "partType": "EDC",
+      "name": {
+        "text": "Lynx标记器IV",
+        "id": "0F2CC00DC4D9A4CB"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_receivehealup_01",
+      "tierId": "T4",
+      "enhanceFrom": ""
+    },
+    "item_unit_t4_suit_07_edc_01_eh": {
+      "itemId": "item_unit_t4_suit_07_edc_01",
+      "partType": "EDC",
+      "name": {
+        "text": "Lynx标记器IV",
+        "id": "0F2CC00DC4D9A4CB"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_receivehealup_01",
+      "tierId": "T4",
+      "enhanceFrom": "item_unit_t4_suit_07_edc_01"
+    },
+    "item_unit_t4_suit_07_edc_02": {
+      "itemId": "item_unit_t4_suit_07_edc_02",
+      "partType": "EDC",
+      "name": {
+        "text": "Lynx标记器IV·改",
+        "id": "F406FEDBC219C9F1"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_receivehealup_01",
+      "tierId": "T4",
+      "enhanceFrom": ""
+    },
+    "item_unit_t4_suit_07_edc_02_eh": {
+      "itemId": "item_unit_t4_suit_07_edc_02",
+      "partType": "EDC",
+      "name": {
+        "text": "Lynx标记器IV·改",
+        "id": "F406FEDBC219C9F1"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_receivehealup_01",
+      "tierId": "T4",
+      "enhanceFrom": "item_unit_t4_suit_07_edc_02"
+    },
+    "item_unit_t4_suit_07_hand_01": {
+      "itemId": "item_unit_t4_suit_07_hand_01",
+      "partType": "Hand",
+      "name": {
+        "text": "Lynx护手IV",
+        "id": "2BC638E0F9537AC0"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_receivehealup_01",
+      "tierId": "T4",
+      "enhanceFrom": ""
+    },
+    "item_unit_t4_suit_07_hand_01_eh": {
+      "itemId": "item_unit_t4_suit_07_hand_01",
+      "partType": "Hand",
+      "name": {
+        "text": "Lynx护手IV",
+        "id": "2BC638E0F9537AC0"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_receivehealup_01",
+      "tierId": "T4",
+      "enhanceFrom": "item_unit_t4_suit_07_hand_01"
+    },
+    "item_unit_t4_suit_08_body_01": {
+      "itemId": "item_unit_t4_suit_08_body_01",
+      "partType": "Body",
+      "name": {
+        "text": "脉冲防护服IV",
+        "id": "6A8BA69175923541"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_pulseup_01",
+      "tierId": "T4",
+      "enhanceFrom": ""
+    },
+    "item_unit_t4_suit_08_body_01_eh": {
+      "itemId": "item_unit_t4_suit_08_body_01",
+      "partType": "Body",
+      "name": {
+        "text": "脉冲防护服IV",
+        "id": "6A8BA69175923541"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_pulseup_01",
+      "tierId": "T4",
+      "enhanceFrom": "item_unit_t4_suit_08_body_01"
+    },
+    "item_unit_t4_suit_08_body_02": {
+      "itemId": "item_unit_t4_suit_08_body_02",
+      "partType": "Body",
+      "name": {
+        "text": "脉冲防护服IV·改",
+        "id": "7332F28F71BBDF01"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_pulseup_01",
+      "tierId": "T4",
+      "enhanceFrom": ""
+    },
+    "item_unit_t4_suit_08_body_02_eh": {
+      "itemId": "item_unit_t4_suit_08_body_02",
+      "partType": "Body",
+      "name": {
+        "text": "脉冲防护服IV·改",
+        "id": "7332F28F71BBDF01"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_pulseup_01",
+      "tierId": "T4",
+      "enhanceFrom": "item_unit_t4_suit_08_body_02"
+    },
+    "item_unit_t4_suit_08_edc_01": {
+      "itemId": "item_unit_t4_suit_08_edc_01",
+      "partType": "EDC",
+      "name": {
+        "text": "脉冲防暴器IV",
+        "id": "5A29A3707E808F31"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_pulseup_01",
+      "tierId": "T4",
+      "enhanceFrom": ""
+    },
+    "item_unit_t4_suit_08_edc_01_eh": {
+      "itemId": "item_unit_t4_suit_08_edc_01",
+      "partType": "EDC",
+      "name": {
+        "text": "脉冲防暴器IV",
+        "id": "5A29A3707E808F31"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_pulseup_01",
+      "tierId": "T4",
+      "enhanceFrom": "item_unit_t4_suit_08_edc_01"
+    },
+    "item_unit_t4_suit_08_edc_02": {
+      "itemId": "item_unit_t4_suit_08_edc_02",
+      "partType": "EDC",
+      "name": {
+        "text": "脉冲防暴器IV·改",
+        "id": "511F1CDA86B6D936"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_pulseup_01",
+      "tierId": "T4",
+      "enhanceFrom": ""
+    },
+    "item_unit_t4_suit_08_edc_02_eh": {
+      "itemId": "item_unit_t4_suit_08_edc_02",
+      "partType": "EDC",
+      "name": {
+        "text": "脉冲防暴器IV·改",
+        "id": "511F1CDA86B6D936"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_pulseup_01",
+      "tierId": "T4",
+      "enhanceFrom": "item_unit_t4_suit_08_edc_02"
+    },
+    "item_unit_t4_suit_09_edc_01": {
+      "itemId": "item_unit_t4_suit_09_edc_01",
+      "partType": "EDC",
+      "name": {
+        "text": "焚火钳压器IV",
+        "id": "8541D0C055A427F9"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_fireup_01",
+      "tierId": "T4",
+      "enhanceFrom": ""
+    },
+    "item_unit_t4_suit_09_edc_01_eh": {
+      "itemId": "item_unit_t4_suit_09_edc_01",
+      "partType": "EDC",
+      "name": {
+        "text": "焚火钳压器IV",
+        "id": "8541D0C055A427F9"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_fireup_01",
+      "tierId": "T4",
+      "enhanceFrom": "item_unit_t4_suit_09_edc_01"
+    },
+    "item_unit_t4_suit_09_edc_02": {
+      "itemId": "item_unit_t4_suit_09_edc_02",
+      "partType": "EDC",
+      "name": {
+        "text": "焚火钳压器IV·改",
+        "id": "6BF825D3518A5720"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_fireup_01",
+      "tierId": "T4",
+      "enhanceFrom": ""
+    },
+    "item_unit_t4_suit_09_edc_02_eh": {
+      "itemId": "item_unit_t4_suit_09_edc_02",
+      "partType": "EDC",
+      "name": {
+        "text": "焚火钳压器IV·改",
+        "id": "6BF825D3518A5720"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_fireup_01",
+      "tierId": "T4",
+      "enhanceFrom": "item_unit_t4_suit_09_edc_02"
+    },
+    "item_unit_t4_suit_09_hand_01": {
+      "itemId": "item_unit_t4_suit_09_hand_01",
+      "partType": "Hand",
+      "name": {
+        "text": "焚火护手IV",
+        "id": "F8C3893CAC911203"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_fireup_01",
+      "tierId": "T4",
+      "enhanceFrom": ""
+    },
+    "item_unit_t4_suit_09_hand_01_eh": {
+      "itemId": "item_unit_t4_suit_09_hand_01",
+      "partType": "Hand",
+      "name": {
+        "text": "焚火护手IV",
+        "id": "F8C3893CAC911203"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_fireup_01",
+      "tierId": "T4",
+      "enhanceFrom": "item_unit_t4_suit_09_hand_01"
+    },
+    "item_unit_t4_suit_09_hand_02": {
+      "itemId": "item_unit_t4_suit_09_hand_02",
+      "partType": "Hand",
+      "name": {
+        "text": "焚火护手IV·改",
+        "id": "A3497304768B4E0F"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_fireup_01",
+      "tierId": "T4",
+      "enhanceFrom": ""
+    },
+    "item_unit_t4_suit_09_hand_02_eh": {
+      "itemId": "item_unit_t4_suit_09_hand_02",
+      "partType": "Hand",
+      "name": {
+        "text": "焚火护手IV·改",
+        "id": "A3497304768B4E0F"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_fireup_01",
+      "tierId": "T4",
+      "enhanceFrom": "item_unit_t4_suit_09_hand_02"
+    },
+    "item_unit_t4_suit_10_body_01": {
+      "itemId": "item_unit_t4_suit_10_body_01",
+      "partType": "Body",
+      "name": {
+        "text": "结晶防护服IV",
+        "id": "00391D7A8B29EEE6"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_crystup_01",
+      "tierId": "T4",
+      "enhanceFrom": ""
+    },
+    "item_unit_t4_suit_10_body_01_eh": {
+      "itemId": "item_unit_t4_suit_10_body_01",
+      "partType": "Body",
+      "name": {
+        "text": "结晶防护服IV",
+        "id": "00391D7A8B29EEE6"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_crystup_01",
+      "tierId": "T4",
+      "enhanceFrom": "item_unit_t4_suit_10_body_01"
+    },
+    "item_unit_t4_suit_10_body_02": {
+      "itemId": "item_unit_t4_suit_10_body_02",
+      "partType": "Body",
+      "name": {
+        "text": "结晶防护服IV·改",
+        "id": "C2A051540D61C6A0"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_crystup_01",
+      "tierId": "T4",
+      "enhanceFrom": ""
+    },
+    "item_unit_t4_suit_10_body_02_eh": {
+      "itemId": "item_unit_t4_suit_10_body_02",
+      "partType": "Body",
+      "name": {
+        "text": "结晶防护服IV·改",
+        "id": "C2A051540D61C6A0"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_crystup_01",
+      "tierId": "T4",
+      "enhanceFrom": "item_unit_t4_suit_10_body_02"
+    },
+    "item_unit_t4_suit_10_edc_01": {
+      "itemId": "item_unit_t4_suit_10_edc_01",
+      "partType": "EDC",
+      "name": {
+        "text": "结晶防护器IV",
+        "id": "04C8A4B569D738DF"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_crystup_01",
+      "tierId": "T4",
+      "enhanceFrom": ""
+    },
+    "item_unit_t4_suit_10_edc_01_eh": {
+      "itemId": "item_unit_t4_suit_10_edc_01",
+      "partType": "EDC",
+      "name": {
+        "text": "结晶防护器IV",
+        "id": "04C8A4B569D738DF"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_crystup_01",
+      "tierId": "T4",
+      "enhanceFrom": "item_unit_t4_suit_10_edc_01"
+    },
+    "item_unit_t4_suit_10_hand_01": {
+      "itemId": "item_unit_t4_suit_10_hand_01",
+      "partType": "Hand",
+      "name": {
+        "text": "结晶护手IV",
+        "id": "B46C9CFF80639284"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_crystup_01",
+      "tierId": "T4",
+      "enhanceFrom": ""
+    },
+    "item_unit_t4_suit_10_hand_01_eh": {
+      "itemId": "item_unit_t4_suit_10_hand_01",
+      "partType": "Hand",
+      "name": {
+        "text": "结晶护手IV",
+        "id": "B46C9CFF80639284"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_crystup_01",
+      "tierId": "T4",
+      "enhanceFrom": "item_unit_t4_suit_10_hand_01"
+    },
+    "item_unit_t4_suit_10_hand_02": {
+      "itemId": "item_unit_t4_suit_10_hand_02",
+      "partType": "Hand",
+      "name": {
+        "text": "结晶护手IV·改",
+        "id": "D59C8562DB4705C5"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_crystup_01",
+      "tierId": "T4",
+      "enhanceFrom": ""
+    },
+    "item_unit_t4_suit_10_hand_02_eh": {
+      "itemId": "item_unit_t4_suit_10_hand_02",
+      "partType": "Hand",
+      "name": {
+        "text": "结晶护手IV·改",
+        "id": "D59C8562DB4705C5"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_crystup_01",
+      "tierId": "T4",
+      "enhanceFrom": "item_unit_t4_suit_10_hand_02"
+    }
+  },
+  "equipTable": {
+    "item_unit_t05_suit_01_body_01": {
+      "itemId": "item_unit_t05_suit_01_body_01",
+      "partType": "Body",
+      "name": {
+        "text": "简易探索防护服",
+        "id": "1F3EA2FA5EFEDFD3"
+      },
+      "attachSlotNum": 0,
+      "suitID": "",
+      "tierId": "T0.5",
+      "attrModifiers": [
+        {
+          "attrType": "Hp",
+          "attrValue": 103.860669323914,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Hp",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t05_suit_01_hand_01": {
+      "itemId": "item_unit_t05_suit_01_hand_01",
+      "partType": "Hand",
+      "name": {
+        "text": "简易探索护手",
+        "id": "1511461003F509AA"
+      },
+      "attachSlotNum": 0,
+      "suitID": "",
+      "tierId": "T0.5",
+      "attrModifiers": [
+        {
+          "attrType": "Def",
+          "attrValue": 14.147819909271,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Def",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t1_parts_body_01": {
+      "itemId": "item_unit_t1_parts_body_01",
+      "partType": "Body",
+      "name": {
+        "text": "耐用的工作背心",
+        "id": "4D3990C2C518C889"
+      },
+      "attachSlotNum": 0,
+      "suitID": "",
+      "tierId": "T1",
+      "attrModifiers": [
+        {
+          "attrType": "Hp",
+          "attrValue": 296.283223932388,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Hp",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t1_parts_edc_01": {
+      "itemId": "item_unit_t1_parts_edc_01",
+      "partType": "EDC",
+      "name": {
+        "text": "削尖铅笔",
+        "id": "E17592056CA84FEF"
+      },
+      "attachSlotNum": 0,
+      "suitID": "",
+      "tierId": "T1",
+      "attrModifiers": [
+        {
+          "attrType": "Atk",
+          "attrValue": 69.1327522508904,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Atk",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t1_parts_edc_02": {
+      "itemId": "item_unit_t1_parts_edc_02",
+      "partType": "EDC",
+      "name": {
+        "text": "耐蚀的旋转件",
+        "id": "2822B7DEE650837A"
+      },
+      "attachSlotNum": 0,
+      "suitID": "",
+      "tierId": "T1",
+      "attrModifiers": [
+        {
+          "attrType": "Pen",
+          "attrValue": 41.1154625975092,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Pen",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t1_parts_hand_01": {
+      "itemId": "item_unit_t1_parts_hand_01",
+      "partType": "Hand",
+      "name": {
+        "text": "耐蚀的缠带",
+        "id": "A78948BBDF523544"
+      },
+      "attachSlotNum": 0,
+      "suitID": "",
+      "tierId": "T1",
+      "attrModifiers": [
+        {
+          "attrType": "Def",
+          "attrValue": 41.1154625975092,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Def",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t1_suit_01_edc_01": {
+      "itemId": "item_unit_t1_suit_01_edc_01",
+      "partType": "EDC",
+      "name": {
+        "text": "工程储存器I",
+        "id": "9CFA4427BDD6E9B4"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_atkup_01",
+      "tierId": "T1",
+      "attrModifiers": [
+        {
+          "attrType": "Atk",
+          "attrValue": 27.6208776918576,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "Pen",
+          "attrValue": 16.3568200158673,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Atk",
+          "ratios": []
+        },
+        {
+          "attrType": "Pen",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t1_suit_01_hand_01": {
+      "itemId": "item_unit_t1_suit_01_hand_01",
+      "partType": "Hand",
+      "name": {
+        "text": "工程护手I",
+        "id": "08784568F5C89564"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_atkup_01",
+      "tierId": "T1",
+      "attrModifiers": [
+        {
+          "attrType": "Def",
+          "attrValue": 16.3568200158673,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "Atk",
+          "attrValue": 27.6208776918576,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Def",
+          "ratios": []
+        },
+        {
+          "attrType": "Atk",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t1_suit_02_body_01": {
+      "itemId": "item_unit_t1_suit_02_body_01",
+      "partType": "Body",
+      "name": {
+        "text": "铁卫防护服I",
+        "id": "F17B5FF00C4FEA9C"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_defup_01",
+      "tierId": "T1",
+      "attrModifiers": [
+        {
+          "attrType": "Hp",
+          "attrValue": 118.375190107962,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "Def",
+          "attrValue": 16.3568200158673,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Hp",
+          "ratios": []
+        },
+        {
+          "attrType": "Def",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t1_suit_02_hand_01": {
+      "itemId": "item_unit_t1_suit_02_hand_01",
+      "partType": "Hand",
+      "name": {
+        "text": "铁卫护手I",
+        "id": "0FE65A4C1BB2FA9A"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_defup_01",
+      "tierId": "T1",
+      "attrModifiers": [
+        {
+          "attrType": "Def",
+          "attrValue": 16.3568200158673,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "Hp",
+          "attrValue": 118.375190107962,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Def",
+          "ratios": []
+        },
+        {
+          "attrType": "Hp",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t1_suit_03_body_01": {
+      "itemId": "item_unit_t1_suit_03_body_01",
+      "partType": "Body",
+      "name": {
+        "text": "活性防护服I",
+        "id": "A1932BEA1E402BE7"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_hpup_01",
+      "tierId": "T1",
+      "attrModifiers": [
+        {
+          "attrType": "Hp",
+          "attrValue": 118.375190107962,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "Def",
+          "attrValue": 16.3568200158673,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Hp",
+          "ratios": []
+        },
+        {
+          "attrType": "Def",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t1_suit_03_edc_01": {
+      "itemId": "item_unit_t1_suit_03_edc_01",
+      "partType": "EDC",
+      "name": {
+        "text": "活性渗透器I",
+        "id": "1226BC33E5258F8E"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_hpup_01",
+      "tierId": "T1",
+      "attrModifiers": [
+        {
+          "attrType": "Pen",
+          "attrValue": 16.3568200158673,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "Atk",
+          "attrValue": 27.6208776918576,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Pen",
+          "ratios": []
+        },
+        {
+          "attrType": "Atk",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t1_suit_04_edc_01": {
+      "itemId": "item_unit_t1_suit_04_edc_01",
+      "partType": "EDC",
+      "name": {
+        "text": "撕裂平衡器I",
+        "id": "4CBB763E2D6EC7DF"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_critmulti_01",
+      "tierId": "T1",
+      "attrModifiers": [
+        {
+          "attrType": "Pen",
+          "attrValue": 16.3568200158673,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "CriticalDamage",
+          "attrValue": 0.306285714285714,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Pen",
+          "ratios": []
+        },
+        {
+          "attrType": "CriticalDamage",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t2_parts_body_01": {
+      "itemId": "item_unit_t2_parts_body_01",
+      "partType": "Body",
+      "name": {
+        "text": "加厚的求生马甲",
+        "id": "6A8C039C049BC05D"
+      },
+      "attachSlotNum": 0,
+      "suitID": "",
+      "tierId": "T2",
+      "attrModifiers": [
+        {
+          "attrType": "Hp",
+          "attrValue": 278.821372929958,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "Def",
+          "attrValue": 39.1925916147939,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Hp",
+          "ratios": []
+        },
+        {
+          "attrType": "Def",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t2_parts_edc_01": {
+      "itemId": "item_unit_t2_parts_edc_01",
+      "partType": "EDC",
+      "name": {
+        "text": "旋转金属件",
+        "id": "D54450EC565E5F1E"
+      },
+      "attachSlotNum": 0,
+      "suitID": "",
+      "tierId": "T2",
+      "attrModifiers": [
+        {
+          "attrType": "Def",
+          "attrValue": 39.1925916147939,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "Pen",
+          "attrValue": 39.1925916147939,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Def",
+          "ratios": []
+        },
+        {
+          "attrType": "Pen",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t2_parts_hand_01": {
+      "itemId": "item_unit_t2_parts_hand_01",
+      "partType": "Hand",
+      "name": {
+        "text": "加厚的纤维手套",
+        "id": "DD1AEB7B409F8480"
+      },
+      "attachSlotNum": 0,
+      "suitID": "",
+      "tierId": "T2",
+      "attrModifiers": [
+        {
+          "attrType": "Def",
+          "attrValue": 39.1925916147939,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "Hp",
+          "attrValue": 278.821372929958,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Def",
+          "ratios": []
+        },
+        {
+          "attrType": "Hp",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t2_suit_01_body_01": {
+      "itemId": "item_unit_t2_suit_01_body_01",
+      "partType": "Body",
+      "name": {
+        "text": "工程防护服II",
+        "id": "8375700094BB8E35"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_atkup_01",
+      "tierId": "T2",
+      "attrModifiers": [
+        {
+          "attrType": "Hp",
+          "attrValue": 227.132734753439,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "Pen",
+          "attrValue": 31.7905262376638,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Hp",
+          "ratios": []
+        },
+        {
+          "attrType": "Pen",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t2_suit_01_edc_01": {
+      "itemId": "item_unit_t2_suit_01_edc_01",
+      "partType": "EDC",
+      "name": {
+        "text": "工程储存器II",
+        "id": "306233BE02174D11"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_atkup_01",
+      "tierId": "T2",
+      "attrModifiers": [
+        {
+          "attrType": "Atk",
+          "attrValue": 52.9976381091357,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "Pen",
+          "attrValue": 31.7905262376638,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Atk",
+          "ratios": []
+        },
+        {
+          "attrType": "Pen",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t2_suit_02_edc_01": {
+      "itemId": "item_unit_t2_suit_02_edc_01",
+      "partType": "EDC",
+      "name": {
+        "text": "铁卫储能器II",
+        "id": "B9FC37CEA3FA3A9F"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_defup_01",
+      "tierId": "T2",
+      "attrModifiers": [
+        {
+          "attrType": "Def",
+          "attrValue": 31.7905262376638,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "Atk",
+          "attrValue": 52.9976381091357,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Def",
+          "ratios": []
+        },
+        {
+          "attrType": "Atk",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t2_suit_02_hand_01": {
+      "itemId": "item_unit_t2_suit_02_hand_01",
+      "partType": "Hand",
+      "name": {
+        "text": "铁卫护手II",
+        "id": "45D8BCCF4657C172"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_defup_01",
+      "tierId": "T2",
+      "attrModifiers": [
+        {
+          "attrType": "Def",
+          "attrValue": 31.7905262376638,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "Pen",
+          "attrValue": 31.7905262376638,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Def",
+          "ratios": []
+        },
+        {
+          "attrType": "Pen",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t2_suit_03_edc_01": {
+      "itemId": "item_unit_t2_suit_03_edc_01",
+      "partType": "EDC",
+      "name": {
+        "text": "活性渗透器II",
+        "id": "D4FB2FEB1680496C"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_hpup_01",
+      "tierId": "T2",
+      "attrModifiers": [
+        {
+          "attrType": "Pen",
+          "attrValue": 31.7905262376638,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "Atk",
+          "attrValue": 52.9976381091357,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Pen",
+          "ratios": []
+        },
+        {
+          "attrType": "Atk",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t2_suit_03_hand_01": {
+      "itemId": "item_unit_t2_suit_03_hand_01",
+      "partType": "Hand",
+      "name": {
+        "text": "活性护手II",
+        "id": "08E43B99D49F05BE"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_hpup_01",
+      "tierId": "T2",
+      "attrModifiers": [
+        {
+          "attrType": "Def",
+          "attrValue": 31.7905262376638,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "Hp",
+          "attrValue": 227.132734753439,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Def",
+          "ratios": []
+        },
+        {
+          "attrType": "Hp",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t2_suit_04_body_01": {
+      "itemId": "item_unit_t2_suit_04_body_01",
+      "partType": "Body",
+      "name": {
+        "text": "撕裂防护服II",
+        "id": "E713227319CAE0E0"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_critmulti_01",
+      "tierId": "T2",
+      "attrModifiers": [
+        {
+          "attrType": "Hp",
+          "attrValue": 227.132734753439,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "Def",
+          "attrValue": 31.7905262376638,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Hp",
+          "ratios": []
+        },
+        {
+          "attrType": "Def",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t2_suit_04_hand_01": {
+      "itemId": "item_unit_t2_suit_04_hand_01",
+      "partType": "Hand",
+      "name": {
+        "text": "撕裂护手II",
+        "id": "F5CE83C63AC1CCE4"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_critmulti_01",
+      "tierId": "T2",
+      "attrModifiers": [
+        {
+          "attrType": "Def",
+          "attrValue": 31.7905262376638,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "Atk",
+          "attrValue": 52.9976381091357,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Def",
+          "ratios": []
+        },
+        {
+          "attrType": "Atk",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t2_suit_05_edc_01": {
+      "itemId": "item_unit_t2_suit_05_edc_01",
+      "partType": "EDC",
+      "name": {
+        "text": "点剑储存器II",
+        "id": "97B0519674280F0F"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_cd_01",
+      "tierId": "T2",
+      "attrModifiers": [
+        {
+          "attrType": "Atk",
+          "attrValue": 52.9976381091357,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "Pen",
+          "attrValue": 31.7905262376638,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Atk",
+          "ratios": []
+        },
+        {
+          "attrType": "Pen",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t2_suit_05_hand_01": {
+      "itemId": "item_unit_t2_suit_05_hand_01",
+      "partType": "Hand",
+      "name": {
+        "text": "点剑护手II",
+        "id": "4B32DFB731EF3C45"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_cd_01",
+      "tierId": "T2",
+      "attrModifiers": [
+        {
+          "attrType": "Def",
+          "attrValue": 31.7905262376638,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "Hp",
+          "attrValue": 227.132734753439,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Def",
+          "ratios": []
+        },
+        {
+          "attrType": "Hp",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t2_suit_06_body_01": {
+      "itemId": "item_unit_t2_suit_06_body_01",
+      "partType": "Body",
+      "name": {
+        "text": "束缚防护服II",
+        "id": "2D349A34C9BBD392"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_knockdownup_01",
+      "tierId": "T2",
+      "attrModifiers": [
+        {
+          "attrType": "Hp",
+          "attrValue": 227.132734753439,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "Atk",
+          "attrValue": 52.9976381091357,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Hp",
+          "ratios": []
+        },
+        {
+          "attrType": "Atk",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t2_suit_06_edc_01": {
+      "itemId": "item_unit_t2_suit_06_edc_01",
+      "partType": "EDC",
+      "name": {
+        "text": "束缚平衡器II",
+        "id": "B138C0F752D8F987"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_knockdownup_01",
+      "tierId": "T2",
+      "attrModifiers": [
+        {
+          "attrType": "Atk",
+          "attrValue": 52.9976381091357,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "Pen",
+          "attrValue": 31.7905262376638,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Atk",
+          "ratios": []
+        },
+        {
+          "attrType": "Pen",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t2_suit_07_edc_01": {
+      "itemId": "item_unit_t2_suit_07_edc_01",
+      "partType": "EDC",
+      "name": {
+        "text": "Lynx渗透器II",
+        "id": "AFF4262D71623F13"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_receivehealup_01",
+      "tierId": "T2",
+      "attrModifiers": [
+        {
+          "attrType": "Atk",
+          "attrValue": 52.9976381091357,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "Hp",
+          "attrValue": 227.132734753439,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Atk",
+          "ratios": []
+        },
+        {
+          "attrType": "Hp",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t3_parts_body_01": {
+      "itemId": "item_unit_t3_parts_body_01",
+      "partType": "Body",
+      "name": {
+        "text": "坚韧的机车夹克",
+        "id": "6637C86C942AD8AB"
+      },
+      "attachSlotNum": 0,
+      "suitID": "",
+      "tierId": "T3",
+      "attrModifiers": [
+        {
+          "attrType": "Hp",
+          "attrValue": 471.301049794919,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "Def",
+          "attrValue": 67.0094651583616,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Hp",
+          "ratios": []
+        },
+        {
+          "attrType": "Def",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t3_parts_body_02": {
+      "itemId": "item_unit_t3_parts_body_02",
+      "partType": "Body",
+      "name": {
+        "text": "沉重的抵抗锁装",
+        "id": "ACA4A0455D5D6F12"
+      },
+      "attachSlotNum": 0,
+      "suitID": "",
+      "tierId": "T3",
+      "attrModifiers": [
+        {
+          "attrType": "Hp",
+          "attrValue": 471.301049794919,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "Atk",
+          "attrValue": 109.970244952148,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Hp",
+          "ratios": []
+        },
+        {
+          "attrType": "Atk",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t3_parts_edc_01": {
+      "itemId": "item_unit_t3_parts_edc_01",
+      "partType": "EDC",
+      "name": {
+        "text": "耐蚀的综合扳手",
+        "id": "E72CD8E1EF3A011B"
+      },
+      "attachSlotNum": 0,
+      "suitID": "",
+      "tierId": "T3",
+      "attrModifiers": [
+        {
+          "attrType": "CriticalDamage",
+          "attrValue": 0.5422227929374,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "Pen",
+          "attrValue": 0.5422227929374,
+          "modifierType": "BaseMultiplier"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "CriticalDamage",
+          "ratios": []
+        },
+        {
+          "attrType": "Pen",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t3_parts_edc_02": {
+      "itemId": "item_unit_t3_parts_edc_02",
+      "partType": "EDC",
+      "name": {
+        "text": "趁手的小型钳",
+        "id": "B6D5E9F3BEB36EA0"
+      },
+      "attachSlotNum": 0,
+      "suitID": "",
+      "tierId": "T3",
+      "attrModifiers": [
+        {
+          "attrType": "CriticalRate",
+          "attrValue": 0.13555569823435,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "CriticalDamage",
+          "attrValue": 0.5422227929374,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "CriticalRate",
+          "ratios": []
+        },
+        {
+          "attrType": "CriticalDamage",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t3_parts_hand_01": {
+      "itemId": "item_unit_t3_parts_hand_01",
+      "partType": "Hand",
+      "name": {
+        "text": "加固的防震手套",
+        "id": "7111A8A243BD17DB"
+      },
+      "attachSlotNum": 0,
+      "suitID": "",
+      "tierId": "T3",
+      "attrModifiers": [
+        {
+          "attrType": "Def",
+          "attrValue": 67.0094651583616,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "CriticalRate",
+          "attrValue": 0.13555569823435,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Def",
+          "ratios": []
+        },
+        {
+          "attrType": "CriticalRate",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t3_parts_hand_02": {
+      "itemId": "item_unit_t3_parts_hand_02",
+      "partType": "Hand",
+      "name": {
+        "text": "拼接的亮皮手套",
+        "id": "66B94A42EB077408"
+      },
+      "attachSlotNum": 0,
+      "suitID": "",
+      "tierId": "T3",
+      "attrModifiers": [
+        {
+          "attrType": "Def",
+          "attrValue": 67.0094651583616,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "CriticalDamage",
+          "attrValue": 0.5422227929374,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Def",
+          "ratios": []
+        },
+        {
+          "attrType": "CriticalDamage",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t3_suit_01_hand_01": {
+      "itemId": "item_unit_t3_suit_01_hand_01",
+      "partType": "Hand",
+      "name": {
+        "text": "工程护手III",
+        "id": "32E2FCC040500882"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_atkup_01",
+      "tierId": "T3",
+      "attrModifiers": [
+        {
+          "attrType": "Def",
+          "attrValue": 54.9833481583062,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "Hp",
+          "attrValue": 388.376882781463,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Def",
+          "ratios": []
+        },
+        {
+          "attrType": "Hp",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t3_suit_02_body_01": {
+      "itemId": "item_unit_t3_suit_02_body_01",
+      "partType": "Body",
+      "name": {
+        "text": "铁卫防护服III",
+        "id": "B62FE0B91AB3AB5C"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_defup_01",
+      "tierId": "T3",
+      "attrModifiers": [
+        {
+          "attrType": "Hp",
+          "attrValue": 388.376882781463,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "Atk",
+          "attrValue": 90.6212726490079,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Hp",
+          "ratios": []
+        },
+        {
+          "attrType": "Atk",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t3_suit_03_body_01": {
+      "itemId": "item_unit_t3_suit_03_body_01",
+      "partType": "Body",
+      "name": {
+        "text": "活性防护服III",
+        "id": "878F04DBB4679A06"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_hpup_01",
+      "tierId": "T3",
+      "attrModifiers": [
+        {
+          "attrType": "Hp",
+          "attrValue": 388.376882781463,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "CriticalRate",
+          "attrValue": 0.125917024070022,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Hp",
+          "ratios": []
+        },
+        {
+          "attrType": "CriticalRate",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t3_suit_04_edc_01": {
+      "itemId": "item_unit_t3_suit_04_edc_01",
+      "partType": "EDC",
+      "name": {
+        "text": "撕裂调节器III",
+        "id": "390C2E28358B5AB5"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_critmulti_01",
+      "tierId": "T3",
+      "attrModifiers": [
+        {
+          "attrType": "Pen",
+          "attrValue": 0.503668096280088,
+          "modifierType": "BaseMultiplier"
+        },
+        {
+          "attrType": "Atk",
+          "attrValue": 0.251834048140044,
+          "modifierType": "BaseMultiplier"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Pen",
+          "ratios": []
+        },
+        {
+          "attrType": "Atk",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t3_suit_04_hand_01": {
+      "itemId": "item_unit_t3_suit_04_hand_01",
+      "partType": "Hand",
+      "name": {
+        "text": "撕裂护手III",
+        "id": "2E607B6F1CC58562"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_critmulti_01",
+      "tierId": "T3",
+      "attrModifiers": [
+        {
+          "attrType": "Def",
+          "attrValue": 54.9833481583062,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "Atk",
+          "attrValue": 90.6212726490079,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Def",
+          "ratios": []
+        },
+        {
+          "attrType": "Atk",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t3_suit_05_body_01": {
+      "itemId": "item_unit_t3_suit_05_body_01",
+      "partType": "Body",
+      "name": {
+        "text": "点剑防护服III",
+        "id": "F308467B2B4156BB"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_cd_01",
+      "tierId": "T3",
+      "attrModifiers": [
+        {
+          "attrType": "Hp",
+          "attrValue": 388.376882781463,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "CriticalRate",
+          "attrValue": 0.125917024070022,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Hp",
+          "ratios": []
+        },
+        {
+          "attrType": "CriticalRate",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t3_suit_05_edc_01": {
+      "itemId": "item_unit_t3_suit_05_edc_01",
+      "partType": "EDC",
+      "name": {
+        "text": "点剑绘图笔III",
+        "id": "8D4247FD400BE8FD"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_cd_01",
+      "tierId": "T3",
+      "attrModifiers": [
+        {
+          "attrType": "CriticalRate",
+          "attrValue": 0.125917024070022,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "CriticalDamage",
+          "attrValue": 0.503668096280088,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "CriticalRate",
+          "ratios": []
+        },
+        {
+          "attrType": "CriticalDamage",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t3_suit_06_edc_01": {
+      "itemId": "item_unit_t3_suit_06_edc_01",
+      "partType": "EDC",
+      "name": {
+        "text": "束缚调节器III",
+        "id": "D27B135D3D2A322F"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_knockdownup_01",
+      "tierId": "T3",
+      "attrModifiers": [
+        {
+          "attrType": "CriticalRate",
+          "attrValue": 0.125917024070022,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "CriticalDamage",
+          "attrValue": 0.503668096280088,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "CriticalRate",
+          "ratios": []
+        },
+        {
+          "attrType": "CriticalDamage",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t3_suit_06_hand_01": {
+      "itemId": "item_unit_t3_suit_06_hand_01",
+      "partType": "Hand",
+      "name": {
+        "text": "束缚护手III",
+        "id": "E123358589FCBD5A"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_knockdownup_01",
+      "tierId": "T3",
+      "attrModifiers": [
+        {
+          "attrType": "Def",
+          "attrValue": 54.9833481583062,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "Atk",
+          "attrValue": 90.6212726490079,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Def",
+          "ratios": []
+        },
+        {
+          "attrType": "Atk",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t3_suit_07_body_01": {
+      "itemId": "item_unit_t3_suit_07_body_01",
+      "partType": "Body",
+      "name": {
+        "text": "Lynx防护服III",
+        "id": "93F9B5EBD616193D"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_receivehealup_01",
+      "tierId": "T3",
+      "attrModifiers": [
+        {
+          "attrType": "Hp",
+          "attrValue": 388.376882781463,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "Atk",
+          "attrValue": 90.6212726490079,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Hp",
+          "ratios": []
+        },
+        {
+          "attrType": "Atk",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t3_suit_07_hand_01": {
+      "itemId": "item_unit_t3_suit_07_hand_01",
+      "partType": "Hand",
+      "name": {
+        "text": "Lynx护手III",
+        "id": "4A9A10845FAF7367"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_receivehealup_01",
+      "tierId": "T3",
+      "attrModifiers": [
+        {
+          "attrType": "Def",
+          "attrValue": 54.9833481583062,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "Pen",
+          "attrValue": 54.9833481583062,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Def",
+          "ratios": []
+        },
+        {
+          "attrType": "Pen",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t3_suit_08_edc_01": {
+      "itemId": "item_unit_t3_suit_08_edc_01",
+      "partType": "EDC",
+      "name": {
+        "text": "脉冲防暴器III",
+        "id": "81BA8C606F3AEFC8"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_pulseup_01",
+      "tierId": "T3",
+      "attrModifiers": [
+        {
+          "attrType": "Atk",
+          "attrValue": 0.251834048140044,
+          "modifierType": "BaseMultiplier"
+        },
+        {
+          "attrType": "Def",
+          "attrValue": 0.503668096280088,
+          "modifierType": "BaseMultiplier"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Atk",
+          "ratios": []
+        },
+        {
+          "attrType": "Def",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t3_suit_08_hand_01": {
+      "itemId": "item_unit_t3_suit_08_hand_01",
+      "partType": "Hand",
+      "name": {
+        "text": "脉冲护手III",
+        "id": "1B10E444F641F6EA"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_pulseup_01",
+      "tierId": "T3",
+      "attrModifiers": [
+        {
+          "attrType": "Def",
+          "attrValue": 54.9833481583062,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "Hp",
+          "attrValue": 388.376882781463,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Def",
+          "ratios": []
+        },
+        {
+          "attrType": "Hp",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t3_suit_09_body_01": {
+      "itemId": "item_unit_t3_suit_09_body_01",
+      "partType": "Body",
+      "name": {
+        "text": "焚火防护服III",
+        "id": "143BA12CA917255E"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_fireup_01",
+      "tierId": "T3",
+      "attrModifiers": [
+        {
+          "attrType": "Hp",
+          "attrValue": 388.376882781463,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "Atk",
+          "attrValue": 90.6212726490079,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Hp",
+          "ratios": []
+        },
+        {
+          "attrType": "Atk",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t3_suit_09_edc_01": {
+      "itemId": "item_unit_t3_suit_09_edc_01",
+      "partType": "EDC",
+      "name": {
+        "text": "焚火钳压器III",
+        "id": "DC0DEF2A96DD3022"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_fireup_01",
+      "tierId": "T3",
+      "attrModifiers": [
+        {
+          "attrType": "Atk",
+          "attrValue": 0.251834048140044,
+          "modifierType": "BaseMultiplier"
+        },
+        {
+          "attrType": "Pen",
+          "attrValue": 0.503668096280088,
+          "modifierType": "BaseMultiplier"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Atk",
+          "ratios": []
+        },
+        {
+          "attrType": "Pen",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t3_suit_10_edc_01": {
+      "itemId": "item_unit_t3_suit_10_edc_01",
+      "partType": "EDC",
+      "name": {
+        "text": "结晶防护器III",
+        "id": "12780BF536DBE145"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_crystup_01",
+      "tierId": "T3",
+      "attrModifiers": [
+        {
+          "attrType": "Atk",
+          "attrValue": 0.251834048140044,
+          "modifierType": "BaseMultiplier"
+        },
+        {
+          "attrType": "Hp",
+          "attrValue": 0.251834048140044,
+          "modifierType": "BaseMultiplier"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Atk",
+          "ratios": []
+        },
+        {
+          "attrType": "Hp",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t3_suit_10_edc_02": {
+      "itemId": "item_unit_t3_suit_10_edc_02",
+      "partType": "EDC",
+      "name": {
+        "text": "结晶防护III·改",
+        "id": "2EFA1F93F3E4513F"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_crystup_01",
+      "tierId": "T3",
+      "attrModifiers": [
+        {
+          "attrType": "CriticalRate",
+          "attrValue": 0.125917024070022,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "Pen",
+          "attrValue": 0.503668096280088,
+          "modifierType": "BaseMultiplier"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "CriticalRate",
+          "ratios": []
+        },
+        {
+          "attrType": "Pen",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t4_parts_body_01": {
+      "itemId": "item_unit_t4_parts_body_01",
+      "partType": "Body",
+      "name": {
+        "text": "轻盈的钢索束衣",
+        "id": "A74046DC4BA36B87"
+      },
+      "attachSlotNum": 0,
+      "suitID": "",
+      "tierId": "T4",
+      "attrModifiers": [
+        {
+          "attrType": "Hp",
+          "attrValue": 777.063319230574,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "Def",
+          "attrValue": 111.751658435442,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Hp",
+          "ratios": []
+        },
+        {
+          "attrType": "Def",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t4_parts_body_02": {
+      "itemId": "item_unit_t4_parts_body_02",
+      "partType": "Body",
+      "name": {
+        "text": "拼接的钢索束衣",
+        "id": "C5E972F1C7AD72A3"
+      },
+      "attachSlotNum": 0,
+      "suitID": "",
+      "tierId": "T4",
+      "attrModifiers": [
+        {
+          "attrType": "Hp",
+          "attrValue": 777.063319230574,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "Atk",
+          "attrValue": 181.314774487134,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Hp",
+          "ratios": []
+        },
+        {
+          "attrType": "Atk",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t4_parts_body_03": {
+      "itemId": "item_unit_t4_parts_body_03",
+      "partType": "Body",
+      "name": {
+        "text": "拼接的抵抗锁装",
+        "id": "12B67411D7A82740"
+      },
+      "attachSlotNum": 0,
+      "suitID": "",
+      "tierId": "T4",
+      "attrModifiers": [
+        {
+          "attrType": "Hp",
+          "attrValue": 777.063319230574,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "Pen",
+          "attrValue": 111.751658435442,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Hp",
+          "ratios": []
+        },
+        {
+          "attrType": "Pen",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t4_parts_body_04": {
+      "itemId": "item_unit_t4_parts_body_04",
+      "partType": "Body",
+      "name": {
+        "text": "精致的冲压铠",
+        "id": "BC3D17D405D3B758"
+      },
+      "attachSlotNum": 0,
+      "suitID": "",
+      "tierId": "T4",
+      "attrModifiers": [
+        {
+          "attrType": "Hp",
+          "attrValue": 777.063319230574,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "CriticalRate",
+          "attrValue": 0.162993898305085,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Hp",
+          "ratios": []
+        },
+        {
+          "attrType": "CriticalRate",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t4_parts_edc_01": {
+      "itemId": "item_unit_t4_parts_edc_01",
+      "partType": "EDC",
+      "name": {
+        "text": "趁手的战术手电",
+        "id": "DF0CEEA712FCCFBE"
+      },
+      "attachSlotNum": 0,
+      "suitID": "",
+      "tierId": "T4",
+      "attrModifiers": [
+        {
+          "attrType": "Atk",
+          "attrValue": 0.32598779661017,
+          "modifierType": "BaseMultiplier"
+        },
+        {
+          "attrType": "Hp",
+          "attrValue": 0.32598779661017,
+          "modifierType": "BaseMultiplier"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Atk",
+          "ratios": []
+        },
+        {
+          "attrType": "Hp",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t4_parts_edc_02": {
+      "itemId": "item_unit_t4_parts_edc_02",
+      "partType": "EDC",
+      "name": {
+        "text": "耐用的战术短刃",
+        "id": "95EA87ABB98289D7"
+      },
+      "attachSlotNum": 0,
+      "suitID": "",
+      "tierId": "T4",
+      "attrModifiers": [
+        {
+          "attrType": "Pen",
+          "attrValue": 0.65197559322034,
+          "modifierType": "BaseMultiplier"
+        },
+        {
+          "attrType": "Def",
+          "attrValue": 0.65197559322034,
+          "modifierType": "BaseMultiplier"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Pen",
+          "ratios": []
+        },
+        {
+          "attrType": "Def",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t4_parts_edc_03": {
+      "itemId": "item_unit_t4_parts_edc_03",
+      "partType": "EDC",
+      "name": {
+        "text": "精致的标记器",
+        "id": "5944AB38E6B6FC91"
+      },
+      "attachSlotNum": 0,
+      "suitID": "",
+      "tierId": "T4",
+      "attrModifiers": [
+        {
+          "attrType": "CriticalDamage",
+          "attrValue": 0.65197559322034,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "Pen",
+          "attrValue": 0.65197559322034,
+          "modifierType": "BaseMultiplier"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "CriticalDamage",
+          "ratios": []
+        },
+        {
+          "attrType": "Pen",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t4_parts_edc_04": {
+      "itemId": "item_unit_t4_parts_edc_04",
+      "partType": "EDC",
+      "name": {
+        "text": "轻盈的标记器",
+        "id": "D46781548100629E"
+      },
+      "attachSlotNum": 0,
+      "suitID": "",
+      "tierId": "T4",
+      "attrModifiers": [
+        {
+          "attrType": "Atk",
+          "attrValue": 0.32598779661017,
+          "modifierType": "BaseMultiplier"
+        },
+        {
+          "attrType": "CriticalRate",
+          "attrValue": 0.162993898305085,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Atk",
+          "ratios": []
+        },
+        {
+          "attrType": "CriticalRate",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t4_parts_hand_01": {
+      "itemId": "item_unit_t4_parts_hand_01",
+      "partType": "Hand",
+      "name": {
+        "text": "耐蚀的嵌钉手套",
+        "id": "62E9B926A49D5A49"
+      },
+      "attachSlotNum": 0,
+      "suitID": "",
+      "tierId": "T4",
+      "attrModifiers": [
+        {
+          "attrType": "Def",
+          "attrValue": 111.751658435442,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "Hp",
+          "attrValue": 777.063319230574,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Def",
+          "ratios": []
+        },
+        {
+          "attrType": "Hp",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t4_parts_hand_02": {
+      "itemId": "item_unit_t4_parts_hand_02",
+      "partType": "Hand",
+      "name": {
+        "text": "加固的嵌钉手套",
+        "id": "BFF2CA1A9F0725AB"
+      },
+      "attachSlotNum": 0,
+      "suitID": "",
+      "tierId": "T4",
+      "attrModifiers": [
+        {
+          "attrType": "Def",
+          "attrValue": 111.751658435442,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "Atk",
+          "attrValue": 181.314774487134,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Def",
+          "ratios": []
+        },
+        {
+          "attrType": "Atk",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t4_parts_hand_03": {
+      "itemId": "item_unit_t4_parts_hand_03",
+      "partType": "Hand",
+      "name": {
+        "text": "坚韧的嵌组护手",
+        "id": "2835DE5B21B69231"
+      },
+      "attachSlotNum": 0,
+      "suitID": "",
+      "tierId": "T4",
+      "attrModifiers": [
+        {
+          "attrType": "Def",
+          "attrValue": 111.751658435442,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "CriticalDamage",
+          "attrValue": 0.65197559322034,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Def",
+          "ratios": []
+        },
+        {
+          "attrType": "CriticalDamage",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t4_parts_hand_04": {
+      "itemId": "item_unit_t4_parts_hand_04",
+      "partType": "Hand",
+      "name": {
+        "text": "耐用的嵌组护手",
+        "id": "2F98F6E579AD2AE8"
+      },
+      "attachSlotNum": 0,
+      "suitID": "",
+      "tierId": "T4",
+      "attrModifiers": [
+        {
+          "attrType": "Def",
+          "attrValue": 111.751658435442,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "Pen",
+          "attrValue": 111.751658435442,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Def",
+          "ratios": []
+        },
+        {
+          "attrType": "Pen",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t4_suit_01_body_01": {
+      "itemId": "item_unit_t4_suit_01_body_01",
+      "partType": "Body",
+      "name": {
+        "text": "工程防护服IV",
+        "id": "A0DDC51E31EE2D82"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_atkup_01",
+      "tierId": "T4",
+      "attrModifiers": [
+        {
+          "attrType": "Hp",
+          "attrValue": 645.806918369124,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "CriticalRate",
+          "attrValue": 0.152386554621849,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Hp",
+          "ratios": []
+        },
+        {
+          "attrType": "CriticalRate",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t4_suit_01_edc_01": {
+      "itemId": "item_unit_t4_suit_01_edc_01",
+      "partType": "EDC",
+      "name": {
+        "text": "工程防暴器IV",
+        "id": "9E4AF66B1210C39F"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_atkup_01",
+      "tierId": "T4",
+      "attrModifiers": [
+        {
+          "attrType": "Pen",
+          "attrValue": 0.609546218487396,
+          "modifierType": "BaseMultiplier"
+        },
+        {
+          "attrType": "Atk",
+          "attrValue": 0.304773109243698,
+          "modifierType": "BaseMultiplier"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Pen",
+          "ratios": []
+        },
+        {
+          "attrType": "Atk",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t4_suit_01_edc_02": {
+      "itemId": "item_unit_t4_suit_01_edc_02",
+      "partType": "EDC",
+      "name": {
+        "text": "工程防暴器IV·改",
+        "id": "11449A9AC096A23F"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_atkup_01",
+      "tierId": "T4",
+      "attrModifiers": [
+        {
+          "attrType": "Def",
+          "attrValue": 0.609546218487396,
+          "modifierType": "BaseMultiplier"
+        },
+        {
+          "attrType": "Hp",
+          "attrValue": 0.304773109243698,
+          "modifierType": "BaseMultiplier"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Def",
+          "ratios": []
+        },
+        {
+          "attrType": "Hp",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t4_suit_02_edc_01": {
+      "itemId": "item_unit_t4_suit_02_edc_01",
+      "partType": "EDC",
+      "name": {
+        "text": "铁卫防护器IV",
+        "id": "D56E93DE440E9810"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_defup_01",
+      "tierId": "T4",
+      "attrModifiers": [
+        {
+          "attrType": "Atk",
+          "attrValue": 0.304773109243698,
+          "modifierType": "BaseMultiplier"
+        },
+        {
+          "attrType": "Pen",
+          "attrValue": 0.609546218487396,
+          "modifierType": "BaseMultiplier"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Atk",
+          "ratios": []
+        },
+        {
+          "attrType": "Pen",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t4_suit_02_hand_01": {
+      "itemId": "item_unit_t4_suit_02_hand_01",
+      "partType": "Hand",
+      "name": {
+        "text": "铁卫护手IV",
+        "id": "E4AC08D971866686"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_defup_01",
+      "tierId": "T4",
+      "attrModifiers": [
+        {
+          "attrType": "Def",
+          "attrValue": 92.47840429228,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "Hp",
+          "attrValue": 645.806918369124,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Def",
+          "ratios": []
+        },
+        {
+          "attrType": "Hp",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t4_suit_03_edc_01": {
+      "itemId": "item_unit_t4_suit_03_edc_01",
+      "partType": "EDC",
+      "name": {
+        "text": "活性标记器IV",
+        "id": "F0846957C35E94A7"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_hpup_01",
+      "tierId": "T4",
+      "attrModifiers": [
+        {
+          "attrType": "CriticalDamage",
+          "attrValue": 0.609546218487396,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "CriticalRate",
+          "attrValue": 0.152386554621849,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "CriticalDamage",
+          "ratios": []
+        },
+        {
+          "attrType": "CriticalRate",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t4_suit_03_hand_01": {
+      "itemId": "item_unit_t4_suit_03_hand_01",
+      "partType": "Hand",
+      "name": {
+        "text": "活性护手IV",
+        "id": "8A36940ECF96DC2D"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_hpup_01",
+      "tierId": "T4",
+      "attrModifiers": [
+        {
+          "attrType": "Def",
+          "attrValue": 92.47840429228,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "Hp",
+          "attrValue": 645.806918369124,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Def",
+          "ratios": []
+        },
+        {
+          "attrType": "Hp",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t4_suit_04_body_01": {
+      "itemId": "item_unit_t4_suit_04_body_01",
+      "partType": "Body",
+      "name": {
+        "text": "撕裂防护服IV",
+        "id": "ECD1AB01E150BDE3"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_critmulti_01",
+      "tierId": "T4",
+      "attrModifiers": [
+        {
+          "attrType": "Hp",
+          "attrValue": 645.806918369124,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "CriticalDamage",
+          "attrValue": 0.609546218487396,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Hp",
+          "ratios": []
+        },
+        {
+          "attrType": "CriticalDamage",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t4_suit_04_edc_01": {
+      "itemId": "item_unit_t4_suit_04_edc_01",
+      "partType": "EDC",
+      "name": {
+        "text": "撕裂调节器IV",
+        "id": "B70DE29E5F16216D"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_critmulti_01",
+      "tierId": "T4",
+      "attrModifiers": [
+        {
+          "attrType": "Pen",
+          "attrValue": 0.609546218487396,
+          "modifierType": "BaseMultiplier"
+        },
+        {
+          "attrType": "Def",
+          "attrValue": 0.609546218487396,
+          "modifierType": "BaseMultiplier"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Pen",
+          "ratios": []
+        },
+        {
+          "attrType": "Def",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t4_suit_05_body_01": {
+      "itemId": "item_unit_t4_suit_05_body_01",
+      "partType": "Body",
+      "name": {
+        "text": "点剑防护服IV",
+        "id": "8D769456CF004985"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_cd_01",
+      "tierId": "T4",
+      "attrModifiers": [
+        {
+          "attrType": "Hp",
+          "attrValue": 645.806918369124,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "CriticalDamage",
+          "attrValue": 0.609546218487396,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Hp",
+          "ratios": []
+        },
+        {
+          "attrType": "CriticalDamage",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t4_suit_05_edc_01": {
+      "itemId": "item_unit_t4_suit_05_edc_01",
+      "partType": "EDC",
+      "name": {
+        "text": "点剑绘图笔IV",
+        "id": "09340E1D1E8E2910"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_cd_01",
+      "tierId": "T4",
+      "attrModifiers": [
+        {
+          "attrType": "Atk",
+          "attrValue": 0.304773109243698,
+          "modifierType": "BaseMultiplier"
+        },
+        {
+          "attrType": "Pen",
+          "attrValue": 0.609546218487396,
+          "modifierType": "BaseMultiplier"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Atk",
+          "ratios": []
+        },
+        {
+          "attrType": "Pen",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t4_suit_05_edc_02": {
+      "itemId": "item_unit_t4_suit_05_edc_02",
+      "partType": "EDC",
+      "name": {
+        "text": "点剑绘图笔IV·改",
+        "id": "7A7312E16580A23B"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_cd_01",
+      "tierId": "T4",
+      "attrModifiers": [
+        {
+          "attrType": "Def",
+          "attrValue": 0.609546218487396,
+          "modifierType": "BaseMultiplier"
+        },
+        {
+          "attrType": "Hp",
+          "attrValue": 0.304773109243698,
+          "modifierType": "BaseMultiplier"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Def",
+          "ratios": []
+        },
+        {
+          "attrType": "Hp",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t4_suit_05_hand_01": {
+      "itemId": "item_unit_t4_suit_05_hand_01",
+      "partType": "Hand",
+      "name": {
+        "text": "点剑护手IV",
+        "id": "61FDC68D8BABDDE1"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_cd_01",
+      "tierId": "T4",
+      "attrModifiers": [
+        {
+          "attrType": "Def",
+          "attrValue": 92.47840429228,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "CriticalDamage",
+          "attrValue": 0.609546218487396,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Def",
+          "ratios": []
+        },
+        {
+          "attrType": "CriticalDamage",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t4_suit_06_body_01": {
+      "itemId": "item_unit_t4_suit_06_body_01",
+      "partType": "Body",
+      "name": {
+        "text": "束缚防护服IV",
+        "id": "BEFB8B27CC0D3925"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_knockdownup_01",
+      "tierId": "T4",
+      "attrModifiers": [
+        {
+          "attrType": "Hp",
+          "attrValue": 645.806918369124,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "Pen",
+          "attrValue": 92.47840429228,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Hp",
+          "ratios": []
+        },
+        {
+          "attrType": "Pen",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t4_suit_06_edc_01": {
+      "itemId": "item_unit_t4_suit_06_edc_01",
+      "partType": "EDC",
+      "name": {
+        "text": "束缚调节器IV",
+        "id": "E16222C6575DF55A"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_knockdownup_01",
+      "tierId": "T4",
+      "attrModifiers": [
+        {
+          "attrType": "Hp",
+          "attrValue": 0.304773109243698,
+          "modifierType": "BaseMultiplier"
+        },
+        {
+          "attrType": "CriticalRate",
+          "attrValue": 0.152386554621849,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Hp",
+          "ratios": []
+        },
+        {
+          "attrType": "CriticalRate",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t4_suit_06_edc_02": {
+      "itemId": "item_unit_t4_suit_06_edc_02",
+      "partType": "EDC",
+      "name": {
+        "text": "束缚调节器IV·改",
+        "id": "E1CF8C2C6F19BA32"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_knockdownup_01",
+      "tierId": "T4",
+      "attrModifiers": [
+        {
+          "attrType": "Def",
+          "attrValue": 0.609546218487396,
+          "modifierType": "BaseMultiplier"
+        },
+        {
+          "attrType": "CriticalDamage",
+          "attrValue": 0.609546218487396,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Def",
+          "ratios": []
+        },
+        {
+          "attrType": "CriticalDamage",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t4_suit_06_hand_01": {
+      "itemId": "item_unit_t4_suit_06_hand_01",
+      "partType": "Hand",
+      "name": {
+        "text": "束缚护手IV",
+        "id": "824E39FE3F89878C"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_knockdownup_01",
+      "tierId": "T4",
+      "attrModifiers": [
+        {
+          "attrType": "Def",
+          "attrValue": 92.47840429228,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "Pen",
+          "attrValue": 92.47840429228,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Def",
+          "ratios": []
+        },
+        {
+          "attrType": "Pen",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t4_suit_07_body_01": {
+      "itemId": "item_unit_t4_suit_07_body_01",
+      "partType": "Body",
+      "name": {
+        "text": "Lynx防护服IV",
+        "id": "2E90FF48196B623D"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_receivehealup_01",
+      "tierId": "T4",
+      "attrModifiers": [
+        {
+          "attrType": "Hp",
+          "attrValue": 645.806918369124,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "Pen",
+          "attrValue": 92.47840429228,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Hp",
+          "ratios": []
+        },
+        {
+          "attrType": "Pen",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t4_suit_07_edc_01": {
+      "itemId": "item_unit_t4_suit_07_edc_01",
+      "partType": "EDC",
+      "name": {
+        "text": "Lynx标记器IV",
+        "id": "0F2CC00DC4D9A4CB"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_receivehealup_01",
+      "tierId": "T4",
+      "attrModifiers": [
+        {
+          "attrType": "CriticalRate",
+          "attrValue": 0.152386554621849,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "CriticalDamage",
+          "attrValue": 0.609546218487396,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "CriticalRate",
+          "ratios": []
+        },
+        {
+          "attrType": "CriticalDamage",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t4_suit_07_edc_02": {
+      "itemId": "item_unit_t4_suit_07_edc_02",
+      "partType": "EDC",
+      "name": {
+        "text": "Lynx标记器IV·改",
+        "id": "F406FEDBC219C9F1"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_receivehealup_01",
+      "tierId": "T4",
+      "attrModifiers": [
+        {
+          "attrType": "Pen",
+          "attrValue": 0.609546218487396,
+          "modifierType": "BaseMultiplier"
+        },
+        {
+          "attrType": "Atk",
+          "attrValue": 0.304773109243698,
+          "modifierType": "BaseMultiplier"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Pen",
+          "ratios": []
+        },
+        {
+          "attrType": "Atk",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t4_suit_07_hand_01": {
+      "itemId": "item_unit_t4_suit_07_hand_01",
+      "partType": "Hand",
+      "name": {
+        "text": "Lynx护手IV",
+        "id": "2BC638E0F9537AC0"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_receivehealup_01",
+      "tierId": "T4",
+      "attrModifiers": [
+        {
+          "attrType": "Def",
+          "attrValue": 92.47840429228,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "CriticalRate",
+          "attrValue": 0.152386554621849,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Def",
+          "ratios": []
+        },
+        {
+          "attrType": "CriticalRate",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t4_suit_08_body_01": {
+      "itemId": "item_unit_t4_suit_08_body_01",
+      "partType": "Body",
+      "name": {
+        "text": "脉冲防护服IV",
+        "id": "6A8BA69175923541"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_pulseup_01",
+      "tierId": "T4",
+      "attrModifiers": [
+        {
+          "attrType": "Hp",
+          "attrValue": 645.806918369124,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "Def",
+          "attrValue": 92.47840429228,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Hp",
+          "ratios": []
+        },
+        {
+          "attrType": "Def",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t4_suit_08_body_02": {
+      "itemId": "item_unit_t4_suit_08_body_02",
+      "partType": "Body",
+      "name": {
+        "text": "脉冲防护服IV·改",
+        "id": "7332F28F71BBDF01"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_pulseup_01",
+      "tierId": "T4",
+      "attrModifiers": [
+        {
+          "attrType": "Hp",
+          "attrValue": 645.806918369124,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "Pen",
+          "attrValue": 92.47840429228,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Hp",
+          "ratios": []
+        },
+        {
+          "attrType": "Pen",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t4_suit_08_edc_01": {
+      "itemId": "item_unit_t4_suit_08_edc_01",
+      "partType": "EDC",
+      "name": {
+        "text": "脉冲防暴器IV",
+        "id": "5A29A3707E808F31"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_pulseup_01",
+      "tierId": "T4",
+      "attrModifiers": [
+        {
+          "attrType": "Def",
+          "attrValue": 0.609546218487396,
+          "modifierType": "BaseMultiplier"
+        },
+        {
+          "attrType": "Atk",
+          "attrValue": 0.304773109243698,
+          "modifierType": "BaseMultiplier"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Def",
+          "ratios": []
+        },
+        {
+          "attrType": "Atk",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t4_suit_08_edc_02": {
+      "itemId": "item_unit_t4_suit_08_edc_02",
+      "partType": "EDC",
+      "name": {
+        "text": "脉冲防暴器IV·改",
+        "id": "511F1CDA86B6D936"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_pulseup_01",
+      "tierId": "T4",
+      "attrModifiers": [
+        {
+          "attrType": "CriticalDamage",
+          "attrValue": 0.609546218487396,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "CriticalRate",
+          "attrValue": 0.152386554621849,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "CriticalDamage",
+          "ratios": []
+        },
+        {
+          "attrType": "CriticalRate",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t4_suit_09_edc_01": {
+      "itemId": "item_unit_t4_suit_09_edc_01",
+      "partType": "EDC",
+      "name": {
+        "text": "焚火钳压器IV",
+        "id": "8541D0C055A427F9"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_fireup_01",
+      "tierId": "T4",
+      "attrModifiers": [
+        {
+          "attrType": "CriticalRate",
+          "attrValue": 0.152386554621849,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "CriticalDamage",
+          "attrValue": 0.609546218487396,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "CriticalRate",
+          "ratios": []
+        },
+        {
+          "attrType": "CriticalDamage",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t4_suit_09_edc_02": {
+      "itemId": "item_unit_t4_suit_09_edc_02",
+      "partType": "EDC",
+      "name": {
+        "text": "焚火钳压器IV·改",
+        "id": "6BF825D3518A5720"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_fireup_01",
+      "tierId": "T4",
+      "attrModifiers": [
+        {
+          "attrType": "Def",
+          "attrValue": 0.609546218487396,
+          "modifierType": "BaseMultiplier"
+        },
+        {
+          "attrType": "Hp",
+          "attrValue": 0.304773109243698,
+          "modifierType": "BaseMultiplier"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Def",
+          "ratios": []
+        },
+        {
+          "attrType": "Hp",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t4_suit_09_hand_01": {
+      "itemId": "item_unit_t4_suit_09_hand_01",
+      "partType": "Hand",
+      "name": {
+        "text": "焚火护手IV",
+        "id": "F8C3893CAC911203"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_fireup_01",
+      "tierId": "T4",
+      "attrModifiers": [
+        {
+          "attrType": "Def",
+          "attrValue": 92.47840429228,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "Atk",
+          "attrValue": 150.688280952795,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Def",
+          "ratios": []
+        },
+        {
+          "attrType": "Atk",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t4_suit_09_hand_02": {
+      "itemId": "item_unit_t4_suit_09_hand_02",
+      "partType": "Hand",
+      "name": {
+        "text": "焚火护手IV·改",
+        "id": "A3497304768B4E0F"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_fireup_01",
+      "tierId": "T4",
+      "attrModifiers": [
+        {
+          "attrType": "Def",
+          "attrValue": 92.47840429228,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "CriticalRate",
+          "attrValue": 0.152386554621849,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Def",
+          "ratios": []
+        },
+        {
+          "attrType": "CriticalRate",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t4_suit_10_body_01": {
+      "itemId": "item_unit_t4_suit_10_body_01",
+      "partType": "Body",
+      "name": {
+        "text": "结晶防护服IV",
+        "id": "00391D7A8B29EEE6"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_crystup_01",
+      "tierId": "T4",
+      "attrModifiers": [
+        {
+          "attrType": "Hp",
+          "attrValue": 645.806918369124,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "Pen",
+          "attrValue": 92.47840429228,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Hp",
+          "ratios": []
+        },
+        {
+          "attrType": "Pen",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t4_suit_10_body_02": {
+      "itemId": "item_unit_t4_suit_10_body_02",
+      "partType": "Body",
+      "name": {
+        "text": "结晶防护服IV·改",
+        "id": "C2A051540D61C6A0"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_crystup_01",
+      "tierId": "T4",
+      "attrModifiers": [
+        {
+          "attrType": "Hp",
+          "attrValue": 645.806918369124,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "CriticalRate",
+          "attrValue": 0.152386554621849,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Hp",
+          "ratios": []
+        },
+        {
+          "attrType": "CriticalRate",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t4_suit_10_edc_01": {
+      "itemId": "item_unit_t4_suit_10_edc_01",
+      "partType": "EDC",
+      "name": {
+        "text": "结晶防护器IV",
+        "id": "04C8A4B569D738DF"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_crystup_01",
+      "tierId": "T4",
+      "attrModifiers": [
+        {
+          "attrType": "CriticalDamage",
+          "attrValue": 0.609546218487396,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "Def",
+          "attrValue": 0.609546218487396,
+          "modifierType": "BaseMultiplier"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "CriticalDamage",
+          "ratios": []
+        },
+        {
+          "attrType": "Def",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t4_suit_10_hand_01": {
+      "itemId": "item_unit_t4_suit_10_hand_01",
+      "partType": "Hand",
+      "name": {
+        "text": "结晶护手IV",
+        "id": "B46C9CFF80639284"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_crystup_01",
+      "tierId": "T4",
+      "attrModifiers": [
+        {
+          "attrType": "Def",
+          "attrValue": 92.47840429228,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "CriticalDamage",
+          "attrValue": 0.609546218487396,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Def",
+          "ratios": []
+        },
+        {
+          "attrType": "CriticalDamage",
+          "ratios": []
+        }
+      ]
+    },
+    "item_unit_t4_suit_10_hand_02": {
+      "itemId": "item_unit_t4_suit_10_hand_02",
+      "partType": "Hand",
+      "name": {
+        "text": "结晶护手IV·改",
+        "id": "D59C8562DB4705C5"
+      },
+      "attachSlotNum": 0,
+      "suitID": "suit_crystup_01",
+      "tierId": "T4",
+      "attrModifiers": [
+        {
+          "attrType": "Def",
+          "attrValue": 92.47840429228,
+          "modifierType": "BaseFinalAddition"
+        },
+        {
+          "attrType": "Atk",
+          "attrValue": 150.688280952795,
+          "modifierType": "BaseFinalAddition"
+        }
+      ],
+      "enhanceInfos": [
+        {
+          "attrType": "Def",
+          "ratios": []
+        },
+        {
+          "attrType": "Atk",
+          "ratios": []
+        }
+      ]
+    }
+  },
+  "affixTable": {},
+  "affixGettingTable": {},
+  "equipSuitTable": {
+    "suit_atkup_01": {
+      "list": [
+        {
+          "suitID": "suit_atkup_01",
+          "equipCnt": 2,
+          "desc": "(2件)上场时攻击力提升30%",
+          "suitName": {
+            "text": "工程先锋",
+            "id": "4E44E1C16455416D"
+          },
+          "skillID": "passive_equipsuit_atkup_01",
+          "skillLv": 1,
+          "suitIcon": "icon_suit_atkup"
+        },
+        {
+          "suitID": "suit_atkup_01",
+          "equipCnt": 3,
+          "desc": "(3件)上场时攻击力提升45%",
+          "suitName": {
+            "text": "工程先锋",
+            "id": "FD9026C4A4FC0BAC"
+          },
+          "skillID": "passive_equipsuit_atkup_01",
+          "skillLv": 2,
+          "suitIcon": "icon_suit_atkup"
+        }
+      ],
+      "equipList": [
+        "item_unit_t1_suit_01_hand_01",
+        "item_unit_t1_suit_01_edc_01",
+        "item_unit_t2_suit_01_body_01",
+        "item_unit_t2_suit_01_edc_01",
+        "item_unit_t3_suit_01_hand_01",
+        "item_unit_t4_suit_01_body_01",
+        "item_unit_t4_suit_01_edc_01",
+        "item_unit_t4_suit_01_edc_02"
+      ]
+    },
+    "suit_cd_01": {
+      "list": [
+        {
+          "suitID": "suit_cd_01",
+          "equipCnt": 2,
+          "desc": "(2件)技能冷却时间减少10%",
+          "suitName": {
+            "text": "点剑",
+            "id": "5217F03FA42B5861"
+          },
+          "skillID": "passive_equipsuit_cd_01",
+          "skillLv": 1,
+          "suitIcon": "icon_suit_critmulti"
+        },
+        {
+          "suitID": "suit_cd_01",
+          "equipCnt": 3,
+          "desc": "(3件)技能冷却时间减少15%",
+          "suitName": {
+            "text": "点剑",
+            "id": "BB1B9CD88263A197"
+          },
+          "skillID": "passive_equipsuit_cd_01",
+          "skillLv": 2,
+          "suitIcon": "icon_suit_critmulti"
+        },
+        {
+          "suitID": "suit_cd_01",
+          "equipCnt": 4,
+          "desc": "(4件)技能冷却时间减少20%",
+          "suitName": {
+            "text": "点剑",
+            "id": "2FD19ABEE5380137"
+          },
+          "skillID": "passive_equipsuit_cd_01",
+          "skillLv": 3,
+          "suitIcon": "icon_suit_critmulti"
+        }
+      ],
+      "equipList": [
+        "item_unit_t2_suit_05_hand_01",
+        "item_unit_t2_suit_05_edc_01",
+        "item_unit_t3_suit_05_body_01",
+        "item_unit_t3_suit_05_edc_01",
+        "item_unit_t4_suit_05_hand_01",
+        "item_unit_t4_suit_05_body_01",
+        "item_unit_t4_suit_05_edc_01",
+        "item_unit_t4_suit_05_edc_02"
+      ]
+    },
+    "suit_critmulti_01": {
+      "list": [
+        {
+          "suitID": "suit_critmulti_01",
+          "equipCnt": 2,
+          "desc": "(2件)上场时暴击率增加15%",
+          "suitName": {
+            "text": "负向撕裂",
+            "id": "0965538E6CA8B99C"
+          },
+          "skillID": "passive_equipsuit_critmulti_01",
+          "skillLv": 1,
+          "suitIcon": "icon_suit_penup"
+        },
+        {
+          "suitID": "suit_critmulti_01",
+          "equipCnt": 3,
+          "desc": "(3件)上场时暴击率增加20%，暴击伤害增加15%",
+          "suitName": {
+            "text": "负向撕裂",
+            "id": "7A123C47D889FC94"
+          },
+          "skillID": "passive_equipsuit_critmulti_01",
+          "skillLv": 2,
+          "suitIcon": "icon_suit_penup"
+        },
+        {
+          "suitID": "suit_critmulti_01",
+          "equipCnt": 4,
+          "desc": "(4件)上场时暴击率增加25%，暴击伤害增加20%",
+          "suitName": {
+            "text": "负向撕裂",
+            "id": "FE44991F79E800A2"
+          },
+          "skillID": "passive_equipsuit_critmulti_01",
+          "skillLv": 3,
+          "suitIcon": "icon_suit_penup"
+        }
+      ],
+      "equipList": [
+        "item_unit_t1_suit_04_edc_01",
+        "item_unit_t2_suit_04_hand_01",
+        "item_unit_t2_suit_04_body_01",
+        "item_unit_t3_suit_04_edc_01",
+        "item_unit_t3_suit_04_hand_01",
+        "item_unit_t4_suit_04_body_01",
+        "item_unit_t4_suit_04_edc_01"
+      ]
+    },
+    "suit_crystup_01": {
+      "list": [
+        {
+          "suitID": "suit_crystup_01",
+          "equipCnt": 2,
+          "desc": "(2件)造成的结晶伤害提升20%",
+          "suitName": {
+            "text": "Na型结晶特化",
+            "id": "3FE79EAB4C0AB3A9"
+          },
+          "skillID": "passive_equipsuit_crystup_01",
+          "skillLv": 1,
+          "suitIcon": "icon_suit_crystup"
+        },
+        {
+          "suitID": "suit_crystup_01",
+          "equipCnt": 3,
+          "desc": "(3件)造成的结晶伤害提升30%",
+          "suitName": {
+            "text": "Na型结晶特化",
+            "id": "CCFFB5F1FCF3A9BD"
+          },
+          "skillID": "passive_equipsuit_crystup_01",
+          "skillLv": 2,
+          "suitIcon": "icon_suit_crystup"
+        },
+        {
+          "suitID": "suit_crystup_01",
+          "equipCnt": 4,
+          "desc": "(4件)造成的结晶伤害提升40%，产生结晶能量的效率增加50%",
+          "suitName": {
+            "text": "Na型结晶特化",
+            "id": "7D270C54B60122DD"
+          },
+          "skillID": "passive_equipsuit_crystup_01",
+          "skillLv": 3,
+          "suitIcon": "icon_suit_crystup"
+        }
+      ],
+      "equipList": [
+        "item_unit_t3_suit_10_edc_01",
+        "item_unit_t3_suit_10_edc_02",
+        "item_unit_t4_suit_10_hand_01",
+        "item_unit_t4_suit_10_hand_02",
+        "item_unit_t4_suit_10_body_01",
+        "item_unit_t4_suit_10_body_02",
+        "item_unit_t4_suit_10_edc_01"
+      ]
+    },
+    "suit_defup_01": {
+      "list": [
+        {
+          "suitID": "suit_defup_01",
+          "equipCnt": 2,
+          "desc": "(2件)上场时防御力提升40%",
+          "suitName": {
+            "text": "雷神/铁卫",
+            "id": "DDECD1532AEED548"
+          },
+          "skillID": "passive_equipsuit_defup_01",
+          "skillLv": 1,
+          "suitIcon": "icon_suit_defup"
+        },
+        {
+          "suitID": "suit_defup_01",
+          "equipCnt": 3,
+          "desc": "(3件)上场时防御力提升55%，受到的全部伤害降低12%",
+          "suitName": {
+            "text": "雷神/铁卫",
+            "id": "C284D1CA198030C1"
+          },
+          "skillID": "passive_equipsuit_defup_01",
+          "skillLv": 2,
+          "suitIcon": "icon_suit_defup"
+        }
+      ],
+      "equipList": [
+        "item_unit_t1_suit_02_hand_01",
+        "item_unit_t1_suit_02_body_01",
+        "item_unit_t2_suit_02_edc_01",
+        "item_unit_t2_suit_02_hand_01",
+        "item_unit_t3_suit_02_body_01",
+        "item_unit_t4_suit_02_hand_01",
+        "item_unit_t4_suit_02_edc_01"
+      ]
+    },
+    "suit_fireup_01": {
+      "list": [
+        {
+          "suitID": "suit_fireup_01",
+          "equipCnt": 2,
+          "desc": "(2件)造成的热熔伤害提升20%",
+          "suitName": {
+            "text": "熔炉的焚火",
+            "id": "0E101B1AFF034BCB"
+          },
+          "skillID": "passive_equipsuit_fireup_01",
+          "skillLv": 1,
+          "suitIcon": "icon_suit_fireup"
+        },
+        {
+          "suitID": "suit_fireup_01",
+          "equipCnt": 3,
+          "desc": "(3件)造成的热熔伤害提升30%",
+          "suitName": {
+            "text": "熔炉的焚火",
+            "id": "714822701A69963F"
+          },
+          "skillID": "passive_equipsuit_fireup_01",
+          "skillLv": 2,
+          "suitIcon": "icon_suit_fireup"
+        },
+        {
+          "suitID": "suit_fireup_01",
+          "equipCnt": 4,
+          "desc": "(4件)造成的热熔伤害提升40%，产生热熔能量的效率增加50%",
+          "suitName": {
+            "text": "熔炉的焚火",
+            "id": "DA95991FAD9A982F"
+          },
+          "skillID": "passive_equipsuit_fireup_01",
+          "skillLv": 3,
+          "suitIcon": "icon_suit_fireup"
+        }
+      ],
+      "equipList": [
+        "item_unit_t3_suit_09_body_01",
+        "item_unit_t3_suit_09_edc_01",
+        "item_unit_t4_suit_09_hand_01",
+        "item_unit_t4_suit_09_hand_02",
+        "item_unit_t4_suit_09_edc_01",
+        "item_unit_t4_suit_09_edc_02"
+      ]
+    },
+    "suit_hpup_01": {
+      "list": [
+        {
+          "suitID": "suit_hpup_01",
+          "equipCnt": 2,
+          "desc": "(2件)上场时生命值提升20%",
+          "suitName": {
+            "text": "人造活性",
+            "id": "7C1AE5D877C0CB00"
+          },
+          "skillID": "passive_equipsuit_maxhpup_01",
+          "skillLv": 1,
+          "suitIcon": "icon_suit_hpup"
+        },
+        {
+          "suitID": "suit_hpup_01",
+          "equipCnt": 3,
+          "desc": "(3件)上场时生命值提升45%",
+          "suitName": {
+            "text": "人造活性",
+            "id": "01DC4CECC612ACB2"
+          },
+          "skillID": "passive_equipsuit_maxhpup_01",
+          "skillLv": 2,
+          "suitIcon": "icon_suit_hpup"
+        }
+      ],
+      "equipList": [
+        "item_unit_t1_suit_03_body_01",
+        "item_unit_t1_suit_03_edc_01",
+        "item_unit_t2_suit_03_hand_01",
+        "item_unit_t2_suit_03_edc_01",
+        "item_unit_t3_suit_03_body_01",
+        "item_unit_t4_suit_03_hand_01",
+        "item_unit_t4_suit_03_edc_01"
+      ]
+    },
+    "suit_knockdownup_01": {
+      "list": [
+        {
+          "suitID": "suit_knockdownup_01",
+          "equipCnt": 2,
+          "desc": "(2件)造成倒地效果时，敌人倒地时间增加0.7秒",
+          "suitName": {
+            "text": "过重束缚",
+            "id": "3000547D25969EEB"
+          },
+          "skillID": "passive_equipsuit_knockdownup_01",
+          "skillLv": 1,
+          "suitIcon": "icon_suit_knockdownup"
+        },
+        {
+          "suitID": "suit_knockdownup_01",
+          "equipCnt": 3,
+          "desc": "(3件)造成倒地效果时，敌人倒地时间增加0.8秒；对倒地敌人造成的伤害提升12%",
+          "suitName": {
+            "text": "过重束缚",
+            "id": "1B969FBE32E4FD24"
+          },
+          "skillID": "passive_equipsuit_knockdownup_01",
+          "skillLv": 2,
+          "suitIcon": "icon_suit_knockdownup"
+        },
+        {
+          "suitID": "suit_knockdownup_01",
+          "equipCnt": 4,
+          "desc": "(4件)造成倒地效果时，敌人倒地时间增加1秒；对倒地敌人造成的伤害提升30%",
+          "suitName": {
+            "text": "过重束缚",
+            "id": "CF14353C02BCB877"
+          },
+          "skillID": "passive_equipsuit_knockdownup_01",
+          "skillLv": 3,
+          "suitIcon": "icon_suit_knockdownup"
+        }
+      ],
+      "equipList": [
+        "item_unit_t2_suit_06_body_01",
+        "item_unit_t2_suit_06_edc_01",
+        "item_unit_t3_suit_06_hand_01",
+        "item_unit_t3_suit_06_edc_01",
+        "item_unit_t4_suit_06_hand_01",
+        "item_unit_t4_suit_06_body_01",
+        "item_unit_t4_suit_06_edc_01",
+        "item_unit_t4_suit_06_edc_02"
+      ]
+    },
+    "suit_pulseup_01": {
+      "list": [
+        {
+          "suitID": "suit_pulseup_01",
+          "equipCnt": 2,
+          "desc": "(2件)造成的脉冲伤害提升20%",
+          "suitName": {
+            "text": "脉冲实验",
+            "id": "168B01C848D912F3"
+          },
+          "skillID": "passive_equipsuit_pulseup_01",
+          "skillLv": 1,
+          "suitIcon": "icon_suit_pulseup"
+        },
+        {
+          "suitID": "suit_pulseup_01",
+          "equipCnt": 3,
+          "desc": "(3件)造成的脉冲伤害提升30%",
+          "suitName": {
+            "text": "脉冲实验",
+            "id": "6DDF719BA6F375C8"
+          },
+          "skillID": "passive_equipsuit_pulseup_01",
+          "skillLv": 2,
+          "suitIcon": "icon_suit_pulseup"
+        },
+        {
+          "suitID": "suit_pulseup_01",
+          "equipCnt": 4,
+          "desc": "(4件)造成的脉冲伤害提升40%，产生脉冲能量的效率增加50%",
+          "suitName": {
+            "text": "脉冲实验",
+            "id": "72AC969059C0463A"
+          },
+          "skillID": "passive_equipsuit_pulseup_01",
+          "skillLv": 3,
+          "suitIcon": "icon_suit_pulseup"
+        }
+      ],
+      "equipList": [
+        "item_unit_t3_suit_08_hand_01",
+        "item_unit_t3_suit_08_edc_01",
+        "item_unit_t4_suit_08_body_01",
+        "item_unit_t4_suit_08_body_02",
+        "item_unit_t4_suit_08_edc_01",
+        "item_unit_t4_suit_08_edc_02"
+      ]
+    },
+    "suit_receivehealup_01": {
+      "list": [
+        {
+          "suitID": "suit_receivehealup_01",
+          "equipCnt": 2,
+          "desc": "(2件)受到治疗的效果提升50%",
+          "suitName": {
+            "text": "Lynx特殊防护",
+            "id": "959C2E7BEF8A136B"
+          },
+          "skillID": "passive_equipsuit_receivehealup_01",
+          "skillLv": 1,
+          "suitIcon": "icon_suit_receivehealup"
+        },
+        {
+          "suitID": "suit_receivehealup_01",
+          "equipCnt": 4,
+          "desc": "(4件)受到治疗的效果提升100%",
+          "suitName": {
+            "text": "Lynx特殊防护",
+            "id": "EE10A82821756CBD"
+          },
+          "skillID": "passive_equipsuit_receivehealup_01",
+          "skillLv": 2,
+          "suitIcon": "icon_suit_receivehealup"
+        }
+      ],
+      "equipList": [
+        "item_unit_t2_suit_07_edc_01",
+        "item_unit_t3_suit_07_hand_01",
+        "item_unit_t3_suit_07_body_01",
+        "item_unit_t4_suit_07_hand_01",
+        "item_unit_t4_suit_07_body_01",
+        "item_unit_t4_suit_07_edc_01",
+        "item_unit_t4_suit_07_edc_02"
+      ]
+    }
+  },
+  "equipTierTable": {
+    "T0.5": {
+      "tierID": "T0.5",
+      "tierDesc": "T0.5",
+      "minWearLv": 1
+    },
+    "T1": {
+      "tierID": "T1",
+      "tierDesc": "T1",
+      "minWearLv": 10
+    },
+    "T2": {
+      "tierID": "T2",
+      "tierDesc": "T2",
+      "minWearLv": 20
+    },
+    "T3": {
+      "tierID": "T3",
+      "tierDesc": "T3",
+      "minWearLv": 30
+    },
+    "T4": {
+      "tierID": "T4",
+      "tierDesc": "T4",
+      "minWearLv": 40
+    }
+  }
+}

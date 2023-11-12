@@ -1,0 +1,491 @@
+{
+  "dung01_group_challenge01": {
+    "id": "dung01_group_challenge01",
+    "includeDungeonIds": [
+      "dung01_challenge01"
+    ],
+    "name": {
+      "text": "裂隙-危境",
+      "id": "1D90F5DEB5C975EE"
+    },
+    "desc": {
+      "text": "极度危险的裂隙，想要进入其中的话，就做好全方位的准备吧。\n“经过我们的判断，该裂隙内部人类宜居度约等于零。”",
+      "id": "C1BDFB67D48B2C96"
+    },
+    "rewardIds": [
+      "item_diamond",
+      "item_unit_t4_parts_body_02",
+      "item_unit_t4_parts_body_03",
+      "item_unit_t4_suit_05_body_01",
+      "item_unit_t4_suit_01_body_01",
+      "item_unit_t4_suit_10_body_02",
+      "item_unit_t4_suit_08_body_01",
+      "item_unit_t4_suit_04_body_01",
+      "item_unit_t4_parts_hand_02",
+      "item_unit_t4_parts_hand_04",
+      "item_unit_t4_suit_06_hand_01",
+      "item_unit_t4_suit_02_hand_01",
+      "item_unit_t4_suit_10_hand_02",
+      "item_unit_t4_suit_09_hand_01",
+      "item_unit_t4_suit_07_hand_01",
+      "item_unit_t4_parts_edc_01",
+      "item_unit_t4_parts_edc_02",
+      "item_unit_t4_parts_edc_03",
+      "item_unit_t4_suit_05_edc_01",
+      "item_unit_t4_suit_06_edc_02",
+      "item_unit_t4_suit_07_edc_01"
+    ],
+    "staminaText": {
+      "text": "",
+      "id": ""
+    }
+  },
+  "dung01_group_challenge02": {
+    "id": "dung01_group_challenge02",
+    "includeDungeonIds": [
+      "dung01_challenge02"
+    ],
+    "name": {
+      "text": "裂隙-危境",
+      "id": "4E0F1C9A4D3D71CF"
+    },
+    "desc": {
+      "text": "极度危险的裂隙，想要进入其中的话，就做好全方位的准备吧。\n“经过我们的判断，该裂隙内部人类宜居度约等于零。”",
+      "id": "C22FC7298B048C4C"
+    },
+    "rewardIds": [
+      "item_diamond",
+      "item_unit_t4_parts_body_02",
+      "item_unit_t4_parts_body_03",
+      "item_unit_t4_suit_05_body_01",
+      "item_unit_t4_suit_01_body_01",
+      "item_unit_t4_suit_10_body_02",
+      "item_unit_t4_suit_08_body_01",
+      "item_unit_t4_suit_04_body_01",
+      "item_unit_t4_parts_hand_02",
+      "item_unit_t4_parts_hand_04",
+      "item_unit_t4_suit_06_hand_01",
+      "item_unit_t4_suit_02_hand_01",
+      "item_unit_t4_suit_10_hand_02",
+      "item_unit_t4_suit_09_hand_01",
+      "item_unit_t4_suit_07_hand_01",
+      "item_unit_t4_parts_edc_01",
+      "item_unit_t4_parts_edc_02",
+      "item_unit_t4_parts_edc_03",
+      "item_unit_t4_suit_05_edc_01",
+      "item_unit_t4_suit_06_edc_02",
+      "item_unit_t4_suit_07_edc_01"
+    ],
+    "staminaText": {
+      "text": "",
+      "id": ""
+    }
+  },
+  "dung01_group_challenge03": {
+    "id": "dung01_group_challenge03",
+    "includeDungeonIds": [
+      "dung01_challenge03"
+    ],
+    "name": {
+      "text": "裂隙-危境",
+      "id": "C0EC4FEACD162CB5"
+    },
+    "desc": {
+      "text": "极度危险的裂隙，想要进入其中的话，就做好全方位的准备吧。\n“经过我们的判断，该裂隙内部人类宜居度约等于零。”",
+      "id": "2431A5D71611ED33"
+    },
+    "rewardIds": [
+      "item_diamond",
+      "item_unit_t4_parts_body_02",
+      "item_unit_t4_parts_body_03",
+      "item_unit_t4_suit_05_body_01",
+      "item_unit_t4_suit_01_body_01",
+      "item_unit_t4_suit_10_body_02",
+      "item_unit_t4_suit_08_body_01",
+      "item_unit_t4_suit_04_body_01",
+      "item_unit_t4_parts_hand_02",
+      "item_unit_t4_parts_hand_04",
+      "item_unit_t4_suit_06_hand_01",
+      "item_unit_t4_suit_02_hand_01",
+      "item_unit_t4_suit_10_hand_02",
+      "item_unit_t4_suit_09_hand_01",
+      "item_unit_t4_suit_07_hand_01",
+      "item_unit_t4_parts_edc_01",
+      "item_unit_t4_parts_edc_02",
+      "item_unit_t4_parts_edc_03",
+      "item_unit_t4_suit_05_edc_01",
+      "item_unit_t4_suit_06_edc_02",
+      "item_unit_t4_suit_07_edc_01"
+    ],
+    "staminaText": {
+      "text": "",
+      "id": ""
+    }
+  },
+  "dung01_group_charbreak01": {
+    "id": "dung01_group_charbreak01",
+    "includeDungeonIds": [
+      "dung01_charbreak01",
+      "dung01_charbreak02",
+      "dung01_charbreak03"
+    ],
+    "name": {
+      "text": "裂隙-干员进阶",
+      "id": "00EBDACD668FC27C"
+    },
+    "desc": {
+      "text": "这是一处充满未知的空间裂隙，认真探索其中的话，或许能够发现用于干员进阶的道具。\n你应直面你的内心，感受它的强壮与虚弱，欢欣与苦痛。",
+      "id": "60108DEE6A8A080F"
+    },
+    "rewardIds": [
+      "item_mtl_stageup_normal_01",
+      "item_mtl_stageup_normal_02"
+    ],
+    "staminaText": {
+      "text": "20~40",
+      "id": "150DC7FB0C9159D9"
+    }
+  },
+  "dung01_group_charbreak02": {
+    "id": "dung01_group_charbreak02",
+    "includeDungeonIds": [
+      "dung01_charbreak04"
+    ],
+    "name": {
+      "text": "裂隙-干员进阶",
+      "id": "4C684F5D3D3CA9F7"
+    },
+    "desc": {
+      "text": "这是一处充满未知的空间裂隙，认真探索其中的话，或许能够发现用于干员进阶的高阶道具。\n你应直面你的内心，感受它的强壮与虚弱，欢欣与苦痛。",
+      "id": "01C192DFE379BE50"
+    },
+    "rewardIds": [
+      "item_mtl_stageup_normal_01",
+      "item_mtl_stageup_normal_02",
+      "item_mtl_stageup_rare_01",
+      "item_mtl_stageup_rare_02"
+    ],
+    "staminaText": {
+      "text": "50",
+      "id": "95D427A61D8B19BC"
+    }
+  },
+  "dung01_group_embedding": {
+    "id": "dung01_group_embedding",
+    "includeDungeonIds": [
+      "dung01_embedding"
+    ],
+    "name": {
+      "text": "裂隙-基质提取",
+      "id": "F893AAEEF5A5AD62"
+    },
+    "desc": {
+      "text": "这是一处充满未知的空间裂隙，认真探索其中的话，或许能够发现基质柔化剂。\n“人们推测裂隙中或许不存在时间概念，他们相信凋亡的历史堆积于此。”",
+      "id": "4C5FAADA68D64518"
+    },
+    "rewardIds": [
+      "item_wpngem_catalyzer"
+    ],
+    "staminaText": {
+      "text": "50",
+      "id": "F36D6893B2B0E430"
+    }
+  },
+  "dung01_group_exp01": {
+    "id": "dung01_group_exp01",
+    "includeDungeonIds": [
+      "dung01_exp01",
+      "dung01_exp02",
+      "dung01_exp03"
+    ],
+    "name": {
+      "text": "裂隙-经验获取",
+      "id": "3CCE25068F62A0ED"
+    },
+    "desc": {
+      "text": "这是一处充满未知的空间裂隙，认真探索其中的话，或许能够发现用于提升经验的道具。\n“我看着他消失在光里——黑色的光芒——可这世上是不该有黑色光芒的。”",
+      "id": "C703C60D50E9CD41"
+    },
+    "rewardIds": [
+      "item_expcard_1",
+      "item_expcard_2_1",
+      "item_expcard_2_2",
+      "item_expcard_2_3"
+    ],
+    "staminaText": {
+      "text": "20~40",
+      "id": "583501BDFB588166"
+    }
+  },
+  "dung01_group_exp02": {
+    "id": "dung01_group_exp02",
+    "includeDungeonIds": [
+      "dung01_exp04"
+    ],
+    "name": {
+      "text": "裂隙-经验获取",
+      "id": "EFD0F2BDA2D1322C"
+    },
+    "desc": {
+      "text": "这是一处充满未知的空间裂隙，认真探索其中的话，或许能够发现用于提升经验的高阶道具。\n“我看着他消失在光里——黑色的光芒——可这世上是不该有黑色光芒的。”",
+      "id": "1FDAB05DF750C465"
+    },
+    "rewardIds": [
+      "item_expcard_1",
+      "item_expcard_2_1",
+      "item_expcard_2_2",
+      "item_expcard_2_3",
+      "item_expcard_3_1",
+      "item_expcard_3_2"
+    ],
+    "staminaText": {
+      "text": "50",
+      "id": "C1C476C37EA0621F"
+    }
+  },
+  "dung01_group_gold01": {
+    "id": "dung01_group_gold01",
+    "includeDungeonIds": [
+      "dung01_gold01",
+      "dung01_gold02",
+      "dung01_gold03"
+    ],
+    "name": {
+      "text": "裂隙-钱币收集",
+      "id": "C63EBDFDCE564E1B"
+    },
+    "desc": {
+      "text": "这是一处充满未知的空间裂隙，认真探索其中的话，或许能够发现折金票。\n“在荒地上流传着这样的故事：曾有穷苦之人走进裂隙，重回人世之时，他们的内脏已被替换成了黄金。”",
+      "id": "753452E571AFB329"
+    },
+    "rewardIds": [
+      "item_gold"
+    ],
+    "staminaText": {
+      "text": "20~40",
+      "id": "D0120504BA36494F"
+    }
+  },
+  "dung01_group_gold02": {
+    "id": "dung01_group_gold02",
+    "includeDungeonIds": [
+      "dung01_gold04"
+    ],
+    "name": {
+      "text": "裂隙-钱币收集",
+      "id": "8582440BA7A90063"
+    },
+    "desc": {
+      "text": "这是一处充满未知的空间裂隙，认真探索其中的话，或许能够发现折金票。\n“在荒地上流传着这样的故事：曾有穷苦之人走进裂隙，重回人世之时，他们的内脏已被替换成了黄金。”",
+      "id": "55B770763B8736F1"
+    },
+    "rewardIds": [
+      "item_gold"
+    ],
+    "staminaText": {
+      "text": "50",
+      "id": "248C756D631A0C0E"
+    }
+  },
+  "dung01_group_puzzle01": {
+    "id": "dung01_group_puzzle01",
+    "includeDungeonIds": [
+      "dung01_puzzle01"
+    ],
+    "name": {
+      "text": "裂隙-不稳定",
+      "id": "54E59185D1458671"
+    },
+    "desc": {
+      "text": "内部不稳定的裂隙，其中出现什么都不令人意外。\n“你真的要进去？它看起来随时都会爆炸啊……”",
+      "id": "2BEA79FCC66B8410"
+    },
+    "rewardIds": [],
+    "staminaText": {
+      "text": "",
+      "id": ""
+    }
+  },
+  "dung01_group_puzzle02": {
+    "id": "dung01_group_puzzle02",
+    "includeDungeonIds": [
+      "dung01_puzzle02"
+    ],
+    "name": {
+      "text": "裂隙-不稳定",
+      "id": "FA196DB625F9368B"
+    },
+    "desc": {
+      "text": "内部不稳定的裂隙，其中出现什么都不令人意外。\n“你真的要进去？它看起来随时都会爆炸啊……”",
+      "id": "CD7A76662493AC68"
+    },
+    "rewardIds": [],
+    "staminaText": {
+      "text": "",
+      "id": ""
+    }
+  },
+  "dung01_group_puzzle03": {
+    "id": "dung01_group_puzzle03",
+    "includeDungeonIds": [
+      "dung01_puzzle03"
+    ],
+    "name": {
+      "text": "裂隙-不稳定",
+      "id": "1B593BB4B3FB888B"
+    },
+    "desc": {
+      "text": "内部不稳定的裂隙，其中出现什么都不令人意外。\n“你真的要进去？它看起来随时都会爆炸啊……”",
+      "id": "E54CD81E0182A469"
+    },
+    "rewardIds": [],
+    "staminaText": {
+      "text": "",
+      "id": ""
+    }
+  },
+  "dung01_group_skill01": {
+    "id": "dung01_group_skill01",
+    "includeDungeonIds": [
+      "dung01_skill01",
+      "dung01_skill02",
+      "dung01_skill03"
+    ],
+    "name": {
+      "text": "裂隙-技能提升",
+      "id": "B3DA5CD4859E7EEC"
+    },
+    "desc": {
+      "text": "这是一处充满未知的空间裂隙，认真探索其中的话，或许能够发现用于提升干员能力的道具。\n“你应触摸你的精神，感受它的炽热与冰冷，充盈与虚无。”",
+      "id": "43D7FEB99818C40B"
+    },
+    "rewardIds": [
+      "item_mtl_skillup_normal_01",
+      "item_mtl_skillup_normal_02"
+    ],
+    "staminaText": {
+      "text": "20~40",
+      "id": "5A73F73B9C36C337"
+    }
+  },
+  "dung01_group_skill02": {
+    "id": "dung01_group_skill02",
+    "includeDungeonIds": [
+      "dung01_skill04"
+    ],
+    "name": {
+      "text": "裂隙-技能提升",
+      "id": "D49782D62D9D3335"
+    },
+    "desc": {
+      "text": "这是一处充满未知的空间裂隙，认真探索其中的话，或许能够发现用于提升干员能力的道具。\n“你应触摸你的精神，感受它的炽热与冰冷，充盈与虚无。”",
+      "id": "C0483B2FC92669D5"
+    },
+    "rewardIds": [
+      "item_mtl_skillup_normal_01",
+      "item_mtl_skillup_normal_02",
+      "item_mtl_skillup_rare_01",
+      "item_mtl_skillup_rare_02"
+    ],
+    "staminaText": {
+      "text": "50",
+      "id": "755C286602A246C1"
+    }
+  },
+  "dung01_group_wpbreak01": {
+    "id": "dung01_group_wpbreak01",
+    "includeDungeonIds": [
+      "dung01_wpbreak01",
+      "dung01_wpbreak02",
+      "dung01_wpbreak03"
+    ],
+    "name": {
+      "text": "裂隙-武器进阶",
+      "id": "A6EBFC86A3E719FD"
+    },
+    "desc": {
+      "text": "这是一处充满未知的空间裂隙，认真探索其中的话，或许能够发现用于提高武器出力上限的道具。\n“在这片荒芜的土地上，些许苦痛是必不可少的。”",
+      "id": "69FCCD05E57EF43D"
+    },
+    "rewardIds": [
+      "item_weapon_breakthrough_a1",
+      "item_weapon_breakthrough_b1"
+    ],
+    "staminaText": {
+      "text": "20~40",
+      "id": "B7B187BE6EB6AD7C"
+    }
+  },
+  "dung01_group_wpbreak02": {
+    "id": "dung01_group_wpbreak02",
+    "includeDungeonIds": [
+      "dung01_wpbreak04"
+    ],
+    "name": {
+      "text": "裂隙-武器进阶",
+      "id": "9ED619D8FC47E8C6"
+    },
+    "desc": {
+      "text": "这是一处充满未知的空间裂隙，认真探索其中的话，或许能够发现用于提高武器出力上限的道具。\n“在这片荒芜的土地上，些许苦痛是必不可少的。”",
+      "id": "9D355FB4AFC511BF"
+    },
+    "rewardIds": [
+      "item_weapon_breakthrough_a1",
+      "item_weapon_breakthrough_b1",
+      "item_weapon_breakthrough_a2",
+      "item_weapon_breakthrough_b2"
+    ],
+    "staminaText": {
+      "text": "50",
+      "id": "7156F4490E756319"
+    }
+  },
+  "dung01_group_wpexp01": {
+    "id": "dung01_group_wpexp01",
+    "includeDungeonIds": [
+      "dung01_wpexp01",
+      "dung01_wpexp02",
+      "dung01_wpexp03"
+    ],
+    "name": {
+      "text": "裂隙-武器强化",
+      "id": "DAD5E2B7216A3D95"
+    },
+    "desc": {
+      "text": "这是一处充满未知的空间裂隙，认真探索其中的话，或许能够发现用于磨砺武器的道具。\n“在这片荒芜的土地上，些许愤怒是必不可少的。”",
+      "id": "457864D33B00E081"
+    },
+    "rewardIds": [
+      "item_weapon_upgrade_low",
+      "item_weapon_upgrade_mid",
+      "item_weapon_upgrade_high"
+    ],
+    "staminaText": {
+      "text": "20~40",
+      "id": "A8059ED075F3BF81"
+    }
+  },
+  "dung01_group_wpexp02": {
+    "id": "dung01_group_wpexp02",
+    "includeDungeonIds": [
+      "dung01_wpexp04"
+    ],
+    "name": {
+      "text": "裂隙-武器强化",
+      "id": "5ABF36B8ADC6FCEF"
+    },
+    "desc": {
+      "text": "这是一处充满未知的空间裂隙，认真探索其中的话，或许能够发现用于磨砺武器的道具。\n“在这片荒芜的土地上，些许愤怒是必不可少的。”",
+      "id": "E7459126965FAAEB"
+    },
+    "rewardIds": [
+      "item_weapon_upgrade_low",
+      "item_weapon_upgrade_mid",
+      "item_weapon_upgrade_high"
+    ],
+    "staminaText": {
+      "text": "50",
+      "id": "8350BE21B6BAB6F9"
+    }
+  }
+}

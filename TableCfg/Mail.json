@@ -1,0 +1,345 @@
+{
+  "mailTemplateTable": {
+    "cbt1_questionnaire_1": {
+      "templateId": "cbt1_questionnaire_1",
+      "type": "Mail",
+      "duration": 86400,
+      "rewardId": "reward_surveyMail1a",
+      "title": {
+        "text": "调研问卷 - 集成工业系统体验#1",
+        "id": "19D3ADF103AFBFED"
+      },
+      "senderId": "survey",
+      "mailContent": {
+        "text": "您好，管理员。\n感谢您对建设终末地工业做出的贡献！第一条自动化生产线已经建设完毕，不知道管理员感觉如何呢？\n期待您的宝贵意见：\n\n<b><color=#22BBFF><link=\"https://survey.hypergryph.com/s/634fa56bc1413f67ae7911190d05fbc6?token=$__token__$\">【点击填写调研问卷】</link></color></b>\n\n您的每条建议和反馈都将助力我们优化完善游戏体验。\n<color=#FFD800>完成问卷后，您将通过额外邮件获得一份游戏道具奖励（嵌晶玉×20）。</color>\n*调研邮件的有效期为1天，以确保收集的反馈接近当前游戏体验。奖励邮件不会过期。感谢管理员的理解。\n再次感谢管理员一直以来的关注与支持！祝您在塔卫二旅途愉快。",
+        "id": "3DB939BDF0496EFA"
+      }
+    },
+    "cbt1_questionnaire_10": {
+      "templateId": "cbt1_questionnaire_10",
+      "type": "Mail",
+      "duration": -1,
+      "rewardId": "reward_surveyMail4b",
+      "title": {
+        "text": "调研问卷奖励",
+        "id": "BCD0F89798EC3B03"
+      },
+      "senderId": "survey",
+      "mailContent": {
+        "text": "您好，管理员。\n再次感谢您的耐心填写，您的反馈已经收到，请查收问卷奖励。祝您在塔卫二旅途愉快。",
+        "id": "829AF82C41F4E060"
+      }
+    },
+    "cbt1_questionnaire_11": {
+      "templateId": "cbt1_questionnaire_11",
+      "type": "Mail",
+      "duration": -1,
+      "rewardId": "reward_surveyMail5b",
+      "title": {
+        "text": "调研问卷奖励",
+        "id": "CB87E4F0646593BC"
+      },
+      "senderId": "survey",
+      "mailContent": {
+        "text": "您好，管理员。\n再次感谢您的耐心填写，您的反馈已经收到，请查收问卷奖励。祝您在塔卫二旅途愉快。",
+        "id": "B2216A49DDC31BC7"
+      }
+    },
+    "cbt1_questionnaire_12": {
+      "templateId": "cbt1_questionnaire_12",
+      "type": "Mail",
+      "duration": -1,
+      "rewardId": "reward_surveyMail6b",
+      "title": {
+        "text": "调研问卷奖励",
+        "id": "4A38856E10AF5931"
+      },
+      "senderId": "survey",
+      "mailContent": {
+        "text": "您好，管理员。\n再次感谢您的耐心填写，您的反馈已经收到，请查收问卷奖励。祝您在塔卫二旅途愉快。",
+        "id": "2B0E62142F215E5B"
+      }
+    },
+    "cbt1_questionnaire_2": {
+      "templateId": "cbt1_questionnaire_2",
+      "type": "Mail",
+      "duration": 86400,
+      "rewardId": "reward_surveyMail2a",
+      "title": {
+        "text": "调研问卷#3",
+        "id": "464812670FBB747F"
+      },
+      "senderId": "survey",
+      "mailContent": {
+        "text": "您好，管理员。\n您的足迹已经遍布塔卫二的各个角落，是不是开始感觉得心应手了呢？\n期待您的宝贵意见：\n\n<b><color=#22BBFF><link=\"https://survey.hypergryph.com/s/82be60b810e8aface3e3448f3e22370b?token=$__token__$\">【点击填写调研问卷】</link></color></b>\n\n您的每条建议和反馈都将助力我们优化完善游戏体验。\n<color=#FFD800>完成问卷后，您将通过额外邮件获得一份游戏道具奖励（嵌晶玉×50）。</color>\n*调研邮件的有效期为1天，以确保收集的反馈接近当前游戏体验。奖励邮件不会过期。感谢管理员的理解。\n再次感谢管理员一直以来的关注与支持！祝您在塔卫二旅途愉快。",
+        "id": "F38430633E441F8E"
+      }
+    },
+    "cbt1_questionnaire_3": {
+      "templateId": "cbt1_questionnaire_3",
+      "type": "Mail",
+      "duration": 86400,
+      "rewardId": "reward_surveyMail3a",
+      "title": {
+        "text": "调研问卷#2",
+        "id": "8ABED306DE5F3E05"
+      },
+      "senderId": "survey",
+      "mailContent": {
+        "text": "您好，管理员。\n您在塔卫二的旅程已经持续一段时间了，不知道您是否还算适应？\n期待您的宝贵意见：\n\n<b><color=#22BBFF><link=\"https://survey.hypergryph.com/s/f5d5323def958064b9f7b82c927eb692?token=$__token__$\">【点击填写调研问卷】</link></color></b>\n\n您的每条建议和反馈都将助力我们优化完善游戏体验。\n<color=#FFD800>完成问卷后，您将通过额外邮件获得一份游戏道具奖励（嵌晶玉×20）。</color>\n*调研邮件的有效期为1天，以确保收集的反馈接近当前游戏体验。奖励邮件不会过期。感谢管理员的理解。\n再次感谢管理员一直以来的关注与支持！祝您在塔卫二旅途愉快。",
+        "id": "6635E4BF12919638"
+      }
+    },
+    "cbt1_questionnaire_4": {
+      "templateId": "cbt1_questionnaire_4",
+      "type": "Mail",
+      "duration": 86400,
+      "rewardId": "reward_surveyMail4a",
+      "title": {
+        "text": "调研问卷#1",
+        "id": "24CDB58A0488225A"
+      },
+      "senderId": "survey",
+      "mailContent": {
+        "text": "您好，管理员。\n欢迎来到塔卫二，您首次踏上塔卫二的感受是怎样的呢？\n期待您的宝贵意见：\n\n<b><color=#22BBFF><link=\"https://survey.hypergryph.com/s/2314086c87dbeaa84c4838735ed09f7c?token=$__token__$\">【点击填写调研问卷】</link></color></b>\n\n您的每条建议和反馈都将助力我们优化完善游戏体验。\n<color=#FFD800>完成问卷后，您将通过额外邮件获得一份游戏道具奖励（嵌晶玉×20）。</color>\n*调研邮件的有效期为1天，以确保收集的反馈接近当前游戏体验。奖励邮件不会过期。感谢管理员的理解。\n再次感谢管理员一直以来的关注与支持！祝您在塔卫二旅途愉快。",
+        "id": "9FC7BB89FD4A9D7C"
+      }
+    },
+    "cbt1_questionnaire_5": {
+      "templateId": "cbt1_questionnaire_5",
+      "type": "Mail",
+      "duration": 86400,
+      "rewardId": "reward_surveyMail5a",
+      "title": {
+        "text": "调研问卷#4",
+        "id": "C0A7EBDD1548FF6B"
+      },
+      "senderId": "survey",
+      "mailContent": {
+        "text": "您好，管理员。\n恭喜您帮助终末地工业解除了强敌的威胁，现在您的感受又是怎样的呢？\n期待您的宝贵意见：\n\n<b><color=#22BBFF><link=\"https://survey.hypergryph.com/s/18c7abc8134b60b5ae311d86c0a1b395?token=$__token__$\">【点击填写调研问卷】</link></color></b>\n\n您的每条建议和反馈都将助力我们优化完善游戏体验。\n<color=#FFD800>完成问卷后，您将通过额外邮件获得一份游戏道具奖励（嵌晶玉×100）。</color>\n*调研邮件的有效期为1天，以确保收集的反馈接近当前游戏体验。奖励邮件不会过期。感谢管理员的理解。\n再次感谢管理员一直以来的关注与支持！祝您在塔卫二旅途愉快。",
+        "id": "EB52501846D50583"
+      }
+    },
+    "cbt1_questionnaire_6": {
+      "templateId": "cbt1_questionnaire_6",
+      "type": "Mail",
+      "duration": 86400,
+      "rewardId": "reward_surveyMail6a",
+      "title": {
+        "text": "调研问卷 - 集成工业系统体验#2",
+        "id": "52F8B974E25E09E4"
+      },
+      "senderId": "survey",
+      "mailContent": {
+        "text": "您好，管理员。\n感谢您对建设终末地工业做出的贡献！您搭建的各类工业生产线已成为枢纽区内一道独特的风景，不如借着这个机会来聊聊感想吧？\n期待您的宝贵意见：\n\n<b><color=#22BBFF><link=\"https://survey.hypergryph.com/s/0907710bcf4bb1a208405344b2098820?token=$__token__$\">【点击填写调研问卷】</link></color></b>\n\n您的每条建议和反馈都将助力我们优化完善游戏体验。\n<color=#FFD800>完成问卷后，您将通过额外邮件获得一份游戏道具奖励（嵌晶玉×20）。</color>\n*调研邮件的有效期为1天，以确保收集的反馈接近当前游戏体验。奖励邮件不会过期。感谢管理员的理解。\n再次感谢管理员一直以来的关注与支持！祝您在塔卫二旅途愉快。",
+        "id": "EAD209429BC5C8C4"
+      }
+    },
+    "cbt1_questionnaire_7": {
+      "templateId": "cbt1_questionnaire_7",
+      "type": "Mail",
+      "duration": -1,
+      "rewardId": "reward_surveyMail1b",
+      "title": {
+        "text": "调研问卷奖励",
+        "id": "337EF2AF8A33D429"
+      },
+      "senderId": "survey",
+      "mailContent": {
+        "text": "您好，管理员。\n再次感谢您的耐心填写，您的反馈已经收到，请查收问卷奖励。祝您在塔卫二旅途愉快。",
+        "id": "385E6800BB4F1C85"
+      }
+    },
+    "cbt1_questionnaire_8": {
+      "templateId": "cbt1_questionnaire_8",
+      "type": "Mail",
+      "duration": -1,
+      "rewardId": "reward_surveyMail2b",
+      "title": {
+        "text": "调研问卷奖励",
+        "id": "1714969C4DCBCAFB"
+      },
+      "senderId": "survey",
+      "mailContent": {
+        "text": "您好，管理员。\n再次感谢您的耐心填写，您的反馈已经收到，请查收问卷奖励。祝您在塔卫二旅途愉快。",
+        "id": "110BE6F097971DF0"
+      }
+    },
+    "cbt1_questionnaire_9": {
+      "templateId": "cbt1_questionnaire_9",
+      "type": "Mail",
+      "duration": -1,
+      "rewardId": "reward_surveyMail3b",
+      "title": {
+        "text": "调研问卷奖励",
+        "id": "6D92F43F2686EBAC"
+      },
+      "senderId": "survey",
+      "mailContent": {
+        "text": "您好，管理员。\n再次感谢您的耐心填写，您的反馈已经收到，请查收问卷奖励。祝您在塔卫二旅途愉快。",
+        "id": "82B302F311905CC0"
+      }
+    },
+    "cbt1_reward_mail_1": {
+      "templateId": "cbt1_reward_mail_1",
+      "type": "Mail",
+      "duration": -1,
+      "rewardId": "reward_supportMail1",
+      "title": {
+        "text": "终末地工业特别支援#1",
+        "id": "1D119F3CFA2470AD"
+      },
+      "senderId": "system",
+      "mailContent": {
+        "text": "想必您对塔卫二上的方方面面应该已经得心应手了，为了便于您进一步进行探索，终末地工业将竭诚为您提供协助。\n\n\n希望能帮助管理员更好地探索塔卫二，终末地工业永远是您最可靠的后盾。\n祝您在塔卫二旅途愉快。\n - 终末地工业 -",
+        "id": "69063B6DAC5095C4"
+      }
+    },
+    "cbt1_reward_mail_2": {
+      "templateId": "cbt1_reward_mail_2",
+      "type": "Mail",
+      "duration": -1,
+      "rewardId": "reward_supportMail2",
+      "title": {
+        "text": "终末地工业特别支援#2",
+        "id": "AD94CB3847FA7CA5"
+      },
+      "senderId": "system",
+      "mailContent": {
+        "text": "想必您对塔卫二上的方方面面应该已经得心应手了，为了便于您进一步进行探索，终末地工业将竭诚为您提供协助。\n\n\n希望能帮助管理员更好地探索塔卫二，终末地工业永远是您最可靠的后盾。\n祝您在塔卫二旅途愉快。\n - 终末地工业 -",
+        "id": "6124B84EC14C36DD"
+      }
+    },
+    "cbt1_reward_mail_3": {
+      "templateId": "cbt1_reward_mail_3",
+      "type": "Mail",
+      "duration": -1,
+      "rewardId": "reward_supportMail3",
+      "title": {
+        "text": "终末地工业特别支援#3",
+        "id": "1CBA637878D8F498"
+      },
+      "senderId": "system",
+      "mailContent": {
+        "text": "想必您对塔卫二上的方方面面应该已经得心应手了，为了便于您进一步进行探索，终末地工业将竭诚为您提供协助。\n\n\n希望能帮助管理员更好地探索塔卫二，终末地工业永远是您最可靠的后盾。\n祝您在塔卫二旅途愉快。\n - 终末地工业 -",
+        "id": "2D8FEEF011D70507"
+      }
+    },
+    "cbt1_reward_mail_4": {
+      "templateId": "cbt1_reward_mail_4",
+      "type": "Mail",
+      "duration": -1,
+      "rewardId": "reward_supportMail4",
+      "title": {
+        "text": "终末地工业特别支援#4",
+        "id": "B3F60E11BC388CE1"
+      },
+      "senderId": "system",
+      "mailContent": {
+        "text": "想必您对塔卫二上的方方面面应该已经得心应手了，为了便于您进一步进行探索，终末地工业将竭诚为您提供协助。\n\n\n希望能帮助管理员更好地探索塔卫二，终末地工业永远是您最可靠的后盾。\n祝您在塔卫二旅途愉快。\n - 终末地工业 -",
+        "id": "FF3CD9A2355E07B1"
+      }
+    },
+    "removed_building": {
+      "templateId": "removed_building",
+      "type": "ItemCache",
+      "duration": 2592000,
+      "rewardId": "",
+      "title": {
+        "text": "建筑被破坏",
+        "id": "8887FB358D8D97B9"
+      },
+      "senderId": "pelica",
+      "mailContent": {
+        "text": "管理员，我们在 <color value=#ff6801>___MAP_NAME___</color> <color value=#ff6801>___MAP_POSITION___</color> 处建造的建筑由于遭到敌人破坏而被回收至此，建议更换地点建造。请及时查收被回收的建筑。",
+        "id": "77E1CDB6D4FD9E21"
+      }
+    },
+    "storage_cache": {
+      "templateId": "storage_cache",
+      "type": "ItemCache",
+      "duration": 2592000,
+      "rewardId": "",
+      "title": {
+        "text": "遗失物品",
+        "id": "24DD76426163E441"
+      },
+      "senderId": "system",
+      "mailContent": {
+        "text": "管理员，以下是您遗失的物品，请及时查收",
+        "id": "66DDB04DDF865E98"
+      }
+    },
+    "storage_cache_sp": {
+      "templateId": "storage_cache_sp",
+      "type": "SpItemCache",
+      "duration": -1,
+      "rewardId": "",
+      "title": {
+        "text": "重要遗失物品",
+        "id": "2D350D6A325B0A82"
+      },
+      "senderId": "system",
+      "mailContent": {
+        "text": "管理员，以下是您遗失的<color=#FFD800>重要物品</color>，请及时查收",
+        "id": "48782B9E053806AB"
+      }
+    },
+    "test_mail": {
+      "templateId": "test_mail",
+      "type": "Mail",
+      "duration": 108000,
+      "rewardId": "reward_map01_lv001_int_70659",
+      "title": {
+        "text": "测试邮件",
+        "id": "97D4DF10A93FB601"
+      },
+      "senderId": "system",
+      "mailContent": {
+        "text": "管管理员，<color=#FFD800>这是测试邮件</color>，请查看。管理员，这是测试邮件，请查看。管理员，这是测试邮件，请查看。<@qu.key>管理员，这是测试邮件</>，请查看。\n管理员，这是测试邮件，请查看。管理员，这是测试邮件，请查看。管理员，这是测试邮件，请查看。管理员，这是测试邮件，请查看。管理员，这是测试邮件，请查看。管理员，这是测试邮件，请查看。\n管理员，这是测试邮件，请查看。\n\n<b><color=#22BBFF><link=\"https://omc-host-biz-platform-web-stable.hypergryph.net/#/app/game_cms/topic/3/mail\">【这里是测试链接，点我可跳转】</link></color><b>",
+        "id": "ADB335CD5ABEEF73"
+      }
+    },
+    "test_questionnaire": {
+      "templateId": "test_questionnaire",
+      "type": "Mail",
+      "duration": 108000,
+      "rewardId": "reward_map01_lv001_int_70659",
+      "title": {
+        "text": "测试问卷邮件",
+        "id": "98533C9E45D7CA0B"
+      },
+      "senderId": "system",
+      "mailContent": {
+        "text": "管理员，<color=#FFD800>这是问卷测试邮件</color>，请查看。<@qu.key>管理员，这是问卷测试邮件</>，请查看。\n<b><color=#22BBFF><link=\"https://web-survey-dev.hypergryph.net/s/3b8c03653fef7f54a61969bf408335f5?theme=1&token=$__token__$\">【这里是问卷测试链接，点我可跳转】</link></color><b>",
+        "id": "2568AFC1BEE9D105"
+      }
+    }
+  },
+  "mailSenderTable": {
+    "pelica": {
+      "id": "pelica",
+      "senderName": {
+        "text": "佩丽卡",
+        "id": "9DC8D750CBF1D304"
+      },
+      "senderIcon": "CharIcon/icon_chr_0004_pelica"
+    },
+    "survey": {
+      "id": "survey",
+      "senderName": {
+        "text": "玩家体验调查组",
+        "id": "2BD79037A0D34F9E"
+      },
+      "senderIcon": "Mail/mail_endfield"
+    },
+    "system": {
+      "id": "system",
+      "senderName": {
+        "text": "终末地工业",
+        "id": "68CBC7206E683582"
+      },
+      "senderIcon": "Mail/mail_endfield"
+    }
+  }
+}

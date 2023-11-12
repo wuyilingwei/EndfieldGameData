@@ -1,0 +1,9 @@
+{
+  "isOriginiumOre": [
+    "item_originium_ore"
+  ],
+  "isNotOriginiumOre": [
+    "item_quartz_sand",
+    "item_iron_ore"
+  ]
+}

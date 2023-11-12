@@ -1,0 +1,172 @@
+{
+  "map01_lv001": {
+    "itemList": [
+      {
+        "itemId": "item_collection_ether",
+        "sceneId": "map01_lv001",
+        "infoLabel": {
+          "text": "醚质",
+          "id": "A42CE3D51AB11866"
+        },
+        "maxCount": 31,
+        "imagePath": "item_coin",
+        "hasConvertRule": 0,
+        "convertRequiredCount": -1,
+        "convertTargetItemId": "",
+        "extraBandwidthCapacity": 0,
+        "extraBuildingNumLimit": 0
+      },
+      {
+        "itemId": "item_collection_instance",
+        "sceneId": "map01_lv001",
+        "infoLabel": {
+          "text": "超域实体",
+          "id": "A2A3DDE8119DA9CD"
+        },
+        "maxCount": 3,
+        "imagePath": "item_moon",
+        "hasConvertRule": 0,
+        "convertRequiredCount": -1,
+        "convertTargetItemId": "",
+        "extraBandwidthCapacity": 10,
+        "extraBuildingNumLimit": 0
+      }
+    ]
+  },
+  "map01_lv002": {
+    "itemList": [
+      {
+        "itemId": "item_collection_ether",
+        "sceneId": "map01_lv002",
+        "infoLabel": {
+          "text": "醚质",
+          "id": "F7E14DF7890304F4"
+        },
+        "maxCount": 17,
+        "imagePath": "item_coin",
+        "hasConvertRule": 0,
+        "convertRequiredCount": -1,
+        "convertTargetItemId": "",
+        "extraBandwidthCapacity": 0,
+        "extraBuildingNumLimit": 0
+      },
+      {
+        "itemId": "item_collection_instance",
+        "sceneId": "map01_lv002",
+        "infoLabel": {
+          "text": "超域实体",
+          "id": "18B72A33A6621F4F"
+        },
+        "maxCount": 2,
+        "imagePath": "item_moon",
+        "hasConvertRule": 0,
+        "convertRequiredCount": -1,
+        "convertTargetItemId": "",
+        "extraBandwidthCapacity": 10,
+        "extraBuildingNumLimit": 0
+      }
+    ]
+  },
+  "map01_lv003": {
+    "itemList": [
+      {
+        "itemId": "item_collection_ether",
+        "sceneId": "map01_lv003",
+        "infoLabel": {
+          "text": "醚质",
+          "id": "CBC5BFD4D000CBDB"
+        },
+        "maxCount": 14,
+        "imagePath": "item_coin",
+        "hasConvertRule": 0,
+        "convertRequiredCount": -1,
+        "convertTargetItemId": "",
+        "extraBandwidthCapacity": 0,
+        "extraBuildingNumLimit": 0
+      },
+      {
+        "itemId": "item_collection_instance",
+        "sceneId": "map01_lv003",
+        "infoLabel": {
+          "text": "超域实体",
+          "id": "A0B8EE699FD76242"
+        },
+        "maxCount": 3,
+        "imagePath": "item_moon",
+        "hasConvertRule": 0,
+        "convertRequiredCount": -1,
+        "convertTargetItemId": "",
+        "extraBandwidthCapacity": 10,
+        "extraBuildingNumLimit": 0
+      }
+    ]
+  },
+  "map01_lv005": {
+    "itemList": [
+      {
+        "itemId": "item_collection_ether",
+        "sceneId": "map01_lv005",
+        "infoLabel": {
+          "text": "醚质",
+          "id": "0B9E1417D1E75DD0"
+        },
+        "maxCount": 17,
+        "imagePath": "item_coin",
+        "hasConvertRule": 0,
+        "convertRequiredCount": -1,
+        "convertTargetItemId": "",
+        "extraBandwidthCapacity": 0,
+        "extraBuildingNumLimit": 0
+      },
+      {
+        "itemId": "item_collection_instance",
+        "sceneId": "map01_lv005",
+        "infoLabel": {
+          "text": "超域实体",
+          "id": "8BA06AE6A51F62F4"
+        },
+        "maxCount": 7,
+        "imagePath": "item_moon",
+        "hasConvertRule": 0,
+        "convertRequiredCount": -1,
+        "convertTargetItemId": "",
+        "extraBandwidthCapacity": 10,
+        "extraBuildingNumLimit": 0
+      }
+    ]
+  },
+  "map01_lv006": {
+    "itemList": [
+      {
+        "itemId": "item_collection_ether",
+        "sceneId": "map01_lv006",
+        "infoLabel": {
+          "text": "醚质",
+          "id": "24AF4BDC32719E28"
+        },
+        "maxCount": 31,
+        "imagePath": "item_coin",
+        "hasConvertRule": 0,
+        "convertRequiredCount": -1,
+        "convertTargetItemId": "",
+        "extraBandwidthCapacity": 0,
+        "extraBuildingNumLimit": 0
+      },
+      {
+        "itemId": "item_collection_instance",
+        "sceneId": "map01_lv006",
+        "infoLabel": {
+          "text": "超域实体",
+          "id": "F2FF76B50F640416"
+        },
+        "maxCount": 5,
+        "imagePath": "item_moon",
+        "hasConvertRule": 0,
+        "convertRequiredCount": -1,
+        "convertTargetItemId": "",
+        "extraBandwidthCapacity": 10,
+        "extraBuildingNumLimit": 0
+      }
+    ]
+  }
+}

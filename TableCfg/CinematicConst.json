@@ -1,0 +1,13 @@
+{
+  "dialogBlackScreenTime": 0.5,
+  "dialogByeIconType": 7,
+  "dialogTrunkMaxDuration": 25.0,
+  "dialogTrunkNormalDuration": 7.0,
+  "dialogTrunkAudioWaitTime": 0.7,
+  "dialogTrunkDisableTime": 1.0,
+  "dialogNpcTurnToPlayerMinAngle": 20.0,
+  "radioWaitTime": 5.0,
+  "radioAudioWaitTime": 0.5,
+  "envTalkTriggerDistance": 5.0,
+  "cinematicUIShowTime": 5.0
+}

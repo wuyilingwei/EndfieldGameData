@@ -1,0 +1,22 @@
+{
+  "char_info_equip": {
+    "jumpId": "char_info_equip",
+    "name": "Equip",
+    "param": "{\r\n  \"tab\": 2\r\n}"
+  },
+  "char_info_equipAffix": {
+    "jumpId": "char_info_equipAffix",
+    "name": "Equip",
+    "param": "{\r\n  \"tab\": 2\r\n}"
+  },
+  "char_info_level_break": {
+    "jumpId": "char_info_level_break",
+    "name": "CharInfo",
+    "param": "{\r\n  \"level\": true\r\n}"
+  },
+  "char_info_level_upgrade": {
+    "jumpId": "char_info_level_upgrade",
+    "name": "CharInfo",
+    "param": "{\r\n  \"level\": true\r\n}"
+  }
+}

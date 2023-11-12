@@ -1,0 +1,6 @@
+{
+  "refinePointRecoverTime": 14400,
+  "refinePointMax": 6,
+  "buildingLevelWeaponRefine": 4,
+  "buildingLevelGemRecast": 3
+}

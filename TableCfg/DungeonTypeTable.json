@@ -1,0 +1,12 @@
+{
+  "challenge": {
+    "dungeonType": "challenge",
+    "onceReward": 1,
+    "canReChallenge": 0
+  },
+  "resource": {
+    "dungeonType": "resource",
+    "onceReward": 0,
+    "canReChallenge": 1
+  }
+}

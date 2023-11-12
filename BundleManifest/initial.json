@@ -1,0 +1,943 @@
+{
+    "category": 1,
+    "hash": "00a8a1f96ee93427227f4b9fa8bbdb4c",
+    "assets": [
+        {
+            "index": 0,
+            "path": "Assets/Beyond/InitialAssets/GameData/InitTextMap_CN",
+            "bundle": 0,
+            "refs": null
+        },
+        {
+            "index": 1,
+            "path": "Assets/Beyond/InitialAssets/GameData/InitTextMap_EN",
+            "bundle": 0,
+            "refs": null
+        },
+        {
+            "index": 2,
+            "path": "Assets/Beyond/InitialAssets/GameData/InitTextMap_JP",
+            "bundle": 0,
+            "refs": null
+        },
+        {
+            "index": 3,
+            "path": "Assets/Beyond/InitialAssets/GameData/InitTextMap_KR",
+            "bundle": 0,
+            "refs": null
+        },
+        {
+            "index": 4,
+            "path": "Assets/Beyond/InitialAssets/GameData/InitTextMap_TC",
+            "bundle": 0,
+            "refs": null
+        },
+        {
+            "index": 5,
+            "path": "Assets/Beyond/InitialAssets/Intro/Animation/A_actor_endminf_uigo_sit_01",
+            "bundle": 9,
+            "refs": null
+        },
+        {
+            "index": 6,
+            "path": "Assets/Beyond/InitialAssets/Intro/Animation/A_actor_endminf_uigo_sit_special",
+            "bundle": 9,
+            "refs": null
+        },
+        {
+            "index": 7,
+            "path": "Assets/Beyond/InitialAssets/Intro/Animation/A_actor_endminf_uigo_sittowalk_01",
+            "bundle": 9,
+            "refs": null
+        },
+        {
+            "index": 8,
+            "path": "Assets/Beyond/InitialAssets/Intro/Animation/A_actor_endminf_uigo_walk_01",
+            "bundle": 9,
+            "refs": null
+        },
+        {
+            "index": 9,
+            "path": "Assets/Beyond/InitialAssets/Intro/Animation/A_actor_uigo_sittowalk_cam_01",
+            "bundle": 9,
+            "refs": null
+        },
+        {
+            "index": 10,
+            "path": "Assets/Beyond/InitialAssets/Intro/Animation/A_intro_maincamera",
+            "bundle": 9,
+            "refs": null
+        },
+        {
+            "index": 11,
+            "path": "Assets/Beyond/InitialAssets/Intro/Animation/A_intro_particle",
+            "bundle": 9,
+            "refs": null
+        },
+        {
+            "index": 12,
+            "path": "Assets/Beyond/InitialAssets/Intro/Material/Intro_Background",
+            "bundle": 7,
+            "refs": [
+                41,
+                31
+            ]
+        },
+        {
+            "index": 13,
+            "path": "Assets/Beyond/InitialAssets/Intro/Material/Intro_character",
+            "bundle": 7,
+            "refs": null
+        },
+        {
+            "index": 14,
+            "path": "Assets/Beyond/InitialAssets/Intro/Material/Intro_floor",
+            "bundle": 7,
+            "refs": [
+                37,
+                30
+            ]
+        },
+        {
+            "index": 15,
+            "path": "Assets/Beyond/InitialAssets/Intro/Material/intro_gamelogo",
+            "bundle": 7,
+            "refs": [
+                32
+            ]
+        },
+        {
+            "index": 16,
+            "path": "Assets/Beyond/InitialAssets/Intro/Material/Intro_Silhouette",
+            "bundle": 7,
+            "refs": [
+                33,
+                42,
+                34
+            ]
+        },
+        {
+            "index": 17,
+            "path": "Assets/Beyond/InitialAssets/Intro/Material/Intro_wall",
+            "bundle": 7,
+            "refs": null
+        },
+        {
+            "index": 18,
+            "path": "Assets/Beyond/InitialAssets/Intro/Material/Intro_yellow",
+            "bundle": 7,
+            "refs": null
+        },
+        {
+            "index": 19,
+            "path": "Assets/Beyond/InitialAssets/Intro/Material/Unlit_Intro_CymaticsSheet",
+            "bundle": 7,
+            "refs": [
+                40,
+                31
+            ]
+        },
+        {
+            "index": 20,
+            "path": "Assets/Beyond/InitialAssets/Intro/Model/SK_actor_endminf_intro",
+            "bundle": 3,
+            "refs": null
+        },
+        {
+            "index": 21,
+            "path": "Assets/Beyond/InitialAssets/Intro/Prefab/Camera_Silhouette_RT",
+            "bundle": 10,
+            "refs": [
+                33,
+                42,
+                34,
+                16,
+                9
+            ]
+        },
+        {
+            "index": 22,
+            "path": "Assets/Beyond/InitialAssets/Intro/Prefab/lattice",
+            "bundle": 10,
+            "refs": [
+                11
+            ]
+        },
+        {
+            "index": 23,
+            "path": "Assets/Beyond/InitialAssets/Intro/Prefab/Main",
+            "bundle": 10,
+            "refs": [
+                33,
+                41,
+                42,
+                34,
+                16,
+                10,
+                12,
+                31
+            ]
+        },
+        {
+            "index": 24,
+            "path": "Assets/Beyond/InitialAssets/Intro/Prefab/Scene",
+            "bundle": 10,
+            "refs": [
+                14,
+                37,
+                17,
+                30
+            ]
+        },
+        {
+            "index": 25,
+            "path": "Assets/Beyond/InitialAssets/Intro/Prefab/SK_actor_f",
+            "bundle": 10,
+            "refs": [
+                13,
+                20,
+                8,
+                6,
+                7,
+                5
+            ]
+        },
+        {
+            "index": 26,
+            "path": "Assets/Beyond/InitialAssets/Intro/Prefab/VFX",
+            "bundle": 10,
+            "refs": [
+                43
+            ]
+        },
+        {
+            "index": 27,
+            "path": "Assets/Beyond/InitialAssets/Intro/Scene/Intro_EnvironmentConfig",
+            "bundle": 12,
+            "refs": null
+        },
+        {
+            "index": 28,
+            "path": "Assets/Beyond/InitialAssets/Intro/Scene/Intro_Volume",
+            "bundle": 12,
+            "refs": null
+        },
+        {
+            "index": 29,
+            "path": "Assets/Beyond/InitialAssets/Intro/Shader/back",
+            "bundle": 4,
+            "refs": null
+        },
+        {
+            "index": 30,
+            "path": "Assets/Beyond/InitialAssets/Intro/Shader/Intro_Contour",
+            "bundle": 4,
+            "refs": null
+        },
+        {
+            "index": 31,
+            "path": "Assets/Beyond/InitialAssets/Intro/Shader/Intro_CymaticsSheet",
+            "bundle": 4,
+            "refs": null
+        },
+        {
+            "index": 32,
+            "path": "Assets/Beyond/InitialAssets/Intro/Shader/Intro_Glitch",
+            "bundle": 4,
+            "refs": null
+        },
+        {
+            "index": 33,
+            "path": "Assets/Beyond/InitialAssets/Intro/Shader/Intro_Silhouette",
+            "bundle": 4,
+            "refs": null
+        },
+        {
+            "index": 34,
+            "path": "Assets/Beyond/InitialAssets/Intro/Texture/Background",
+            "bundle": 2,
+            "refs": null
+        },
+        {
+            "index": 35,
+            "path": "Assets/Beyond/InitialAssets/Intro/Texture/change_icon",
+            "bundle": 2,
+            "refs": null
+        },
+        {
+            "index": 36,
+            "path": "Assets/Beyond/InitialAssets/Intro/Texture/delete_icon",
+            "bundle": 2,
+            "refs": null
+        },
+        {
+            "index": 37,
+            "path": "Assets/Beyond/InitialAssets/Intro/Texture/Intro_floor_E",
+            "bundle": 2,
+            "refs": null
+        },
+        {
+            "index": 38,
+            "path": "Assets/Beyond/InitialAssets/Intro/Texture/option_icon",
+            "bundle": 2,
+            "refs": null
+        },
+        {
+            "index": 39,
+            "path": "Assets/Beyond/InitialAssets/Intro/Texture/shutdown_icon",
+            "bundle": 2,
+            "refs": null
+        },
+        {
+            "index": 40,
+            "path": "Assets/Beyond/InitialAssets/Intro/Texture/T_Cymatics",
+            "bundle": 2,
+            "refs": null
+        },
+        {
+            "index": 41,
+            "path": "Assets/Beyond/InitialAssets/Intro/Texture/T_cymaticssheet_rgba",
+            "bundle": 2,
+            "refs": null
+        },
+        {
+            "index": 42,
+            "path": "Assets/Beyond/InitialAssets/Intro/Texture/T_Ribbon_rgba",
+            "bundle": 2,
+            "refs": null
+        },
+        {
+            "index": 43,
+            "path": "Assets/Beyond/InitialAssets/Intro/Texture/UI_VFXbase",
+            "bundle": 2,
+            "refs": null
+        },
+        {
+            "index": 44,
+            "path": "Assets/Beyond/InitialAssets/Network/NetworkMask",
+            "bundle": 8,
+            "refs": [
+                47,
+                46,
+                76,
+                61,
+                77,
+                48
+            ]
+        },
+        {
+            "index": 45,
+            "path": "Assets/Beyond/InitialAssets/Network/NetworkMaskConfig",
+            "bundle": 8,
+            "refs": null
+        },
+        {
+            "index": 46,
+            "path": "Assets/Beyond/InitialAssets/Network/ui_main_menu_logo_icon",
+            "bundle": 8,
+            "refs": null
+        },
+        {
+            "index": 47,
+            "path": "Assets/Beyond/InitialAssets/Network/ui_network_mask",
+            "bundle": 8,
+            "refs": null
+        },
+        {
+            "index": 48,
+            "path": "Assets/Beyond/InitialAssets/Network/ui_network_mask_loop",
+            "bundle": 8,
+            "refs": null
+        },
+        {
+            "index": 49,
+            "path": "Assets/Beyond/InitialAssets/Prefabs/Entry/GameApp",
+            "bundle": 11,
+            "refs": null
+        },
+        {
+            "index": 50,
+            "path": "Assets/Beyond/InitialAssets/Prefabs/Login/AgeTipsLine",
+            "bundle": 11,
+            "refs": [
+                76,
+                61,
+                77
+            ]
+        },
+        {
+            "index": 51,
+            "path": "Assets/Beyond/InitialAssets/Prefabs/Login/LoginAlertDialog",
+            "bundle": 11,
+            "refs": [
+                71,
+                101,
+                97,
+                99,
+                76,
+                70,
+                81,
+                61,
+                77,
+                100,
+                62
+            ]
+        },
+        {
+            "index": 52,
+            "path": "Assets/Beyond/InitialAssets/Prefabs/Login/LoginController",
+            "bundle": 11,
+            "refs": [
+                67,
+                66,
+                99,
+                105,
+                76,
+                61,
+                77,
+                92,
+                79
+            ]
+        },
+        {
+            "index": 53,
+            "path": "Assets/Beyond/InitialAssets/Prefabs/Login/LoginJudgeDialog",
+            "bundle": 11,
+            "refs": [
+                101,
+                102,
+                72,
+                97,
+                99,
+                73,
+                76,
+                81,
+                61,
+                77,
+                100,
+                62
+            ]
+        },
+        {
+            "index": 54,
+            "path": "Assets/Beyond/InitialAssets/Prefabs/Login/LoginMockUIDPanel",
+            "bundle": 11,
+            "refs": [
+                57,
+                76,
+                61,
+                106,
+                77,
+                80,
+                56
+            ]
+        },
+        {
+            "index": 55,
+            "path": "Assets/Beyond/InitialAssets/Prefabs/Login/LoginRootPanel",
+            "bundle": 11,
+            "refs": [
+                93,
+                63,
+                87,
+                83,
+                98,
+                84,
+                78,
+                99,
+                94,
+                76,
+                61,
+                81,
+                69,
+                62,
+                88,
+                75,
+                50,
+                91,
+                74,
+                101,
+                103,
+                65,
+                97,
+                82,
+                85,
+                96,
+                68,
+                90,
+                77,
+                100,
+                95,
+                104,
+                64,
+                89,
+                86,
+                32
+            ]
+        },
+        {
+            "index": 56,
+            "path": "Assets/Beyond/InitialAssets/Prefabs/Login/ScrollbarVertical",
+            "bundle": 11,
+            "refs": [
+                61,
+                80
+            ]
+        },
+        {
+            "index": 57,
+            "path": "Assets/Beyond/InitialAssets/Prefabs/Login/ServerDropDown",
+            "bundle": 11,
+            "refs": [
+                76,
+                61,
+                106,
+                77,
+                80,
+                56
+            ]
+        },
+        {
+            "index": 58,
+            "path": "Assets/Beyond/InitialAssets/Scenes/Login",
+            "bundle": 1,
+            "refs": [
+                33,
+                22,
+                41,
+                26,
+                42,
+                21,
+                14,
+                34,
+                23,
+                16,
+                24,
+                10,
+                43,
+                9,
+                12,
+                37,
+                17,
+                30,
+                31,
+                11
+            ]
+        },
+        {
+            "index": 59,
+            "path": "Assets/Beyond/InitialAssets/Settings/AudioGlobalConfig",
+            "bundle": 5,
+            "refs": null
+        },
+        {
+            "index": 60,
+            "path": "Assets/Beyond/InitialAssets/Settings/WorldInitSetting",
+            "bundle": 5,
+            "refs": null
+        },
+        {
+            "index": 61,
+            "path": "Assets/Beyond/InitialAssets/Shaders/HG_TMP_SDF_Initial",
+            "bundle": 4,
+            "refs": null
+        },
+        {
+            "index": 62,
+            "path": "Assets/Beyond/InitialAssets/UI/Animations/dark_btn",
+            "bundle": 6,
+            "refs": null
+        },
+        {
+            "index": 63,
+            "path": "Assets/Beyond/InitialAssets/UI/Animations/entergame_in",
+            "bundle": 6,
+            "refs": null
+        },
+        {
+            "index": 64,
+            "path": "Assets/Beyond/InitialAssets/UI/Animations/entergame_out",
+            "bundle": 6,
+            "refs": null
+        },
+        {
+            "index": 65,
+            "path": "Assets/Beyond/InitialAssets/UI/Animations/loadingicon_loop",
+            "bundle": 6,
+            "refs": null
+        },
+        {
+            "index": 66,
+            "path": "Assets/Beyond/InitialAssets/UI/Animations/login_glow_in",
+            "bundle": 6,
+            "refs": null
+        },
+        {
+            "index": 67,
+            "path": "Assets/Beyond/InitialAssets/UI/Animations/login_glow_loop",
+            "bundle": 6,
+            "refs": null
+        },
+        {
+            "index": 68,
+            "path": "Assets/Beyond/InitialAssets/UI/Animations/loginagetips_in",
+            "bundle": 6,
+            "refs": null
+        },
+        {
+            "index": 69,
+            "path": "Assets/Beyond/InitialAssets/UI/Animations/loginagetips_out",
+            "bundle": 6,
+            "refs": null
+        },
+        {
+            "index": 70,
+            "path": "Assets/Beyond/InitialAssets/UI/Animations/loginalertdialog_in",
+            "bundle": 6,
+            "refs": null
+        },
+        {
+            "index": 71,
+            "path": "Assets/Beyond/InitialAssets/UI/Animations/loginalertdialog_out",
+            "bundle": 6,
+            "refs": null
+        },
+        {
+            "index": 72,
+            "path": "Assets/Beyond/InitialAssets/UI/Animations/loginjudgedialog_in",
+            "bundle": 6,
+            "refs": null
+        },
+        {
+            "index": 73,
+            "path": "Assets/Beyond/InitialAssets/UI/Animations/loginjudgedialog_out",
+            "bundle": 6,
+            "refs": null
+        },
+        {
+            "index": 74,
+            "path": "Assets/Beyond/InitialAssets/UI/Animations/menu_in",
+            "bundle": 6,
+            "refs": null
+        },
+        {
+            "index": 75,
+            "path": "Assets/Beyond/InitialAssets/UI/Animations/reddot_loop",
+            "bundle": 6,
+            "refs": null
+        },
+        {
+            "index": 76,
+            "path": "Assets/Beyond/InitialAssets/UI/Fonts/InitialFont",
+            "bundle": 6,
+            "refs": null
+        },
+        {
+            "index": 77,
+            "path": "Assets/Beyond/InitialAssets/UI/Fonts/InitialFontSDF",
+            "bundle": 6,
+            "refs": [
+                76,
+                61
+            ]
+        },
+        {
+            "index": 78,
+            "path": "Assets/Beyond/InitialAssets/UI/Materials/gamelogo_in",
+            "bundle": 6,
+            "refs": [
+                32
+            ]
+        },
+        {
+            "index": 79,
+            "path": "Assets/Beyond/InitialAssets/UI/Materials/LoginRoot_Glow_in",
+            "bundle": 6,
+            "refs": [
+                99,
+                105
+            ]
+        },
+        {
+            "index": 80,
+            "path": "Assets/Beyond/InitialAssets/UI/Materials/M_ui_initial",
+            "bundle": 6,
+            "refs": [
+                61
+            ]
+        },
+        {
+            "index": 81,
+            "path": "Assets/Beyond/InitialAssets/UI/Sprites/Login/banner_deco01",
+            "bundle": 6,
+            "refs": null
+        },
+        {
+            "index": 82,
+            "path": "Assets/Beyond/InitialAssets/UI/Sprites/Login/login_btn_age_appropriate",
+            "bundle": 6,
+            "refs": null
+        },
+        {
+            "index": 83,
+            "path": "Assets/Beyond/InitialAssets/UI/Sprites/Login/login_btn_bg",
+            "bundle": 6,
+            "refs": null
+        },
+        {
+            "index": 84,
+            "path": "Assets/Beyond/InitialAssets/UI/Sprites/Login/login_btn_clause",
+            "bundle": 6,
+            "refs": null
+        },
+        {
+            "index": 85,
+            "path": "Assets/Beyond/InitialAssets/UI/Sprites/Login/login_btn_exit",
+            "bundle": 6,
+            "refs": null
+        },
+        {
+            "index": 86,
+            "path": "Assets/Beyond/InitialAssets/UI/Sprites/Login/login_btn_notice",
+            "bundle": 6,
+            "refs": null
+        },
+        {
+            "index": 87,
+            "path": "Assets/Beyond/InitialAssets/UI/Sprites/Login/login_btn_quit",
+            "bundle": 6,
+            "refs": null
+        },
+        {
+            "index": 88,
+            "path": "Assets/Beyond/InitialAssets/UI/Sprites/Login/login_btn_repair",
+            "bundle": 6,
+            "refs": null
+        },
+        {
+            "index": 89,
+            "path": "Assets/Beyond/InitialAssets/UI/Sprites/Login/login_btn_start",
+            "bundle": 6,
+            "refs": null
+        },
+        {
+            "index": 90,
+            "path": "Assets/Beyond/InitialAssets/UI/Sprites/Login/login_copyright_label",
+            "bundle": 6,
+            "refs": null
+        },
+        {
+            "index": 91,
+            "path": "Assets/Beyond/InitialAssets/UI/Sprites/Login/login_deco_line",
+            "bundle": 6,
+            "refs": null
+        },
+        {
+            "index": 92,
+            "path": "Assets/Beyond/InitialAssets/UI/Sprites/Login/login_endfield_logo",
+            "bundle": 6,
+            "refs": null
+        },
+        {
+            "index": 93,
+            "path": "Assets/Beyond/InitialAssets/UI/Sprites/Login/login_loading_bg01",
+            "bundle": 6,
+            "refs": null
+        },
+        {
+            "index": 94,
+            "path": "Assets/Beyond/InitialAssets/UI/Sprites/Login/login_loading_bg02",
+            "bundle": 6,
+            "refs": null
+        },
+        {
+            "index": 95,
+            "path": "Assets/Beyond/InitialAssets/UI/Sprites/Login/login_loading_icon",
+            "bundle": 6,
+            "refs": null
+        },
+        {
+            "index": 96,
+            "path": "Assets/Beyond/InitialAssets/UI/Sprites/Login/login_logo01",
+            "bundle": 6,
+            "refs": null
+        },
+        {
+            "index": 97,
+            "path": "Assets/Beyond/InitialAssets/UI/Sprites/Login/login_popup_bg",
+            "bundle": 6,
+            "refs": null
+        },
+        {
+            "index": 98,
+            "path": "Assets/Beyond/InitialAssets/UI/Sprites/Login/login_studio_logo",
+            "bundle": 6,
+            "refs": null
+        },
+        {
+            "index": 99,
+            "path": "Assets/Beyond/InitialAssets/UI/Sprites/Login/loging_popup_bg_deco",
+            "bundle": 6,
+            "refs": null
+        },
+        {
+            "index": 100,
+            "path": "Assets/Beyond/InitialAssets/UI/Sprites/Login/loging_popup_btn",
+            "bundle": 6,
+            "refs": null
+        },
+        {
+            "index": 101,
+            "path": "Assets/Beyond/InitialAssets/UI/Sprites/Login/loging_popup_btn_icon",
+            "bundle": 6,
+            "refs": null
+        },
+        {
+            "index": 102,
+            "path": "Assets/Beyond/InitialAssets/UI/Sprites/Login/loging_popup_btn_icon01",
+            "bundle": 6,
+            "refs": null
+        },
+        {
+            "index": 103,
+            "path": "Assets/Beyond/InitialAssets/UI/Sprites/Login/red_dot",
+            "bundle": 6,
+            "refs": null
+        },
+        {
+            "index": 104,
+            "path": "Assets/Beyond/InitialAssets/UI/Sprites/Login/red_dot_deco",
+            "bundle": 6,
+            "refs": null
+        },
+        {
+            "index": 105,
+            "path": "Assets/Beyond/InitialAssets/UI/Sprites/Login/t_glow",
+            "bundle": 6,
+            "refs": null
+        },
+        {
+            "index": 106,
+            "path": "Assets/Beyond/InitialAssets/UI/Sprites/Login/ui_main_menu_arrow",
+            "bundle": 6,
+            "refs": null
+        }
+    ],
+    "bundles": [
+        {
+            "index": 0,
+            "name": "initial/0335764ef9.ab",
+            "hash": "4815f4757eb80ea255f0510b1f5c7861",
+            "isRaw": false,
+            "deps": null
+        },
+        {
+            "index": 1,
+            "name": "initial/0dbc7b6051.ab",
+            "hash": "a1dc5896bb5858ea7d37017279a0438d",
+            "isRaw": false,
+            "deps": [
+                2,
+                3,
+                4,
+                7,
+                9,
+                10
+            ]
+        },
+        {
+            "index": 2,
+            "name": "initial/26af3fbac9.ab",
+            "hash": "62c481eb5196264ebc3cc1f3ac137318",
+            "isRaw": false,
+            "deps": null
+        },
+        {
+            "index": 3,
+            "name": "initial/282c1ba5d0.ab",
+            "hash": "2ca59941018c7ced32606d6d6f776c7c",
+            "isRaw": false,
+            "deps": null
+        },
+        {
+            "index": 4,
+            "name": "initial/28f22cf366.ab",
+            "hash": "a6916f3d4a5d054c8069cb100b30b4ff",
+            "isRaw": false,
+            "deps": null
+        },
+        {
+            "index": 5,
+            "name": "initial/29e1767e5d.ab",
+            "hash": "d2b354a5e476acd7eaa8ed99065644cf",
+            "isRaw": false,
+            "deps": null
+        },
+        {
+            "index": 6,
+            "name": "initial/611ac69fd3.ab",
+            "hash": "cb1fe82ec5d1e38baf4faf528001b090",
+            "isRaw": false,
+            "deps": [
+                4
+            ]
+        },
+        {
+            "index": 7,
+            "name": "initial/77de285c78.ab",
+            "hash": "904d9722bf47fc7b46de6d6a47acdee7",
+            "isRaw": false,
+            "deps": [
+                2,
+                4
+            ]
+        },
+        {
+            "index": 8,
+            "name": "initial/bd29a786c4.ab",
+            "hash": "25d26b4de15ee9553cfa1fa1085ce6d2",
+            "isRaw": false,
+            "deps": [
+                4,
+                6
+            ]
+        },
+        {
+            "index": 9,
+            "name": "initial/e126855d88.ab",
+            "hash": "24b8098f2859e4aeb49223000a204ccd",
+            "isRaw": false,
+            "deps": null
+        },
+        {
+            "index": 10,
+            "name": "initial/e867dd6e7c.ab",
+            "hash": "fd63057da6b39c3e8b6f1f3e0cac95fb",
+            "isRaw": false,
+            "deps": [
+                2,
+                3,
+                4,
+                7,
+                9
+            ]
+        },
+        {
+            "index": 11,
+            "name": "initial/f55306b2cb.ab",
+            "hash": "a4be70786c968f582a61f83f87161467",
+            "isRaw": false,
+            "deps": [
+                4,
+                6
+            ]
+        },
+        {
+            "index": 12,
+            "name": "initial/fd458a9b9b.ab",
+            "hash": "6f50f1dfccc7e6d8026646581c08848c",
+            "isRaw": false,
+            "deps": null
+        }
+    ]
+}

@@ -1,0 +1,561 @@
+{
+  "1": {
+    "list": [
+      {
+        "name": {
+          "text": "生命值",
+          "id": "A9C45EEC81483ADA"
+        },
+        "showPercent": 0,
+        "showDiffFromDefault": 0,
+        "attributeModifier": "Addition",
+        "attributeHint": {
+          "text": "",
+          "id": ""
+        }
+      },
+      {
+        "name": {
+          "text": "生命值",
+          "id": "88CAD2EBFA48BA9C"
+        },
+        "showPercent": 1,
+        "showDiffFromDefault": 0,
+        "attributeModifier": "Multiplier",
+        "attributeHint": {
+          "text": "",
+          "id": ""
+        }
+      },
+      {
+        "name": {
+          "text": "生命值",
+          "id": "F9D6C6452D8FD5C3"
+        },
+        "showPercent": 1,
+        "showDiffFromDefault": 0,
+        "attributeModifier": "BaseMultiplier",
+        "attributeHint": {
+          "text": "",
+          "id": ""
+        }
+      },
+      {
+        "name": {
+          "text": "基础生命值",
+          "id": "C5FEFB9071E155A7"
+        },
+        "showPercent": 0,
+        "showDiffFromDefault": 0,
+        "attributeModifier": "BaseAddition",
+        "attributeHint": {
+          "text": "",
+          "id": ""
+        }
+      },
+      {
+        "name": {
+          "text": "生命值",
+          "id": "62F76554F207A0F2"
+        },
+        "showPercent": 0,
+        "showDiffFromDefault": 0,
+        "attributeModifier": "FinalAddition",
+        "attributeHint": {
+          "text": "",
+          "id": ""
+        }
+      },
+      {
+        "name": {
+          "text": "生命值",
+          "id": "F47D94C05BB5EF6F"
+        },
+        "showPercent": 0,
+        "showDiffFromDefault": 0,
+        "attributeModifier": "BaseFinalAddition",
+        "attributeHint": {
+          "text": "",
+          "id": ""
+        }
+      }
+    ]
+  },
+  "2": {
+    "list": [
+      {
+        "name": {
+          "text": "攻击力",
+          "id": "249B11D5E203C4DE"
+        },
+        "showPercent": 0,
+        "showDiffFromDefault": 0,
+        "attributeModifier": "Addition",
+        "attributeHint": {
+          "text": "",
+          "id": ""
+        }
+      },
+      {
+        "name": {
+          "text": "攻击力",
+          "id": "C5AD9D626EEAC1EF"
+        },
+        "showPercent": 0,
+        "showDiffFromDefault": 0,
+        "attributeModifier": "Multiplier",
+        "attributeHint": {
+          "text": "",
+          "id": ""
+        }
+      },
+      {
+        "name": {
+          "text": "攻击力",
+          "id": "FFBC79868C9F18CF"
+        },
+        "showPercent": 1,
+        "showDiffFromDefault": 0,
+        "attributeModifier": "BaseMultiplier",
+        "attributeHint": {
+          "text": "",
+          "id": ""
+        }
+      },
+      {
+        "name": {
+          "text": "基础攻击力",
+          "id": "38663942428E1280"
+        },
+        "showPercent": 0,
+        "showDiffFromDefault": 0,
+        "attributeModifier": "BaseAddition",
+        "attributeHint": {
+          "text": "",
+          "id": ""
+        }
+      },
+      {
+        "name": {
+          "text": "攻击力",
+          "id": "8BEB6CB00FCD1AC1"
+        },
+        "showPercent": 0,
+        "showDiffFromDefault": 0,
+        "attributeModifier": "FinalAddition",
+        "attributeHint": {
+          "text": "",
+          "id": ""
+        }
+      },
+      {
+        "name": {
+          "text": "攻击力",
+          "id": "3E402D00A3AE54FB"
+        },
+        "showPercent": 0,
+        "showDiffFromDefault": 0,
+        "attributeModifier": "BaseFinalAddition",
+        "attributeHint": {
+          "text": "",
+          "id": ""
+        }
+      }
+    ]
+  },
+  "3": {
+    "list": [
+      {
+        "name": {
+          "text": "防御力",
+          "id": "240720745B92900A"
+        },
+        "showPercent": 0,
+        "showDiffFromDefault": 0,
+        "attributeModifier": "Addition",
+        "attributeHint": {
+          "text": "同等级敌人的破防值为<@ba.key>%s</>，当前防御值会使干员受到来自同等级敌人的伤害%s",
+          "id": "1984AAB7F3332700"
+        }
+      },
+      {
+        "name": {
+          "text": "防御力",
+          "id": "99F616CF3BD1CE07"
+        },
+        "showPercent": 1,
+        "showDiffFromDefault": 0,
+        "attributeModifier": "BaseMultiplier",
+        "attributeHint": {
+          "text": "",
+          "id": ""
+        }
+      },
+      {
+        "name": {
+          "text": "基础防御力",
+          "id": "BE45A7263D6DF3D3"
+        },
+        "showPercent": 0,
+        "showDiffFromDefault": 0,
+        "attributeModifier": "BaseAddition",
+        "attributeHint": {
+          "text": "",
+          "id": ""
+        }
+      },
+      {
+        "name": {
+          "text": "防御力",
+          "id": "02149ADC977D3686"
+        },
+        "showPercent": 0,
+        "showDiffFromDefault": 0,
+        "attributeModifier": "FinalAddition",
+        "attributeHint": {
+          "text": "",
+          "id": ""
+        }
+      },
+      {
+        "name": {
+          "text": "防御力",
+          "id": "4F0B3AB3794F2C2E"
+        },
+        "showPercent": 0,
+        "showDiffFromDefault": 0,
+        "attributeModifier": "BaseFinalAddition",
+        "attributeHint": {
+          "text": "",
+          "id": ""
+        }
+      }
+    ]
+  },
+  "4": {
+    "list": [
+      {
+        "name": {
+          "text": "物理抗性",
+          "id": "2CD92A8518C779CF"
+        },
+        "showPercent": 1,
+        "showDiffFromDefault": 0,
+        "attributeModifier": "Addition",
+        "attributeHint": {
+          "text": "受到物理伤害时伤害减少比率",
+          "id": "1DA73963F65074BB"
+        }
+      }
+    ]
+  },
+  "5": {
+    "list": [
+      {
+        "name": {
+          "text": "热熔抗性",
+          "id": "BA9B03F7FE24C765"
+        },
+        "showPercent": 1,
+        "showDiffFromDefault": 0,
+        "attributeModifier": "Addition",
+        "attributeHint": {
+          "text": "受到热熔伤害时伤害减少比率",
+          "id": "51606C9076BF3E52"
+        }
+      }
+    ]
+  },
+  "6": {
+    "list": [
+      {
+        "name": {
+          "text": "脉冲抗性",
+          "id": "D6C4801754C56984"
+        },
+        "showPercent": 1,
+        "showDiffFromDefault": 0,
+        "attributeModifier": "Addition",
+        "attributeHint": {
+          "text": "受到脉冲伤害时伤害减少比率",
+          "id": "69C5BB674AFECFE9"
+        }
+      }
+    ]
+  },
+  "7": {
+    "list": [
+      {
+        "name": {
+          "text": "结晶抗性",
+          "id": "B429A808810EA687"
+        },
+        "showPercent": 1,
+        "showDiffFromDefault": 0,
+        "attributeModifier": "Addition",
+        "attributeHint": {
+          "text": "受到结晶伤害时伤害减少比率",
+          "id": "7F654D549FF0D892"
+        }
+      }
+    ]
+  },
+  "8": {
+    "list": [
+      {
+        "name": {
+          "text": "重量",
+          "id": "E783FAB5C9A226B0"
+        },
+        "showPercent": 0,
+        "showDiffFromDefault": 0,
+        "attributeModifier": "Addition",
+        "attributeHint": {
+          "text": "",
+          "id": ""
+        }
+      }
+    ]
+  },
+  "9": {
+    "list": [
+      {
+        "name": {
+          "text": "暴击率",
+          "id": "1A5CE6338BACFB26"
+        },
+        "showPercent": 1,
+        "showDiffFromDefault": 0,
+        "attributeModifier": "Addition",
+        "attributeHint": {
+          "text": "",
+          "id": ""
+        }
+      },
+      {
+        "name": {
+          "text": "暴击率",
+          "id": "1140A14F2755DA99"
+        },
+        "showPercent": 1,
+        "showDiffFromDefault": 0,
+        "attributeModifier": "BaseMultiplier",
+        "attributeHint": {
+          "text": "",
+          "id": ""
+        }
+      },
+      {
+        "name": {
+          "text": "暴击率",
+          "id": "993D0CC6E74C31C4"
+        },
+        "showPercent": 1,
+        "showDiffFromDefault": 0,
+        "attributeModifier": "BaseAddition",
+        "attributeHint": {
+          "text": "",
+          "id": ""
+        }
+      },
+      {
+        "name": {
+          "text": "暴击率",
+          "id": "EB8226C0431E9996"
+        },
+        "showPercent": 1,
+        "showDiffFromDefault": 0,
+        "attributeModifier": "FinalAddition",
+        "attributeHint": {
+          "text": "",
+          "id": ""
+        }
+      },
+      {
+        "name": {
+          "text": "暴击率",
+          "id": "4C017790E13B496A"
+        },
+        "showPercent": 1,
+        "showDiffFromDefault": 0,
+        "attributeModifier": "BaseFinalAddition",
+        "attributeHint": {
+          "text": "",
+          "id": ""
+        }
+      }
+    ]
+  },
+  "10": {
+    "list": [
+      {
+        "name": {
+          "text": "暴击伤害",
+          "id": "64A570B9BF07BAF4"
+        },
+        "showPercent": 1,
+        "showDiffFromDefault": 0,
+        "attributeModifier": "Addition",
+        "attributeHint": {
+          "text": "触发暴击时伤害加成比例",
+          "id": "96527925873439A5"
+        }
+      },
+      {
+        "name": {
+          "text": "暴击伤害",
+          "id": "071AFDA49848C8FD"
+        },
+        "showPercent": 1,
+        "showDiffFromDefault": 0,
+        "attributeModifier": "BaseMultiplier",
+        "attributeHint": {
+          "text": "",
+          "id": ""
+        }
+      },
+      {
+        "name": {
+          "text": "暴击伤害",
+          "id": "6145E32E56BA4DBB"
+        },
+        "showPercent": 1,
+        "showDiffFromDefault": 0,
+        "attributeModifier": "BaseAddition",
+        "attributeHint": {
+          "text": "",
+          "id": ""
+        }
+      },
+      {
+        "name": {
+          "text": "暴击伤害",
+          "id": "09B679BE2F86C3E1"
+        },
+        "showPercent": 1,
+        "showDiffFromDefault": 0,
+        "attributeModifier": "FinalAddition",
+        "attributeHint": {
+          "text": "",
+          "id": ""
+        }
+      },
+      {
+        "name": {
+          "text": "暴击伤害",
+          "id": "3B1BE76768B9D1D0"
+        },
+        "showPercent": 1,
+        "showDiffFromDefault": 0,
+        "attributeModifier": "BaseFinalAddition",
+        "attributeHint": {
+          "text": "",
+          "id": ""
+        }
+      }
+    ]
+  },
+  "15": {
+    "list": [
+      {
+        "name": {
+          "text": "攻击速率加成",
+          "id": "D758CA48F4F0EF8C"
+        },
+        "showPercent": 1,
+        "showDiffFromDefault": 0,
+        "attributeModifier": "Addition",
+        "attributeHint": {
+          "text": "",
+          "id": ""
+        }
+      }
+    ]
+  },
+  "16": {
+    "list": [
+      {
+        "name": {
+          "text": "冷却缩减",
+          "id": "F4649916788620ED"
+        },
+        "showPercent": 1,
+        "showDiffFromDefault": 1,
+        "attributeModifier": "Addition",
+        "attributeHint": {
+          "text": "干员主技能的冷却时间减少比例",
+          "id": "EE54FA6C4AF2D68B"
+        }
+      },
+      {
+        "name": {
+          "text": "冷却缩减",
+          "id": "34B581D220C29F54"
+        },
+        "showPercent": 1,
+        "showDiffFromDefault": 0,
+        "attributeModifier": "BaseMultiplier",
+        "attributeHint": {
+          "text": "",
+          "id": ""
+        }
+      }
+    ]
+  },
+  "33": {
+    "list": [
+      {
+        "name": {
+          "text": "破防力",
+          "id": "868C4373C288C8DB"
+        },
+        "showPercent": 0,
+        "showDiffFromDefault": 0,
+        "attributeModifier": "Addition",
+        "attributeHint": {
+          "text": "同等级敌人的防御值为<@ba.key>%s</>，当前破防值会使干员对同等级敌人造成的伤害%s",
+          "id": "9238E5DDD8998F8C"
+        }
+      },
+      {
+        "name": {
+          "text": "破防力",
+          "id": "1B18071DE31249F1"
+        },
+        "showPercent": 1,
+        "showDiffFromDefault": 0,
+        "attributeModifier": "BaseMultiplier",
+        "attributeHint": {
+          "text": "",
+          "id": ""
+        }
+      },
+      {
+        "name": {
+          "text": "破防力",
+          "id": "CFA64132047967D2"
+        },
+        "showPercent": 0,
+        "showDiffFromDefault": 0,
+        "attributeModifier": "FinalAddition",
+        "attributeHint": {
+          "text": "",
+          "id": ""
+        }
+      },
+      {
+        "name": {
+          "text": "破防力",
+          "id": "38BC66AB25143DB5"
+        },
+        "showPercent": 0,
+        "showDiffFromDefault": 0,
+        "attributeModifier": "BaseFinalAddition",
+        "attributeHint": {
+          "text": "",
+          "id": ""
+        }
+      }
+    ]
+  }
+}

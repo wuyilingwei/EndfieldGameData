@@ -1,0 +1,1479 @@
+{
+  "skill_gem_airtech_up": {
+    "list": [
+      {
+        "modifierId": "skill_gem_airtech_up",
+        "oldSkillId": "wpn_passive_airtech_01",
+        "newSkillId": "wpn_passive_airtech_01",
+        "level": 1,
+        "blackboard": [
+          {
+            "key": "dam_up",
+            "value": 0.38,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_airtech_up",
+        "oldSkillId": "wpn_passive_airtech_01",
+        "newSkillId": "wpn_passive_airtech_01",
+        "level": 2,
+        "blackboard": [
+          {
+            "key": "dam_up",
+            "value": 0.46,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_airtech_up",
+        "oldSkillId": "wpn_passive_airtech_01",
+        "newSkillId": "wpn_passive_airtech_01",
+        "level": 3,
+        "blackboard": [
+          {
+            "key": "dam_up",
+            "value": 0.54,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_airtech_up",
+        "oldSkillId": "wpn_passive_airtech_01",
+        "newSkillId": "wpn_passive_airtech_01",
+        "level": 4,
+        "blackboard": [
+          {
+            "key": "dam_up",
+            "value": 0.62,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_airtech_up",
+        "oldSkillId": "wpn_passive_airtech_01",
+        "newSkillId": "wpn_passive_airtech_01",
+        "level": 5,
+        "blackboard": [
+          {
+            "key": "dam_up",
+            "value": 0.7,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_airtech_up",
+        "oldSkillId": "wpn_passive_airtech_02",
+        "newSkillId": "wpn_passive_airtech_02",
+        "level": 1,
+        "blackboard": [
+          {
+            "key": "dam_up",
+            "value": 0.38,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_airtech_up",
+        "oldSkillId": "wpn_passive_airtech_02",
+        "newSkillId": "wpn_passive_airtech_02",
+        "level": 2,
+        "blackboard": [
+          {
+            "key": "dam_up",
+            "value": 0.46,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_airtech_up",
+        "oldSkillId": "wpn_passive_airtech_02",
+        "newSkillId": "wpn_passive_airtech_02",
+        "level": 3,
+        "blackboard": [
+          {
+            "key": "dam_up",
+            "value": 0.54,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_airtech_up",
+        "oldSkillId": "wpn_passive_airtech_02",
+        "newSkillId": "wpn_passive_airtech_02",
+        "level": 4,
+        "blackboard": [
+          {
+            "key": "dam_up",
+            "value": 0.62,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_airtech_up",
+        "oldSkillId": "wpn_passive_airtech_02",
+        "newSkillId": "wpn_passive_airtech_02",
+        "level": 5,
+        "blackboard": [
+          {
+            "key": "dam_up",
+            "value": 0.7,
+            "valueStr": ""
+          }
+        ]
+      }
+    ]
+  },
+  "skill_gem_critpoise": {
+    "list": [
+      {
+        "modifierId": "skill_gem_critpoise",
+        "oldSkillId": "wpn_passive_critpoise_01",
+        "newSkillId": "wpn_passive_critpoise_02",
+        "level": 1,
+        "blackboard": []
+      }
+    ]
+  },
+  "skill_gem_crystgrasp_damup": {
+    "list": [
+      {
+        "modifierId": "skill_gem_crystgrasp_damup",
+        "oldSkillId": "wpn_passive_crystgrasp_01",
+        "newSkillId": "wpn_passive_crystgrasp_01",
+        "level": 1,
+        "blackboard": [
+          {
+            "key": "cryst_dmg_up",
+            "value": 0.11,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_crystgrasp_damup",
+        "oldSkillId": "wpn_passive_crystgrasp_01",
+        "newSkillId": "wpn_passive_crystgrasp_01",
+        "level": 2,
+        "blackboard": [
+          {
+            "key": "cryst_dmg_up",
+            "value": 0.14,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_crystgrasp_damup",
+        "oldSkillId": "wpn_passive_crystgrasp_01",
+        "newSkillId": "wpn_passive_crystgrasp_01",
+        "level": 3,
+        "blackboard": [
+          {
+            "key": "cryst_dmg_up",
+            "value": 0.16,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_crystgrasp_damup",
+        "oldSkillId": "wpn_passive_crystgrasp_01",
+        "newSkillId": "wpn_passive_crystgrasp_01",
+        "level": 4,
+        "blackboard": [
+          {
+            "key": "cryst_dmg_up",
+            "value": 0.18,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_crystgrasp_damup",
+        "oldSkillId": "wpn_passive_crystgrasp_01",
+        "newSkillId": "wpn_passive_crystgrasp_01",
+        "level": 5,
+        "blackboard": [
+          {
+            "key": "cryst_dmg_up",
+            "value": 0.2,
+            "valueStr": ""
+          }
+        ]
+      }
+    ]
+  },
+  "skill_gem_decisiveness_up": {
+    "list": [
+      {
+        "modifierId": "skill_gem_decisiveness_up",
+        "oldSkillId": "wpn_passive_decisiveness_01",
+        "newSkillId": "wpn_passive_decisiveness_01",
+        "level": 1,
+        "blackboard": [
+          {
+            "key": "output_dam",
+            "value": 0.2,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_decisiveness_up",
+        "oldSkillId": "wpn_passive_decisiveness_01",
+        "newSkillId": "wpn_passive_decisiveness_01",
+        "level": 2,
+        "blackboard": [
+          {
+            "key": "output_dam",
+            "value": 0.25,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_decisiveness_up",
+        "oldSkillId": "wpn_passive_decisiveness_01",
+        "newSkillId": "wpn_passive_decisiveness_01",
+        "level": 3,
+        "blackboard": [
+          {
+            "key": "output_dam",
+            "value": 0.3,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_decisiveness_up",
+        "oldSkillId": "wpn_passive_decisiveness_01",
+        "newSkillId": "wpn_passive_decisiveness_01",
+        "level": 4,
+        "blackboard": [
+          {
+            "key": "output_dam",
+            "value": 0.35,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_decisiveness_up",
+        "oldSkillId": "wpn_passive_decisiveness_01",
+        "newSkillId": "wpn_passive_decisiveness_01",
+        "level": 5,
+        "blackboard": [
+          {
+            "key": "output_dam",
+            "value": 0.5,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_decisiveness_up",
+        "oldSkillId": "wpn_passive_decisiveness_02",
+        "newSkillId": "wpn_passive_decisiveness_02",
+        "level": 1,
+        "blackboard": [
+          {
+            "key": "output_dam",
+            "value": 0.2,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_decisiveness_up",
+        "oldSkillId": "wpn_passive_decisiveness_02",
+        "newSkillId": "wpn_passive_decisiveness_02",
+        "level": 2,
+        "blackboard": [
+          {
+            "key": "output_dam",
+            "value": 0.25,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_decisiveness_up",
+        "oldSkillId": "wpn_passive_decisiveness_02",
+        "newSkillId": "wpn_passive_decisiveness_02",
+        "level": 3,
+        "blackboard": [
+          {
+            "key": "output_dam",
+            "value": 0.3,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_decisiveness_up",
+        "oldSkillId": "wpn_passive_decisiveness_02",
+        "newSkillId": "wpn_passive_decisiveness_02",
+        "level": 4,
+        "blackboard": [
+          {
+            "key": "output_dam",
+            "value": 0.35,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_decisiveness_up",
+        "oldSkillId": "wpn_passive_decisiveness_02",
+        "newSkillId": "wpn_passive_decisiveness_02",
+        "level": 5,
+        "blackboard": [
+          {
+            "key": "output_dam",
+            "value": 0.5,
+            "valueStr": ""
+          }
+        ]
+      }
+    ]
+  },
+  "skill_gem_firegrasp_damup": {
+    "list": [
+      {
+        "modifierId": "skill_gem_firegrasp_damup",
+        "oldSkillId": "wpn_passive_firegrasp_01",
+        "newSkillId": "wpn_passive_firegrasp_01",
+        "level": 1,
+        "blackboard": [
+          {
+            "key": "fire_dmg_up",
+            "value": 0.11,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_firegrasp_damup",
+        "oldSkillId": "wpn_passive_firegrasp_01",
+        "newSkillId": "wpn_passive_firegrasp_01",
+        "level": 2,
+        "blackboard": [
+          {
+            "key": "fire_dmg_up",
+            "value": 0.14,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_firegrasp_damup",
+        "oldSkillId": "wpn_passive_firegrasp_01",
+        "newSkillId": "wpn_passive_firegrasp_01",
+        "level": 3,
+        "blackboard": [
+          {
+            "key": "fire_dmg_up",
+            "value": 0.16,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_firegrasp_damup",
+        "oldSkillId": "wpn_passive_firegrasp_01",
+        "newSkillId": "wpn_passive_firegrasp_01",
+        "level": 4,
+        "blackboard": [
+          {
+            "key": "fire_dmg_up",
+            "value": 0.18,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_firegrasp_damup",
+        "oldSkillId": "wpn_passive_firegrasp_01",
+        "newSkillId": "wpn_passive_firegrasp_01",
+        "level": 5,
+        "blackboard": [
+          {
+            "key": "fire_dmg_up",
+            "value": 0.2,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_firegrasp_damup",
+        "oldSkillId": "wpn_passive_pulsegrasp_03",
+        "newSkillId": "wpn_passive_pulsegrasp_03",
+        "level": 1,
+        "blackboard": [
+          {
+            "key": "fire_dmg_up",
+            "value": 0.11,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_firegrasp_damup",
+        "oldSkillId": "wpn_passive_pulsegrasp_03",
+        "newSkillId": "wpn_passive_pulsegrasp_03",
+        "level": 2,
+        "blackboard": [
+          {
+            "key": "fire_dmg_up",
+            "value": 0.14,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_firegrasp_damup",
+        "oldSkillId": "wpn_passive_pulsegrasp_03",
+        "newSkillId": "wpn_passive_pulsegrasp_03",
+        "level": 3,
+        "blackboard": [
+          {
+            "key": "fire_dmg_up",
+            "value": 0.16,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_firegrasp_damup",
+        "oldSkillId": "wpn_passive_pulsegrasp_03",
+        "newSkillId": "wpn_passive_pulsegrasp_03",
+        "level": 4,
+        "blackboard": [
+          {
+            "key": "fire_dmg_up",
+            "value": 0.18,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_firegrasp_damup",
+        "oldSkillId": "wpn_passive_pulsegrasp_03",
+        "newSkillId": "wpn_passive_pulsegrasp_03",
+        "level": 5,
+        "blackboard": [
+          {
+            "key": "fire_dmg_up",
+            "value": 0.2,
+            "valueStr": ""
+          }
+        ]
+      }
+    ]
+  },
+  "skill_gem_groundtech_up": {
+    "list": [
+      {
+        "modifierId": "skill_gem_groundtech_up",
+        "oldSkillId": "wpn_passive_groundtech_01",
+        "newSkillId": "wpn_passive_groundtech_01",
+        "level": 1,
+        "blackboard": [
+          {
+            "key": "dam_up",
+            "value": 0.38,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_groundtech_up",
+        "oldSkillId": "wpn_passive_groundtech_01",
+        "newSkillId": "wpn_passive_groundtech_01",
+        "level": 2,
+        "blackboard": [
+          {
+            "key": "dam_up",
+            "value": 0.46,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_groundtech_up",
+        "oldSkillId": "wpn_passive_groundtech_01",
+        "newSkillId": "wpn_passive_groundtech_01",
+        "level": 3,
+        "blackboard": [
+          {
+            "key": "dam_up",
+            "value": 0.54,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_groundtech_up",
+        "oldSkillId": "wpn_passive_groundtech_01",
+        "newSkillId": "wpn_passive_groundtech_01",
+        "level": 4,
+        "blackboard": [
+          {
+            "key": "dam_up",
+            "value": 0.62,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_groundtech_up",
+        "oldSkillId": "wpn_passive_groundtech_01",
+        "newSkillId": "wpn_passive_groundtech_01",
+        "level": 5,
+        "blackboard": [
+          {
+            "key": "dam_up",
+            "value": 0.7,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_groundtech_up",
+        "oldSkillId": "wpn_passive_groundtech_02",
+        "newSkillId": "wpn_passive_groundtech_02",
+        "level": 1,
+        "blackboard": [
+          {
+            "key": "dam_up",
+            "value": 0.38,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_groundtech_up",
+        "oldSkillId": "wpn_passive_groundtech_02",
+        "newSkillId": "wpn_passive_groundtech_02",
+        "level": 2,
+        "blackboard": [
+          {
+            "key": "dam_up",
+            "value": 0.46,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_groundtech_up",
+        "oldSkillId": "wpn_passive_groundtech_02",
+        "newSkillId": "wpn_passive_groundtech_02",
+        "level": 3,
+        "blackboard": [
+          {
+            "key": "dam_up",
+            "value": 0.54,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_groundtech_up",
+        "oldSkillId": "wpn_passive_groundtech_02",
+        "newSkillId": "wpn_passive_groundtech_02",
+        "level": 4,
+        "blackboard": [
+          {
+            "key": "dam_up",
+            "value": 0.62,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_groundtech_up",
+        "oldSkillId": "wpn_passive_groundtech_02",
+        "newSkillId": "wpn_passive_groundtech_02",
+        "level": 5,
+        "blackboard": [
+          {
+            "key": "dam_up",
+            "value": 0.7,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_groundtech_up",
+        "oldSkillId": "wpn_passive_groundtech_03",
+        "newSkillId": "wpn_passive_groundtech_03",
+        "level": 1,
+        "blackboard": [
+          {
+            "key": "dam_up",
+            "value": 0.38,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_groundtech_up",
+        "oldSkillId": "wpn_passive_groundtech_03",
+        "newSkillId": "wpn_passive_groundtech_03",
+        "level": 2,
+        "blackboard": [
+          {
+            "key": "dam_up",
+            "value": 0.46,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_groundtech_up",
+        "oldSkillId": "wpn_passive_groundtech_03",
+        "newSkillId": "wpn_passive_groundtech_03",
+        "level": 3,
+        "blackboard": [
+          {
+            "key": "dam_up",
+            "value": 0.54,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_groundtech_up",
+        "oldSkillId": "wpn_passive_groundtech_03",
+        "newSkillId": "wpn_passive_groundtech_03",
+        "level": 4,
+        "blackboard": [
+          {
+            "key": "dam_up",
+            "value": 0.62,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_groundtech_up",
+        "oldSkillId": "wpn_passive_groundtech_03",
+        "newSkillId": "wpn_passive_groundtech_03",
+        "level": 5,
+        "blackboard": [
+          {
+            "key": "dam_up",
+            "value": 0.7,
+            "valueStr": ""
+          }
+        ]
+      }
+    ]
+  },
+  "skill_gem_potential_up": {
+    "list": [
+      {
+        "modifierId": "skill_gem_potential_up",
+        "oldSkillId": "wpn_passive_potential_01",
+        "newSkillId": "wpn_passive_potential_01",
+        "level": 1,
+        "blackboard": [
+          {
+            "key": "triggerhp",
+            "value": 0.55,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_potential_up",
+        "oldSkillId": "wpn_passive_potential_01",
+        "newSkillId": "wpn_passive_potential_01",
+        "level": 2,
+        "blackboard": [
+          {
+            "key": "triggerhp",
+            "value": 0.6,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_potential_up",
+        "oldSkillId": "wpn_passive_potential_01",
+        "newSkillId": "wpn_passive_potential_01",
+        "level": 3,
+        "blackboard": [
+          {
+            "key": "triggerhp",
+            "value": 0.65,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_potential_up",
+        "oldSkillId": "wpn_passive_potential_01",
+        "newSkillId": "wpn_passive_potential_01",
+        "level": 4,
+        "blackboard": [
+          {
+            "key": "triggerhp",
+            "value": 0.7,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_potential_up",
+        "oldSkillId": "wpn_passive_potential_01",
+        "newSkillId": "wpn_passive_potential_01",
+        "level": 5,
+        "blackboard": [
+          {
+            "key": "triggerhp",
+            "value": 0.8,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_potential_up",
+        "oldSkillId": "wpn_passive_potential_02",
+        "newSkillId": "wpn_passive_potential_02",
+        "level": 1,
+        "blackboard": [
+          {
+            "key": "triggerhp",
+            "value": 0.55,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_potential_up",
+        "oldSkillId": "wpn_passive_potential_02",
+        "newSkillId": "wpn_passive_potential_02",
+        "level": 2,
+        "blackboard": [
+          {
+            "key": "triggerhp",
+            "value": 0.6,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_potential_up",
+        "oldSkillId": "wpn_passive_potential_02",
+        "newSkillId": "wpn_passive_potential_02",
+        "level": 3,
+        "blackboard": [
+          {
+            "key": "triggerhp",
+            "value": 0.65,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_potential_up",
+        "oldSkillId": "wpn_passive_potential_02",
+        "newSkillId": "wpn_passive_potential_02",
+        "level": 4,
+        "blackboard": [
+          {
+            "key": "triggerhp",
+            "value": 0.7,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_potential_up",
+        "oldSkillId": "wpn_passive_potential_02",
+        "newSkillId": "wpn_passive_potential_02",
+        "level": 5,
+        "blackboard": [
+          {
+            "key": "triggerhp",
+            "value": 0.8,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_potential_up",
+        "oldSkillId": "wpn_passive_potential_03",
+        "newSkillId": "wpn_passive_potential_03",
+        "level": 1,
+        "blackboard": [
+          {
+            "key": "triggerhp",
+            "value": 0.55,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_potential_up",
+        "oldSkillId": "wpn_passive_potential_03",
+        "newSkillId": "wpn_passive_potential_03",
+        "level": 2,
+        "blackboard": [
+          {
+            "key": "triggerhp",
+            "value": 0.6,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_potential_up",
+        "oldSkillId": "wpn_passive_potential_03",
+        "newSkillId": "wpn_passive_potential_03",
+        "level": 3,
+        "blackboard": [
+          {
+            "key": "triggerhp",
+            "value": 0.65,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_potential_up",
+        "oldSkillId": "wpn_passive_potential_03",
+        "newSkillId": "wpn_passive_potential_03",
+        "level": 4,
+        "blackboard": [
+          {
+            "key": "triggerhp",
+            "value": 0.7,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_potential_up",
+        "oldSkillId": "wpn_passive_potential_03",
+        "newSkillId": "wpn_passive_potential_03",
+        "level": 5,
+        "blackboard": [
+          {
+            "key": "triggerhp",
+            "value": 0.8,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_potential_up",
+        "oldSkillId": "wpn_passive_potential_04",
+        "newSkillId": "wpn_passive_potential_04",
+        "level": 1,
+        "blackboard": [
+          {
+            "key": "triggerhp",
+            "value": 0.55,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_potential_up",
+        "oldSkillId": "wpn_passive_potential_04",
+        "newSkillId": "wpn_passive_potential_04",
+        "level": 2,
+        "blackboard": [
+          {
+            "key": "triggerhp",
+            "value": 0.6,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_potential_up",
+        "oldSkillId": "wpn_passive_potential_04",
+        "newSkillId": "wpn_passive_potential_04",
+        "level": 3,
+        "blackboard": [
+          {
+            "key": "triggerhp",
+            "value": 0.65,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_potential_up",
+        "oldSkillId": "wpn_passive_potential_04",
+        "newSkillId": "wpn_passive_potential_04",
+        "level": 4,
+        "blackboard": [
+          {
+            "key": "triggerhp",
+            "value": 0.7,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_potential_up",
+        "oldSkillId": "wpn_passive_potential_04",
+        "newSkillId": "wpn_passive_potential_04",
+        "level": 5,
+        "blackboard": [
+          {
+            "key": "triggerhp",
+            "value": 0.8,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_potential_up",
+        "oldSkillId": "wpn_passive_potential_05",
+        "newSkillId": "wpn_passive_potential_05",
+        "level": 1,
+        "blackboard": [
+          {
+            "key": "triggerhp",
+            "value": 0.55,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_potential_up",
+        "oldSkillId": "wpn_passive_potential_05",
+        "newSkillId": "wpn_passive_potential_05",
+        "level": 2,
+        "blackboard": [
+          {
+            "key": "triggerhp",
+            "value": 0.6,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_potential_up",
+        "oldSkillId": "wpn_passive_potential_05",
+        "newSkillId": "wpn_passive_potential_05",
+        "level": 3,
+        "blackboard": [
+          {
+            "key": "triggerhp",
+            "value": 0.65,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_potential_up",
+        "oldSkillId": "wpn_passive_potential_05",
+        "newSkillId": "wpn_passive_potential_05",
+        "level": 4,
+        "blackboard": [
+          {
+            "key": "triggerhp",
+            "value": 0.7,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_potential_up",
+        "oldSkillId": "wpn_passive_potential_05",
+        "newSkillId": "wpn_passive_potential_05",
+        "level": 5,
+        "blackboard": [
+          {
+            "key": "triggerhp",
+            "value": 0.8,
+            "valueStr": ""
+          }
+        ]
+      }
+    ]
+  },
+  "skill_gem_pulsegrasp_damup": {
+    "list": [
+      {
+        "modifierId": "skill_gem_pulsegrasp_damup",
+        "oldSkillId": "wpn_passive_firegrasp_02",
+        "newSkillId": "wpn_passive_firegrasp_02",
+        "level": 1,
+        "blackboard": [
+          {
+            "key": "pulse_dmg_up",
+            "value": 0.11,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_pulsegrasp_damup",
+        "oldSkillId": "wpn_passive_firegrasp_02",
+        "newSkillId": "wpn_passive_firegrasp_02",
+        "level": 2,
+        "blackboard": [
+          {
+            "key": "pulse_dmg_up",
+            "value": 0.14,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_pulsegrasp_damup",
+        "oldSkillId": "wpn_passive_firegrasp_02",
+        "newSkillId": "wpn_passive_firegrasp_02",
+        "level": 3,
+        "blackboard": [
+          {
+            "key": "pulse_dmg_up",
+            "value": 0.16,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_pulsegrasp_damup",
+        "oldSkillId": "wpn_passive_firegrasp_02",
+        "newSkillId": "wpn_passive_firegrasp_02",
+        "level": 4,
+        "blackboard": [
+          {
+            "key": "pulse_dmg_up",
+            "value": 0.18,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_pulsegrasp_damup",
+        "oldSkillId": "wpn_passive_firegrasp_02",
+        "newSkillId": "wpn_passive_firegrasp_02",
+        "level": 5,
+        "blackboard": [
+          {
+            "key": "pulse_dmg_up",
+            "value": 0.2,
+            "valueStr": ""
+          }
+        ]
+      }
+    ]
+  },
+  "skill_gem_pulsegrasp_fusion": {
+    "list": [
+      {
+        "modifierId": "skill_gem_pulsegrasp_fusion",
+        "oldSkillId": "wpn_passive_pulsegrasp_01",
+        "newSkillId": "wpn_passive_pulsegrasp_01",
+        "level": 1,
+        "blackboard": [
+          {
+            "key": "fusion_dam_up",
+            "value": 1.25,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_pulsegrasp_fusion",
+        "oldSkillId": "wpn_passive_pulsegrasp_01",
+        "newSkillId": "wpn_passive_pulsegrasp_01",
+        "level": 2,
+        "blackboard": [
+          {
+            "key": "fusion_dam_up",
+            "value": 1.5,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_pulsegrasp_fusion",
+        "oldSkillId": "wpn_passive_pulsegrasp_01",
+        "newSkillId": "wpn_passive_pulsegrasp_01",
+        "level": 3,
+        "blackboard": [
+          {
+            "key": "fusion_dam_up",
+            "value": 1.75,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_pulsegrasp_fusion",
+        "oldSkillId": "wpn_passive_pulsegrasp_01",
+        "newSkillId": "wpn_passive_pulsegrasp_01",
+        "level": 4,
+        "blackboard": [
+          {
+            "key": "fusion_dam_up",
+            "value": 2.0,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_pulsegrasp_fusion",
+        "oldSkillId": "wpn_passive_pulsegrasp_01",
+        "newSkillId": "wpn_passive_pulsegrasp_01",
+        "level": 5,
+        "blackboard": [
+          {
+            "key": "fusion_dam_up",
+            "value": 2.25,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_pulsegrasp_fusion",
+        "oldSkillId": "wpn_passive_pulsegrasp_02",
+        "newSkillId": "wpn_passive_pulsegrasp_02",
+        "level": 1,
+        "blackboard": [
+          {
+            "key": "fusion_dam_up",
+            "value": 1.25,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_pulsegrasp_fusion",
+        "oldSkillId": "wpn_passive_pulsegrasp_02",
+        "newSkillId": "wpn_passive_pulsegrasp_02",
+        "level": 2,
+        "blackboard": [
+          {
+            "key": "fusion_dam_up",
+            "value": 1.5,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_pulsegrasp_fusion",
+        "oldSkillId": "wpn_passive_pulsegrasp_02",
+        "newSkillId": "wpn_passive_pulsegrasp_02",
+        "level": 3,
+        "blackboard": [
+          {
+            "key": "fusion_dam_up",
+            "value": 1.75,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_pulsegrasp_fusion",
+        "oldSkillId": "wpn_passive_pulsegrasp_02",
+        "newSkillId": "wpn_passive_pulsegrasp_02",
+        "level": 4,
+        "blackboard": [
+          {
+            "key": "fusion_dam_up",
+            "value": 2.0,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_pulsegrasp_fusion",
+        "oldSkillId": "wpn_passive_pulsegrasp_02",
+        "newSkillId": "wpn_passive_pulsegrasp_02",
+        "level": 5,
+        "blackboard": [
+          {
+            "key": "fusion_dam_up",
+            "value": 2.25,
+            "valueStr": ""
+          }
+        ]
+      }
+    ]
+  },
+  "skill_gem_pursueatk_criup": {
+    "list": [
+      {
+        "modifierId": "skill_gem_pursueatk_criup",
+        "oldSkillId": "wpn_passive_pursueatk_01",
+        "newSkillId": "wpn_passive_pursueatk_01",
+        "level": 1,
+        "blackboard": [
+          {
+            "key": "cri_ratio",
+            "value": 0.6,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_pursueatk_criup",
+        "oldSkillId": "wpn_passive_pursueatk_01",
+        "newSkillId": "wpn_passive_pursueatk_01",
+        "level": 2,
+        "blackboard": [
+          {
+            "key": "cri_ratio",
+            "value": 0.7,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_pursueatk_criup",
+        "oldSkillId": "wpn_passive_pursueatk_01",
+        "newSkillId": "wpn_passive_pursueatk_01",
+        "level": 3,
+        "blackboard": [
+          {
+            "key": "cri_ratio",
+            "value": 0.8,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_pursueatk_criup",
+        "oldSkillId": "wpn_passive_pursueatk_01",
+        "newSkillId": "wpn_passive_pursueatk_01",
+        "level": 4,
+        "blackboard": [
+          {
+            "key": "cri_ratio",
+            "value": 0.9,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_pursueatk_criup",
+        "oldSkillId": "wpn_passive_pursueatk_01",
+        "newSkillId": "wpn_passive_pursueatk_01",
+        "level": 5,
+        "blackboard": [
+          {
+            "key": "cri_ratio",
+            "value": 1.0,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_pursueatk_criup",
+        "oldSkillId": "wpn_passive_pursueatk_02",
+        "newSkillId": "wpn_passive_pursueatk_02",
+        "level": 1,
+        "blackboard": [
+          {
+            "key": "cri_ratio",
+            "value": 0.6,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_pursueatk_criup",
+        "oldSkillId": "wpn_passive_pursueatk_02",
+        "newSkillId": "wpn_passive_pursueatk_02",
+        "level": 2,
+        "blackboard": [
+          {
+            "key": "cri_ratio",
+            "value": 0.7,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_pursueatk_criup",
+        "oldSkillId": "wpn_passive_pursueatk_02",
+        "newSkillId": "wpn_passive_pursueatk_02",
+        "level": 3,
+        "blackboard": [
+          {
+            "key": "cri_ratio",
+            "value": 0.8,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_pursueatk_criup",
+        "oldSkillId": "wpn_passive_pursueatk_02",
+        "newSkillId": "wpn_passive_pursueatk_02",
+        "level": 4,
+        "blackboard": [
+          {
+            "key": "cri_ratio",
+            "value": 0.9,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_pursueatk_criup",
+        "oldSkillId": "wpn_passive_pursueatk_02",
+        "newSkillId": "wpn_passive_pursueatk_02",
+        "level": 5,
+        "blackboard": [
+          {
+            "key": "cri_ratio",
+            "value": 1.0,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_pursueatk_criup",
+        "oldSkillId": "wpn_passive_pursueatk_03",
+        "newSkillId": "wpn_passive_pursueatk_03",
+        "level": 1,
+        "blackboard": [
+          {
+            "key": "cri_ratio",
+            "value": 0.6,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_pursueatk_criup",
+        "oldSkillId": "wpn_passive_pursueatk_03",
+        "newSkillId": "wpn_passive_pursueatk_03",
+        "level": 2,
+        "blackboard": [
+          {
+            "key": "cri_ratio",
+            "value": 0.7,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_pursueatk_criup",
+        "oldSkillId": "wpn_passive_pursueatk_03",
+        "newSkillId": "wpn_passive_pursueatk_03",
+        "level": 3,
+        "blackboard": [
+          {
+            "key": "cri_ratio",
+            "value": 0.8,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_pursueatk_criup",
+        "oldSkillId": "wpn_passive_pursueatk_03",
+        "newSkillId": "wpn_passive_pursueatk_03",
+        "level": 4,
+        "blackboard": [
+          {
+            "key": "cri_ratio",
+            "value": 0.9,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_pursueatk_criup",
+        "oldSkillId": "wpn_passive_pursueatk_03",
+        "newSkillId": "wpn_passive_pursueatk_03",
+        "level": 5,
+        "blackboard": [
+          {
+            "key": "cri_ratio",
+            "value": 1.0,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_pursueatk_criup",
+        "oldSkillId": "wpn_passive_pursueatk_04",
+        "newSkillId": "wpn_passive_pursueatk_04",
+        "level": 1,
+        "blackboard": [
+          {
+            "key": "cri_ratio",
+            "value": 0.6,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_pursueatk_criup",
+        "oldSkillId": "wpn_passive_pursueatk_04",
+        "newSkillId": "wpn_passive_pursueatk_04",
+        "level": 2,
+        "blackboard": [
+          {
+            "key": "cri_ratio",
+            "value": 0.7,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_pursueatk_criup",
+        "oldSkillId": "wpn_passive_pursueatk_04",
+        "newSkillId": "wpn_passive_pursueatk_04",
+        "level": 3,
+        "blackboard": [
+          {
+            "key": "cri_ratio",
+            "value": 0.8,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_pursueatk_criup",
+        "oldSkillId": "wpn_passive_pursueatk_04",
+        "newSkillId": "wpn_passive_pursueatk_04",
+        "level": 4,
+        "blackboard": [
+          {
+            "key": "cri_ratio",
+            "value": 0.9,
+            "valueStr": ""
+          }
+        ]
+      },
+      {
+        "modifierId": "skill_gem_pursueatk_criup",
+        "oldSkillId": "wpn_passive_pursueatk_04",
+        "newSkillId": "wpn_passive_pursueatk_04",
+        "level": 5,
+        "blackboard": [
+          {
+            "key": "cri_ratio",
+            "value": 1.0,
+            "valueStr": ""
+          }
+        ]
+      }
+    ]
+  }
+}

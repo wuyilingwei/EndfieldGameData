@@ -1,0 +1,23 @@
+{
+  "0": {
+    "category": "Building",
+    "name": {
+      "text": "模块",
+      "id": "C2EF181EDCD0A084"
+    }
+  },
+  "1": {
+    "category": "Mission",
+    "name": {
+      "text": "任务",
+      "id": "2FD06946EC2A088C"
+    }
+  },
+  "2": {
+    "category": "Important",
+    "name": {
+      "text": "重要地点",
+      "id": "6DBC01B6732A0D6C"
+    }
+  }
+}

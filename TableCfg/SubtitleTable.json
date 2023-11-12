@@ -1,0 +1,584 @@
+{
+  "cinematic_act5-1_doorlock_1": {
+    "subtitleText": {
+      "text": "没想到这里门是关着的，只好去别处看看了。",
+      "id": "74916EB3EEC54628"
+    }
+  },
+  "cinematic_test_1": {
+    "subtitleText": {
+      "text": "这是一段文本测试111",
+      "id": "DE90D5C19FE28DE7"
+    }
+  },
+  "cinematic_test_2": {
+    "subtitleText": {
+      "text": "这是一段文本测试222",
+      "id": "EC883F032929A349"
+    }
+  },
+  "cinematic_test_3": {
+    "subtitleText": {
+      "text": "这是一段文本测试333",
+      "id": "CB897721C1D47057"
+    }
+  },
+  "floating_e0m1_1_01": {
+    "subtitleText": {
+      "text": "终末地6号观测站，东面约30公里",
+      "id": "62401B35E52054A6"
+    }
+  },
+  "floating_e0m1_1_02": {
+    "subtitleText": {
+      "text": "可见度：差",
+      "id": "CD1C7CA963C262CD"
+    }
+  },
+  "floating_e0m1_1_03": {
+    "subtitleText": {
+      "text": "环境变量：积雨云，涡旋气流",
+      "id": "9460AF1C7C51B4E2"
+    }
+  },
+  "floating_e1m1_1_01": {
+    "subtitleText": {
+      "text": "终末地6号观测站，东面约30公里",
+      "id": "E86A40DE049B10FC"
+    }
+  },
+  "floating_e1m1_1_02": {
+    "subtitleText": {
+      "text": "可见度：差",
+      "id": "35D1D562873F38D9"
+    }
+  },
+  "floating_e1m1_1_03": {
+    "subtitleText": {
+      "text": "环境变量：积雨云，涡旋气流",
+      "id": "F4FEA31E17E8601D"
+    }
+  },
+  "fmv_e0m0_1_01": {
+    "subtitleText": {
+      "text": "管理员在这里!……",
+      "id": "37B099527850E249"
+    }
+  },
+  "fmv_e0m0_1_02": {
+    "subtitleText": {
+      "text": "需要支援！……",
+      "id": "84F584F6BCA47353"
+    }
+  },
+  "fmv_e0m0_1_03": {
+    "subtitleText": {
+      "text": "快……进行手术！……",
+      "id": "8EC05B52733EB04E"
+    }
+  },
+  "fmv_e0m0_1_04": {
+    "subtitleText": {
+      "text": "快醒来……",
+      "id": "00DE021EA07B2AD8"
+    }
+  },
+  "fmv_e0m0_1_05": {
+    "subtitleText": {
+      "text": "你在那里吗？……",
+      "id": "1EF0D23303C0E15E"
+    }
+  },
+  "fmv_e0m0_1_06": {
+    "subtitleText": {
+      "text": "快醒醒——",
+      "id": "F97E66B7E9D7C1DF"
+    }
+  },
+  "fmv_e0m0_1_07": {
+    "subtitleText": {
+      "text": "失温中……",
+      "id": "D249D93CD53AF2D9"
+    }
+  },
+  "fmv_e0m0_1_08": {
+    "subtitleText": {
+      "text": "血压80 50 心率30 血氧饱和度正常",
+      "id": "21A0BAEC4D755DE6"
+    }
+  },
+  "fmv_e0m0_1_09": {
+    "subtitleText": {
+      "text": "静脉推注。",
+      "id": "2F27F4C6FDA2AAE3"
+    }
+  },
+  "fmv_e0m0_1_10": {
+    "subtitleText": {
+      "text": "止血钳。",
+      "id": "B096B142850E3CC0"
+    }
+  },
+  "fmv_e0m0_1_11": {
+    "subtitleText": {
+      "text": "开始循环……",
+      "id": "2CC60CC1217A8F08"
+    }
+  },
+  "fmv_e0m1_1_01": {
+    "subtitleText": {
+      "text": "33161，准备报告状态",
+      "id": "179CDEA9CF66B5DC"
+    }
+  },
+  "fmv_e0m1_1_02": {
+    "subtitleText": {
+      "text": "终末地运载单元，33161，还有20分钟进入指定空域，视野良好，一切正常",
+      "id": "0F3298737CAE0502"
+    }
+  },
+  "fmv_e0m1_1_03": {
+    "subtitleText": {
+      "text": "高度下降200，调整源石输出功率",
+      "id": "C695F34D47C2E68C"
+    }
+  },
+  "fmv_e0m1_1_04": {
+    "subtitleText": {
+      "text": "收到，33161",
+      "id": "70574C9345990C45"
+    }
+  },
+  "fmv_e0m1_1_05": {
+    "subtitleText": {
+      "text": "还顺利吗？霍桑先生",
+      "id": "1BF50B5D3FC73862"
+    }
+  },
+  "fmv_e0m1_1_06": {
+    "subtitleText": {
+      "text": "放心，一切顺利！我很快就到，“货物”很安全。",
+      "id": "67B99A5EF2B36BD8"
+    }
+  },
+  "fmv_e0m1_1_07": {
+    "subtitleText": {
+      "text": "飞行器遇袭！我被击中了！我被击中了！",
+      "id": "D2ED8FDA8EF79424"
+    }
+  },
+  "fmv_e0m1_1_08": {
+    "subtitleText": {
+      "text": "霍桑先生，出什么事了？",
+      "id": "2B3FBFA4615559F7"
+    }
+  },
+  "fmv_e0m1_1_09": {
+    "subtitleText": {
+      "text": "受损严重！发动机动力不足。我在尝试······",
+      "id": "6D5D6BB233CDDF56"
+    }
+  },
+  "fmv_e0m1_1_10": {
+    "subtitleText": {
+      "text": "需要支援！请求紧急支援！",
+      "id": "6E9F502356CB6837"
+    }
+  },
+  "fmv_e0m1_1_11": {
+    "subtitleText": {
+      "text": "快准备进行手术！",
+      "id": "DCC2C3875D7C73D7"
+    }
+  },
+  "fmv_e0m1_3_01": {
+    "subtitleText": {
+      "text": "呦，你醒了？",
+      "id": "A18F990D3D30C48C"
+    }
+  },
+  "fmv_e0m1_3_02": {
+    "subtitleText": {
+      "text": "好了",
+      "id": "0C46DF7B5B5312F3"
+    }
+  },
+  "fmv_e0m1_3_03": {
+    "subtitleText": {
+      "text": "清醒点，别睡了。",
+      "id": "DA80007893D63DAE"
+    }
+  },
+  "fmv_e0m1_3_04": {
+    "subtitleText": {
+      "text": "好久不见啊，3号。",
+      "id": "4F353EE52A906F7D"
+    }
+  },
+  "fmv_e0m1_3_05-1": {
+    "subtitleText": {
+      "text": "她没什么大问题。",
+      "id": "004F97E46B6659D2"
+    }
+  },
+  "fmv_e0m1_3_05-2": {
+    "subtitleText": {
+      "text": "那句话怎么说来着？伤筋动骨一百天嘛，回去睡个把月吧。",
+      "id": "15966C93A8104FCF"
+    }
+  },
+  "fmv_e0m1_3_05-3": {
+    "subtitleText": {
+      "text": "短时间内别让她乱跑啦。",
+      "id": "71E8351F33400DA9"
+    }
+  },
+  "fmv_e0m1_3_06": {
+    "subtitleText": {
+      "text": "坏消息，镇子里来了不少人。全副武装的，估计是来找她的。你们得抓紧…",
+      "id": "C42E53E7E55B9AF3"
+    }
+  },
+  "fmv_e0m1_3_07": {
+    "subtitleText": {
+      "text": "哦！你醒了！",
+      "id": "CFC4AAA9FC5445BD"
+    }
+  },
+  "fmv_e0m1_3_08": {
+    "subtitleText": {
+      "text": "早上好，中午好，以及晚上好，我的朋友。",
+      "id": "8385833547B55771"
+    }
+  },
+  "fmv_e0m1_3_09": {
+    "subtitleText": {
+      "text": "手段高明啊医生，2000多米摔下去都能救活。下次我也试试？",
+      "id": "58B9E08C130B9313"
+    }
+  },
+  "fmv_e0m1_3_10": {
+    "subtitleText": {
+      "text": "好了少废话，收拾东西准备撤了。",
+      "id": "3B6DDDF9EC4DBB92"
+    }
+  },
+  "fmv_e0m1_3_11-1": {
+    "subtitleText": {
+      "text": "我明白她对你们很重要，但是你们不该在这个节骨眼上把她放出来……",
+      "id": "BB727CD63CFC0522"
+    }
+  },
+  "fmv_e0m1_3_11-2": {
+    "subtitleText": {
+      "text": "很多人会冲着她来，做好准备。",
+      "id": "07EDA6FCC1B66143"
+    }
+  },
+  "fmv_e0m1_3_12": {
+    "subtitleText": {
+      "text": "以她过去的做事风格……多半会给自己找点麻烦，你得照顾好她。",
+      "id": "5AB24F662A0C0276"
+    }
+  },
+  "fmv_e0m1_3_13": {
+    "subtitleText": {
+      "text": "我会的……",
+      "id": "0F4BBA29B5BC4591"
+    }
+  },
+  "fmv_e0m1_3_14": {
+    "subtitleText": {
+      "text": "生命可贵，好好活着啊，三号，咱们回头见。",
+      "id": "12B0D1279E29E06B"
+    }
+  },
+  "fmv_e0m1_3_15": {
+    "subtitleText": {
+      "text": "我知道你现在一定是一肚子疑问，不过先别急……我们有的是时间。",
+      "id": "6D8B838EF8A66FB3"
+    }
+  },
+  "fmv_e0m1_3_16": {
+    "subtitleText": {
+      "text": "管理员，你……",
+      "id": "00D402DCD0C99E2E"
+    }
+  },
+  "fmv_e0m1_3_17": {
+    "subtitleText": {
+      "text": "说起来，如果预言家是每一位凯尔希的父亲……",
+      "id": "2F73DCD30C2B48C2"
+    }
+  },
+  "fmv_e0m1_3_18": {
+    "subtitleText": {
+      "text": "那么这位“三号个体”岂不是你的……",
+      "id": "7D91FC328A0879B4"
+    }
+  },
+  "fmv_e0m1_3_19": {
+    "subtitleText": {
+      "text": "闭嘴吧你。",
+      "id": "07EAD08D9E9A599A"
+    }
+  },
+  "fmv_e0m1_3_20": {
+    "subtitleText": {
+      "text": "管理员，你可能已经不记得我了……我叫佩丽卡……很高兴能再次见到你。",
+      "id": "992D3EC587984FF5"
+    }
+  },
+  "fmv_e0m1_4_01": {
+    "subtitleText": {
+      "text": "有些关键信息我需要提前告知您，管理员。",
+      "id": "666ADB9A9BBE1C3E"
+    }
+  },
+  "fmv_e0m1_4_02": {
+    "subtitleText": {
+      "text": "塔卫二不是个和平的地方，对外人也绝非友善，我相信你已经亲身体验过了。",
+      "id": "CB5E038C1FB740AC"
+    }
+  },
+  "fmv_e0m1_4_03-1": {
+    "subtitleText": {
+      "text": "来自泰拉的开拓队穿越极北的传送门来到这片陌生的土地。",
+      "id": "0089FABACA7A6684"
+    }
+  },
+  "fmv_e0m1_4_03-2": {
+    "subtitleText": {
+      "text": "这片大地……哦不对，这个星球的文明耗费了整整几代人的心血才站稳了脚跟。",
+      "id": "C14344879515C01E"
+    }
+  },
+  "fmv_e0m1_4_04-1": {
+    "subtitleText": {
+      "text": "恶劣的环境，侵蚀灾害，残忍无情的构装体生物。",
+      "id": "D98F423C36B5C698"
+    }
+  },
+  "fmv_e0m1_4_04-2": {
+    "subtitleText": {
+      "text": "漫长时光中的每一个日夜都伴随着挣扎与斗争，在无数人的牺牲之下才发展为今天的模样。",
+      "id": "D2CAF957F5D3EC25"
+    }
+  },
+  "fmv_e0m1_4_05": {
+    "subtitleText": {
+      "text": "而你，管理员，在塔卫二历史的很多重要节点，你都会力挽狂澜，感受伤痛，见证一切。",
+      "id": "86A6B12683238360"
+    }
+  },
+  "fmv_e0m1_4_06-1": {
+    "subtitleText": {
+      "text": "当然，你并不总是孤独一人，在过去的许多年里终末地工业始终与你并肩作战。",
+      "id": "F82269953DFE9FF1"
+    }
+  },
+  "fmv_e0m1_4_06-2": {
+    "subtitleText": {
+      "text": "你是终末地工业重要的技术专家，也曾是我们解决困境的最后底牌。",
+      "id": "C8309F41249A58BC"
+    }
+  },
+  "fmv_e0m1_4_07": {
+    "subtitleText": {
+      "text": "很多人恐惧你，因为你做事的手段令人不得不担忧自己的命运。",
+      "id": "77A99C8316F09733"
+    }
+  },
+  "fmv_e0m1_4_08": {
+    "subtitleText": {
+      "text": "也有人景仰你，因为你的目的都是为了文明的存续与发展。",
+      "id": "C1E97D5BD0A68992"
+    }
+  },
+  "fmv_e0m1_4_09-1": {
+    "subtitleText": {
+      "text": "“静滞力场”休眠舱，也被称作石棺MK2。",
+      "id": "CAC949017910E298"
+    }
+  },
+  "fmv_e0m1_4_09-2": {
+    "subtitleText": {
+      "text": "每当我们遭遇无法解决的困境，危局达到临界阈值时，我们就会启动这个设备。",
+      "id": "2C704932914D46C7"
+    }
+  },
+  "fmv_e0m1_4_09-3": {
+    "subtitleText": {
+      "text": "将你从休眠舱中唤醒。",
+      "id": "0CBB1411CCA7BABE"
+    }
+  },
+  "fmv_e0m1_4_10": {
+    "subtitleText": {
+      "text": "无论人们如何看待你，在每次浩劫结束后，你都会重新回到那个狭小的休眠舱里，等待下一次唤醒。",
+      "id": "AB123200D4EC79F9"
+    }
+  },
+  "fmv_e0m1_4_11": {
+    "subtitleText": {
+      "text": "而这一次……事已至此，我想，一切都会有所不同。",
+      "id": "7527649C1514E481"
+    }
+  },
+  "fmv_e0m1_4_12": {
+    "subtitleText": {
+      "text": "如果你无法信任自己的记忆，那么请你相信我。",
+      "id": "A240908AA5EF7E7D"
+    }
+  },
+  "fmv_e0m1_4_13": {
+    "subtitleText": {
+      "text": "或许你已经不记得了，但这不是我们第一次见面。",
+      "id": "78D023B5A33ACC55"
+    }
+  },
+  "fmv_e0m1_4_14": {
+    "subtitleText": {
+      "text": "你可以称呼我为“佩丽卡”，作为终末地工业的监督，我代表终末地工业为你提供支援。",
+      "id": "10D258EEF43EC72A"
+    }
+  },
+  "fmv_e0m1_4_15-1": {
+    "subtitleText": {
+      "text": "所以希望你也能像曾经一样，信任我与终末地工业的诸位。",
+      "id": "2C749FE2CEC1BBA5"
+    }
+  },
+  "fmv_e0m1_4_15-2": {
+    "subtitleText": {
+      "text": "再次运用你的力量与智慧，解决我们遭遇的种种困境与难题。",
+      "id": "76B9ABF4D53F2923"
+    }
+  },
+  "fmv_e0m1_4_16": {
+    "subtitleText": {
+      "text": "欢迎来到塔卫二，管理员。",
+      "id": "FD6D018898585C31"
+    }
+  },
+  "test_fmv_bottom1": {
+    "subtitleText": {
+      "text": "fmv底部测试字幕",
+      "id": "55B236AEB2EABBD2"
+    }
+  },
+  "test_fmv_bottom2": {
+    "subtitleText": {
+      "text": "fmv底部测试字幕2",
+      "id": "D4B61EC598EBBC44"
+    }
+  },
+  "test_fmv_bottom3": {
+    "subtitleText": {
+      "text": "fmv底部测试字幕3",
+      "id": "A1791CB495014B1F"
+    }
+  },
+  "test_fmv_top1": {
+    "subtitleText": {
+      "text": "fmv顶部测试字幕",
+      "id": "A0F34B4A01B6AEF9"
+    }
+  },
+  "test_fmv_top2": {
+    "subtitleText": {
+      "text": "fmv顶部测试字幕2",
+      "id": "C20B1821183A9EA8"
+    }
+  },
+  "test_fmv_top3": {
+    "subtitleText": {
+      "text": "fmv顶部测试字幕3",
+      "id": "266AF2773BD01A22"
+    }
+  },
+  "test_timeline_bottom": {
+    "subtitleText": {
+      "text": "底部测试字幕",
+      "id": "4EBA0806C2080798"
+    }
+  },
+  "test_timeline_top": {
+    "subtitleText": {
+      "text": "顶部测试字幕",
+      "id": "1C476259FCE2AA13"
+    }
+  },
+  "timeline_e1m1_1_01": {
+    "subtitleText": {
+      "text": "喂？什么情况！",
+      "id": "A3981307EFBB26CC"
+    }
+  },
+  "timeline_e1m1_1_02": {
+    "subtitleText": {
+      "text": "佩丽卡监督？管理员！？",
+      "id": "3FEFBBCF144FC29D"
+    }
+  },
+  "timeline_e1m1_1_03": {
+    "subtitleText": {
+      "text": "管理员，接下来不要离我太远。",
+      "id": "F01AB8A5B99DFB77"
+    }
+  },
+  "timeline_e1m7_1_01": {
+    "subtitleText": {
+      "text": "我、我什么也没看到……放过我……",
+      "id": "4A5CAAFE40E1D1A5"
+    }
+  },
+  "timeline_e1m7_1_02": {
+    "subtitleText": {
+      "text": "你们迷路得真不是时候，无头苍蝇们。",
+      "id": "D909C325668D6941"
+    }
+  },
+  "timeline_e2m1_1_01": {
+    "subtitleText": {
+      "text": "那是什么东西？他们这……没头没脑的样子，算正常吗？",
+      "id": "0751D5FA39675EAA"
+    }
+  },
+  "timeline_e2m1_1_02": {
+    "subtitleText": {
+      "text": "不算。我们一般不把这个词当字面意思理解。",
+      "id": "3A74CA240D600EED"
+    }
+  },
+  "timeline_e2m1_1_03": {
+    "subtitleText": {
+      "text": "敌人冲过来了，开打！",
+      "id": "550EFA388B3B3FA3"
+    }
+  },
+  "timeline_e2m1_1_04": {
+    "subtitleText": {
+      "text": "准备战斗！",
+      "id": "64DE7875787AD70D"
+    }
+  },
+  "timeline_e2m2_1_01": {
+    "subtitleText": {
+      "text": "三岔路口……左边的路不通往园区和研究所，正面这条引向封闭的大门。",
+      "id": "71E7E7C7F19FAC61"
+    }
+  },
+  "timeline_e2m2_1_02": {
+    "subtitleText": {
+      "text": "右边则是原本的主路，我的地图还没有更新，但按照柯林斯兄妹的说法，已经被侵蚀破坏了。",
+      "id": "87F88721BDA0DCB3"
+    }
+  },
+  "timeline_e2m2_1_03": {
+    "subtitleText": {
+      "text": "嗯，那就先去大门看看。",
+      "id": "D3E63BE71F15560D"
+    }
+  }
+}

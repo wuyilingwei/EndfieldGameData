@@ -1,0 +1,562 @@
+{
+  "settingTabTable": {
+    "gameSetting_account": {
+      "tabId": "gameSetting_account",
+      "tabIcon": "account",
+      "tabText": {
+        "text": "账户设置",
+        "id": "41A693FC5ADD8ADB"
+      },
+      "tabSortOrder": 3,
+      "tabItems": {
+        "account_goto_protocol": {
+          "settingId": "account_goto_protocol",
+          "settingTabId": "gameSetting_account",
+          "settingText": {
+            "text": "用户中心",
+            "id": "C314E077B4195A25"
+          },
+          "isDefaultValueValid": 0,
+          "settingDefaultValue": {
+            "valueType": 0,
+            "realType": 0,
+            "valueStringList": [
+              "-1"
+            ],
+            "valueIntList": [
+              -1
+            ],
+            "valueFloatList": [
+              -1.0
+            ],
+            "valueBoolList": null,
+            "valueVector3": null
+          },
+          "settingSortOrder": 1,
+          "settingItemType": "Button",
+          "dropdownOptionTextList": [],
+          "dropdownOptionTextListGetFunction": "",
+          "dropdownOptionGetFunction": "",
+          "dropdownOptionSelectFunction": "",
+          "sliderIconList": null,
+          "sliderIconRangeList": null,
+          "sliderWholeNumbers": 0,
+          "sliderMinValue": 0.0,
+          "sliderMaxValue": 1.0,
+          "sliderValueGetFunction": "",
+          "sliderValueSetFunction": "",
+          "buttonText": {
+            "text": "点击前往",
+            "id": "F08CA436FD798A9A"
+          },
+          "buttonIcon": "button_link",
+          "buttonGetStateFunction": "ButtonGetGameLicensesLinkState",
+          "buttonOnClickFunction": "ButtonOnGameLicensesLinkClick"
+        }
+      }
+    },
+    "gameSetting_audio": {
+      "tabId": "gameSetting_audio",
+      "tabIcon": "audio",
+      "tabText": {
+        "text": "音频设置",
+        "id": "7D20DE24FBF87CAD"
+      },
+      "tabSortOrder": 2,
+      "tabItems": {
+        "audio_global": {
+          "settingId": "audio_global",
+          "settingTabId": "gameSetting_audio",
+          "settingText": {
+            "text": "总音量",
+            "id": "1F3B3430B448FEF2"
+          },
+          "isDefaultValueValid": 0,
+          "settingDefaultValue": {
+            "valueType": 0,
+            "realType": 0,
+            "valueStringList": [
+              "-1"
+            ],
+            "valueIntList": [
+              -1
+            ],
+            "valueFloatList": [
+              -1.0
+            ],
+            "valueBoolList": null,
+            "valueVector3": null
+          },
+          "settingSortOrder": 1,
+          "settingItemType": "Slider",
+          "dropdownOptionTextList": [],
+          "dropdownOptionTextListGetFunction": "",
+          "dropdownOptionGetFunction": "",
+          "dropdownOptionSelectFunction": "",
+          "sliderIconList": [
+            "audio_mute",
+            "audio_normal"
+          ],
+          "sliderIconRangeList": [
+            0.0,
+            10.0
+          ],
+          "sliderWholeNumbers": 1,
+          "sliderMinValue": 0.0,
+          "sliderMaxValue": 10.0,
+          "sliderValueGetFunction": "SliderGetGlobalVolume",
+          "sliderValueSetFunction": "SliderSetGlobalVolume",
+          "buttonText": {
+            "text": "",
+            "id": ""
+          },
+          "buttonIcon": "",
+          "buttonGetStateFunction": "",
+          "buttonOnClickFunction": ""
+        },
+        "audio_music": {
+          "settingId": "audio_music",
+          "settingTabId": "gameSetting_audio",
+          "settingText": {
+            "text": "音乐音量",
+            "id": "0553CFD10F0FD829"
+          },
+          "isDefaultValueValid": 0,
+          "settingDefaultValue": {
+            "valueType": 0,
+            "realType": 0,
+            "valueStringList": [
+              "-1"
+            ],
+            "valueIntList": [
+              -1
+            ],
+            "valueFloatList": [
+              -1.0
+            ],
+            "valueBoolList": null,
+            "valueVector3": null
+          },
+          "settingSortOrder": 3,
+          "settingItemType": "Slider",
+          "dropdownOptionTextList": [],
+          "dropdownOptionTextListGetFunction": "",
+          "dropdownOptionGetFunction": "",
+          "dropdownOptionSelectFunction": "",
+          "sliderIconList": [
+            "audio_mute",
+            "audio_normal"
+          ],
+          "sliderIconRangeList": [
+            0.0,
+            10.0
+          ],
+          "sliderWholeNumbers": 1,
+          "sliderMinValue": 0.0,
+          "sliderMaxValue": 10.0,
+          "sliderValueGetFunction": "SliderGetMusicVolume",
+          "sliderValueSetFunction": "SliderSetMusicVolume",
+          "buttonText": {
+            "text": "",
+            "id": ""
+          },
+          "buttonIcon": "",
+          "buttonGetStateFunction": "",
+          "buttonOnClickFunction": ""
+        },
+        "audio_sfx": {
+          "settingId": "audio_sfx",
+          "settingTabId": "gameSetting_audio",
+          "settingText": {
+            "text": "音效音量",
+            "id": "482D3C925D688ECC"
+          },
+          "isDefaultValueValid": 0,
+          "settingDefaultValue": {
+            "valueType": 0,
+            "realType": 0,
+            "valueStringList": [
+              "-1"
+            ],
+            "valueIntList": [
+              -1
+            ],
+            "valueFloatList": [
+              -1.0
+            ],
+            "valueBoolList": null,
+            "valueVector3": null
+          },
+          "settingSortOrder": 4,
+          "settingItemType": "Slider",
+          "dropdownOptionTextList": [],
+          "dropdownOptionTextListGetFunction": "",
+          "dropdownOptionGetFunction": "",
+          "dropdownOptionSelectFunction": "",
+          "sliderIconList": [
+            "audio_mute",
+            "audio_normal"
+          ],
+          "sliderIconRangeList": [
+            0.0,
+            10.0
+          ],
+          "sliderWholeNumbers": 1,
+          "sliderMinValue": 0.0,
+          "sliderMaxValue": 10.0,
+          "sliderValueGetFunction": "SliderGetSfxVolume",
+          "sliderValueSetFunction": "SliderSetSfxVolume",
+          "buttonText": {
+            "text": "",
+            "id": ""
+          },
+          "buttonIcon": "",
+          "buttonGetStateFunction": "",
+          "buttonOnClickFunction": ""
+        },
+        "audio_voice": {
+          "settingId": "audio_voice",
+          "settingTabId": "gameSetting_audio",
+          "settingText": {
+            "text": "语音音量",
+            "id": "B6CAB2D767EE65F9"
+          },
+          "isDefaultValueValid": 0,
+          "settingDefaultValue": {
+            "valueType": 0,
+            "realType": 0,
+            "valueStringList": [
+              "-1"
+            ],
+            "valueIntList": [
+              -1
+            ],
+            "valueFloatList": [
+              -1.0
+            ],
+            "valueBoolList": null,
+            "valueVector3": null
+          },
+          "settingSortOrder": 2,
+          "settingItemType": "Slider",
+          "dropdownOptionTextList": [],
+          "dropdownOptionTextListGetFunction": "",
+          "dropdownOptionGetFunction": "",
+          "dropdownOptionSelectFunction": "",
+          "sliderIconList": [
+            "audio_mute",
+            "audio_normal"
+          ],
+          "sliderIconRangeList": [
+            0.0,
+            10.0
+          ],
+          "sliderWholeNumbers": 1,
+          "sliderMinValue": 0.0,
+          "sliderMaxValue": 10.0,
+          "sliderValueGetFunction": "SliderGetVoiceVolume",
+          "sliderValueSetFunction": "SliderSetVoiceVolume",
+          "buttonText": {
+            "text": "",
+            "id": ""
+          },
+          "buttonIcon": "",
+          "buttonGetStateFunction": "",
+          "buttonOnClickFunction": ""
+        }
+      }
+    },
+    "gameSetting_controller": {
+      "tabId": "gameSetting_controller",
+      "tabIcon": "controller",
+      "tabText": {
+        "text": "按键设置",
+        "id": "718F3FE783D4BAE2"
+      },
+      "tabSortOrder": 4,
+      "tabItems": {}
+    },
+    "gameSetting_video": {
+      "tabId": "gameSetting_video",
+      "tabIcon": "video",
+      "tabText": {
+        "text": "图像设置",
+        "id": "E0348355E28D1251"
+      },
+      "tabSortOrder": 1,
+      "tabItems": {
+        "video_frame_rate": {
+          "settingId": "video_frame_rate",
+          "settingTabId": "gameSetting_video",
+          "settingText": {
+            "text": "帧率",
+            "id": "1A64CA143EDE0FEC"
+          },
+          "isDefaultValueValid": 0,
+          "settingDefaultValue": {
+            "valueType": 0,
+            "realType": 0,
+            "valueStringList": [
+              "-1"
+            ],
+            "valueIntList": [
+              -1
+            ],
+            "valueFloatList": [
+              -1.0
+            ],
+            "valueBoolList": null,
+            "valueVector3": null
+          },
+          "settingSortOrder": 4,
+          "settingItemType": "Dropdown",
+          "dropdownOptionTextList": [
+            {
+              "text": "60",
+              "id": "C6A3844418671FEE"
+            },
+            {
+              "text": "30",
+              "id": "74ABA6DB4783465C"
+            },
+            {
+              "text": "",
+              "id": ""
+            },
+            {
+              "text": "",
+              "id": ""
+            },
+            {
+              "text": "",
+              "id": ""
+            }
+          ],
+          "dropdownOptionTextListGetFunction": "",
+          "dropdownOptionGetFunction": "",
+          "dropdownOptionSelectFunction": "DropdownOnSelectVideoFrameRate",
+          "sliderIconList": null,
+          "sliderIconRangeList": null,
+          "sliderWholeNumbers": 0,
+          "sliderMinValue": 0.0,
+          "sliderMaxValue": 1.0,
+          "sliderValueGetFunction": "",
+          "sliderValueSetFunction": "",
+          "buttonText": {
+            "text": "",
+            "id": ""
+          },
+          "buttonIcon": "",
+          "buttonGetStateFunction": "",
+          "buttonOnClickFunction": ""
+        },
+        "video_quality": {
+          "settingId": "video_quality",
+          "settingTabId": "gameSetting_video",
+          "settingText": {
+            "text": "画面质量",
+            "id": "1A407377DF149790"
+          },
+          "isDefaultValueValid": 0,
+          "settingDefaultValue": {
+            "valueType": 0,
+            "realType": 0,
+            "valueStringList": [
+              "-1"
+            ],
+            "valueIntList": [
+              -1
+            ],
+            "valueFloatList": [
+              -1.0
+            ],
+            "valueBoolList": null,
+            "valueVector3": null
+          },
+          "settingSortOrder": 1,
+          "settingItemType": "Dropdown",
+          "dropdownOptionTextList": [
+            {
+              "text": "高",
+              "id": "1B49A1B23C7894B0"
+            },
+            {
+              "text": "中",
+              "id": "D61A6908C73F3AF2"
+            },
+            {
+              "text": "低",
+              "id": "E2FFC5375BAE7522"
+            },
+            {
+              "text": "极低",
+              "id": "BBAAE4ADA11B25B2"
+            },
+            {
+              "text": "",
+              "id": ""
+            }
+          ],
+          "dropdownOptionTextListGetFunction": "",
+          "dropdownOptionGetFunction": "",
+          "dropdownOptionSelectFunction": "DropdownOnSelectVideoQuality",
+          "sliderIconList": null,
+          "sliderIconRangeList": null,
+          "sliderWholeNumbers": 0,
+          "sliderMinValue": 0.0,
+          "sliderMaxValue": 1.0,
+          "sliderValueGetFunction": "",
+          "sliderValueSetFunction": "",
+          "buttonText": {
+            "text": "",
+            "id": ""
+          },
+          "buttonIcon": "",
+          "buttonGetStateFunction": "",
+          "buttonOnClickFunction": ""
+        },
+        "video_resolution": {
+          "settingId": "video_resolution",
+          "settingTabId": "gameSetting_video",
+          "settingText": {
+            "text": "分辨率",
+            "id": "8F6061A97CEBF93E"
+          },
+          "isDefaultValueValid": 1,
+          "settingDefaultValue": {
+            "valueType": 0,
+            "realType": 0,
+            "valueStringList": [
+              "1"
+            ],
+            "valueIntList": [
+              1
+            ],
+            "valueFloatList": [
+              1.0
+            ],
+            "valueBoolList": null,
+            "valueVector3": null
+          },
+          "settingSortOrder": 3,
+          "settingItemType": "Dropdown",
+          "dropdownOptionTextList": [
+            {
+              "text": "",
+              "id": ""
+            },
+            {
+              "text": "",
+              "id": ""
+            },
+            {
+              "text": "",
+              "id": ""
+            },
+            {
+              "text": "",
+              "id": ""
+            },
+            {
+              "text": "",
+              "id": ""
+            }
+          ],
+          "dropdownOptionTextListGetFunction": "DropdownGetVideoResolutionTextList",
+          "dropdownOptionGetFunction": "DropdownGetIndexVideoResolution",
+          "dropdownOptionSelectFunction": "DropdownOnSelectVideoResolution",
+          "sliderIconList": null,
+          "sliderIconRangeList": null,
+          "sliderWholeNumbers": 0,
+          "sliderMinValue": 0.0,
+          "sliderMaxValue": 1.0,
+          "sliderValueGetFunction": "",
+          "sliderValueSetFunction": "",
+          "buttonText": {
+            "text": "",
+            "id": ""
+          },
+          "buttonIcon": "",
+          "buttonGetStateFunction": "",
+          "buttonOnClickFunction": ""
+        },
+        "video_screen_mode": {
+          "settingId": "video_screen_mode",
+          "settingTabId": "gameSetting_video",
+          "settingText": {
+            "text": "屏幕模式",
+            "id": "518B18DCEACA5DFA"
+          },
+          "isDefaultValueValid": 0,
+          "settingDefaultValue": {
+            "valueType": 0,
+            "realType": 0,
+            "valueStringList": [
+              "-1"
+            ],
+            "valueIntList": [
+              -1
+            ],
+            "valueFloatList": [
+              -1.0
+            ],
+            "valueBoolList": null,
+            "valueVector3": null
+          },
+          "settingSortOrder": 2,
+          "settingItemType": "Dropdown",
+          "dropdownOptionTextList": [
+            {
+              "text": "全屏幕",
+              "id": "18C9DE1DE2F025D4"
+            },
+            {
+              "text": "窗口化",
+              "id": "4ABD8287717B1EA6"
+            },
+            {
+              "text": "",
+              "id": ""
+            },
+            {
+              "text": "",
+              "id": ""
+            },
+            {
+              "text": "",
+              "id": ""
+            }
+          ],
+          "dropdownOptionTextListGetFunction": "",
+          "dropdownOptionGetFunction": "",
+          "dropdownOptionSelectFunction": "DropdownOnSelectVideoScreenMode",
+          "sliderIconList": null,
+          "sliderIconRangeList": null,
+          "sliderWholeNumbers": 0,
+          "sliderMinValue": 0.0,
+          "sliderMaxValue": 1.0,
+          "sliderValueGetFunction": "",
+          "sliderValueSetFunction": "",
+          "buttonText": {
+            "text": "",
+            "id": ""
+          },
+          "buttonIcon": "",
+          "buttonGetStateFunction": "",
+          "buttonOnClickFunction": ""
+        }
+      }
+    }
+  },
+  "settingIdTable": {
+    "account_goto_protocol": "gameSetting_account",
+    "audio_global": "gameSetting_audio",
+    "audio_music": "gameSetting_audio",
+    "audio_sfx": "gameSetting_audio",
+    "audio_voice": "gameSetting_audio",
+    "video_frame_rate": "gameSetting_video",
+    "video_quality": "gameSetting_video",
+    "video_resolution": "gameSetting_video",
+    "video_screen_mode": "gameSetting_video"
+  }
+}

@@ -1,0 +1,966 @@
+{
+  "blocShopItemTable": {
+    "bloc01_shop": {
+      "map": {
+        "1": {
+          "list": [
+            {
+              "id": 1,
+              "shopId": "bloc01_shop",
+              "itemCount": 100,
+              "itemId": "item_expcard_2_1",
+              "availCount": 4,
+              "sortId": 1,
+              "moneyId": "item_bloc_tundra_gold",
+              "price": 100
+            },
+            {
+              "id": 2,
+              "shopId": "bloc01_shop",
+              "itemCount": 20,
+              "itemId": "item_expcard_2_2",
+              "availCount": 4,
+              "sortId": 2,
+              "moneyId": "item_bloc_tundra_gold",
+              "price": 100
+            },
+            {
+              "id": 3,
+              "shopId": "bloc01_shop",
+              "itemCount": 50,
+              "itemId": "item_mtl_stageup_normal_01",
+              "availCount": 2,
+              "sortId": 3,
+              "moneyId": "item_bloc_tundra_gold",
+              "price": 200
+            },
+            {
+              "id": 4,
+              "shopId": "bloc01_shop",
+              "itemCount": 50,
+              "itemId": "item_mtl_stageup_normal_02",
+              "availCount": 2,
+              "sortId": 4,
+              "moneyId": "item_bloc_tundra_gold",
+              "price": 200
+            },
+            {
+              "id": 5,
+              "shopId": "bloc01_shop",
+              "itemCount": 50,
+              "itemId": "item_mtl_skillup_normal_01",
+              "availCount": 2,
+              "sortId": 5,
+              "moneyId": "item_bloc_tundra_gold",
+              "price": 200
+            },
+            {
+              "id": 6,
+              "shopId": "bloc01_shop",
+              "itemCount": 50,
+              "itemId": "item_mtl_skillup_normal_02",
+              "availCount": 2,
+              "sortId": 6,
+              "moneyId": "item_bloc_tundra_gold",
+              "price": 200
+            },
+            {
+              "id": 7,
+              "shopId": "bloc01_shop",
+              "itemCount": 100,
+              "itemId": "item_weapon_upgrade_low",
+              "availCount": 4,
+              "sortId": 7,
+              "moneyId": "item_bloc_tundra_gold",
+              "price": 100
+            },
+            {
+              "id": 8,
+              "shopId": "bloc01_shop",
+              "itemCount": 20,
+              "itemId": "item_weapon_upgrade_mid",
+              "availCount": 4,
+              "sortId": 8,
+              "moneyId": "item_bloc_tundra_gold",
+              "price": 100
+            },
+            {
+              "id": 9,
+              "shopId": "bloc01_shop",
+              "itemCount": 50,
+              "itemId": "item_weapon_breakthrough_a1",
+              "availCount": 2,
+              "sortId": 9,
+              "moneyId": "item_bloc_tundra_gold",
+              "price": 200
+            },
+            {
+              "id": 10,
+              "shopId": "bloc01_shop",
+              "itemCount": 50,
+              "itemId": "item_weapon_breakthrough_b1",
+              "availCount": 2,
+              "sortId": 10,
+              "moneyId": "item_bloc_tundra_gold",
+              "price": 200
+            }
+          ]
+        },
+        "2": {
+          "list": [
+            {
+              "id": 13,
+              "shopId": "bloc01_shop",
+              "itemCount": 25,
+              "itemId": "item_mtl_stageup_rare_01",
+              "availCount": 2,
+              "sortId": 13,
+              "moneyId": "item_bloc_tundra_gold",
+              "price": 200
+            },
+            {
+              "id": 14,
+              "shopId": "bloc01_shop",
+              "itemCount": 25,
+              "itemId": "item_mtl_stageup_rare_02",
+              "availCount": 2,
+              "sortId": 14,
+              "moneyId": "item_bloc_tundra_gold",
+              "price": 200
+            }
+          ]
+        },
+        "3": {
+          "list": [
+            {
+              "id": 11,
+              "shopId": "bloc01_shop",
+              "itemCount": 50,
+              "itemId": "item_expcard_3_1",
+              "availCount": 4,
+              "sortId": 11,
+              "moneyId": "item_bloc_tundra_gold",
+              "price": 100
+            },
+            {
+              "id": 12,
+              "shopId": "bloc01_shop",
+              "itemCount": 10,
+              "itemId": "item_expcard_3_2",
+              "availCount": 4,
+              "sortId": 12,
+              "moneyId": "item_bloc_tundra_gold",
+              "price": 100
+            }
+          ]
+        },
+        "4": {
+          "list": [
+            {
+              "id": 17,
+              "shopId": "bloc01_shop",
+              "itemCount": 25,
+              "itemId": "item_weapon_breakthrough_a2",
+              "availCount": 2,
+              "sortId": 17,
+              "moneyId": "item_bloc_tundra_gold",
+              "price": 200
+            },
+            {
+              "id": 18,
+              "shopId": "bloc01_shop",
+              "itemCount": 25,
+              "itemId": "item_weapon_breakthrough_b2",
+              "availCount": 2,
+              "sortId": 18,
+              "moneyId": "item_bloc_tundra_gold",
+              "price": 200
+            }
+          ]
+        },
+        "5": {
+          "list": [
+            {
+              "id": 15,
+              "shopId": "bloc01_shop",
+              "itemCount": 25,
+              "itemId": "item_mtl_skillup_rare_01",
+              "availCount": 2,
+              "sortId": 15,
+              "moneyId": "item_bloc_tundra_gold",
+              "price": 200
+            },
+            {
+              "id": 16,
+              "shopId": "bloc01_shop",
+              "itemCount": 25,
+              "itemId": "item_mtl_skillup_rare_02",
+              "availCount": 2,
+              "sortId": 16,
+              "moneyId": "item_bloc_tundra_gold",
+              "price": 200
+            }
+          ]
+        }
+      }
+    },
+    "bloc02_shop": {
+      "map": {
+        "1": {
+          "list": [
+            {
+              "id": 19,
+              "shopId": "bloc02_shop",
+              "itemCount": 100,
+              "itemId": "item_expcard_2_1",
+              "availCount": 4,
+              "sortId": 1,
+              "moneyId": "item_bloc_tundra_gold",
+              "price": 100
+            },
+            {
+              "id": 20,
+              "shopId": "bloc02_shop",
+              "itemCount": 20,
+              "itemId": "item_expcard_2_2",
+              "availCount": 4,
+              "sortId": 2,
+              "moneyId": "item_bloc_tundra_gold",
+              "price": 100
+            },
+            {
+              "id": 21,
+              "shopId": "bloc02_shop",
+              "itemCount": 50,
+              "itemId": "item_mtl_stageup_normal_01",
+              "availCount": 2,
+              "sortId": 3,
+              "moneyId": "item_bloc_tundra_gold",
+              "price": 200
+            },
+            {
+              "id": 22,
+              "shopId": "bloc02_shop",
+              "itemCount": 50,
+              "itemId": "item_mtl_stageup_normal_02",
+              "availCount": 2,
+              "sortId": 4,
+              "moneyId": "item_bloc_tundra_gold",
+              "price": 200
+            },
+            {
+              "id": 23,
+              "shopId": "bloc02_shop",
+              "itemCount": 50,
+              "itemId": "item_mtl_skillup_normal_01",
+              "availCount": 2,
+              "sortId": 5,
+              "moneyId": "item_bloc_tundra_gold",
+              "price": 200
+            },
+            {
+              "id": 24,
+              "shopId": "bloc02_shop",
+              "itemCount": 50,
+              "itemId": "item_mtl_skillup_normal_02",
+              "availCount": 2,
+              "sortId": 6,
+              "moneyId": "item_bloc_tundra_gold",
+              "price": 200
+            },
+            {
+              "id": 25,
+              "shopId": "bloc02_shop",
+              "itemCount": 100,
+              "itemId": "item_weapon_upgrade_low",
+              "availCount": 4,
+              "sortId": 7,
+              "moneyId": "item_bloc_tundra_gold",
+              "price": 100
+            },
+            {
+              "id": 26,
+              "shopId": "bloc02_shop",
+              "itemCount": 20,
+              "itemId": "item_weapon_upgrade_mid",
+              "availCount": 4,
+              "sortId": 8,
+              "moneyId": "item_bloc_tundra_gold",
+              "price": 100
+            },
+            {
+              "id": 27,
+              "shopId": "bloc02_shop",
+              "itemCount": 50,
+              "itemId": "item_weapon_breakthrough_a1",
+              "availCount": 2,
+              "sortId": 9,
+              "moneyId": "item_bloc_tundra_gold",
+              "price": 200
+            },
+            {
+              "id": 28,
+              "shopId": "bloc02_shop",
+              "itemCount": 50,
+              "itemId": "item_weapon_breakthrough_b1",
+              "availCount": 2,
+              "sortId": 10,
+              "moneyId": "item_bloc_tundra_gold",
+              "price": 200
+            }
+          ]
+        },
+        "2": {
+          "list": [
+            {
+              "id": 31,
+              "shopId": "bloc02_shop",
+              "itemCount": 25,
+              "itemId": "item_mtl_stageup_rare_01",
+              "availCount": 2,
+              "sortId": 13,
+              "moneyId": "item_bloc_tundra_gold",
+              "price": 200
+            },
+            {
+              "id": 32,
+              "shopId": "bloc02_shop",
+              "itemCount": 25,
+              "itemId": "item_mtl_stageup_rare_02",
+              "availCount": 2,
+              "sortId": 14,
+              "moneyId": "item_bloc_tundra_gold",
+              "price": 200
+            }
+          ]
+        },
+        "3": {
+          "list": [
+            {
+              "id": 29,
+              "shopId": "bloc02_shop",
+              "itemCount": 50,
+              "itemId": "item_expcard_3_1",
+              "availCount": 4,
+              "sortId": 11,
+              "moneyId": "item_bloc_tundra_gold",
+              "price": 100
+            },
+            {
+              "id": 30,
+              "shopId": "bloc02_shop",
+              "itemCount": 10,
+              "itemId": "item_expcard_3_2",
+              "availCount": 4,
+              "sortId": 12,
+              "moneyId": "item_bloc_tundra_gold",
+              "price": 100
+            }
+          ]
+        },
+        "4": {
+          "list": [
+            {
+              "id": 35,
+              "shopId": "bloc02_shop",
+              "itemCount": 25,
+              "itemId": "item_weapon_breakthrough_a2",
+              "availCount": 2,
+              "sortId": 17,
+              "moneyId": "item_bloc_tundra_gold",
+              "price": 200
+            },
+            {
+              "id": 36,
+              "shopId": "bloc02_shop",
+              "itemCount": 25,
+              "itemId": "item_weapon_breakthrough_b2",
+              "availCount": 2,
+              "sortId": 18,
+              "moneyId": "item_bloc_tundra_gold",
+              "price": 200
+            }
+          ]
+        },
+        "5": {
+          "list": [
+            {
+              "id": 33,
+              "shopId": "bloc02_shop",
+              "itemCount": 25,
+              "itemId": "item_mtl_skillup_rare_01",
+              "availCount": 2,
+              "sortId": 15,
+              "moneyId": "item_bloc_tundra_gold",
+              "price": 200
+            },
+            {
+              "id": 34,
+              "shopId": "bloc02_shop",
+              "itemCount": 25,
+              "itemId": "item_mtl_skillup_rare_02",
+              "availCount": 2,
+              "sortId": 16,
+              "moneyId": "item_bloc_tundra_gold",
+              "price": 200
+            }
+          ]
+        }
+      }
+    },
+    "temp_shop": {
+      "map": {
+        "1": {
+          "list": [
+            {
+              "id": 52,
+              "shopId": "temp_shop",
+              "itemCount": 1,
+              "itemId": "wpn_0002",
+              "availCount": 1,
+              "sortId": 1,
+              "moneyId": "item_diamond",
+              "price": 100
+            },
+            {
+              "id": 53,
+              "shopId": "temp_shop",
+              "itemCount": 1,
+              "itemId": "wpn_0008",
+              "availCount": 1,
+              "sortId": 2,
+              "moneyId": "item_diamond",
+              "price": 100
+            },
+            {
+              "id": 54,
+              "shopId": "temp_shop",
+              "itemCount": 1,
+              "itemId": "wpn_0009",
+              "availCount": 1,
+              "sortId": 3,
+              "moneyId": "item_diamond",
+              "price": 100
+            },
+            {
+              "id": 55,
+              "shopId": "temp_shop",
+              "itemCount": 1,
+              "itemId": "wpn_0035",
+              "availCount": 1,
+              "sortId": 4,
+              "moneyId": "item_diamond",
+              "price": 100
+            },
+            {
+              "id": 56,
+              "shopId": "temp_shop",
+              "itemCount": 1,
+              "itemId": "wpn_0036",
+              "availCount": 1,
+              "sortId": 5,
+              "moneyId": "item_diamond",
+              "price": 100
+            },
+            {
+              "id": 57,
+              "shopId": "temp_shop",
+              "itemCount": 1,
+              "itemId": "wpn_0037",
+              "availCount": 1,
+              "sortId": 6,
+              "moneyId": "item_diamond",
+              "price": 100
+            },
+            {
+              "id": 58,
+              "shopId": "temp_shop",
+              "itemCount": 1,
+              "itemId": "wpn_0038",
+              "availCount": 1,
+              "sortId": 7,
+              "moneyId": "item_diamond",
+              "price": 100
+            },
+            {
+              "id": 59,
+              "shopId": "temp_shop",
+              "itemCount": 1,
+              "itemId": "chr_0009_azrila",
+              "availCount": 1,
+              "sortId": 8,
+              "moneyId": "item_diamond",
+              "price": 150
+            },
+            {
+              "id": 60,
+              "shopId": "temp_shop",
+              "itemCount": 1,
+              "itemId": "chr_0011_seraph",
+              "availCount": 1,
+              "sortId": 9,
+              "moneyId": "item_diamond",
+              "price": 150
+            },
+            {
+              "id": 61,
+              "shopId": "temp_shop",
+              "itemCount": 1,
+              "itemId": "chr_0012_avywen",
+              "availCount": 1,
+              "sortId": 10,
+              "moneyId": "item_diamond",
+              "price": 150
+            },
+            {
+              "id": 62,
+              "shopId": "temp_shop",
+              "itemCount": 1,
+              "itemId": "chr_0013_aglina",
+              "availCount": 1,
+              "sortId": 11,
+              "moneyId": "item_diamond",
+              "price": 150
+            }
+          ]
+        }
+      }
+    }
+  },
+  "blocTable": {
+    "tundra_bloc01_endfield": {
+      "blocId": "tundra_bloc01_endfield",
+      "regionId": "region_102",
+      "unionName": {
+        "text": "终末地·工程中心",
+        "id": "44C4C5CE895A4770"
+      },
+      "name": {
+        "text": "集成建设",
+        "id": "F8B049D1DDCB76FC"
+      },
+      "icon": "Faction_logo01",
+      "engName": "Endfield Engineering Dept",
+      "shopID": "bloc01_shop",
+      "levelData": {
+        "1": {
+          "level": 1,
+          "name": {
+            "text": "陌生",
+            "id": "B8B4DBA3E1BF8530"
+          },
+          "exp": 0,
+          "rewardId": "",
+          "unlockIds": [
+            "bloc01_1_unlock"
+          ]
+        },
+        "2": {
+          "level": 2,
+          "name": {
+            "text": "了解",
+            "id": "2BC7AB23B80F30FC"
+          },
+          "exp": 100,
+          "rewardId": "reward_bloc01_level2",
+          "unlockIds": [
+            "bloc01_2_unlock"
+          ]
+        },
+        "3": {
+          "level": 3,
+          "name": {
+            "text": "熟悉",
+            "id": "E146DAC835663899"
+          },
+          "exp": 200,
+          "rewardId": "reward_bloc01_level3",
+          "unlockIds": [
+            "bloc01_3_unlock"
+          ]
+        },
+        "4": {
+          "level": 4,
+          "name": {
+            "text": "接纳",
+            "id": "F550D94364C67B10"
+          },
+          "exp": 300,
+          "rewardId": "reward_bloc01_level4",
+          "unlockIds": [
+            "bloc01_4_unlock"
+          ]
+        },
+        "5": {
+          "level": 5,
+          "name": {
+            "text": "友好",
+            "id": "2E5228530F1D4C69"
+          },
+          "exp": 400,
+          "rewardId": "reward_bloc01_level5",
+          "unlockIds": [
+            "bloc01_5_unlock"
+          ]
+        },
+        "6": {
+          "level": 6,
+          "name": {
+            "text": "信赖",
+            "id": "134F51D8DF38227B"
+          },
+          "exp": 500,
+          "rewardId": "reward_bloc01_level6",
+          "unlockIds": [
+            "bloc01_6_unlock"
+          ]
+        }
+      }
+    },
+    "tundra_bloc02_ursus": {
+      "blocId": "tundra_bloc02_ursus",
+      "regionId": "region_102",
+      "unionName": {
+        "text": "联盟工团",
+        "id": "6C523D8C95B3AC84"
+      },
+      "name": {
+        "text": "重工拓展",
+        "id": "3B548585CE882FF2"
+      },
+      "icon": "Faction_logo02",
+      "engName": "Ursus Labour Union",
+      "shopID": "bloc02_shop",
+      "levelData": {
+        "1": {
+          "level": 1,
+          "name": {
+            "text": "陌生",
+            "id": "9299DFF2456A2837"
+          },
+          "exp": 0,
+          "rewardId": "",
+          "unlockIds": [
+            "bloc02_1_unlock"
+          ]
+        },
+        "2": {
+          "level": 2,
+          "name": {
+            "text": "了解",
+            "id": "363695838DB1CDC8"
+          },
+          "exp": 100,
+          "rewardId": "reward_bloc02_level2",
+          "unlockIds": [
+            "bloc02_2_unlock"
+          ]
+        },
+        "3": {
+          "level": 3,
+          "name": {
+            "text": "熟悉",
+            "id": "3B437DB79047BDEC"
+          },
+          "exp": 200,
+          "rewardId": "reward_bloc02_level3",
+          "unlockIds": [
+            "bloc02_3_unlock"
+          ]
+        },
+        "4": {
+          "level": 4,
+          "name": {
+            "text": "接纳",
+            "id": "BF56DF8348DAC72D"
+          },
+          "exp": 300,
+          "rewardId": "reward_bloc02_level4",
+          "unlockIds": [
+            "bloc02_4_unlock"
+          ]
+        },
+        "5": {
+          "level": 5,
+          "name": {
+            "text": "友好",
+            "id": "518FB43DFD57F7BA"
+          },
+          "exp": 400,
+          "rewardId": "reward_bloc02_level5",
+          "unlockIds": [
+            "bloc02_5_unlock"
+          ]
+        },
+        "6": {
+          "level": 6,
+          "name": {
+            "text": "信赖",
+            "id": "65AD9BFCF6CB2EF9"
+          },
+          "exp": 500,
+          "rewardId": "reward_bloc02_level6",
+          "unlockIds": [
+            "bloc02_6_unlock"
+          ]
+        }
+      }
+    }
+  },
+  "blocUnlockTable": {
+    "bloc01_1_unlock": {
+      "desc": {
+        "text": "解锁【工程中心货仓】",
+        "id": "1B3E188E18832E50"
+      },
+      "isDiscount": 0
+    },
+    "bloc01_2_unlock": {
+      "desc": {
+        "text": "每日【工程中心货仓】有1件随机商品打6折",
+        "id": "E7D5C5AB505B3230"
+      },
+      "isDiscount": 0
+    },
+    "bloc01_3_unlock": {
+      "desc": {
+        "text": "每日【工程中心货仓】有2件随机商品打6折",
+        "id": "DB877EE8388274C3"
+      },
+      "isDiscount": 0
+    },
+    "bloc01_4_unlock": {
+      "desc": {
+        "text": "每日【工程中心货仓】有3件随机商品打6折",
+        "id": "B0EE0F89FEBE13C9"
+      },
+      "isDiscount": 0
+    },
+    "bloc01_5_unlock": {
+      "desc": {
+        "text": "每日【工程中心货仓】有4件随机商品打6折",
+        "id": "84895B9D47AE079C"
+      },
+      "isDiscount": 0
+    },
+    "bloc01_6_unlock": {
+      "desc": {
+        "text": "每日【工程中心货仓】有5件随机商品打6折",
+        "id": "69389F9DB25767BB"
+      },
+      "isDiscount": 0
+    },
+    "bloc02_1_unlock": {
+      "desc": {
+        "text": "解锁【工团账外仓储】",
+        "id": "96CAFDD0AA318A23"
+      },
+      "isDiscount": 0
+    },
+    "bloc02_2_unlock": {
+      "desc": {
+        "text": "每日【工团账外仓储】有1件随机商品打6折",
+        "id": "02D554093382F117"
+      },
+      "isDiscount": 0
+    },
+    "bloc02_3_unlock": {
+      "desc": {
+        "text": "每日【工团账外仓储】有2件随机商品打6折",
+        "id": "B48B4FB7826F0E06"
+      },
+      "isDiscount": 0
+    },
+    "bloc02_4_unlock": {
+      "desc": {
+        "text": "每日【工团账外仓储】有3件随机商品打6折",
+        "id": "1473A36303B312B8"
+      },
+      "isDiscount": 0
+    },
+    "bloc02_5_unlock": {
+      "desc": {
+        "text": "每日【工团账外仓储】有4件随机商品打6折",
+        "id": "7582ADFDB27E65ED"
+      },
+      "isDiscount": 0
+    },
+    "bloc02_6_unlock": {
+      "desc": {
+        "text": "每日【工团账外仓储】有5件随机商品打6折",
+        "id": "5B0B3CC5EF03F5E1"
+      },
+      "isDiscount": 0
+    }
+  },
+  "blocMissionTable": {
+    "mission_blc_e1m1": {
+      "missionId": "mission_blc_e1m1",
+      "difficulty": {
+        "text": "推荐队伍成员15级后挑战",
+        "id": "5AE26DA5875B5494"
+      }
+    },
+    "mission_blc_e1m10": {
+      "missionId": "mission_blc_e1m10",
+      "difficulty": {
+        "text": "推荐队伍成员25级后挑战",
+        "id": "1D2DF2BEE598A23E"
+      }
+    },
+    "mission_blc_e1m11": {
+      "missionId": "mission_blc_e1m11",
+      "difficulty": {
+        "text": "推荐队伍成员30级后挑战",
+        "id": "A8FA613DCC3B12AF"
+      }
+    },
+    "mission_blc_e1m12": {
+      "missionId": "mission_blc_e1m12",
+      "difficulty": {
+        "text": "推荐队伍成员30级后挑战",
+        "id": "8465F32E7FD02FEC"
+      }
+    },
+    "mission_blc_e1m13": {
+      "missionId": "mission_blc_e1m13",
+      "difficulty": {
+        "text": "推荐队伍成员32级后挑战",
+        "id": "35F2FBE30DEAF296"
+      }
+    },
+    "mission_blc_e1m14": {
+      "missionId": "mission_blc_e1m14",
+      "difficulty": {
+        "text": "推荐队伍成员32级后挑战",
+        "id": "16CCEFC307D5759E"
+      }
+    },
+    "mission_blc_e1m15": {
+      "missionId": "mission_blc_e1m15",
+      "difficulty": {
+        "text": "推荐队伍成员40级后挑战",
+        "id": "313F7136F4574AB7"
+      }
+    },
+    "mission_blc_e1m16": {
+      "missionId": "mission_blc_e1m16",
+      "difficulty": {
+        "text": "推荐队伍成员40级后挑战",
+        "id": "83DBA5A819D7BE4A"
+      }
+    },
+    "mission_blc_e1m17": {
+      "missionId": "mission_blc_e1m17",
+      "difficulty": {
+        "text": "推荐队伍成员40级后挑战",
+        "id": "2721145F94797566"
+      }
+    },
+    "mission_blc_e1m18": {
+      "missionId": "mission_blc_e1m18",
+      "difficulty": {
+        "text": "推荐队伍成员40级后挑战",
+        "id": "DEB4A0B63F196BD7"
+      }
+    },
+    "mission_blc_e1m19": {
+      "missionId": "mission_blc_e1m19",
+      "difficulty": {
+        "text": "推荐队伍成员40级后挑战",
+        "id": "1EC0EB1D8C3206E8"
+      }
+    },
+    "mission_blc_e1m2": {
+      "missionId": "mission_blc_e1m2",
+      "difficulty": {
+        "text": "推荐队伍成员15级后挑战",
+        "id": "CDF659ED1DA7E5A0"
+      }
+    },
+    "mission_blc_e1m20": {
+      "missionId": "mission_blc_e1m20",
+      "difficulty": {
+        "text": "推荐队伍成员40级后挑战",
+        "id": "66E64079299456FA"
+      }
+    },
+    "mission_blc_e1m21": {
+      "missionId": "mission_blc_e1m21",
+      "difficulty": {
+        "text": "推荐队伍成员42级后挑战",
+        "id": "718B0B0E5859D89C"
+      }
+    },
+    "mission_blc_e1m22": {
+      "missionId": "mission_blc_e1m22",
+      "difficulty": {
+        "text": "推荐队伍成员45级后挑战",
+        "id": "F0A1296C66D674F2"
+      }
+    },
+    "mission_blc_e1m23": {
+      "missionId": "mission_blc_e1m23",
+      "difficulty": {
+        "text": "推荐队伍成员48级后挑战",
+        "id": "CB3EEB95147CE7B3"
+      }
+    },
+    "mission_blc_e1m24": {
+      "missionId": "mission_blc_e1m24",
+      "difficulty": {
+        "text": "推荐队伍成员48级后挑战",
+        "id": "F0A5A6031C1CF4C1"
+      }
+    },
+    "mission_blc_e1m3": {
+      "missionId": "mission_blc_e1m3",
+      "difficulty": {
+        "text": "推荐队伍成员18级后挑战",
+        "id": "E0B28E74E5491D96"
+      }
+    },
+    "mission_blc_e1m4": {
+      "missionId": "mission_blc_e1m4",
+      "difficulty": {
+        "text": "推荐队伍成员18级后挑战",
+        "id": "8A4225C58A0B9678"
+      }
+    },
+    "mission_blc_e1m5": {
+      "missionId": "mission_blc_e1m5",
+      "difficulty": {
+        "text": "推荐队伍成员15级后挑战",
+        "id": "B2EB2AB61A4E566F"
+      }
+    },
+    "mission_blc_e1m6": {
+      "missionId": "mission_blc_e1m6",
+      "difficulty": {
+        "text": "推荐队伍成员20级后挑战",
+        "id": "85A481706C0DBB79"
+      }
+    },
+    "mission_blc_e1m7": {
+      "missionId": "mission_blc_e1m7",
+      "difficulty": {
+        "text": "推荐队伍成员20级后挑战",
+        "id": "575F05E7176BF0A5"
+      }
+    },
+    "mission_blc_e1m8": {
+      "missionId": "mission_blc_e1m8",
+      "difficulty": {
+        "text": "推荐队伍成员25级后挑战",
+        "id": "EBCF04A5E2C11963"
+      }
+    },
+    "mission_blc_e1m9": {
+      "missionId": "mission_blc_e1m9",
+      "difficulty": {
+        "text": "推荐队伍成员25级后挑战",
+        "id": "BDBDEE6628E7A45F"
+      }
+    }
+  }
+}

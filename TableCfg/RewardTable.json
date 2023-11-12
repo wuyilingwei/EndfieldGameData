@@ -1,0 +1,9057 @@
+{
+  "reward_006_e2m6_1": {
+    "rewardId": "reward_006_e2m6_1",
+    "itemBundles": [
+      {
+        "id": "item_quest_e2m6_battery",
+        "count": 1
+      }
+    ]
+  },
+  "reward_006_e2m6_2": {
+    "rewardId": "reward_006_e2m6_2",
+    "itemBundles": [
+      {
+        "id": "item_quest_e2m6_battery",
+        "count": 1
+      },
+      {
+        "id": "item_quest_e2m6_fixboard",
+        "count": 1
+      }
+    ]
+  },
+  "reward_bloc01_level2": {
+    "rewardId": "reward_bloc01_level2",
+    "itemBundles": [
+      {
+        "id": "item_ap_supply_nlt",
+        "count": 1
+      },
+      {
+        "id": "item_diamond",
+        "count": 10
+      },
+      {
+        "id": "item_gold",
+        "count": 600
+      },
+      {
+        "id": "wpn_0019",
+        "count": 1
+      }
+    ]
+  },
+  "reward_bloc01_level3": {
+    "rewardId": "reward_bloc01_level3",
+    "itemBundles": [
+      {
+        "id": "item_ap_supply_nlt",
+        "count": 1
+      },
+      {
+        "id": "item_diamond",
+        "count": 15
+      },
+      {
+        "id": "item_gold",
+        "count": 800
+      },
+      {
+        "id": "wpn_0020",
+        "count": 1
+      }
+    ]
+  },
+  "reward_bloc01_level4": {
+    "rewardId": "reward_bloc01_level4",
+    "itemBundles": [
+      {
+        "id": "item_ap_supply_nlt",
+        "count": 1
+      },
+      {
+        "id": "item_diamond",
+        "count": 20
+      },
+      {
+        "id": "item_gold",
+        "count": 1000
+      },
+      {
+        "id": "wpn_0014",
+        "count": 1
+      }
+    ]
+  },
+  "reward_bloc01_level5": {
+    "rewardId": "reward_bloc01_level5",
+    "itemBundles": [
+      {
+        "id": "item_ap_supply_nlt",
+        "count": 2
+      },
+      {
+        "id": "item_diamond",
+        "count": 25
+      },
+      {
+        "id": "item_gold",
+        "count": 1200
+      },
+      {
+        "id": "wpn_0012",
+        "count": 1
+      }
+    ]
+  },
+  "reward_bloc01_level6": {
+    "rewardId": "reward_bloc01_level6",
+    "itemBundles": [
+      {
+        "id": "item_ap_supply_nlt",
+        "count": 4
+      },
+      {
+        "id": "item_diamond",
+        "count": 30
+      },
+      {
+        "id": "item_gold",
+        "count": 1400
+      },
+      {
+        "id": "wpn_0033",
+        "count": 1
+      }
+    ]
+  },
+  "reward_bloc02_level2": {
+    "rewardId": "reward_bloc02_level2",
+    "itemBundles": [
+      {
+        "id": "item_ap_supply_nlt",
+        "count": 1
+      },
+      {
+        "id": "item_diamond",
+        "count": 10
+      },
+      {
+        "id": "item_gold",
+        "count": 600
+      },
+      {
+        "id": "wpn_0021",
+        "count": 1
+      }
+    ]
+  },
+  "reward_bloc02_level3": {
+    "rewardId": "reward_bloc02_level3",
+    "itemBundles": [
+      {
+        "id": "item_ap_supply_nlt",
+        "count": 1
+      },
+      {
+        "id": "item_diamond",
+        "count": 15
+      },
+      {
+        "id": "item_gold",
+        "count": 800
+      },
+      {
+        "id": "wpn_0022",
+        "count": 1
+      }
+    ]
+  },
+  "reward_bloc02_level4": {
+    "rewardId": "reward_bloc02_level4",
+    "itemBundles": [
+      {
+        "id": "item_ap_supply_nlt",
+        "count": 1
+      },
+      {
+        "id": "item_diamond",
+        "count": 20
+      },
+      {
+        "id": "item_gold",
+        "count": 1000
+      },
+      {
+        "id": "wpn_0023",
+        "count": 1
+      }
+    ]
+  },
+  "reward_bloc02_level5": {
+    "rewardId": "reward_bloc02_level5",
+    "itemBundles": [
+      {
+        "id": "item_ap_supply_nlt",
+        "count": 2
+      },
+      {
+        "id": "item_diamond",
+        "count": 25
+      },
+      {
+        "id": "item_gold",
+        "count": 1200
+      },
+      {
+        "id": "wpn_0011",
+        "count": 1
+      }
+    ]
+  },
+  "reward_bloc02_level6": {
+    "rewardId": "reward_bloc02_level6",
+    "itemBundles": [
+      {
+        "id": "item_ap_supply_nlt",
+        "count": 4
+      },
+      {
+        "id": "item_diamond",
+        "count": 30
+      },
+      {
+        "id": "item_gold",
+        "count": 1400
+      },
+      {
+        "id": "wpn_0034",
+        "count": 1
+      }
+    ]
+  },
+  "reward_default_empty": {
+    "rewardId": "reward_default_empty",
+    "itemBundles": [
+      {
+        "id": "item_gold",
+        "count": 1
+      },
+      {
+        "id": "item_diamond",
+        "count": 1
+      }
+    ]
+  },
+  "reward_doodad_bbflower_1": {
+    "rewardId": "reward_doodad_bbflower_1",
+    "itemBundles": [
+      {
+        "id": "item_plant_bbflower_1",
+        "count": 5
+      }
+    ]
+  },
+  "reward_doodad_insect_1": {
+    "rewardId": "reward_doodad_insect_1",
+    "itemBundles": [
+      {
+        "id": "item_plant_tundra_insect_1",
+        "count": 2
+      }
+    ]
+  },
+  "reward_doodad_insect_2": {
+    "rewardId": "reward_doodad_insect_2",
+    "itemBundles": [
+      {
+        "id": "item_plant_tundra_insect_2",
+        "count": 2
+      }
+    ]
+  },
+  "reward_doodad_iron_ore": {
+    "rewardId": "reward_doodad_iron_ore",
+    "itemBundles": [
+      {
+        "id": "item_iron_ore",
+        "count": 2
+      }
+    ]
+  },
+  "reward_doodad_moss_1": {
+    "rewardId": "reward_doodad_moss_1",
+    "itemBundles": [
+      {
+        "id": "item_plant_moss_1",
+        "count": 3
+      }
+    ]
+  },
+  "reward_doodad_moss_2": {
+    "rewardId": "reward_doodad_moss_2",
+    "itemBundles": [
+      {
+        "id": "item_plant_moss_2",
+        "count": 3
+      }
+    ]
+  },
+  "reward_doodad_moss_3": {
+    "rewardId": "reward_doodad_moss_3",
+    "itemBundles": [
+      {
+        "id": "item_plant_moss_3",
+        "count": 3
+      }
+    ]
+  },
+  "reward_doodad_originium_ore": {
+    "rewardId": "reward_doodad_originium_ore",
+    "itemBundles": [
+      {
+        "id": "item_originium_ore",
+        "count": 2
+      }
+    ]
+  },
+  "reward_doodad_quartz_sand": {
+    "rewardId": "reward_doodad_quartz_sand",
+    "itemBundles": [
+      {
+        "id": "item_quartz_sand",
+        "count": 2
+      }
+    ]
+  },
+  "reward_doodad_sp_metal_ore": {
+    "rewardId": "reward_doodad_sp_metal_ore",
+    "itemBundles": [
+      {
+        "id": "item_sp_metal_ore_1",
+        "count": 2
+      }
+    ]
+  },
+  "reward_doodad_tree_1": {
+    "rewardId": "reward_doodad_tree_1",
+    "itemBundles": [
+      {
+        "id": "item_plant_tundra_wood",
+        "count": 5
+      }
+    ]
+  },
+  "reward_dung01_puzzle01": {
+    "rewardId": "reward_dung01_puzzle01",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 8
+      },
+      {
+        "id": "item_gold",
+        "count": 1500
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 58
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 56
+      },
+      {
+        "id": "wpn_0014",
+        "count": 1
+      },
+      {
+        "id": "item_weapon_breakthrough_b1",
+        "count": 43
+      },
+      {
+        "id": "item_unit_t1_parts_hand_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_dung01_puzzle02": {
+    "rewardId": "reward_dung01_puzzle02",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 7
+      },
+      {
+        "id": "item_gold",
+        "count": 1372
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 53
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 51
+      },
+      {
+        "id": "wpn_0012",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_skillup_normal_02",
+        "count": 40
+      },
+      {
+        "id": "item_unit_t1_parts_edc_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_dung01_puzzle03": {
+    "rewardId": "reward_dung01_puzzle03",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 12
+      },
+      {
+        "id": "item_gold",
+        "count": 2268
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 87
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 85
+      },
+      {
+        "id": "wpn_0011",
+        "count": 1
+      },
+      {
+        "id": "item_weapon_breakthrough_a2",
+        "count": 33
+      },
+      {
+        "id": "item_unit_t3_suit_05_edc_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_dung_breakthrough_20": {
+    "rewardId": "reward_dung_breakthrough_20",
+    "itemBundles": [
+      {
+        "id": "item_weapon_breakthrough_a1",
+        "count": 21
+      },
+      {
+        "id": "item_weapon_breakthrough_b1",
+        "count": 21
+      }
+    ]
+  },
+  "reward_dung_breakthrough_30": {
+    "rewardId": "reward_dung_breakthrough_30",
+    "itemBundles": [
+      {
+        "id": "item_weapon_breakthrough_a1",
+        "count": 42
+      },
+      {
+        "id": "item_weapon_breakthrough_b1",
+        "count": 42
+      }
+    ]
+  },
+  "reward_dung_breakthrough_40": {
+    "rewardId": "reward_dung_breakthrough_40",
+    "itemBundles": [
+      {
+        "id": "item_weapon_breakthrough_a1",
+        "count": 75
+      },
+      {
+        "id": "item_weapon_breakthrough_b1",
+        "count": 75
+      }
+    ]
+  },
+  "reward_dung_breakthrough_50": {
+    "rewardId": "reward_dung_breakthrough_50",
+    "itemBundles": [
+      {
+        "id": "item_weapon_breakthrough_a2",
+        "count": 47
+      },
+      {
+        "id": "item_weapon_breakthrough_b2",
+        "count": 47
+      },
+      {
+        "id": "item_weapon_breakthrough_a1",
+        "count": 32
+      },
+      {
+        "id": "item_weapon_breakthrough_b1",
+        "count": 47
+      }
+    ]
+  },
+  "reward_dung_breakthrough_60": {
+    "rewardId": "reward_dung_breakthrough_60",
+    "itemBundles": [
+      {
+        "id": "item_weapon_breakthrough_a2",
+        "count": 76
+      },
+      {
+        "id": "item_weapon_breakthrough_b2",
+        "count": 76
+      },
+      {
+        "id": "item_weapon_breakthrough_a1",
+        "count": 52
+      },
+      {
+        "id": "item_weapon_breakthrough_b1",
+        "count": 76
+      }
+    ]
+  },
+  "reward_dung_exp_20": {
+    "rewardId": "reward_dung_exp_20",
+    "itemBundles": [
+      {
+        "id": "item_expcard_2_3",
+        "count": 5
+      },
+      {
+        "id": "item_expcard_2_2",
+        "count": 7
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 7
+      },
+      {
+        "id": "item_expcard_1",
+        "count": 115
+      }
+    ]
+  },
+  "reward_dung_exp_30": {
+    "rewardId": "reward_dung_exp_30",
+    "itemBundles": [
+      {
+        "id": "item_expcard_2_3",
+        "count": 11
+      },
+      {
+        "id": "item_expcard_2_2",
+        "count": 10
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 11
+      },
+      {
+        "id": "item_expcard_1",
+        "count": 115
+      }
+    ]
+  },
+  "reward_dung_exp_40": {
+    "rewardId": "reward_dung_exp_40",
+    "itemBundles": [
+      {
+        "id": "item_expcard_2_3",
+        "count": 19
+      },
+      {
+        "id": "item_expcard_2_2",
+        "count": 20
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 27
+      },
+      {
+        "id": "item_expcard_1",
+        "count": 115
+      }
+    ]
+  },
+  "reward_dung_exp_50": {
+    "rewardId": "reward_dung_exp_50",
+    "itemBundles": [
+      {
+        "id": "item_expcard_3_2",
+        "count": 60
+      },
+      {
+        "id": "item_expcard_3_1",
+        "count": 76
+      },
+      {
+        "id": "item_expcard_2_3",
+        "count": 8
+      },
+      {
+        "id": "item_expcard_2_2",
+        "count": 9
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 14
+      },
+      {
+        "id": "item_expcard_1",
+        "count": 115
+      }
+    ]
+  },
+  "reward_dung_exp_60": {
+    "rewardId": "reward_dung_exp_60",
+    "itemBundles": [
+      {
+        "id": "item_expcard_3_2",
+        "count": 97
+      },
+      {
+        "id": "item_expcard_3_1",
+        "count": 122
+      },
+      {
+        "id": "item_expcard_2_3",
+        "count": 13
+      },
+      {
+        "id": "item_expcard_2_2",
+        "count": 15
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 17
+      },
+      {
+        "id": "item_expcard_1",
+        "count": 115
+      }
+    ]
+  },
+  "reward_dung_gem_upgrade": {
+    "rewardId": "reward_dung_gem_upgrade",
+    "itemBundles": [
+      {
+        "id": "item_wpngem_catalyzer",
+        "count": 10
+      }
+    ]
+  },
+  "reward_dung_gold_20": {
+    "rewardId": "reward_dung_gold_20",
+    "itemBundles": [
+      {
+        "id": "item_gold",
+        "count": 1667
+      }
+    ]
+  },
+  "reward_dung_gold_30": {
+    "rewardId": "reward_dung_gold_30",
+    "itemBundles": [
+      {
+        "id": "item_gold",
+        "count": 3360
+      }
+    ]
+  },
+  "reward_dung_gold_40": {
+    "rewardId": "reward_dung_gold_40",
+    "itemBundles": [
+      {
+        "id": "item_gold",
+        "count": 6020
+      }
+    ]
+  },
+  "reward_dung_gold_50": {
+    "rewardId": "reward_dung_gold_50",
+    "itemBundles": [
+      {
+        "id": "item_gold",
+        "count": 10114
+      }
+    ]
+  },
+  "reward_dung_gold_60": {
+    "rewardId": "reward_dung_gold_60",
+    "itemBundles": [
+      {
+        "id": "item_gold",
+        "count": 16310
+      }
+    ]
+  },
+  "reward_dung_skillup_20": {
+    "rewardId": "reward_dung_skillup_20",
+    "itemBundles": [
+      {
+        "id": "item_mtl_skillup_normal_01",
+        "count": 21
+      },
+      {
+        "id": "item_mtl_skillup_normal_02",
+        "count": 21
+      }
+    ]
+  },
+  "reward_dung_skillup_30": {
+    "rewardId": "reward_dung_skillup_30",
+    "itemBundles": [
+      {
+        "id": "item_mtl_skillup_normal_01",
+        "count": 42
+      },
+      {
+        "id": "item_mtl_skillup_normal_02",
+        "count": 42
+      }
+    ]
+  },
+  "reward_dung_skillup_40": {
+    "rewardId": "reward_dung_skillup_40",
+    "itemBundles": [
+      {
+        "id": "item_mtl_skillup_normal_01",
+        "count": 75
+      },
+      {
+        "id": "item_mtl_skillup_normal_02",
+        "count": 75
+      }
+    ]
+  },
+  "reward_dung_skillup_50": {
+    "rewardId": "reward_dung_skillup_50",
+    "itemBundles": [
+      {
+        "id": "item_mtl_skillup_rare_01",
+        "count": 47
+      },
+      {
+        "id": "item_mtl_skillup_rare_02",
+        "count": 47
+      },
+      {
+        "id": "item_mtl_skillup_normal_01",
+        "count": 32
+      },
+      {
+        "id": "item_mtl_skillup_normal_02",
+        "count": 47
+      }
+    ]
+  },
+  "reward_dung_skillup_60": {
+    "rewardId": "reward_dung_skillup_60",
+    "itemBundles": [
+      {
+        "id": "item_mtl_skillup_rare_01",
+        "count": 76
+      },
+      {
+        "id": "item_mtl_skillup_rare_02",
+        "count": 76
+      },
+      {
+        "id": "item_mtl_skillup_normal_01",
+        "count": 52
+      },
+      {
+        "id": "item_mtl_skillup_normal_02",
+        "count": 76
+      }
+    ]
+  },
+  "reward_dung_stageup_20": {
+    "rewardId": "reward_dung_stageup_20",
+    "itemBundles": [
+      {
+        "id": "item_mtl_stageup_normal_01",
+        "count": 21
+      },
+      {
+        "id": "item_mtl_stageup_normal_02",
+        "count": 21
+      }
+    ]
+  },
+  "reward_dung_stageup_30": {
+    "rewardId": "reward_dung_stageup_30",
+    "itemBundles": [
+      {
+        "id": "item_mtl_stageup_normal_01",
+        "count": 42
+      },
+      {
+        "id": "item_mtl_stageup_normal_02",
+        "count": 42
+      }
+    ]
+  },
+  "reward_dung_stageup_40": {
+    "rewardId": "reward_dung_stageup_40",
+    "itemBundles": [
+      {
+        "id": "item_mtl_stageup_normal_01",
+        "count": 75
+      },
+      {
+        "id": "item_mtl_stageup_normal_02",
+        "count": 75
+      }
+    ]
+  },
+  "reward_dung_stageup_50": {
+    "rewardId": "reward_dung_stageup_50",
+    "itemBundles": [
+      {
+        "id": "item_mtl_stageup_rare_01",
+        "count": 47
+      },
+      {
+        "id": "item_mtl_stageup_rare_02",
+        "count": 47
+      },
+      {
+        "id": "item_mtl_stageup_normal_01",
+        "count": 32
+      },
+      {
+        "id": "item_mtl_stageup_normal_02",
+        "count": 47
+      }
+    ]
+  },
+  "reward_dung_stageup_60": {
+    "rewardId": "reward_dung_stageup_60",
+    "itemBundles": [
+      {
+        "id": "item_mtl_stageup_rare_01",
+        "count": 76
+      },
+      {
+        "id": "item_mtl_stageup_rare_02",
+        "count": 76
+      },
+      {
+        "id": "item_mtl_stageup_normal_01",
+        "count": 52
+      },
+      {
+        "id": "item_mtl_stageup_normal_02",
+        "count": 76
+      }
+    ]
+  },
+  "reward_dung_weapon_upgrade_20": {
+    "rewardId": "reward_dung_weapon_upgrade_20",
+    "itemBundles": [
+      {
+        "id": "item_weapon_upgrade_high",
+        "count": 5
+      },
+      {
+        "id": "item_weapon_upgrade_mid",
+        "count": 7
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 7
+      }
+    ]
+  },
+  "reward_dung_weapon_upgrade_30": {
+    "rewardId": "reward_dung_weapon_upgrade_30",
+    "itemBundles": [
+      {
+        "id": "item_weapon_upgrade_high",
+        "count": 11
+      },
+      {
+        "id": "item_weapon_upgrade_mid",
+        "count": 10
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 11
+      }
+    ]
+  },
+  "reward_dung_weapon_upgrade_40": {
+    "rewardId": "reward_dung_weapon_upgrade_40",
+    "itemBundles": [
+      {
+        "id": "item_weapon_upgrade_high",
+        "count": 19
+      },
+      {
+        "id": "item_weapon_upgrade_mid",
+        "count": 20
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 27
+      }
+    ]
+  },
+  "reward_dung_weapon_upgrade_50": {
+    "rewardId": "reward_dung_weapon_upgrade_50",
+    "itemBundles": [
+      {
+        "id": "item_weapon_upgrade_high",
+        "count": 32
+      },
+      {
+        "id": "item_weapon_upgrade_mid",
+        "count": 34
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 41
+      }
+    ]
+  },
+  "reward_dung_weapon_upgrade_60": {
+    "rewardId": "reward_dung_weapon_upgrade_60",
+    "itemBundles": [
+      {
+        "id": "item_weapon_upgrade_high",
+        "count": 52
+      },
+      {
+        "id": "item_weapon_upgrade_mid",
+        "count": 53
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 66
+      }
+    ]
+  },
+  "reward_ether_level1": {
+    "rewardId": "reward_ether_level1",
+    "itemBundles": [
+      {
+        "id": "item_ap_supply_nlt",
+        "count": 1
+      },
+      {
+        "id": "item_diamond",
+        "count": 5
+      },
+      {
+        "id": "item_grid",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 200
+      }
+    ]
+  },
+  "reward_ether_level10": {
+    "rewardId": "reward_ether_level10",
+    "itemBundles": [
+      {
+        "id": "item_ap_supply_nlt",
+        "count": 5
+      },
+      {
+        "id": "item_diamond",
+        "count": 60
+      },
+      {
+        "id": "item_grid",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 2900
+      }
+    ]
+  },
+  "reward_ether_level2": {
+    "rewardId": "reward_ether_level2",
+    "itemBundles": [
+      {
+        "id": "item_ap_supply_nlt",
+        "count": 1
+      },
+      {
+        "id": "item_diamond",
+        "count": 5
+      },
+      {
+        "id": "item_grid",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 300
+      }
+    ]
+  },
+  "reward_ether_level3": {
+    "rewardId": "reward_ether_level3",
+    "itemBundles": [
+      {
+        "id": "item_ap_supply_nlt",
+        "count": 1
+      },
+      {
+        "id": "item_diamond",
+        "count": 10
+      },
+      {
+        "id": "item_grid",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 500
+      }
+    ]
+  },
+  "reward_ether_level4": {
+    "rewardId": "reward_ether_level4",
+    "itemBundles": [
+      {
+        "id": "item_ap_supply_nlt",
+        "count": 1
+      },
+      {
+        "id": "item_diamond",
+        "count": 15
+      },
+      {
+        "id": "item_grid",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 700
+      }
+    ]
+  },
+  "reward_ether_level5": {
+    "rewardId": "reward_ether_level5",
+    "itemBundles": [
+      {
+        "id": "item_ap_supply_nlt",
+        "count": 1
+      },
+      {
+        "id": "item_diamond",
+        "count": 20
+      },
+      {
+        "id": "item_grid",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 1000
+      }
+    ]
+  },
+  "reward_ether_level6": {
+    "rewardId": "reward_ether_level6",
+    "itemBundles": [
+      {
+        "id": "item_ap_supply_nlt",
+        "count": 2
+      },
+      {
+        "id": "item_diamond",
+        "count": 25
+      },
+      {
+        "id": "item_grid",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 1300
+      }
+    ]
+  },
+  "reward_ether_level7": {
+    "rewardId": "reward_ether_level7",
+    "itemBundles": [
+      {
+        "id": "item_ap_supply_nlt",
+        "count": 2
+      },
+      {
+        "id": "item_diamond",
+        "count": 35
+      },
+      {
+        "id": "item_grid",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 1600
+      }
+    ]
+  },
+  "reward_ether_level8": {
+    "rewardId": "reward_ether_level8",
+    "itemBundles": [
+      {
+        "id": "item_ap_supply_nlt",
+        "count": 2
+      },
+      {
+        "id": "item_diamond",
+        "count": 40
+      },
+      {
+        "id": "item_grid",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 1900
+      }
+    ]
+  },
+  "reward_ether_level9": {
+    "rewardId": "reward_ether_level9",
+    "itemBundles": [
+      {
+        "id": "item_ap_supply_nlt",
+        "count": 3
+      },
+      {
+        "id": "item_diamond",
+        "count": 45
+      },
+      {
+        "id": "item_grid",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 2400
+      }
+    ]
+  },
+  "reward_hub_key": {
+    "rewardId": "reward_hub_key",
+    "itemBundles": [
+      {
+        "id": "item_hub_key",
+        "count": 1
+      }
+    ]
+  },
+  "reward_item_book_002_01": {
+    "rewardId": "reward_item_book_002_01",
+    "itemBundles": [
+      {
+        "id": "item_book_002_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_item_book_002_02": {
+    "rewardId": "reward_item_book_002_02",
+    "itemBundles": [
+      {
+        "id": "item_book_002_02",
+        "count": 1
+      }
+    ]
+  },
+  "reward_item_e1m1_treasure": {
+    "rewardId": "reward_item_e1m1_treasure",
+    "itemBundles": [
+      {
+        "id": "item_e1m1_treasure",
+        "count": 1
+      }
+    ]
+  },
+  "reward_item_pack_003_chips_1": {
+    "rewardId": "reward_item_pack_003_chips_1",
+    "itemBundles": [
+      {
+        "id": "item_003_chips_1",
+        "count": 1
+      }
+    ]
+  },
+  "reward_item_pack_003_chips_2": {
+    "rewardId": "reward_item_pack_003_chips_2",
+    "itemBundles": [
+      {
+        "id": "item_003_chips_2",
+        "count": 1
+      }
+    ]
+  },
+  "reward_item_pack_003_chips_3": {
+    "rewardId": "reward_item_pack_003_chips_3",
+    "itemBundles": [
+      {
+        "id": "item_003_chips_3",
+        "count": 1
+      }
+    ]
+  },
+  "reward_item_pack_databasefor006_1": {
+    "rewardId": "reward_item_pack_databasefor006_1",
+    "itemBundles": [
+      {
+        "id": "item_databasefor006_1",
+        "count": 1
+      }
+    ]
+  },
+  "reward_item_pack_databasefor006_2": {
+    "rewardId": "reward_item_pack_databasefor006_2",
+    "itemBundles": [
+      {
+        "id": "item_databasefor006_2",
+        "count": 1
+      }
+    ]
+  },
+  "reward_item_pack_databasefor006_3": {
+    "rewardId": "reward_item_pack_databasefor006_3",
+    "itemBundles": [
+      {
+        "id": "item_databasefor006_3",
+        "count": 1
+      }
+    ]
+  },
+  "reward_item_paper_001_01": {
+    "rewardId": "reward_item_paper_001_01",
+    "itemBundles": [
+      {
+        "id": "item_paper_001_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_item_paper_001_02": {
+    "rewardId": "reward_item_paper_001_02",
+    "itemBundles": [
+      {
+        "id": "item_paper_001_02",
+        "count": 1
+      }
+    ]
+  },
+  "reward_item_paper_002_01": {
+    "rewardId": "reward_item_paper_002_01",
+    "itemBundles": [
+      {
+        "id": "item_paper_002_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_item_paper_002_02": {
+    "rewardId": "reward_item_paper_002_02",
+    "itemBundles": [
+      {
+        "id": "item_paper_002_02",
+        "count": 1
+      }
+    ]
+  },
+  "reward_item_paper_002_03": {
+    "rewardId": "reward_item_paper_002_03",
+    "itemBundles": [
+      {
+        "id": "item_paper_002_03",
+        "count": 1
+      }
+    ]
+  },
+  "reward_item_quest_e2m5_headdress": {
+    "rewardId": "reward_item_quest_e2m5_headdress",
+    "itemBundles": [
+      {
+        "id": "item_quest_e2m5_headdress",
+        "count": 1
+      }
+    ]
+  },
+  "reward_item_record_002_01": {
+    "rewardId": "reward_item_record_002_01",
+    "itemBundles": [
+      {
+        "id": "item_record_002_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_item_rubbishKing_camera": {
+    "rewardId": "reward_item_rubbishKing_camera",
+    "itemBundles": [
+      {
+        "id": "item_rubbishKing_camera",
+        "count": 1
+      }
+    ]
+  },
+  "reward_item_rubbishKing_cd": {
+    "rewardId": "reward_item_rubbishKing_cd",
+    "itemBundles": [
+      {
+        "id": "item_rubbishKing_cd",
+        "count": 1
+      }
+    ]
+  },
+  "reward_item_rubbishKing_compressor": {
+    "rewardId": "reward_item_rubbishKing_compressor",
+    "itemBundles": [
+      {
+        "id": "item_rubbishKing_compressor",
+        "count": 1
+      }
+    ]
+  },
+  "reward_item_rubbishKing_tool1": {
+    "rewardId": "reward_item_rubbishKing_tool1",
+    "itemBundles": [
+      {
+        "id": "item_rubbishKing_tool1",
+        "count": 1
+      }
+    ]
+  },
+  "reward_item_rubbishKing_tool2": {
+    "rewardId": "reward_item_rubbishKing_tool2",
+    "itemBundles": [
+      {
+        "id": "item_rubbishKing_tool2",
+        "count": 1
+      }
+    ]
+  },
+  "reward_item_rubbishKing_tool3": {
+    "rewardId": "reward_item_rubbishKing_tool3",
+    "itemBundles": [
+      {
+        "id": "item_rubbishKing_tool3",
+        "count": 1
+      }
+    ]
+  },
+  "reward_mai_e2m2_q2_sidReward": {
+    "rewardId": "reward_mai_e2m2_q2_sidReward",
+    "itemBundles": [
+      {
+        "id": "item_bloc_tundra_gold",
+        "count": 100
+      }
+    ]
+  },
+  "reward_map01_dg004_int_107": {
+    "rewardId": "reward_map01_dg004_int_107",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 2
+      },
+      {
+        "id": "item_gold",
+        "count": 382
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 15
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 13
+      },
+      {
+        "id": "wpn_0012",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_stageup_normal_01",
+        "count": 11
+      },
+      {
+        "id": "item_unit_t1_parts_edc_02",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_dg004_int_108": {
+    "rewardId": "reward_map01_dg004_int_108",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 2
+      },
+      {
+        "id": "item_gold",
+        "count": 382
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 15
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 13
+      },
+      {
+        "id": "wpn_0023",
+        "count": 1
+      },
+      {
+        "id": "item_weapon_breakthrough_b1",
+        "count": 11
+      },
+      {
+        "id": "item_unit_t1_suit_02_body_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_dg005_int_143": {
+    "rewardId": "reward_map01_dg005_int_143",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 2
+      },
+      {
+        "id": "item_gold",
+        "count": 329
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 13
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 11
+      },
+      {
+        "id": "wpn_0023",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_stageup_normal_02",
+        "count": 10
+      },
+      {
+        "id": "item_unit_t1_suit_01_edc_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_dg005_int_149": {
+    "rewardId": "reward_map01_dg005_int_149",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 2
+      },
+      {
+        "id": "item_gold",
+        "count": 329
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 13
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 11
+      },
+      {
+        "id": "wpn_0011",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_skillup_normal_01",
+        "count": 10
+      },
+      {
+        "id": "item_unit_t1_parts_hand_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_dg006_int_26": {
+    "rewardId": "reward_map01_dg006_int_26",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 2
+      },
+      {
+        "id": "item_gold",
+        "count": 430
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 17
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 15
+      },
+      {
+        "id": "wpn_0011",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_skillup_normal_01",
+        "count": 12
+      },
+      {
+        "id": "item_unit_t2_parts_edc_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_dg006_int_512": {
+    "rewardId": "reward_map01_dg006_int_512",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 2
+      },
+      {
+        "id": "item_gold",
+        "count": 430
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 17
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 15
+      },
+      {
+        "id": "wpn_0012",
+        "count": 1
+      },
+      {
+        "id": "item_weapon_breakthrough_a1",
+        "count": 12
+      },
+      {
+        "id": "item_unit_t2_suit_07_edc_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv001_int_30073": {
+    "rewardId": "reward_map01_lv001_int_30073",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 220
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 8
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 7
+      },
+      {
+        "id": "wpn_0022",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_stageup_normal_01",
+        "count": 6
+      },
+      {
+        "id": "item_unit_t1_suit_01_hand_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv001_int_30119": {
+    "rewardId": "reward_map01_lv001_int_30119",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 220
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 8
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 7
+      },
+      {
+        "id": "wpn_0019",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_skillup_normal_01",
+        "count": 6
+      },
+      {
+        "id": "item_unit_t1_parts_body_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv001_int_30184": {
+    "rewardId": "reward_map01_lv001_int_30184",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 2
+      },
+      {
+        "id": "item_gold",
+        "count": 329
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 13
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 11
+      },
+      {
+        "id": "wpn_0014",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_skillup_normal_01",
+        "count": 10
+      },
+      {
+        "id": "item_unit_t1_suit_03_body_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv001_int_30249": {
+    "rewardId": "reward_map01_lv001_int_30249",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 220
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 8
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 7
+      },
+      {
+        "id": "wpn_0022",
+        "count": 1
+      },
+      {
+        "id": "item_weapon_breakthrough_b1",
+        "count": 6
+      },
+      {
+        "id": "item_unit_t1_suit_01_edc_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv001_int_30341": {
+    "rewardId": "reward_map01_lv001_int_30341",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 189
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 7
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 7
+      },
+      {
+        "id": "item_mtl_skillup_normal_01",
+        "count": 5
+      }
+    ]
+  },
+  "reward_map01_lv001_int_30342": {
+    "rewardId": "reward_map01_lv001_int_30342",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 189
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 7
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 7
+      },
+      {
+        "id": "item_mtl_stageup_normal_01",
+        "count": 5
+      }
+    ]
+  },
+  "reward_map01_lv001_int_30346": {
+    "rewardId": "reward_map01_lv001_int_30346",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 2
+      },
+      {
+        "id": "item_gold",
+        "count": 349
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 13
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 11
+      },
+      {
+        "id": "wpn_0014",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_stageup_normal_01",
+        "count": 10
+      },
+      {
+        "id": "item_unit_t1_parts_body_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv001_int_30366": {
+    "rewardId": "reward_map01_lv001_int_30366",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 189
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 7
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 7
+      },
+      {
+        "id": "item_mtl_stageup_normal_01",
+        "count": 5
+      }
+    ]
+  },
+  "reward_map01_lv001_int_30367": {
+    "rewardId": "reward_map01_lv001_int_30367",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 2
+      },
+      {
+        "id": "item_gold",
+        "count": 349
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 13
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 11
+      },
+      {
+        "id": "wpn_0011",
+        "count": 1
+      },
+      {
+        "id": "item_weapon_breakthrough_a1",
+        "count": 10
+      },
+      {
+        "id": "item_unit_t1_parts_edc_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv001_int_70394": {
+    "rewardId": "reward_map01_lv001_int_70394",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 178
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 7
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 7
+      },
+      {
+        "id": "item_mtl_skillup_normal_01",
+        "count": 5
+      }
+    ]
+  },
+  "reward_map01_lv001_int_70396": {
+    "rewardId": "reward_map01_lv001_int_70396",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 2
+      },
+      {
+        "id": "item_gold",
+        "count": 329
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 13
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 11
+      },
+      {
+        "id": "wpn_0012",
+        "count": 1
+      },
+      {
+        "id": "item_weapon_breakthrough_a1",
+        "count": 10
+      },
+      {
+        "id": "item_unit_t1_suit_02_hand_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv001_int_70398": {
+    "rewardId": "reward_map01_lv001_int_70398",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 178
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 7
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 7
+      },
+      {
+        "id": "item_weapon_breakthrough_b1",
+        "count": 5
+      }
+    ]
+  },
+  "reward_map01_lv001_int_70401": {
+    "rewardId": "reward_map01_lv001_int_70401",
+    "itemBundles": [
+      {
+        "id": "item_gold",
+        "count": 48
+      },
+      {
+        "id": "item_expcard_1",
+        "count": 3
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 4
+      },
+      {
+        "id": "wpn_0019",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv001_int_70402": {
+    "rewardId": "reward_map01_lv001_int_70402",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 220
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 8
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 7
+      },
+      {
+        "id": "wpn_0020",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_stageup_normal_01",
+        "count": 6
+      }
+    ]
+  },
+  "reward_map01_lv001_int_70403": {
+    "rewardId": "reward_map01_lv001_int_70403",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 178
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 7
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 7
+      },
+      {
+        "id": "item_mtl_stageup_normal_01",
+        "count": 5
+      }
+    ]
+  },
+  "reward_map01_lv001_int_70406": {
+    "rewardId": "reward_map01_lv001_int_70406",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 2
+      },
+      {
+        "id": "item_gold",
+        "count": 329
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 13
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 11
+      },
+      {
+        "id": "wpn_0011",
+        "count": 1
+      },
+      {
+        "id": "item_weapon_breakthrough_a1",
+        "count": 10
+      },
+      {
+        "id": "item_unit_t1_suit_01_hand_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv001_int_70407": {
+    "rewardId": "reward_map01_lv001_int_70407",
+    "itemBundles": [
+      {
+        "id": "item_gold",
+        "count": 48
+      },
+      {
+        "id": "item_expcard_1",
+        "count": 3
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 4
+      },
+      {
+        "id": "wpn_0021",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv001_int_70411": {
+    "rewardId": "reward_map01_lv001_int_70411",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 220
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 8
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 7
+      },
+      {
+        "id": "wpn_0020",
+        "count": 1
+      },
+      {
+        "id": "item_weapon_breakthrough_b1",
+        "count": 6
+      },
+      {
+        "id": "item_unit_t1_parts_edc_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv001_int_70412": {
+    "rewardId": "reward_map01_lv001_int_70412",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 178
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 7
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 7
+      },
+      {
+        "id": "item_mtl_stageup_normal_02",
+        "count": 5
+      }
+    ]
+  },
+  "reward_map01_lv001_int_70414": {
+    "rewardId": "reward_map01_lv001_int_70414",
+    "itemBundles": [
+      {
+        "id": "item_gold",
+        "count": 32
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 3
+      }
+    ]
+  },
+  "reward_map01_lv001_int_70419": {
+    "rewardId": "reward_map01_lv001_int_70419",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 178
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 7
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 7
+      },
+      {
+        "id": "item_mtl_stageup_normal_01",
+        "count": 5
+      }
+    ]
+  },
+  "reward_map01_lv001_int_70422": {
+    "rewardId": "reward_map01_lv001_int_70422",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 2
+      },
+      {
+        "id": "item_gold",
+        "count": 329
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 13
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 11
+      },
+      {
+        "id": "wpn_0014",
+        "count": 1
+      },
+      {
+        "id": "item_weapon_breakthrough_a1",
+        "count": 10
+      },
+      {
+        "id": "item_unit_t1_suit_04_edc_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv001_int_70423": {
+    "rewardId": "reward_map01_lv001_int_70423",
+    "itemBundles": [
+      {
+        "id": "item_gold",
+        "count": 72
+      },
+      {
+        "id": "item_expcard_1",
+        "count": 5
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 5
+      },
+      {
+        "id": "wpn_0012",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv001_int_70424": {
+    "rewardId": "reward_map01_lv001_int_70424",
+    "itemBundles": [
+      {
+        "id": "item_gold",
+        "count": 39
+      },
+      {
+        "id": "item_expcard_1",
+        "count": 3
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 4
+      }
+    ]
+  },
+  "reward_map01_lv001_int_70656": {
+    "rewardId": "reward_map01_lv001_int_70656",
+    "itemBundles": [
+      {
+        "id": "item_gold",
+        "count": 30
+      },
+      {
+        "id": "item_expcard_1",
+        "count": 2
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 3
+      }
+    ]
+  },
+  "reward_map01_lv001_int_70657": {
+    "rewardId": "reward_map01_lv001_int_70657",
+    "itemBundles": [
+      {
+        "id": "item_gold",
+        "count": 30
+      },
+      {
+        "id": "item_expcard_1",
+        "count": 2
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 3
+      }
+    ]
+  },
+  "reward_map01_lv001_int_70658": {
+    "rewardId": "reward_map01_lv001_int_70658",
+    "itemBundles": [
+      {
+        "id": "item_gold",
+        "count": 30
+      },
+      {
+        "id": "item_expcard_1",
+        "count": 2
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 3
+      }
+    ]
+  },
+  "reward_map01_lv001_int_70659": {
+    "rewardId": "reward_map01_lv001_int_70659",
+    "itemBundles": [
+      {
+        "id": "item_gold",
+        "count": 30
+      },
+      {
+        "id": "item_expcard_1",
+        "count": 2
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 3
+      }
+    ]
+  },
+  "reward_map01_lv001_int_70660": {
+    "rewardId": "reward_map01_lv001_int_70660",
+    "itemBundles": [
+      {
+        "id": "item_gold",
+        "count": 30
+      },
+      {
+        "id": "item_expcard_1",
+        "count": 2
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 3
+      }
+    ]
+  },
+  "reward_map01_lv001_int_70661": {
+    "rewardId": "reward_map01_lv001_int_70661",
+    "itemBundles": [
+      {
+        "id": "item_gold",
+        "count": 30
+      },
+      {
+        "id": "item_expcard_1",
+        "count": 2
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 3
+      }
+    ]
+  },
+  "reward_map01_lv001_int_70662": {
+    "rewardId": "reward_map01_lv001_int_70662",
+    "itemBundles": [
+      {
+        "id": "item_gold",
+        "count": 30
+      },
+      {
+        "id": "item_expcard_1",
+        "count": 2
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 3
+      }
+    ]
+  },
+  "reward_map01_lv001_int_70663": {
+    "rewardId": "reward_map01_lv001_int_70663",
+    "itemBundles": [
+      {
+        "id": "item_gold",
+        "count": 30
+      },
+      {
+        "id": "item_expcard_1",
+        "count": 2
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 3
+      }
+    ]
+  },
+  "reward_map01_lv001_int_70664": {
+    "rewardId": "reward_map01_lv001_int_70664",
+    "itemBundles": [
+      {
+        "id": "item_gold",
+        "count": 30
+      },
+      {
+        "id": "item_expcard_1",
+        "count": 2
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 3
+      }
+    ]
+  },
+  "reward_map01_lv001_int_70665": {
+    "rewardId": "reward_map01_lv001_int_70665",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 137
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 5
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 5
+      },
+      {
+        "id": "item_weapon_breakthrough_b1",
+        "count": 4
+      }
+    ]
+  },
+  "reward_map01_lv001_int_70666": {
+    "rewardId": "reward_map01_lv001_int_70666",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 137
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 5
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 5
+      },
+      {
+        "id": "item_mtl_stageup_normal_02",
+        "count": 4
+      }
+    ]
+  },
+  "reward_map01_lv001_int_70667": {
+    "rewardId": "reward_map01_lv001_int_70667",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 137
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 5
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 5
+      },
+      {
+        "id": "item_weapon_breakthrough_a1",
+        "count": 4
+      }
+    ]
+  },
+  "reward_map01_lv001_int_70668": {
+    "rewardId": "reward_map01_lv001_int_70668",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 137
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 5
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 5
+      },
+      {
+        "id": "item_mtl_skillup_normal_01",
+        "count": 4
+      }
+    ]
+  },
+  "reward_map01_lv001_int_70669": {
+    "rewardId": "reward_map01_lv001_int_70669",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 137
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 5
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 5
+      },
+      {
+        "id": "item_mtl_skillup_normal_01",
+        "count": 4
+      }
+    ]
+  },
+  "reward_map01_lv001_int_70670": {
+    "rewardId": "reward_map01_lv001_int_70670",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 137
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 5
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 5
+      },
+      {
+        "id": "item_mtl_stageup_normal_01",
+        "count": 4
+      }
+    ]
+  },
+  "reward_map01_lv001_int_70671": {
+    "rewardId": "reward_map01_lv001_int_70671",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 137
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 5
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 5
+      },
+      {
+        "id": "item_mtl_skillup_normal_01",
+        "count": 4
+      }
+    ]
+  },
+  "reward_map01_lv001_int_70672": {
+    "rewardId": "reward_map01_lv001_int_70672",
+    "itemBundles": [
+      {
+        "id": "item_gold",
+        "count": 24
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 2
+      }
+    ]
+  },
+  "reward_map01_lv001_int_70674": {
+    "rewardId": "reward_map01_lv001_int_70674",
+    "itemBundles": [
+      {
+        "id": "item_gold",
+        "count": 24
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 2
+      }
+    ]
+  },
+  "reward_map01_lv001_int_70675": {
+    "rewardId": "reward_map01_lv001_int_70675",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 137
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 5
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 5
+      },
+      {
+        "id": "item_mtl_skillup_normal_02",
+        "count": 4
+      }
+    ]
+  },
+  "reward_map01_lv001_int_70676": {
+    "rewardId": "reward_map01_lv001_int_70676",
+    "itemBundles": [
+      {
+        "id": "item_gold",
+        "count": 30
+      },
+      {
+        "id": "item_expcard_1",
+        "count": 2
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 3
+      }
+    ]
+  },
+  "reward_map01_lv001_int_70677": {
+    "rewardId": "reward_map01_lv001_int_70677",
+    "itemBundles": [
+      {
+        "id": "item_gold",
+        "count": 30
+      },
+      {
+        "id": "item_expcard_1",
+        "count": 2
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 3
+      }
+    ]
+  },
+  "reward_map01_lv001_int_70678": {
+    "rewardId": "reward_map01_lv001_int_70678",
+    "itemBundles": [
+      {
+        "id": "item_gold",
+        "count": 72
+      },
+      {
+        "id": "item_expcard_1",
+        "count": 5
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 5
+      },
+      {
+        "id": "wpn_0012",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv001_int_70679": {
+    "rewardId": "reward_map01_lv001_int_70679",
+    "itemBundles": [
+      {
+        "id": "item_gold",
+        "count": 48
+      },
+      {
+        "id": "item_expcard_1",
+        "count": 3
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 4
+      },
+      {
+        "id": "wpn_0019",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv001_int_70705": {
+    "rewardId": "reward_map01_lv001_int_70705",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 2
+      },
+      {
+        "id": "item_gold",
+        "count": 349
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 13
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 11
+      },
+      {
+        "id": "wpn_0023",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_stageup_normal_02",
+        "count": 10
+      },
+      {
+        "id": "item_unit_t1_suit_04_edc_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv001_int_70759": {
+    "rewardId": "reward_map01_lv001_int_70759",
+    "itemBundles": [
+      {
+        "id": "item_gold",
+        "count": 30
+      },
+      {
+        "id": "item_expcard_1",
+        "count": 2
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 3
+      }
+    ]
+  },
+  "reward_map01_lv002_int_1042": {
+    "rewardId": "reward_map01_lv002_int_1042",
+    "itemBundles": [
+      {
+        "id": "item_gold",
+        "count": 51
+      },
+      {
+        "id": "item_expcard_1",
+        "count": 3
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 3
+      },
+      {
+        "id": "item_mtl_stageup_normal_01",
+        "count": 2
+      }
+    ]
+  },
+  "reward_map01_lv002_int_1085": {
+    "rewardId": "reward_map01_lv002_int_1085",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 2
+      },
+      {
+        "id": "item_gold",
+        "count": 349
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 13
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 11
+      },
+      {
+        "id": "wpn_0012",
+        "count": 1
+      },
+      {
+        "id": "item_weapon_breakthrough_b1",
+        "count": 10
+      },
+      {
+        "id": "item_unit_t1_parts_edc_02",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv002_int_1099": {
+    "rewardId": "reward_map01_lv002_int_1099",
+    "itemBundles": [
+      {
+        "id": "item_gold",
+        "count": 95
+      },
+      {
+        "id": "item_expcard_1",
+        "count": 16
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 5
+      },
+      {
+        "id": "wpn_0020",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_skillup_normal_02",
+        "count": 4
+      }
+    ]
+  },
+  "reward_map01_lv002_int_1100": {
+    "rewardId": "reward_map01_lv002_int_1100",
+    "itemBundles": [
+      {
+        "id": "item_gold",
+        "count": 104
+      },
+      {
+        "id": "item_expcard_1",
+        "count": 25
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 5
+      },
+      {
+        "id": "wpn_0022",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_skillup_normal_01",
+        "count": 5
+      }
+    ]
+  },
+  "reward_map01_lv002_int_1101": {
+    "rewardId": "reward_map01_lv002_int_1101",
+    "itemBundles": [
+      {
+        "id": "item_gold",
+        "count": 104
+      },
+      {
+        "id": "item_expcard_1",
+        "count": 25
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 5
+      },
+      {
+        "id": "wpn_0021",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_stageup_normal_02",
+        "count": 5
+      }
+    ]
+  },
+  "reward_map01_lv002_int_1102": {
+    "rewardId": "reward_map01_lv002_int_1102",
+    "itemBundles": [
+      {
+        "id": "item_gold",
+        "count": 51
+      },
+      {
+        "id": "item_expcard_1",
+        "count": 3
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 3
+      },
+      {
+        "id": "item_mtl_stageup_normal_02",
+        "count": 2
+      }
+    ]
+  },
+  "reward_map01_lv002_int_1103": {
+    "rewardId": "reward_map01_lv002_int_1103",
+    "itemBundles": [
+      {
+        "id": "item_gold",
+        "count": 59
+      },
+      {
+        "id": "item_expcard_1",
+        "count": 10
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 4
+      },
+      {
+        "id": "item_mtl_stageup_normal_01",
+        "count": 3
+      }
+    ]
+  },
+  "reward_map01_lv002_int_1104": {
+    "rewardId": "reward_map01_lv002_int_1104",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 115
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 4
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 4
+      },
+      {
+        "id": "item_mtl_skillup_normal_02",
+        "count": 3
+      }
+    ]
+  },
+  "reward_map01_lv002_int_1105": {
+    "rewardId": "reward_map01_lv002_int_1105",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 115
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 4
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 4
+      },
+      {
+        "id": "item_mtl_skillup_normal_02",
+        "count": 3
+      }
+    ]
+  },
+  "reward_map01_lv002_int_1107": {
+    "rewardId": "reward_map01_lv002_int_1107",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 184
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 7
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 6
+      },
+      {
+        "id": "wpn_0019",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_skillup_normal_01",
+        "count": 5
+      }
+    ]
+  },
+  "reward_map01_lv002_int_1110": {
+    "rewardId": "reward_map01_lv002_int_1110",
+    "itemBundles": [
+      {
+        "id": "item_gold",
+        "count": 65
+      },
+      {
+        "id": "item_expcard_1",
+        "count": 16
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 4
+      },
+      {
+        "id": "item_mtl_stageup_normal_02",
+        "count": 3
+      }
+    ]
+  },
+  "reward_map01_lv002_int_1131": {
+    "rewardId": "reward_map01_lv002_int_1131",
+    "itemBundles": [
+      {
+        "id": "item_gold",
+        "count": 59
+      },
+      {
+        "id": "item_expcard_1",
+        "count": 10
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 4
+      },
+      {
+        "id": "item_mtl_stageup_normal_01",
+        "count": 3
+      }
+    ]
+  },
+  "reward_map01_lv002_int_1132": {
+    "rewardId": "reward_map01_lv002_int_1132",
+    "itemBundles": [
+      {
+        "id": "item_gold",
+        "count": 65
+      },
+      {
+        "id": "item_expcard_1",
+        "count": 16
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 4
+      },
+      {
+        "id": "item_weapon_breakthrough_a1",
+        "count": 3
+      }
+    ]
+  },
+  "reward_map01_lv002_int_1133": {
+    "rewardId": "reward_map01_lv002_int_1133",
+    "itemBundles": [
+      {
+        "id": "item_gold",
+        "count": 65
+      },
+      {
+        "id": "item_expcard_1",
+        "count": 16
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 4
+      },
+      {
+        "id": "item_weapon_breakthrough_b1",
+        "count": 3
+      }
+    ]
+  },
+  "reward_map01_lv002_int_144": {
+    "rewardId": "reward_map01_lv002_int_144",
+    "itemBundles": [
+      {
+        "id": "item_gold",
+        "count": 59
+      },
+      {
+        "id": "item_expcard_1",
+        "count": 10
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 4
+      },
+      {
+        "id": "item_mtl_stageup_normal_02",
+        "count": 3
+      }
+    ]
+  },
+  "reward_map01_lv002_int_149": {
+    "rewardId": "reward_map01_lv002_int_149",
+    "itemBundles": [
+      {
+        "id": "item_gold",
+        "count": 59
+      },
+      {
+        "id": "item_expcard_1",
+        "count": 10
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 4
+      },
+      {
+        "id": "item_mtl_stageup_normal_01",
+        "count": 3
+      }
+    ]
+  },
+  "reward_map01_lv002_int_160": {
+    "rewardId": "reward_map01_lv002_int_160",
+    "itemBundles": [
+      {
+        "id": "item_gold",
+        "count": 59
+      },
+      {
+        "id": "item_expcard_1",
+        "count": 10
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 4
+      },
+      {
+        "id": "item_mtl_stageup_normal_02",
+        "count": 3
+      }
+    ]
+  },
+  "reward_map01_lv002_int_266": {
+    "rewardId": "reward_map01_lv002_int_266",
+    "itemBundles": [
+      {
+        "id": "item_gold",
+        "count": 59
+      },
+      {
+        "id": "item_expcard_1",
+        "count": 10
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 4
+      },
+      {
+        "id": "item_mtl_stageup_normal_01",
+        "count": 3
+      }
+    ]
+  },
+  "reward_map01_lv002_int_268": {
+    "rewardId": "reward_map01_lv002_int_268",
+    "itemBundles": [
+      {
+        "id": "item_gold",
+        "count": 59
+      },
+      {
+        "id": "item_expcard_1",
+        "count": 10
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 4
+      },
+      {
+        "id": "item_mtl_skillup_normal_02",
+        "count": 3
+      }
+    ]
+  },
+  "reward_map01_lv002_int_428": {
+    "rewardId": "reward_map01_lv002_int_428",
+    "itemBundles": [
+      {
+        "id": "item_gold",
+        "count": 95
+      },
+      {
+        "id": "item_expcard_1",
+        "count": 16
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 5
+      },
+      {
+        "id": "wpn_0019",
+        "count": 1
+      },
+      {
+        "id": "item_weapon_breakthrough_b1",
+        "count": 4
+      }
+    ]
+  },
+  "reward_map01_lv002_int_434": {
+    "rewardId": "reward_map01_lv002_int_434",
+    "itemBundles": [
+      {
+        "id": "item_gold",
+        "count": 95
+      },
+      {
+        "id": "item_expcard_1",
+        "count": 16
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 5
+      },
+      {
+        "id": "wpn_0019",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_stageup_normal_01",
+        "count": 4
+      }
+    ]
+  },
+  "reward_map01_lv002_int_437": {
+    "rewardId": "reward_map01_lv002_int_437",
+    "itemBundles": [
+      {
+        "id": "item_gold",
+        "count": 77
+      },
+      {
+        "id": "item_expcard_1",
+        "count": 13
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 5
+      },
+      {
+        "id": "item_weapon_breakthrough_b1",
+        "count": 4
+      }
+    ]
+  },
+  "reward_map01_lv002_int_439": {
+    "rewardId": "reward_map01_lv002_int_439",
+    "itemBundles": [
+      {
+        "id": "item_gold",
+        "count": 82
+      },
+      {
+        "id": "item_expcard_1",
+        "count": 5
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 4
+      },
+      {
+        "id": "wpn_0019",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_stageup_normal_02",
+        "count": 4
+      }
+    ]
+  },
+  "reward_map01_lv002_int_440": {
+    "rewardId": "reward_map01_lv002_int_440",
+    "itemBundles": [
+      {
+        "id": "item_gold",
+        "count": 95
+      },
+      {
+        "id": "item_expcard_1",
+        "count": 16
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 5
+      },
+      {
+        "id": "wpn_0020",
+        "count": 1
+      },
+      {
+        "id": "item_weapon_breakthrough_b1",
+        "count": 4
+      }
+    ]
+  },
+  "reward_map01_lv002_int_441": {
+    "rewardId": "reward_map01_lv002_int_441",
+    "itemBundles": [
+      {
+        "id": "item_gold",
+        "count": 142
+      },
+      {
+        "id": "item_expcard_1",
+        "count": 24
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 7
+      },
+      {
+        "id": "wpn_0012",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_stageup_normal_02",
+        "count": 7
+      }
+    ]
+  },
+  "reward_map01_lv002_int_442": {
+    "rewardId": "reward_map01_lv002_int_442",
+    "itemBundles": [
+      {
+        "id": "item_gold",
+        "count": 142
+      },
+      {
+        "id": "item_expcard_1",
+        "count": 24
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 7
+      },
+      {
+        "id": "wpn_0014",
+        "count": 1
+      },
+      {
+        "id": "item_weapon_breakthrough_b1",
+        "count": 7
+      }
+    ]
+  },
+  "reward_map01_lv002_int_567": {
+    "rewardId": "reward_map01_lv002_int_567",
+    "itemBundles": [
+      {
+        "id": "item_gold",
+        "count": 95
+      },
+      {
+        "id": "item_expcard_1",
+        "count": 16
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 5
+      },
+      {
+        "id": "wpn_0019",
+        "count": 1
+      },
+      {
+        "id": "item_weapon_breakthrough_a1",
+        "count": 4
+      }
+    ]
+  },
+  "reward_map01_lv002_int_627": {
+    "rewardId": "reward_map01_lv002_int_627",
+    "itemBundles": [
+      {
+        "id": "item_gold",
+        "count": 95
+      },
+      {
+        "id": "item_expcard_1",
+        "count": 16
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 5
+      },
+      {
+        "id": "wpn_0021",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_skillup_normal_01",
+        "count": 4
+      }
+    ]
+  },
+  "reward_map01_lv002_int_630": {
+    "rewardId": "reward_map01_lv002_int_630",
+    "itemBundles": [
+      {
+        "id": "item_gold",
+        "count": 142
+      },
+      {
+        "id": "item_expcard_1",
+        "count": 24
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 7
+      },
+      {
+        "id": "wpn_0014",
+        "count": 1
+      },
+      {
+        "id": "item_weapon_breakthrough_a1",
+        "count": 7
+      }
+    ]
+  },
+  "reward_map01_lv002_int_631": {
+    "rewardId": "reward_map01_lv002_int_631",
+    "itemBundles": [
+      {
+        "id": "item_gold",
+        "count": 59
+      },
+      {
+        "id": "item_expcard_1",
+        "count": 10
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 4
+      },
+      {
+        "id": "item_weapon_breakthrough_a1",
+        "count": 3
+      }
+    ]
+  },
+  "reward_map01_lv003_int_1080": {
+    "rewardId": "reward_map01_lv003_int_1080",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 240
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 9
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 8
+      },
+      {
+        "id": "wpn_0021",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_stageup_normal_01",
+        "count": 7
+      },
+      {
+        "id": "item_unit_t1_suit_03_body_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv003_int_1081": {
+    "rewardId": "reward_map01_lv003_int_1081",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 2
+      },
+      {
+        "id": "item_gold",
+        "count": 360
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 14
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 12
+      },
+      {
+        "id": "wpn_0012",
+        "count": 1
+      },
+      {
+        "id": "item_weapon_breakthrough_a1",
+        "count": 10
+      },
+      {
+        "id": "item_unit_t1_parts_edc_02",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv003_int_1142": {
+    "rewardId": "reward_map01_lv003_int_1142",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 240
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 9
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 8
+      },
+      {
+        "id": "wpn_0020",
+        "count": 1
+      },
+      {
+        "id": "item_weapon_breakthrough_b1",
+        "count": 7
+      },
+      {
+        "id": "item_unit_t1_parts_edc_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv003_int_1143": {
+    "rewardId": "reward_map01_lv003_int_1143",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 195
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 7
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 7
+      },
+      {
+        "id": "item_mtl_skillup_normal_01",
+        "count": 6
+      }
+    ]
+  },
+  "reward_map01_lv003_int_1145": {
+    "rewardId": "reward_map01_lv003_int_1145",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 195
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 7
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 7
+      },
+      {
+        "id": "item_mtl_stageup_normal_02",
+        "count": 6
+      }
+    ]
+  },
+  "reward_map01_lv003_int_1146": {
+    "rewardId": "reward_map01_lv003_int_1146",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 195
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 7
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 7
+      },
+      {
+        "id": "item_mtl_stageup_normal_02",
+        "count": 6
+      }
+    ]
+  },
+  "reward_map01_lv003_int_1148": {
+    "rewardId": "reward_map01_lv003_int_1148",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 195
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 7
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 7
+      },
+      {
+        "id": "item_mtl_stageup_normal_01",
+        "count": 6
+      }
+    ]
+  },
+  "reward_map01_lv003_int_1155": {
+    "rewardId": "reward_map01_lv003_int_1155",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 150
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 6
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 6
+      },
+      {
+        "id": "item_weapon_breakthrough_a1",
+        "count": 4
+      }
+    ]
+  },
+  "reward_map01_lv003_int_1156": {
+    "rewardId": "reward_map01_lv003_int_1156",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 150
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 6
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 6
+      },
+      {
+        "id": "item_weapon_breakthrough_a1",
+        "count": 4
+      }
+    ]
+  },
+  "reward_map01_lv003_int_1157": {
+    "rewardId": "reward_map01_lv003_int_1157",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 150
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 6
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 6
+      },
+      {
+        "id": "item_mtl_skillup_normal_02",
+        "count": 4
+      }
+    ]
+  },
+  "reward_map01_lv003_int_1158": {
+    "rewardId": "reward_map01_lv003_int_1158",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 150
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 6
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 6
+      },
+      {
+        "id": "item_mtl_stageup_normal_02",
+        "count": 4
+      }
+    ]
+  },
+  "reward_map01_lv003_int_1159": {
+    "rewardId": "reward_map01_lv003_int_1159",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 150
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 6
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 6
+      },
+      {
+        "id": "item_weapon_breakthrough_a1",
+        "count": 4
+      }
+    ]
+  },
+  "reward_map01_lv003_int_1160": {
+    "rewardId": "reward_map01_lv003_int_1160",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 150
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 6
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 6
+      },
+      {
+        "id": "item_mtl_skillup_normal_01",
+        "count": 4
+      }
+    ]
+  },
+  "reward_map01_lv003_int_671": {
+    "rewardId": "reward_map01_lv003_int_671",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 240
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 9
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 8
+      },
+      {
+        "id": "wpn_0022",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_skillup_normal_02",
+        "count": 7
+      },
+      {
+        "id": "item_unit_t1_parts_body_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv003_int_672": {
+    "rewardId": "reward_map01_lv003_int_672",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 240
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 9
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 8
+      },
+      {
+        "id": "wpn_0022",
+        "count": 1
+      },
+      {
+        "id": "item_weapon_breakthrough_a1",
+        "count": 7
+      },
+      {
+        "id": "item_unit_t1_suit_01_hand_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv003_int_707": {
+    "rewardId": "reward_map01_lv003_int_707",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 2
+      },
+      {
+        "id": "item_gold",
+        "count": 360
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 14
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 12
+      },
+      {
+        "id": "wpn_0023",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_stageup_normal_02",
+        "count": 10
+      },
+      {
+        "id": "item_unit_t1_parts_hand_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv003_int_708": {
+    "rewardId": "reward_map01_lv003_int_708",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 2
+      },
+      {
+        "id": "item_gold",
+        "count": 360
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 14
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 12
+      },
+      {
+        "id": "wpn_0012",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_skillup_normal_01",
+        "count": 10
+      },
+      {
+        "id": "item_unit_t1_parts_edc_02",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv003_int_709": {
+    "rewardId": "reward_map01_lv003_int_709",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 2
+      },
+      {
+        "id": "item_gold",
+        "count": 360
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 14
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 12
+      },
+      {
+        "id": "wpn_0012",
+        "count": 1
+      },
+      {
+        "id": "item_weapon_breakthrough_a1",
+        "count": 10
+      },
+      {
+        "id": "item_unit_t1_parts_hand_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv003_int_730": {
+    "rewardId": "reward_map01_lv003_int_730",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 195
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 7
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 7
+      },
+      {
+        "id": "item_mtl_skillup_normal_01",
+        "count": 6
+      }
+    ]
+  },
+  "reward_map01_lv003_int_731": {
+    "rewardId": "reward_map01_lv003_int_731",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 240
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 9
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 8
+      },
+      {
+        "id": "wpn_0020",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_skillup_normal_01",
+        "count": 7
+      },
+      {
+        "id": "item_unit_t1_suit_02_body_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv003_int_732": {
+    "rewardId": "reward_map01_lv003_int_732",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 2
+      },
+      {
+        "id": "item_gold",
+        "count": 360
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 14
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 12
+      },
+      {
+        "id": "wpn_0014",
+        "count": 1
+      },
+      {
+        "id": "item_weapon_breakthrough_b1",
+        "count": 10
+      },
+      {
+        "id": "item_unit_t1_parts_hand_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv003_int_735": {
+    "rewardId": "reward_map01_lv003_int_735",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 240
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 9
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 8
+      },
+      {
+        "id": "wpn_0019",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_skillup_normal_02",
+        "count": 7
+      },
+      {
+        "id": "item_unit_t1_suit_02_body_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv003_int_736": {
+    "rewardId": "reward_map01_lv003_int_736",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 195
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 7
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 7
+      },
+      {
+        "id": "item_mtl_skillup_normal_01",
+        "count": 6
+      }
+    ]
+  },
+  "reward_map01_lv003_int_950": {
+    "rewardId": "reward_map01_lv003_int_950",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 2
+      },
+      {
+        "id": "item_gold",
+        "count": 360
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 14
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 12
+      },
+      {
+        "id": "wpn_0011",
+        "count": 1
+      },
+      {
+        "id": "item_weapon_breakthrough_a1",
+        "count": 10
+      },
+      {
+        "id": "item_unit_t1_suit_03_edc_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv003_int_951": {
+    "rewardId": "reward_map01_lv003_int_951",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 2
+      },
+      {
+        "id": "item_gold",
+        "count": 360
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 14
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 12
+      },
+      {
+        "id": "wpn_0012",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_stageup_normal_02",
+        "count": 10
+      },
+      {
+        "id": "item_unit_t1_suit_01_edc_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv003_int_952": {
+    "rewardId": "reward_map01_lv003_int_952",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 240
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 9
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 8
+      },
+      {
+        "id": "wpn_0020",
+        "count": 1
+      },
+      {
+        "id": "item_weapon_breakthrough_a1",
+        "count": 7
+      },
+      {
+        "id": "item_unit_t1_suit_02_hand_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv005_int_30093": {
+    "rewardId": "reward_map01_lv005_int_30093",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 247
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 9
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 9
+      },
+      {
+        "id": "item_mtl_stageup_normal_02",
+        "count": 7
+      }
+    ]
+  },
+  "reward_map01_lv005_int_30094": {
+    "rewardId": "reward_map01_lv005_int_30094",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 2
+      },
+      {
+        "id": "item_gold",
+        "count": 304
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 12
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 11
+      },
+      {
+        "id": "wpn_0022",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_stageup_normal_01",
+        "count": 9
+      },
+      {
+        "id": "item_unit_t2_suit_05_edc_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv005_int_30113": {
+    "rewardId": "reward_map01_lv005_int_30113",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 2
+      },
+      {
+        "id": "item_gold",
+        "count": 304
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 12
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 11
+      },
+      {
+        "id": "wpn_0022",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_skillup_normal_02",
+        "count": 9
+      },
+      {
+        "id": "item_unit_t2_suit_01_edc_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv005_int_30116": {
+    "rewardId": "reward_map01_lv005_int_30116",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 247
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 9
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 9
+      },
+      {
+        "id": "item_weapon_breakthrough_b1",
+        "count": 7
+      }
+    ]
+  },
+  "reward_map01_lv005_int_30120": {
+    "rewardId": "reward_map01_lv005_int_30120",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 2
+      },
+      {
+        "id": "item_gold",
+        "count": 304
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 12
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 11
+      },
+      {
+        "id": "wpn_0019",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_skillup_normal_01",
+        "count": 9
+      },
+      {
+        "id": "item_unit_t2_parts_edc_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv005_int_30124": {
+    "rewardId": "reward_map01_lv005_int_30124",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 2
+      },
+      {
+        "id": "item_gold",
+        "count": 304
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 12
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 11
+      },
+      {
+        "id": "wpn_0019",
+        "count": 1
+      },
+      {
+        "id": "item_weapon_breakthrough_a1",
+        "count": 9
+      },
+      {
+        "id": "item_unit_t2_suit_04_hand_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv005_int_30126": {
+    "rewardId": "reward_map01_lv005_int_30126",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 247
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 9
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 9
+      },
+      {
+        "id": "item_mtl_skillup_normal_01",
+        "count": 7
+      }
+    ]
+  },
+  "reward_map01_lv005_int_30128": {
+    "rewardId": "reward_map01_lv005_int_30128",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 2
+      },
+      {
+        "id": "item_gold",
+        "count": 456
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 18
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 16
+      },
+      {
+        "id": "wpn_0023",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_stageup_normal_02",
+        "count": 13
+      },
+      {
+        "id": "item_unit_t2_parts_edc_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv005_int_30139": {
+    "rewardId": "reward_map01_lv005_int_30139",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 247
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 9
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 9
+      },
+      {
+        "id": "item_mtl_skillup_normal_01",
+        "count": 7
+      }
+    ]
+  },
+  "reward_map01_lv005_int_30151": {
+    "rewardId": "reward_map01_lv005_int_30151",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 247
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 9
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 9
+      },
+      {
+        "id": "item_mtl_skillup_normal_02",
+        "count": 7
+      }
+    ]
+  },
+  "reward_map01_lv005_int_40137": {
+    "rewardId": "reward_map01_lv005_int_40137",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 2
+      },
+      {
+        "id": "item_gold",
+        "count": 304
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 12
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 11
+      },
+      {
+        "id": "wpn_0022",
+        "count": 1
+      },
+      {
+        "id": "item_weapon_breakthrough_b1",
+        "count": 9
+      },
+      {
+        "id": "item_unit_t2_suit_02_hand_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv005_int_40160": {
+    "rewardId": "reward_map01_lv005_int_40160",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 2
+      },
+      {
+        "id": "item_gold",
+        "count": 304
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 12
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 11
+      },
+      {
+        "id": "wpn_0022",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_stageup_normal_02",
+        "count": 9
+      },
+      {
+        "id": "item_unit_t2_suit_06_edc_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv005_int_40161": {
+    "rewardId": "reward_map01_lv005_int_40161",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 2
+      },
+      {
+        "id": "item_gold",
+        "count": 304
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 12
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 11
+      },
+      {
+        "id": "wpn_0019",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_skillup_normal_02",
+        "count": 9
+      },
+      {
+        "id": "item_unit_t2_suit_03_edc_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv005_int_40165": {
+    "rewardId": "reward_map01_lv005_int_40165",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 2
+      },
+      {
+        "id": "item_gold",
+        "count": 456
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 18
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 16
+      },
+      {
+        "id": "wpn_0011",
+        "count": 1
+      },
+      {
+        "id": "item_weapon_breakthrough_b1",
+        "count": 13
+      },
+      {
+        "id": "item_unit_t2_parts_hand_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv005_int_40166": {
+    "rewardId": "reward_map01_lv005_int_40166",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 2
+      },
+      {
+        "id": "item_gold",
+        "count": 304
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 12
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 11
+      },
+      {
+        "id": "wpn_0019",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_stageup_normal_02",
+        "count": 9
+      },
+      {
+        "id": "item_unit_t2_suit_03_edc_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv005_int_40289": {
+    "rewardId": "reward_map01_lv005_int_40289",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 2
+      },
+      {
+        "id": "item_gold",
+        "count": 456
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 18
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 16
+      },
+      {
+        "id": "wpn_0014",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_stageup_normal_02",
+        "count": 13
+      },
+      {
+        "id": "item_unit_t2_suit_04_body_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv005_int_40290": {
+    "rewardId": "reward_map01_lv005_int_40290",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 2
+      },
+      {
+        "id": "item_gold",
+        "count": 304
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 12
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 11
+      },
+      {
+        "id": "wpn_0019",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_skillup_normal_02",
+        "count": 9
+      },
+      {
+        "id": "item_unit_t2_suit_04_body_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv005_int_40291": {
+    "rewardId": "reward_map01_lv005_int_40291",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 247
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 9
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 9
+      },
+      {
+        "id": "item_weapon_breakthrough_a1",
+        "count": 7
+      }
+    ]
+  },
+  "reward_map01_lv005_int_40296": {
+    "rewardId": "reward_map01_lv005_int_40296",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 190
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 7
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 7
+      },
+      {
+        "id": "item_mtl_skillup_normal_02",
+        "count": 5
+      }
+    ]
+  },
+  "reward_map01_lv005_int_40297": {
+    "rewardId": "reward_map01_lv005_int_40297",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 190
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 7
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 7
+      },
+      {
+        "id": "item_mtl_stageup_normal_01",
+        "count": 5
+      }
+    ]
+  },
+  "reward_map01_lv005_int_40298": {
+    "rewardId": "reward_map01_lv005_int_40298",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 190
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 7
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 7
+      },
+      {
+        "id": "item_weapon_breakthrough_a1",
+        "count": 5
+      }
+    ]
+  },
+  "reward_map01_lv005_int_40299": {
+    "rewardId": "reward_map01_lv005_int_40299",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 190
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 7
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 7
+      },
+      {
+        "id": "item_weapon_breakthrough_a1",
+        "count": 5
+      }
+    ]
+  },
+  "reward_map01_lv005_int_40300": {
+    "rewardId": "reward_map01_lv005_int_40300",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 190
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 7
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 7
+      },
+      {
+        "id": "item_mtl_skillup_normal_02",
+        "count": 5
+      }
+    ]
+  },
+  "reward_map01_lv005_int_40301": {
+    "rewardId": "reward_map01_lv005_int_40301",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 190
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 7
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 7
+      },
+      {
+        "id": "item_mtl_stageup_normal_02",
+        "count": 5
+      }
+    ]
+  },
+  "reward_map01_lv005_int_40310": {
+    "rewardId": "reward_map01_lv005_int_40310",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 2
+      },
+      {
+        "id": "item_gold",
+        "count": 304
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 12
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 11
+      },
+      {
+        "id": "wpn_0022",
+        "count": 1
+      },
+      {
+        "id": "item_weapon_breakthrough_b1",
+        "count": 9
+      },
+      {
+        "id": "item_unit_t2_suit_04_body_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv005_int_40326": {
+    "rewardId": "reward_map01_lv005_int_40326",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 2
+      },
+      {
+        "id": "item_gold",
+        "count": 456
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 18
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 16
+      },
+      {
+        "id": "wpn_0023",
+        "count": 1
+      },
+      {
+        "id": "item_weapon_breakthrough_a1",
+        "count": 13
+      },
+      {
+        "id": "item_unit_t2_parts_body_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv005_int_50208": {
+    "rewardId": "reward_map01_lv005_int_50208",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 2
+      },
+      {
+        "id": "item_gold",
+        "count": 304
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 12
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 11
+      },
+      {
+        "id": "wpn_0019",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_stageup_normal_02",
+        "count": 9
+      },
+      {
+        "id": "item_unit_t2_suit_03_hand_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv005_int_50211": {
+    "rewardId": "reward_map01_lv005_int_50211",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 2
+      },
+      {
+        "id": "item_gold",
+        "count": 304
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 12
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 11
+      },
+      {
+        "id": "wpn_0022",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_skillup_normal_02",
+        "count": 9
+      },
+      {
+        "id": "item_unit_t2_suit_06_body_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv005_int_50212": {
+    "rewardId": "reward_map01_lv005_int_50212",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 2
+      },
+      {
+        "id": "item_gold",
+        "count": 304
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 12
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 11
+      },
+      {
+        "id": "wpn_0022",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_skillup_normal_02",
+        "count": 9
+      },
+      {
+        "id": "item_unit_t2_suit_01_edc_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv005_int_50243": {
+    "rewardId": "reward_map01_lv005_int_50243",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 2
+      },
+      {
+        "id": "item_gold",
+        "count": 304
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 12
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 11
+      },
+      {
+        "id": "wpn_0020",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_skillup_normal_01",
+        "count": 9
+      },
+      {
+        "id": "item_unit_t2_suit_07_edc_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv005_int_50244": {
+    "rewardId": "reward_map01_lv005_int_50244",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 2
+      },
+      {
+        "id": "item_gold",
+        "count": 304
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 12
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 11
+      },
+      {
+        "id": "wpn_0019",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_skillup_normal_01",
+        "count": 9
+      },
+      {
+        "id": "item_unit_t2_suit_02_edc_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv005_int_50281": {
+    "rewardId": "reward_map01_lv005_int_50281",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 2
+      },
+      {
+        "id": "item_gold",
+        "count": 304
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 12
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 11
+      },
+      {
+        "id": "wpn_0021",
+        "count": 1
+      },
+      {
+        "id": "item_weapon_breakthrough_b1",
+        "count": 9
+      },
+      {
+        "id": "item_unit_t2_parts_body_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv005_int_50282": {
+    "rewardId": "reward_map01_lv005_int_50282",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 2
+      },
+      {
+        "id": "item_gold",
+        "count": 304
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 12
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 11
+      },
+      {
+        "id": "wpn_0022",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_stageup_normal_02",
+        "count": 9
+      },
+      {
+        "id": "item_unit_t2_suit_06_edc_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv005_int_50285": {
+    "rewardId": "reward_map01_lv005_int_50285",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 2
+      },
+      {
+        "id": "item_gold",
+        "count": 304
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 12
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 11
+      },
+      {
+        "id": "wpn_0020",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_stageup_normal_01",
+        "count": 9
+      },
+      {
+        "id": "item_unit_t2_suit_02_edc_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv005_int_50372": {
+    "rewardId": "reward_map01_lv005_int_50372",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 2
+      },
+      {
+        "id": "item_gold",
+        "count": 304
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 12
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 11
+      },
+      {
+        "id": "wpn_0022",
+        "count": 1
+      },
+      {
+        "id": "item_weapon_breakthrough_b1",
+        "count": 9
+      },
+      {
+        "id": "item_unit_t2_parts_hand_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv005_int_50374": {
+    "rewardId": "reward_map01_lv005_int_50374",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 2
+      },
+      {
+        "id": "item_gold",
+        "count": 304
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 12
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 11
+      },
+      {
+        "id": "wpn_0022",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_stageup_normal_01",
+        "count": 9
+      },
+      {
+        "id": "item_unit_t2_suit_03_hand_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv005_int_50497": {
+    "rewardId": "reward_map01_lv005_int_50497",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 2
+      },
+      {
+        "id": "item_gold",
+        "count": 304
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 12
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 11
+      },
+      {
+        "id": "wpn_0019",
+        "count": 1
+      },
+      {
+        "id": "item_weapon_breakthrough_a1",
+        "count": 9
+      },
+      {
+        "id": "item_unit_t2_suit_05_edc_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv005_int_50642": {
+    "rewardId": "reward_map01_lv005_int_50642",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 190
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 7
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 7
+      },
+      {
+        "id": "item_mtl_skillup_normal_01",
+        "count": 5
+      }
+    ]
+  },
+  "reward_map01_lv005_int_50643": {
+    "rewardId": "reward_map01_lv005_int_50643",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 190
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 7
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 7
+      },
+      {
+        "id": "item_mtl_stageup_normal_02",
+        "count": 5
+      }
+    ]
+  },
+  "reward_map01_lv005_int_50644": {
+    "rewardId": "reward_map01_lv005_int_50644",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 190
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 7
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 7
+      },
+      {
+        "id": "item_weapon_breakthrough_a1",
+        "count": 5
+      }
+    ]
+  },
+  "reward_map01_lv005_int_60124": {
+    "rewardId": "reward_map01_lv005_int_60124",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 2
+      },
+      {
+        "id": "item_gold",
+        "count": 456
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 18
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 16
+      },
+      {
+        "id": "wpn_0012",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_skillup_normal_02",
+        "count": 13
+      },
+      {
+        "id": "item_unit_t2_suit_01_edc_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv005_int_60125": {
+    "rewardId": "reward_map01_lv005_int_60125",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 2
+      },
+      {
+        "id": "item_gold",
+        "count": 456
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 18
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 16
+      },
+      {
+        "id": "wpn_0014",
+        "count": 1
+      },
+      {
+        "id": "item_weapon_breakthrough_a1",
+        "count": 13
+      },
+      {
+        "id": "item_unit_t2_parts_hand_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv006_int_20656": {
+    "rewardId": "reward_map01_lv006_int_20656",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 3
+      },
+      {
+        "id": "item_gold",
+        "count": 595
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 23
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 21
+      },
+      {
+        "id": "wpn_0014",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_skillup_rare_02",
+        "count": 9
+      },
+      {
+        "id": "item_unit_t3_suit_05_edc_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv006_int_20707": {
+    "rewardId": "reward_map01_lv006_int_20707",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 4
+      },
+      {
+        "id": "item_gold",
+        "count": 848
+      },
+      {
+        "id": "item_expcard_3_1",
+        "count": 16
+      },
+      {
+        "id": "item_weapon_upgrade_mid",
+        "count": 5
+      },
+      {
+        "id": "wpn_0023",
+        "count": 1
+      },
+      {
+        "id": "item_weapon_breakthrough_a2",
+        "count": 12
+      },
+      {
+        "id": "item_unit_t4_suit_07_body_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv006_int_20711": {
+    "rewardId": "reward_map01_lv006_int_20711",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 3
+      },
+      {
+        "id": "item_gold",
+        "count": 544
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 21
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 19
+      },
+      {
+        "id": "wpn_0023",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_skillup_rare_02",
+        "count": 8
+      },
+      {
+        "id": "item_unit_t3_suit_06_hand_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv006_int_20802": {
+    "rewardId": "reward_map01_lv006_int_20802",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 2
+      },
+      {
+        "id": "item_gold",
+        "count": 352
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 14
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 13
+      },
+      {
+        "id": "wpn_0021",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_stageup_rare_02",
+        "count": 5
+      },
+      {
+        "id": "item_unit_t3_suit_03_body_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv006_int_20808": {
+    "rewardId": "reward_map01_lv006_int_20808",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 3
+      },
+      {
+        "id": "item_gold",
+        "count": 513
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 20
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 18
+      },
+      {
+        "id": "wpn_0012",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_skillup_rare_02",
+        "count": 7
+      },
+      {
+        "id": "item_unit_t2_suit_07_edc_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv006_int_20825": {
+    "rewardId": "reward_map01_lv006_int_20825",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 2
+      },
+      {
+        "id": "item_gold",
+        "count": 363
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 14
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 13
+      },
+      {
+        "id": "wpn_0021",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_stageup_rare_01",
+        "count": 5
+      },
+      {
+        "id": "item_unit_t3_suit_07_body_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv006_int_21046": {
+    "rewardId": "reward_map01_lv006_int_21046",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 227
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 9
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 9
+      },
+      {
+        "id": "item_mtl_skillup_rare_02",
+        "count": 3
+      }
+    ]
+  },
+  "reward_map01_lv006_int_21047": {
+    "rewardId": "reward_map01_lv006_int_21047",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 227
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 9
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 9
+      },
+      {
+        "id": "item_weapon_breakthrough_a2",
+        "count": 3
+      }
+    ]
+  },
+  "reward_map01_lv006_int_21061": {
+    "rewardId": "reward_map01_lv006_int_21061",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 2
+      },
+      {
+        "id": "item_gold",
+        "count": 363
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 14
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 13
+      },
+      {
+        "id": "wpn_0021",
+        "count": 1
+      },
+      {
+        "id": "item_weapon_breakthrough_a2",
+        "count": 5
+      },
+      {
+        "id": "item_unit_t3_suit_05_body_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv006_int_21066": {
+    "rewardId": "reward_map01_lv006_int_21066",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 3
+      },
+      {
+        "id": "item_gold",
+        "count": 544
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 21
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 19
+      },
+      {
+        "id": "wpn_0023",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_stageup_rare_02",
+        "count": 8
+      },
+      {
+        "id": "item_unit_t3_suit_07_hand_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv006_int_21115": {
+    "rewardId": "reward_map01_lv006_int_21115",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 248
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 10
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 10
+      },
+      {
+        "id": "item_weapon_breakthrough_b2",
+        "count": 4
+      }
+    ]
+  },
+  "reward_map01_lv006_int_21116": {
+    "rewardId": "reward_map01_lv006_int_21116",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 227
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 9
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 9
+      },
+      {
+        "id": "item_mtl_skillup_rare_02",
+        "count": 3
+      }
+    ]
+  },
+  "reward_map01_lv006_int_21158": {
+    "rewardId": "reward_map01_lv006_int_21158",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 2
+      },
+      {
+        "id": "item_gold",
+        "count": 363
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 14
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 13
+      },
+      {
+        "id": "wpn_0021",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_skillup_rare_01",
+        "count": 5
+      },
+      {
+        "id": "item_unit_t3_suit_06_hand_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv006_int_21178": {
+    "rewardId": "reward_map01_lv006_int_21178",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 2
+      },
+      {
+        "id": "item_gold",
+        "count": 363
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 14
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 13
+      },
+      {
+        "id": "wpn_0021",
+        "count": 1
+      },
+      {
+        "id": "item_weapon_breakthrough_a2",
+        "count": 5
+      },
+      {
+        "id": "item_unit_t3_suit_09_body_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv006_int_21181": {
+    "rewardId": "reward_map01_lv006_int_21181",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 295
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 11
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 11
+      },
+      {
+        "id": "item_mtl_stageup_rare_01",
+        "count": 4
+      }
+    ]
+  },
+  "reward_map01_lv006_int_21218": {
+    "rewardId": "reward_map01_lv006_int_21218",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 286
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 11
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 11
+      },
+      {
+        "id": "item_mtl_stageup_rare_02",
+        "count": 4
+      }
+    ]
+  },
+  "reward_map01_lv006_int_21220": {
+    "rewardId": "reward_map01_lv006_int_21220",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 2
+      },
+      {
+        "id": "item_gold",
+        "count": 322
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 12
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 12
+      },
+      {
+        "id": "item_mtl_stageup_rare_01",
+        "count": 5
+      }
+    ]
+  },
+  "reward_map01_lv006_int_21221": {
+    "rewardId": "reward_map01_lv006_int_21221",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 227
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 9
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 9
+      },
+      {
+        "id": "item_mtl_skillup_rare_01",
+        "count": 3
+      }
+    ]
+  },
+  "reward_map01_lv006_int_21222": {
+    "rewardId": "reward_map01_lv006_int_21222",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 227
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 9
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 9
+      },
+      {
+        "id": "item_weapon_breakthrough_b2",
+        "count": 3
+      }
+    ]
+  },
+  "reward_map01_lv006_int_21223": {
+    "rewardId": "reward_map01_lv006_int_21223",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 227
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 9
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 9
+      },
+      {
+        "id": "item_weapon_breakthrough_b2",
+        "count": 3
+      }
+    ]
+  },
+  "reward_map01_lv006_int_21234": {
+    "rewardId": "reward_map01_lv006_int_21234",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 227
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 9
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 9
+      },
+      {
+        "id": "item_mtl_skillup_rare_02",
+        "count": 3
+      }
+    ]
+  },
+  "reward_map01_lv006_int_21235": {
+    "rewardId": "reward_map01_lv006_int_21235",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 227
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 9
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 9
+      },
+      {
+        "id": "item_mtl_skillup_rare_01",
+        "count": 3
+      }
+    ]
+  },
+  "reward_map01_lv006_int_21236": {
+    "rewardId": "reward_map01_lv006_int_21236",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 227
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 9
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 9
+      },
+      {
+        "id": "item_mtl_skillup_rare_01",
+        "count": 3
+      }
+    ]
+  },
+  "reward_map01_lv006_int_30016": {
+    "rewardId": "reward_map01_lv006_int_30016",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 2
+      },
+      {
+        "id": "item_gold",
+        "count": 374
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 14
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 13
+      },
+      {
+        "id": "wpn_0019",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_stageup_rare_01",
+        "count": 5
+      },
+      {
+        "id": "item_unit_t3_parts_edc_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv006_int_30018": {
+    "rewardId": "reward_map01_lv006_int_30018",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 3
+      },
+      {
+        "id": "item_gold",
+        "count": 561
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 22
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 20
+      },
+      {
+        "id": "wpn_0012",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_skillup_rare_02",
+        "count": 8
+      },
+      {
+        "id": "item_unit_t3_suit_10_edc_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv006_int_30020": {
+    "rewardId": "reward_map01_lv006_int_30020",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 3
+      },
+      {
+        "id": "item_gold",
+        "count": 613
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 24
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 22
+      },
+      {
+        "id": "wpn_0012",
+        "count": 1
+      },
+      {
+        "id": "item_weapon_breakthrough_b2",
+        "count": 9
+      },
+      {
+        "id": "item_unit_t3_parts_body_02",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv006_int_30021": {
+    "rewardId": "reward_map01_lv006_int_30021",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 3
+      },
+      {
+        "id": "item_gold",
+        "count": 613
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 24
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 22
+      },
+      {
+        "id": "wpn_0023",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_stageup_rare_01",
+        "count": 9
+      },
+      {
+        "id": "item_unit_t3_suit_02_body_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv006_int_30027": {
+    "rewardId": "reward_map01_lv006_int_30027",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 3
+      },
+      {
+        "id": "item_gold",
+        "count": 561
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 22
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 20
+      },
+      {
+        "id": "wpn_0014",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_skillup_rare_02",
+        "count": 8
+      },
+      {
+        "id": "item_unit_t3_suit_07_hand_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv006_int_30199": {
+    "rewardId": "reward_map01_lv006_int_30199",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 3
+      },
+      {
+        "id": "item_gold",
+        "count": 613
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 24
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 22
+      },
+      {
+        "id": "wpn_0014",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_skillup_rare_02",
+        "count": 9
+      },
+      {
+        "id": "item_unit_t3_suit_01_hand_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv006_int_30220": {
+    "rewardId": "reward_map01_lv006_int_30220",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 3
+      },
+      {
+        "id": "item_gold",
+        "count": 613
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 24
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 22
+      },
+      {
+        "id": "wpn_0014",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_stageup_rare_02",
+        "count": 9
+      },
+      {
+        "id": "item_unit_t3_parts_hand_02",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv006_int_30221": {
+    "rewardId": "reward_map01_lv006_int_30221",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 3
+      },
+      {
+        "id": "item_gold",
+        "count": 613
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 24
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 22
+      },
+      {
+        "id": "wpn_0012",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_stageup_rare_02",
+        "count": 9
+      },
+      {
+        "id": "item_unit_t3_suit_08_edc_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv006_int_30234": {
+    "rewardId": "reward_map01_lv006_int_30234",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 3
+      },
+      {
+        "id": "item_gold",
+        "count": 613
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 24
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 22
+      },
+      {
+        "id": "wpn_0011",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_stageup_rare_02",
+        "count": 9
+      },
+      {
+        "id": "item_unit_t3_parts_hand_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv006_int_30332": {
+    "rewardId": "reward_map01_lv006_int_30332",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 255
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 10
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 10
+      },
+      {
+        "id": "item_mtl_stageup_rare_01",
+        "count": 4
+      }
+    ]
+  },
+  "reward_map01_lv006_int_30333": {
+    "rewardId": "reward_map01_lv006_int_30333",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 255
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 10
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 10
+      },
+      {
+        "id": "item_mtl_stageup_rare_02",
+        "count": 4
+      }
+    ]
+  },
+  "reward_map01_lv006_int_30334": {
+    "rewardId": "reward_map01_lv006_int_30334",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 255
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 10
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 10
+      },
+      {
+        "id": "item_mtl_skillup_rare_01",
+        "count": 4
+      }
+    ]
+  },
+  "reward_map01_lv006_int_30335": {
+    "rewardId": "reward_map01_lv006_int_30335",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 255
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 10
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 10
+      },
+      {
+        "id": "item_mtl_skillup_rare_01",
+        "count": 4
+      }
+    ]
+  },
+  "reward_map01_lv006_int_30336": {
+    "rewardId": "reward_map01_lv006_int_30336",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 248
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 10
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 10
+      },
+      {
+        "id": "item_mtl_stageup_rare_01",
+        "count": 4
+      }
+    ]
+  },
+  "reward_map01_lv006_int_30337": {
+    "rewardId": "reward_map01_lv006_int_30337",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 248
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 10
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 10
+      },
+      {
+        "id": "item_weapon_breakthrough_b2",
+        "count": 4
+      }
+    ]
+  },
+  "reward_map01_lv006_int_30414": {
+    "rewardId": "reward_map01_lv006_int_30414",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 2
+      },
+      {
+        "id": "item_gold",
+        "count": 374
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 14
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 13
+      },
+      {
+        "id": "wpn_0022",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_stageup_rare_01",
+        "count": 5
+      },
+      {
+        "id": "item_unit_t3_suit_04_hand_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv006_int_30416": {
+    "rewardId": "reward_map01_lv006_int_30416",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 2
+      },
+      {
+        "id": "item_gold",
+        "count": 304
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 12
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 12
+      },
+      {
+        "id": "item_weapon_breakthrough_b2",
+        "count": 4
+      }
+    ]
+  },
+  "reward_map01_lv006_int_30420": {
+    "rewardId": "reward_map01_lv006_int_30420",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 2
+      },
+      {
+        "id": "item_gold",
+        "count": 374
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 14
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 13
+      },
+      {
+        "id": "wpn_0020",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_skillup_rare_02",
+        "count": 5
+      },
+      {
+        "id": "item_unit_t3_parts_edc_02",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv006_int_30424": {
+    "rewardId": "reward_map01_lv006_int_30424",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 2
+      },
+      {
+        "id": "item_gold",
+        "count": 304
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 12
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 12
+      },
+      {
+        "id": "item_mtl_stageup_rare_01",
+        "count": 4
+      }
+    ]
+  },
+  "reward_map01_lv006_int_30426": {
+    "rewardId": "reward_map01_lv006_int_30426",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 2
+      },
+      {
+        "id": "item_gold",
+        "count": 374
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 14
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 13
+      },
+      {
+        "id": "wpn_0019",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_skillup_rare_02",
+        "count": 5
+      },
+      {
+        "id": "item_unit_t3_suit_08_hand_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv006_int_30440": {
+    "rewardId": "reward_map01_lv006_int_30440",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 234
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 9
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 9
+      },
+      {
+        "id": "item_weapon_breakthrough_a2",
+        "count": 3
+      }
+    ]
+  },
+  "reward_map01_lv006_int_30441": {
+    "rewardId": "reward_map01_lv006_int_30441",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 234
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 9
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 9
+      },
+      {
+        "id": "item_weapon_breakthrough_a2",
+        "count": 3
+      }
+    ]
+  },
+  "reward_map01_lv006_int_30442": {
+    "rewardId": "reward_map01_lv006_int_30442",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 234
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 9
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 9
+      },
+      {
+        "id": "item_mtl_stageup_rare_02",
+        "count": 3
+      }
+    ]
+  },
+  "reward_map01_lv006_int_30459": {
+    "rewardId": "reward_map01_lv006_int_30459",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 2
+      },
+      {
+        "id": "item_gold",
+        "count": 408
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 16
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 15
+      },
+      {
+        "id": "wpn_0022",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_stageup_rare_02",
+        "count": 6
+      },
+      {
+        "id": "item_unit_t3_parts_body_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_map01_lv006_int_30510": {
+    "rewardId": "reward_map01_lv006_int_30510",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 234
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 9
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 9
+      },
+      {
+        "id": "item_mtl_skillup_rare_01",
+        "count": 3
+      }
+    ]
+  },
+  "reward_map01_lv006_int_30511": {
+    "rewardId": "reward_map01_lv006_int_30511",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 234
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 9
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 9
+      },
+      {
+        "id": "item_weapon_breakthrough_a2",
+        "count": 3
+      }
+    ]
+  },
+  "reward_map01_lv006_int_30512": {
+    "rewardId": "reward_map01_lv006_int_30512",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 234
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 9
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 9
+      },
+      {
+        "id": "item_mtl_stageup_rare_01",
+        "count": 3
+      }
+    ]
+  },
+  "reward_map01_lv006_int_30513": {
+    "rewardId": "reward_map01_lv006_int_30513",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 255
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 10
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 10
+      },
+      {
+        "id": "item_mtl_stageup_rare_02",
+        "count": 4
+      }
+    ]
+  },
+  "reward_mission_blc_e1m1": {
+    "rewardId": "reward_mission_blc_e1m1",
+    "itemBundles": [
+      {
+        "id": "item_rev_potion_1",
+        "count": 2
+      },
+      {
+        "id": "item_bloc_endfield_exp",
+        "count": 80
+      }
+    ]
+  },
+  "reward_mission_blc_e1m10": {
+    "rewardId": "reward_mission_blc_e1m10",
+    "itemBundles": [
+      {
+        "id": "item_atk_buff_potion_1",
+        "count": 2
+      },
+      {
+        "id": "item_bloc_ursus_exp",
+        "count": 80
+      }
+    ]
+  },
+  "reward_mission_blc_e1m100": {
+    "rewardId": "reward_mission_blc_e1m100",
+    "itemBundles": [
+      {
+        "id": "item_ap_supply_nlt",
+        "count": 2
+      },
+      {
+        "id": "item_diamond",
+        "count": 30
+      },
+      {
+        "id": "item_gold",
+        "count": 4000
+      }
+    ]
+  },
+  "reward_mission_blc_e1m11": {
+    "rewardId": "reward_mission_blc_e1m11",
+    "itemBundles": [
+      {
+        "id": "item_def_buff_potion_1",
+        "count": 2
+      },
+      {
+        "id": "item_bloc_endfield_exp",
+        "count": 80
+      }
+    ]
+  },
+  "reward_mission_blc_e1m12": {
+    "rewardId": "reward_mission_blc_e1m12",
+    "itemBundles": [
+      {
+        "id": "item_pen_buff_potion_1",
+        "count": 2
+      },
+      {
+        "id": "item_bloc_ursus_exp",
+        "count": 80
+      }
+    ]
+  },
+  "reward_mission_blc_e1m13": {
+    "rewardId": "reward_mission_blc_e1m13",
+    "itemBundles": [
+      {
+        "id": "item_rev_potion_1",
+        "count": 2
+      },
+      {
+        "id": "item_bloc_endfield_exp",
+        "count": 80
+      }
+    ]
+  },
+  "reward_mission_blc_e1m14": {
+    "rewardId": "reward_mission_blc_e1m14",
+    "itemBundles": [
+      {
+        "id": "item_atk_buff_potion_1",
+        "count": 2
+      },
+      {
+        "id": "item_bloc_ursus_exp",
+        "count": 80
+      }
+    ]
+  },
+  "reward_mission_blc_e1m15": {
+    "rewardId": "reward_mission_blc_e1m15",
+    "itemBundles": [
+      {
+        "id": "item_def_buff_potion_1",
+        "count": 2
+      },
+      {
+        "id": "item_bloc_endfield_exp",
+        "count": 80
+      }
+    ]
+  },
+  "reward_mission_blc_e1m16": {
+    "rewardId": "reward_mission_blc_e1m16",
+    "itemBundles": [
+      {
+        "id": "item_pen_buff_potion_1",
+        "count": 2
+      },
+      {
+        "id": "item_bloc_ursus_exp",
+        "count": 80
+      }
+    ]
+  },
+  "reward_mission_blc_e1m17": {
+    "rewardId": "reward_mission_blc_e1m17",
+    "itemBundles": [
+      {
+        "id": "item_atk_buff_potion_2",
+        "count": 2
+      },
+      {
+        "id": "item_bloc_endfield_exp",
+        "count": 80
+      }
+    ]
+  },
+  "reward_mission_blc_e1m18": {
+    "rewardId": "reward_mission_blc_e1m18",
+    "itemBundles": [
+      {
+        "id": "item_def_buff_potion_2",
+        "count": 2
+      },
+      {
+        "id": "item_bloc_ursus_exp",
+        "count": 80
+      }
+    ]
+  },
+  "reward_mission_blc_e1m19": {
+    "rewardId": "reward_mission_blc_e1m19",
+    "itemBundles": [
+      {
+        "id": "item_team_pen_buff_potion_1",
+        "count": 2
+      },
+      {
+        "id": "item_bloc_endfield_exp",
+        "count": 80
+      }
+    ]
+  },
+  "reward_mission_blc_e1m2": {
+    "rewardId": "reward_mission_blc_e1m2",
+    "itemBundles": [
+      {
+        "id": "item_atk_buff_potion_1",
+        "count": 2
+      },
+      {
+        "id": "item_bloc_ursus_exp",
+        "count": 80
+      }
+    ]
+  },
+  "reward_mission_blc_e1m20": {
+    "rewardId": "reward_mission_blc_e1m20",
+    "itemBundles": [
+      {
+        "id": "item_def_buff_potion_2",
+        "count": 2
+      },
+      {
+        "id": "item_bloc_ursus_exp",
+        "count": 80
+      }
+    ]
+  },
+  "reward_mission_blc_e1m21": {
+    "rewardId": "reward_mission_blc_e1m21",
+    "itemBundles": [
+      {
+        "id": "item_proc_bomb_1",
+        "count": 2
+      },
+      {
+        "id": "item_bloc_endfield_exp",
+        "count": 80
+      }
+    ]
+  },
+  "reward_mission_blc_e1m22": {
+    "rewardId": "reward_mission_blc_e1m22",
+    "itemBundles": [
+      {
+        "id": "item_proc_bomb_2",
+        "count": 2
+      },
+      {
+        "id": "item_bloc_ursus_exp",
+        "count": 80
+      }
+    ]
+  },
+  "reward_mission_blc_e1m23": {
+    "rewardId": "reward_mission_blc_e1m23",
+    "itemBundles": [
+      {
+        "id": "item_proc_bomb_1",
+        "count": 2
+      },
+      {
+        "id": "item_bloc_endfield_exp",
+        "count": 80
+      }
+    ]
+  },
+  "reward_mission_blc_e1m24": {
+    "rewardId": "reward_mission_blc_e1m24",
+    "itemBundles": [
+      {
+        "id": "item_proc_bomb_2",
+        "count": 2
+      },
+      {
+        "id": "item_bloc_ursus_exp",
+        "count": 80
+      }
+    ]
+  },
+  "reward_mission_blc_e1m3": {
+    "rewardId": "reward_mission_blc_e1m3",
+    "itemBundles": [
+      {
+        "id": "item_def_buff_potion_1",
+        "count": 2
+      },
+      {
+        "id": "item_bloc_endfield_exp",
+        "count": 80
+      }
+    ]
+  },
+  "reward_mission_blc_e1m4": {
+    "rewardId": "reward_mission_blc_e1m4",
+    "itemBundles": [
+      {
+        "id": "item_pen_buff_potion_1",
+        "count": 2
+      },
+      {
+        "id": "item_bloc_ursus_exp",
+        "count": 80
+      }
+    ]
+  },
+  "reward_mission_blc_e1m5": {
+    "rewardId": "reward_mission_blc_e1m5",
+    "itemBundles": [
+      {
+        "id": "item_rev_potion_1",
+        "count": 2
+      },
+      {
+        "id": "item_bloc_ursus_exp",
+        "count": 80
+      }
+    ]
+  },
+  "reward_mission_blc_e1m6": {
+    "rewardId": "reward_mission_blc_e1m6",
+    "itemBundles": [
+      {
+        "id": "item_atk_buff_potion_1",
+        "count": 2
+      },
+      {
+        "id": "item_bloc_endfield_exp",
+        "count": 80
+      }
+    ]
+  },
+  "reward_mission_blc_e1m7": {
+    "rewardId": "reward_mission_blc_e1m7",
+    "itemBundles": [
+      {
+        "id": "item_def_buff_potion_1",
+        "count": 2
+      },
+      {
+        "id": "item_bloc_ursus_exp",
+        "count": 80
+      }
+    ]
+  },
+  "reward_mission_blc_e1m8": {
+    "rewardId": "reward_mission_blc_e1m8",
+    "itemBundles": [
+      {
+        "id": "item_pen_buff_potion_1",
+        "count": 2
+      },
+      {
+        "id": "item_bloc_endfield_exp",
+        "count": 80
+      }
+    ]
+  },
+  "reward_mission_blc_e1m9": {
+    "rewardId": "reward_mission_blc_e1m9",
+    "itemBundles": [
+      {
+        "id": "item_rev_potion_1",
+        "count": 2
+      },
+      {
+        "id": "item_bloc_endfield_exp",
+        "count": 80
+      }
+    ]
+  },
+  "reward_mission_fac_e2m1": {
+    "rewardId": "reward_mission_fac_e2m1",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 6
+      },
+      {
+        "id": "item_gold",
+        "count": 1235
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 48
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 46
+      },
+      {
+        "id": "wpn_0014",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_stageup_normal_02",
+        "count": 36
+      }
+    ]
+  },
+  "reward_mission_fac_e2m2": {
+    "rewardId": "reward_mission_fac_e2m2",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 6
+      },
+      {
+        "id": "item_gold",
+        "count": 1235
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 48
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 46
+      },
+      {
+        "id": "wpn_0012",
+        "count": 1
+      },
+      {
+        "id": "item_weapon_breakthrough_b1",
+        "count": 36
+      }
+    ]
+  },
+  "reward_mission_fac_e2m3": {
+    "rewardId": "reward_mission_fac_e2m3",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 6
+      },
+      {
+        "id": "item_gold",
+        "count": 1272
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 49
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 47
+      },
+      {
+        "id": "wpn_0014",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_skillup_normal_01",
+        "count": 37
+      }
+    ]
+  },
+  "reward_mission_gpl_e1m2": {
+    "rewardId": "reward_mission_gpl_e1m2",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 2
+      },
+      {
+        "id": "item_gold",
+        "count": 313
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 12
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 11
+      },
+      {
+        "id": "wpn_0022",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_stageup_normal_01",
+        "count": 9
+      }
+    ]
+  },
+  "reward_mission_gpl_e1m5": {
+    "rewardId": "reward_mission_gpl_e1m5",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 1
+      },
+      {
+        "id": "item_gold",
+        "count": 254
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 10
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 9
+      },
+      {
+        "id": "wpn_0022",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_stageup_normal_02",
+        "count": 7
+      }
+    ]
+  },
+  "reward_mission_gpl_e2m5": {
+    "rewardId": "reward_mission_gpl_e2m5",
+    "itemBundles": [
+      {
+        "id": "item_quest_gpl_e2m5_trophy",
+        "count": 1
+      }
+    ]
+  },
+  "reward_mission_mai_e1m3_q10_1": {
+    "rewardId": "reward_mission_mai_e1m3_q10_1",
+    "itemBundles": [
+      {
+        "id": "wpn_0019",
+        "count": 1
+      },
+      {
+        "id": "wpn_0021",
+        "count": 1
+      }
+    ]
+  },
+  "reward_mission_main_e1m1": {
+    "rewardId": "reward_mission_main_e1m1",
+    "itemBundles": [
+      {
+        "id": "item_gold",
+        "count": 71
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 6
+      },
+      {
+        "id": "wpn_0021",
+        "count": 1
+      }
+    ]
+  },
+  "reward_mission_main_e1m2": {
+    "rewardId": "reward_mission_main_e1m2",
+    "itemBundles": [
+      {
+        "id": "item_gold",
+        "count": 189
+      },
+      {
+        "id": "item_expcard_1",
+        "count": 1
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 18
+      },
+      {
+        "id": "wpn_0019",
+        "count": 1
+      }
+    ]
+  },
+  "reward_mission_main_e1m3": {
+    "rewardId": "reward_mission_main_e1m3",
+    "itemBundles": [
+      {
+        "id": "item_gold",
+        "count": 289
+      },
+      {
+        "id": "item_expcard_1",
+        "count": 12
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 27
+      },
+      {
+        "id": "wpn_0011",
+        "count": 1
+      }
+    ]
+  },
+  "reward_mission_main_e1m4": {
+    "rewardId": "reward_mission_main_e1m4",
+    "itemBundles": [
+      {
+        "id": "item_gold",
+        "count": 893
+      },
+      {
+        "id": "item_expcard_1",
+        "count": 50
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 52
+      },
+      {
+        "id": "wpn_0024",
+        "count": 1
+      },
+      {
+        "id": "item_weapon_breakthrough_b1",
+        "count": 42
+      }
+    ]
+  },
+  "reward_mission_main_e1m5": {
+    "rewardId": "reward_mission_main_e1m5",
+    "itemBundles": [
+      {
+        "id": "item_gold",
+        "count": 395
+      },
+      {
+        "id": "item_expcard_1",
+        "count": 28
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 24
+      },
+      {
+        "id": "wpn_0019",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_skillup_normal_02",
+        "count": 19
+      }
+    ]
+  },
+  "reward_mission_main_e1m6": {
+    "rewardId": "reward_mission_main_e1m6",
+    "itemBundles": [
+      {
+        "id": "item_gold",
+        "count": 2168
+      },
+      {
+        "id": "item_expcard_1",
+        "count": 468
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 131
+      },
+      {
+        "id": "wpn_0026",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_stageup_normal_01",
+        "count": 102
+      }
+    ]
+  },
+  "reward_mission_main_e1m7": {
+    "rewardId": "reward_mission_main_e1m7",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 8
+      },
+      {
+        "id": "item_gold",
+        "count": 1674
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 64
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 62
+      },
+      {
+        "id": "wpn_0014",
+        "count": 1
+      },
+      {
+        "id": "item_weapon_breakthrough_a1",
+        "count": 48
+      }
+    ]
+  },
+  "reward_mission_main_e1m8": {
+    "rewardId": "reward_mission_main_e1m8",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 4
+      },
+      {
+        "id": "item_gold",
+        "count": 862
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 33
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 32
+      },
+      {
+        "id": "wpn_0020",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_stageup_normal_02",
+        "count": 25
+      }
+    ]
+  },
+  "reward_mission_main_e1m9": {
+    "rewardId": "reward_mission_main_e1m9",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 14
+      },
+      {
+        "id": "item_gold",
+        "count": 2826
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 109
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 105
+      },
+      {
+        "id": "wpn_0028",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_skillup_normal_01",
+        "count": 82
+      },
+      {
+        "id": "item_unit_t1_suit_01_hand_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_mission_main_e2m1": {
+    "rewardId": "reward_mission_main_e2m1",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 24
+      },
+      {
+        "id": "item_gold",
+        "count": 4773
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 184
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 180
+      },
+      {
+        "id": "wpn_0030",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_skillup_normal_02",
+        "count": 138
+      },
+      {
+        "id": "item_unit_t1_suit_03_body_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_mission_main_e2m2": {
+    "rewardId": "reward_mission_main_e2m2",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 23
+      },
+      {
+        "id": "item_gold",
+        "count": 4433
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 171
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 167
+      },
+      {
+        "id": "wpn_0032",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_stageup_normal_02",
+        "count": 128
+      },
+      {
+        "id": "item_unit_t2_suit_05_hand_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_mission_main_e2m3": {
+    "rewardId": "reward_mission_main_e2m3",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 30
+      },
+      {
+        "id": "item_gold",
+        "count": 5870
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 226
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 222
+      },
+      {
+        "id": "wpn_0025",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_stageup_rare_01",
+        "count": 85
+      },
+      {
+        "id": "item_unit_t2_suit_01_body_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_mission_main_e2m4": {
+    "rewardId": "reward_mission_main_e2m4",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 16
+      },
+      {
+        "id": "item_gold",
+        "count": 3207
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 123
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 121
+      },
+      {
+        "id": "wpn_0023",
+        "count": 1
+      },
+      {
+        "id": "item_weapon_breakthrough_b2",
+        "count": 46
+      },
+      {
+        "id": "item_unit_t2_parts_body_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_mission_main_e2m5": {
+    "rewardId": "reward_mission_main_e2m5",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 25
+      },
+      {
+        "id": "item_gold",
+        "count": 4955
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 191
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 187
+      },
+      {
+        "id": "wpn_0027",
+        "count": 1
+      },
+      {
+        "id": "item_weapon_breakthrough_a2",
+        "count": 71
+      },
+      {
+        "id": "item_unit_t3_suit_06_edc_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_mission_main_e2m6": {
+    "rewardId": "reward_mission_main_e2m6",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 27
+      },
+      {
+        "id": "item_gold",
+        "count": 5414
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 208
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 204
+      },
+      {
+        "id": "wpn_0029",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_skillup_rare_01",
+        "count": 78
+      },
+      {
+        "id": "item_unit_t3_suit_09_edc_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_mission_main_e2m7": {
+    "rewardId": "reward_mission_main_e2m7",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 29
+      },
+      {
+        "id": "item_gold",
+        "count": 5744
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 221
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 217
+      },
+      {
+        "id": "wpn_0031",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_stageup_rare_01",
+        "count": 83
+      },
+      {
+        "id": "item_unit_t3_parts_hand_02",
+        "count": 1
+      }
+    ]
+  },
+  "reward_mission_main_e2m8": {
+    "rewardId": "reward_mission_main_e2m8",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 30
+      },
+      {
+        "id": "item_gold",
+        "count": 5916
+      },
+      {
+        "id": "item_expcard_3_1",
+        "count": 114
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 224
+      },
+      {
+        "id": "wpn_0024",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_stageup_rare_02",
+        "count": 85
+      },
+      {
+        "id": "item_unit_t4_suit_10_edc_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_mission_sid_e1m1": {
+    "rewardId": "reward_mission_sid_e1m1",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 9
+      },
+      {
+        "id": "item_gold",
+        "count": 1863
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 72
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 70
+      },
+      {
+        "id": "wpn_0023",
+        "count": 1
+      },
+      {
+        "id": "item_weapon_breakthrough_a1",
+        "count": 54
+      },
+      {
+        "id": "item_unit_t1_suit_01_hand_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_mission_sid_e1m4": {
+    "rewardId": "reward_mission_sid_e1m4",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 11
+      },
+      {
+        "id": "item_gold",
+        "count": 2097
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 81
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 79
+      },
+      {
+        "id": "wpn_0014",
+        "count": 1
+      },
+      {
+        "id": "item_weapon_breakthrough_b1",
+        "count": 60
+      },
+      {
+        "id": "item_unit_t1_suit_03_edc_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_mission_sid_e1m9": {
+    "rewardId": "reward_mission_sid_e1m9",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 10
+      },
+      {
+        "id": "item_gold",
+        "count": 1919
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 74
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 72
+      },
+      {
+        "id": "wpn_0023",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_skillup_normal_02",
+        "count": 55
+      },
+      {
+        "id": "item_unit_t1_parts_hand_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_mission_sid_e2m1": {
+    "rewardId": "reward_mission_sid_e2m1",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 17
+      },
+      {
+        "id": "item_gold",
+        "count": 3320
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 128
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 124
+      },
+      {
+        "id": "wpn_0024",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_skillup_normal_01",
+        "count": 96
+      },
+      {
+        "id": "item_unit_t2_suit_03_edc_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_mission_sid_e2m10": {
+    "rewardId": "reward_mission_sid_e2m10",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 3
+      },
+      {
+        "id": "item_gold",
+        "count": 626
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 24
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 23
+      },
+      {
+        "id": "wpn_0021",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_stageup_normal_02",
+        "count": 18
+      }
+    ]
+  },
+  "reward_mission_sid_e2m12": {
+    "rewardId": "reward_mission_sid_e2m12",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 24
+      },
+      {
+        "id": "item_gold",
+        "count": 4733
+      },
+      {
+        "id": "item_expcard_3_1",
+        "count": 91
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 178
+      },
+      {
+        "id": "wpn_0031",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_skillup_rare_01",
+        "count": 68
+      },
+      {
+        "id": "item_unit_t4_parts_edc_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_mission_sid_e2m2": {
+    "rewardId": "reward_mission_sid_e2m2",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 21
+      },
+      {
+        "id": "item_gold",
+        "count": 4083
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 157
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 153
+      },
+      {
+        "id": "wpn_0026",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_stageup_rare_01",
+        "count": 59
+      },
+      {
+        "id": "item_unit_t3_suit_04_edc_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_mission_sid_e2m202": {
+    "rewardId": "reward_mission_sid_e2m202",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 13
+      },
+      {
+        "id": "item_gold",
+        "count": 2578
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 99
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 97
+      },
+      {
+        "id": "wpn_0011",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_stageup_normal_02",
+        "count": 74
+      },
+      {
+        "id": "item_unit_t2_suit_05_edc_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_mission_sid_e2m3": {
+    "rewardId": "reward_mission_sid_e2m3",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 21
+      },
+      {
+        "id": "item_gold",
+        "count": 4205
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 162
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 158
+      },
+      {
+        "id": "wpn_0028",
+        "count": 1
+      },
+      {
+        "id": "item_weapon_breakthrough_a2",
+        "count": 61
+      },
+      {
+        "id": "item_unit_t3_suit_10_edc_02",
+        "count": 1
+      }
+    ]
+  },
+  "reward_mission_sid_e2m4": {
+    "rewardId": "reward_mission_sid_e2m4",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 18
+      },
+      {
+        "id": "item_gold",
+        "count": 3628
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 140
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 136
+      },
+      {
+        "id": "wpn_0024",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_skillup_rare_02",
+        "count": 52
+      },
+      {
+        "id": "item_unit_t2_suit_05_hand_01",
+        "count": 1
+      }
+    ]
+  },
+  "reward_mission_sid_e2m5": {
+    "rewardId": "reward_mission_sid_e2m5",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 4
+      },
+      {
+        "id": "item_gold",
+        "count": 726
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 28
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 27
+      },
+      {
+        "id": "wpn_0020",
+        "count": 1
+      },
+      {
+        "id": "item_weapon_breakthrough_b2",
+        "count": 10
+      }
+    ]
+  },
+  "reward_mission_sid_e2m6": {
+    "rewardId": "reward_mission_sid_e2m6",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 4
+      },
+      {
+        "id": "item_gold",
+        "count": 726
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 28
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 27
+      },
+      {
+        "id": "wpn_0021",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_skillup_rare_02",
+        "count": 10
+      }
+    ]
+  },
+  "reward_mission_sid_e2m7": {
+    "rewardId": "reward_mission_sid_e2m7",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 2
+      },
+      {
+        "id": "item_gold",
+        "count": 480
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 18
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 17
+      },
+      {
+        "id": "wpn_0022",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_stageup_normal_01",
+        "count": 14
+      }
+    ]
+  },
+  "reward_mission_sid_e2m8": {
+    "rewardId": "reward_mission_sid_e2m8",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 3
+      },
+      {
+        "id": "item_gold",
+        "count": 590
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 23
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 22
+      },
+      {
+        "id": "wpn_0020",
+        "count": 1
+      },
+      {
+        "id": "item_weapon_breakthrough_a1",
+        "count": 17
+      }
+    ]
+  },
+  "reward_mission_sid_e2m9": {
+    "rewardId": "reward_mission_sid_e2m9",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 4
+      },
+      {
+        "id": "item_gold",
+        "count": 793
+      },
+      {
+        "id": "item_expcard_2_1",
+        "count": 30
+      },
+      {
+        "id": "item_weapon_upgrade_low",
+        "count": 29
+      },
+      {
+        "id": "wpn_0020",
+        "count": 1
+      },
+      {
+        "id": "item_mtl_skillup_rare_02",
+        "count": 11
+      }
+    ]
+  },
+  "reward_order_worker_1_1_1": {
+    "rewardId": "reward_order_worker_1_1_1",
+    "itemBundles": [
+      {
+        "id": "item_bloc_tundra_gold",
+        "count": 16
+      },
+      {
+        "id": "item_gold",
+        "count": 160
+      },
+      {
+        "id": "item_bloc_endfield_exp",
+        "count": 2
+      }
+    ]
+  },
+  "reward_order_worker_1_1_2": {
+    "rewardId": "reward_order_worker_1_1_2",
+    "itemBundles": [
+      {
+        "id": "item_bloc_tundra_gold",
+        "count": 20
+      },
+      {
+        "id": "item_gold",
+        "count": 200
+      },
+      {
+        "id": "item_bloc_endfield_exp",
+        "count": 2
+      }
+    ]
+  },
+  "reward_order_worker_1_1_3": {
+    "rewardId": "reward_order_worker_1_1_3",
+    "itemBundles": [
+      {
+        "id": "item_bloc_tundra_gold",
+        "count": 24
+      },
+      {
+        "id": "item_gold",
+        "count": 240
+      },
+      {
+        "id": "item_bloc_endfield_exp",
+        "count": 2
+      }
+    ]
+  },
+  "reward_order_worker_1_2_1": {
+    "rewardId": "reward_order_worker_1_2_1",
+    "itemBundles": [
+      {
+        "id": "item_bloc_tundra_gold",
+        "count": 32
+      },
+      {
+        "id": "item_gold",
+        "count": 320
+      },
+      {
+        "id": "item_bloc_endfield_exp",
+        "count": 4
+      }
+    ]
+  },
+  "reward_order_worker_1_2_2": {
+    "rewardId": "reward_order_worker_1_2_2",
+    "itemBundles": [
+      {
+        "id": "item_bloc_tundra_gold",
+        "count": 40
+      },
+      {
+        "id": "item_gold",
+        "count": 400
+      },
+      {
+        "id": "item_bloc_endfield_exp",
+        "count": 4
+      }
+    ]
+  },
+  "reward_order_worker_1_2_3": {
+    "rewardId": "reward_order_worker_1_2_3",
+    "itemBundles": [
+      {
+        "id": "item_bloc_tundra_gold",
+        "count": 48
+      },
+      {
+        "id": "item_gold",
+        "count": 480
+      },
+      {
+        "id": "item_bloc_endfield_exp",
+        "count": 4
+      }
+    ]
+  },
+  "reward_order_worker_1_3_1": {
+    "rewardId": "reward_order_worker_1_3_1",
+    "itemBundles": [
+      {
+        "id": "item_bloc_tundra_gold",
+        "count": 80
+      },
+      {
+        "id": "item_gold",
+        "count": 800
+      },
+      {
+        "id": "item_bloc_endfield_exp",
+        "count": 8
+      }
+    ]
+  },
+  "reward_order_worker_1_3_2": {
+    "rewardId": "reward_order_worker_1_3_2",
+    "itemBundles": [
+      {
+        "id": "item_bloc_tundra_gold",
+        "count": 100
+      },
+      {
+        "id": "item_gold",
+        "count": 1000
+      },
+      {
+        "id": "item_bloc_endfield_exp",
+        "count": 8
+      }
+    ]
+  },
+  "reward_order_worker_1_3_3": {
+    "rewardId": "reward_order_worker_1_3_3",
+    "itemBundles": [
+      {
+        "id": "item_bloc_tundra_gold",
+        "count": 120
+      },
+      {
+        "id": "item_gold",
+        "count": 1200
+      },
+      {
+        "id": "item_bloc_endfield_exp",
+        "count": 8
+      }
+    ]
+  },
+  "reward_order_worker_2_1_1": {
+    "rewardId": "reward_order_worker_2_1_1",
+    "itemBundles": [
+      {
+        "id": "item_bloc_tundra_gold",
+        "count": 16
+      },
+      {
+        "id": "item_gold",
+        "count": 160
+      },
+      {
+        "id": "item_bloc_ursus_exp",
+        "count": 2
+      }
+    ]
+  },
+  "reward_order_worker_2_1_2": {
+    "rewardId": "reward_order_worker_2_1_2",
+    "itemBundles": [
+      {
+        "id": "item_bloc_tundra_gold",
+        "count": 20
+      },
+      {
+        "id": "item_gold",
+        "count": 200
+      },
+      {
+        "id": "item_bloc_ursus_exp",
+        "count": 2
+      }
+    ]
+  },
+  "reward_order_worker_2_1_3": {
+    "rewardId": "reward_order_worker_2_1_3",
+    "itemBundles": [
+      {
+        "id": "item_bloc_tundra_gold",
+        "count": 24
+      },
+      {
+        "id": "item_gold",
+        "count": 240
+      },
+      {
+        "id": "item_bloc_ursus_exp",
+        "count": 2
+      }
+    ]
+  },
+  "reward_order_worker_2_2_1": {
+    "rewardId": "reward_order_worker_2_2_1",
+    "itemBundles": [
+      {
+        "id": "item_bloc_tundra_gold",
+        "count": 32
+      },
+      {
+        "id": "item_gold",
+        "count": 320
+      },
+      {
+        "id": "item_bloc_ursus_exp",
+        "count": 4
+      }
+    ]
+  },
+  "reward_order_worker_2_2_2": {
+    "rewardId": "reward_order_worker_2_2_2",
+    "itemBundles": [
+      {
+        "id": "item_bloc_tundra_gold",
+        "count": 40
+      },
+      {
+        "id": "item_gold",
+        "count": 400
+      },
+      {
+        "id": "item_bloc_ursus_exp",
+        "count": 4
+      }
+    ]
+  },
+  "reward_order_worker_2_2_3": {
+    "rewardId": "reward_order_worker_2_2_3",
+    "itemBundles": [
+      {
+        "id": "item_bloc_tundra_gold",
+        "count": 48
+      },
+      {
+        "id": "item_gold",
+        "count": 480
+      },
+      {
+        "id": "item_bloc_ursus_exp",
+        "count": 4
+      }
+    ]
+  },
+  "reward_order_worker_2_3_1": {
+    "rewardId": "reward_order_worker_2_3_1",
+    "itemBundles": [
+      {
+        "id": "item_bloc_tundra_gold",
+        "count": 80
+      },
+      {
+        "id": "item_gold",
+        "count": 800
+      },
+      {
+        "id": "item_bloc_ursus_exp",
+        "count": 8
+      }
+    ]
+  },
+  "reward_order_worker_2_3_2": {
+    "rewardId": "reward_order_worker_2_3_2",
+    "itemBundles": [
+      {
+        "id": "item_bloc_tundra_gold",
+        "count": 100
+      },
+      {
+        "id": "item_gold",
+        "count": 1000
+      },
+      {
+        "id": "item_bloc_ursus_exp",
+        "count": 8
+      }
+    ]
+  },
+  "reward_order_worker_2_3_3": {
+    "rewardId": "reward_order_worker_2_3_3",
+    "itemBundles": [
+      {
+        "id": "item_bloc_tundra_gold",
+        "count": 120
+      },
+      {
+        "id": "item_gold",
+        "count": 1200
+      },
+      {
+        "id": "item_bloc_ursus_exp",
+        "count": 8
+      }
+    ]
+  },
+  "reward_quest_battery": {
+    "rewardId": "reward_quest_battery",
+    "itemBundles": [
+      {
+        "id": "item_quest_common_battery",
+        "count": 1
+      }
+    ]
+  },
+  "reward_quest_building_materials": {
+    "rewardId": "reward_quest_building_materials",
+    "itemBundles": [
+      {
+        "id": "item_quest_building_materials",
+        "count": 1
+      }
+    ]
+  },
+  "reward_quest_common_battery": {
+    "rewardId": "reward_quest_common_battery",
+    "itemBundles": [
+      {
+        "id": "item_quest_common_battery",
+        "count": 2
+      }
+    ]
+  },
+  "reward_quest_e1m2_bfix": {
+    "rewardId": "reward_quest_e1m2_bfix",
+    "itemBundles": [
+      {
+        "id": "item_quest_e1m2_bfix",
+        "count": 3
+      }
+    ]
+  },
+  "reward_quest_e1m2_pole": {
+    "rewardId": "reward_quest_e1m2_pole",
+    "itemBundles": [
+      {
+        "id": "item_port_power_pole_2",
+        "count": 2
+      }
+    ]
+  },
+  "reward_quest_e1m4_endfieldbox": {
+    "rewardId": "reward_quest_e1m4_endfieldbox",
+    "itemBundles": [
+      {
+        "id": "item_quest_e1m4_endfieldbox",
+        "count": 1
+      }
+    ]
+  },
+  "reward_quest_e1m4_handwork_equip": {
+    "rewardId": "reward_quest_e1m4_handwork_equip",
+    "itemBundles": [
+      {
+        "id": "item_bp_handwork_equip_1",
+        "count": 1
+      }
+    ]
+  },
+  "reward_quest_e1m4_regeneration": {
+    "rewardId": "reward_quest_e1m4_regeneration",
+    "itemBundles": [
+      {
+        "id": "item_bottled_rec_hp_0",
+        "count": 5
+      },
+      {
+        "id": "item_glass_bottle",
+        "count": 10
+      }
+    ]
+  },
+  "reward_quest_e1m4_ring": {
+    "rewardId": "reward_quest_e1m4_ring",
+    "itemBundles": [
+      {
+        "id": "item_quest_e1m4_ring",
+        "count": 1
+      }
+    ]
+  },
+  "reward_quest_e1m5_storager": {
+    "rewardId": "reward_quest_e1m5_storager",
+    "itemBundles": [
+      {
+        "id": "item_port_storager_1",
+        "count": 1
+      }
+    ]
+  },
+  "reward_quest_e1m6_battery": {
+    "rewardId": "reward_quest_e1m6_battery",
+    "itemBundles": [
+      {
+        "id": "item_quest_e1m6_battery",
+        "count": 1
+      }
+    ]
+  },
+  "reward_quest_e1m6_drug": {
+    "rewardId": "reward_quest_e1m6_drug",
+    "itemBundles": [
+      {
+        "id": "item_quest_e1m6_drug",
+        "count": 1
+      }
+    ]
+  },
+  "reward_quest_e1m6_needle": {
+    "rewardId": "reward_quest_e1m6_needle",
+    "itemBundles": [
+      {
+        "id": "item_quest_e1m6_needle",
+        "count": 1
+      }
+    ]
+  },
+  "reward_quest_e1m6_tool": {
+    "rewardId": "reward_quest_e1m6_tool",
+    "itemBundles": [
+      {
+        "id": "item_quest_e1m6_tool",
+        "count": 1
+      }
+    ]
+  },
+  "reward_quest_e1m9_destructiblebox": {
+    "rewardId": "reward_quest_e1m9_destructiblebox",
+    "itemBundles": [
+      {
+        "id": "item_originium_ore",
+        "count": 50
+      },
+      {
+        "id": "item_quartz_sand",
+        "count": 50
+      },
+      {
+        "id": "item_crystal_shell",
+        "count": 20
+      },
+      {
+        "id": "item_port_power_pole_1",
+        "count": 5
+      },
+      {
+        "id": "item_port_power_pole_2",
+        "count": 5
+      }
+    ]
+  },
+  "reward_quest_sid_e1m1_goods": {
+    "rewardId": "reward_quest_sid_e1m1_goods",
+    "itemBundles": [
+      {
+        "id": "item_quest_sid_e1m1_goods",
+        "count": 1
+      }
+    ]
+  },
+  "reward_sid_e1m4_powerstation": {
+    "rewardId": "reward_sid_e1m4_powerstation",
+    "itemBundles": [
+      {
+        "id": "item_quest_sid_e1m4_powerstation",
+        "count": 1
+      }
+    ]
+  },
+  "reward_sid_e1m4_recycle": {
+    "rewardId": "reward_sid_e1m4_recycle",
+    "itemBundles": [
+      {
+        "id": "item_port_sp_rec_sta_1",
+        "count": 1
+      }
+    ]
+  },
+  "reward_side_e1m1_1": {
+    "rewardId": "reward_side_e1m1_1",
+    "itemBundles": [
+      {
+        "id": "item_originium_ore",
+        "count": 100
+      },
+      {
+        "id": "item_quartz_sand",
+        "count": 100
+      },
+      {
+        "id": "item_port_storager_1",
+        "count": 2
+      }
+    ]
+  },
+  "reward_side_e1m1_2": {
+    "rewardId": "reward_side_e1m1_2",
+    "itemBundles": [
+      {
+        "id": "item_originium_ore",
+        "count": 100
+      },
+      {
+        "id": "item_quartz_sand",
+        "count": 100
+      }
+    ]
+  },
+  "reward_sp": {
+    "rewardId": "reward_sp",
+    "itemBundles": [
+      {
+        "id": "wpn_0015",
+        "count": 1
+      },
+      {
+        "id": "item_gem_0007_rarity5",
+        "count": 1
+      },
+      {
+        "id": "item_iron_enr_bottle",
+        "count": 1
+      }
+    ]
+  },
+  "reward_supportMail1": {
+    "rewardId": "reward_supportMail1",
+    "itemBundles": [
+      {
+        "id": "item_ap_supply_nlt",
+        "count": 1
+      }
+    ]
+  },
+  "reward_supportMail2": {
+    "rewardId": "reward_supportMail2",
+    "itemBundles": [
+      {
+        "id": "item_ap_supply_nlt",
+        "count": 1
+      }
+    ]
+  },
+  "reward_supportMail3": {
+    "rewardId": "reward_supportMail3",
+    "itemBundles": [
+      {
+        "id": "item_ap_supply_nlt",
+        "count": 1
+      }
+    ]
+  },
+  "reward_supportMail4": {
+    "rewardId": "reward_supportMail4",
+    "itemBundles": [
+      {
+        "id": "item_ap_supply_nlt",
+        "count": 1
+      }
+    ]
+  },
+  "reward_surveyMail1a": {
+    "rewardId": "reward_surveyMail1a",
+    "itemBundles": [
+      {
+        "id": "item_ap_supply_nlt",
+        "count": 1
+      }
+    ]
+  },
+  "reward_surveyMail1b": {
+    "rewardId": "reward_surveyMail1b",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 20
+      }
+    ]
+  },
+  "reward_surveyMail2a": {
+    "rewardId": "reward_surveyMail2a",
+    "itemBundles": [
+      {
+        "id": "item_ap_supply_nlt",
+        "count": 1
+      }
+    ]
+  },
+  "reward_surveyMail2b": {
+    "rewardId": "reward_surveyMail2b",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 50
+      }
+    ]
+  },
+  "reward_surveyMail3a": {
+    "rewardId": "reward_surveyMail3a",
+    "itemBundles": [
+      {
+        "id": "item_ap_supply_nlt",
+        "count": 1
+      }
+    ]
+  },
+  "reward_surveyMail3b": {
+    "rewardId": "reward_surveyMail3b",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 20
+      }
+    ]
+  },
+  "reward_surveyMail4a": {
+    "rewardId": "reward_surveyMail4a",
+    "itemBundles": [
+      {
+        "id": "item_ap_supply_nlt",
+        "count": 1
+      }
+    ]
+  },
+  "reward_surveyMail4b": {
+    "rewardId": "reward_surveyMail4b",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 20
+      }
+    ]
+  },
+  "reward_surveyMail5a": {
+    "rewardId": "reward_surveyMail5a",
+    "itemBundles": [
+      {
+        "id": "item_ap_supply_nlt",
+        "count": 1
+      }
+    ]
+  },
+  "reward_surveyMail5b": {
+    "rewardId": "reward_surveyMail5b",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 100
+      }
+    ]
+  },
+  "reward_surveyMail6a": {
+    "rewardId": "reward_surveyMail6a",
+    "itemBundles": [
+      {
+        "id": "item_ap_supply_nlt",
+        "count": 1
+      }
+    ]
+  },
+  "reward_surveyMail6b": {
+    "rewardId": "reward_surveyMail6b",
+    "itemBundles": [
+      {
+        "id": "item_diamond",
+        "count": 20
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "cd_buff_item": {
+    "id": "cd_buff_item",
+    "cd": 0.51,
+    "cdConditionMask": 1
+  },
+  "cd_heal_item": {
+    "id": "cd_heal_item",
+    "cd": 12.0,
+    "cdConditionMask": 1
+  },
+  "cd_revive_item": {
+    "id": "cd_revive_item",
+    "cd": 60.0,
+    "cdConditionMask": 1
+  }
+}

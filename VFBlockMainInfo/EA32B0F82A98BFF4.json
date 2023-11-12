@@ -1,0 +1,265 @@
+{
+  "version": 1699447164,
+  "groupCfgName": "Assets/StreamingAssets/Bundles/initial/",
+  "groupCfgHashName": "EA32B0F82A98BFF4",
+  "groupFileInfoNum": 15,
+  "groupChunksLength": 49022366,
+  "blockType": 2,
+  "allChunks": [
+    {
+      "md5Name": "BF28485605ADE5E93E66F62369459D38",
+      "contentMD5": "D2397D38B0BF9733361EC541E866AE37",
+      "length": 3013,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Bundles/initial/0335764ef9.ab",
+          "fileNameHash": "D544131F7FCE8AA1",
+          "fileChunkMD5Name": "BF28485605ADE5E93E66F62369459D38",
+          "fileDataMD5": "D2397D38B0BF9733361EC541E866AE37",
+          "offset": 0,
+          "len": 3013,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "BA474F0B52CAAA9D0F0EA7EEFC259A85",
+      "contentMD5": "815D1B2C9040AB64C6580F821BC93BAF",
+      "length": 64944,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Bundles/initial/0dbc7b6051.ab",
+          "fileNameHash": "18EB7DFA4ED99264",
+          "fileChunkMD5Name": "BA474F0B52CAAA9D0F0EA7EEFC259A85",
+          "fileDataMD5": "815D1B2C9040AB64C6580F821BC93BAF",
+          "offset": 0,
+          "len": 64944,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "EFF0495351E2262890F5FEA8B4BB5E41",
+      "contentMD5": "FA207D3E5BC5444A367F99FAD69BBEFA",
+      "length": 41319779,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Bundles/initial/26af3fbac9.ab",
+          "fileNameHash": "016CA38E938CBA5A",
+          "fileChunkMD5Name": "EFF0495351E2262890F5FEA8B4BB5E41",
+          "fileDataMD5": "FA207D3E5BC5444A367F99FAD69BBEFA",
+          "offset": 0,
+          "len": 41319779,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "661A9BA6B1E88413BF577F57476A1AB6",
+      "contentMD5": "EF251D9054CC7CD714BA3FC61CB51183",
+      "length": 4295889,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Bundles/initial/282c1ba5d0.ab",
+          "fileNameHash": "E42A84A30AB00173",
+          "fileChunkMD5Name": "661A9BA6B1E88413BF577F57476A1AB6",
+          "fileDataMD5": "EF251D9054CC7CD714BA3FC61CB51183",
+          "offset": 0,
+          "len": 4295889,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "6A98F4EB0F4ADFF6D6D5DEA74BB9DBC2",
+      "contentMD5": "8DF47643CF01CBD58DEB45429E745868",
+      "length": 34137,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Bundles/initial/28f22cf366.ab",
+          "fileNameHash": "8B4B54BC0266E306",
+          "fileChunkMD5Name": "6A98F4EB0F4ADFF6D6D5DEA74BB9DBC2",
+          "fileDataMD5": "8DF47643CF01CBD58DEB45429E745868",
+          "offset": 0,
+          "len": 34137,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "5395B71D3DDEBD7D5FBBB258E239A12D",
+      "contentMD5": "AF664E6FF9118DD37CC4D08FA8719279",
+      "length": 3690,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Bundles/initial/29e1767e5d.ab",
+          "fileNameHash": "1BD6A47BD5A5F201",
+          "fileChunkMD5Name": "5395B71D3DDEBD7D5FBBB258E239A12D",
+          "fileDataMD5": "AF664E6FF9118DD37CC4D08FA8719279",
+          "offset": 0,
+          "len": 3690,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "E3359026D993BB1555DEBC61B2C21C63",
+      "contentMD5": "A5326B13482FAB10D36B066DDF186D72",
+      "length": 1720250,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Bundles/initial/611ac69fd3.ab",
+          "fileNameHash": "742ADE66A715BA65",
+          "fileChunkMD5Name": "E3359026D993BB1555DEBC61B2C21C63",
+          "fileDataMD5": "A5326B13482FAB10D36B066DDF186D72",
+          "offset": 0,
+          "len": 1720250,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "5007A4F172E5DF6D0B79271EB3E5B224",
+      "contentMD5": "A5AE978EE8C32DBB36CE44F541376136",
+      "length": 31885,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Bundles/initial/77de285c78.ab",
+          "fileNameHash": "D7090B1BD710CF16",
+          "fileChunkMD5Name": "5007A4F172E5DF6D0B79271EB3E5B224",
+          "fileDataMD5": "A5AE978EE8C32DBB36CE44F541376136",
+          "offset": 0,
+          "len": 31885,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "13AFC3F74D296419740707D088E802CD",
+      "contentMD5": "B2F49BACE8528826E4C3F1EC90385BFF",
+      "length": 20252,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Bundles/initial/bd29a786c4.ab",
+          "fileNameHash": "C035465F1DE84D1D",
+          "fileChunkMD5Name": "13AFC3F74D296419740707D088E802CD",
+          "fileDataMD5": "B2F49BACE8528826E4C3F1EC90385BFF",
+          "offset": 0,
+          "len": 20252,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "FE9AA0C3F77FDB3B7A48FAAED9D93778",
+      "contentMD5": "AAA69CFC6B7A928CA27173AF1CF17BB3",
+      "length": 1327618,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Bundles/initial/e126855d88.ab",
+          "fileNameHash": "073CB6CE7169762F",
+          "fileChunkMD5Name": "FE9AA0C3F77FDB3B7A48FAAED9D93778",
+          "fileDataMD5": "AAA69CFC6B7A928CA27173AF1CF17BB3",
+          "offset": 0,
+          "len": 1327618,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "C376BA5F12C72A841D0D18BA94FEEDD2",
+      "contentMD5": "2873DE50EBF3FBEB1B98D5E52499725A",
+      "length": 95154,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Bundles/initial/e867dd6e7c.ab",
+          "fileNameHash": "5A89066506B70EE8",
+          "fileChunkMD5Name": "C376BA5F12C72A841D0D18BA94FEEDD2",
+          "fileDataMD5": "2873DE50EBF3FBEB1B98D5E52499725A",
+          "offset": 0,
+          "len": 95154,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "DA10A8D55A2F65562BB09808F7BC99B4",
+      "contentMD5": "F4223001FB07857EA0DEEADCB842D36F",
+      "length": 89092,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Bundles/initial/f55306b2cb.ab",
+          "fileNameHash": "453DE95DFBA0DE86",
+          "fileChunkMD5Name": "DA10A8D55A2F65562BB09808F7BC99B4",
+          "fileDataMD5": "F4223001FB07857EA0DEEADCB842D36F",
+          "offset": 0,
+          "len": 89092,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "1E000D632AC6F603EAC0110439D6972A",
+      "contentMD5": "29C308756784DB5888010C572B90054D",
+      "length": 13208,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Bundles/initial/fd458a9b9b.ab",
+          "fileNameHash": "B6BE638D11F4F293",
+          "fileChunkMD5Name": "1E000D632AC6F603EAC0110439D6972A",
+          "fileDataMD5": "29C308756784DB5888010C572B90054D",
+          "offset": 0,
+          "len": 13208,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "64A94A218E9A24F3FC1B60C964B87421",
+      "contentMD5": "33A88B80249E2EC5136A35402764EEF8",
+      "length": 2053,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Bundles/initial/initial",
+          "fileNameHash": "0C745003F6500151",
+          "fileChunkMD5Name": "64A94A218E9A24F3FC1B60C964B87421",
+          "fileDataMD5": "33A88B80249E2EC5136A35402764EEF8",
+          "offset": 0,
+          "len": 2053,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "6C971FC16123F84AAB0769A421E97B8F",
+      "contentMD5": "7C51CAC5B2D6D72AFD787910D2A62E25",
+      "length": 1402,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Bundles/initial/initial.manifest",
+          "fileNameHash": "D10D8D0429350FD9",
+          "fileChunkMD5Name": "6C971FC16123F84AAB0769A421E97B8F",
+          "fileDataMD5": "7C51CAC5B2D6D72AFD787910D2A62E25",
+          "offset": 0,
+          "len": 1402,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    }
+  ]
+}

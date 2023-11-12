@@ -1,0 +1,14 @@
+{
+  "BLOC_SHOP_MONEY_IDS": {
+    "value": "[\r\n  \"item_bloc_tundra_gold\"\r\n]"
+  },
+  "INVENTORY_MONEY_IDS": {
+    "value": "[\r\n  \"item_gold\",\r\n  \"item_diamond\"\r\n]"
+  },
+  "SHOP_MONEY_IDS": {
+    "value": "[\r\n  \"item_diamond\"\r\n]"
+  },
+  "VALUABLE_DEPOT_MONEY_IDS": {
+    "value": "[\r\n  \"item_gold\",\r\n  \"item_diamond\"\r\n]"
+  }
+}

@@ -1,0 +1,386 @@
+{
+  "MovementDev": {
+    "name": "MovementDev",
+    "levelType": "World",
+    "configPath": "MovementDev/MovementDev",
+    "showName": {
+      "text": "移动测试场景",
+      "id": "ACF285D3D5669391"
+    },
+    "mapName": "MovementDev",
+    "facArea": "",
+    "regionName": ""
+  },
+  "ld_BingganTest_lv000_BGlv00": {
+    "name": "ld_BingganTest_lv000_BGlv00",
+    "levelType": "World",
+    "configPath": "ld_BingganTest_lv000_BGlv00/ld_BingganTest_lv000_BGlv00",
+    "showName": {
+      "text": "美术测试场景",
+      "id": "8C70AB79179B189A"
+    },
+    "mapName": "",
+    "facArea": "",
+    "regionName": ""
+  },
+  "ld_LevelTest_Luli": {
+    "name": "ld_LevelTest_Luli",
+    "levelType": "World",
+    "configPath": "ld_LevelTest_Luli/ld_LevelTest_Luli",
+    "showName": {
+      "text": "美术测试场景",
+      "id": "99096852BF28F776"
+    },
+    "mapName": "",
+    "facArea": "",
+    "regionName": ""
+  },
+  "ld_arcade01": {
+    "name": "ld_arcade01",
+    "levelType": "World",
+    "configPath": "ld_arcade01/ld_arcade01",
+    "showName": {
+      "text": "一个闯关用的测试场景",
+      "id": "77D74D755BC23566"
+    },
+    "mapName": "",
+    "facArea": "",
+    "regionName": ""
+  },
+  "ld_enemytest01": {
+    "name": "ld_enemytest01",
+    "levelType": "World",
+    "configPath": "ld_enemytest01/ld_enemytest01",
+    "showName": {
+      "text": "怪物测试场景",
+      "id": "C99506568EC57073"
+    },
+    "mapName": "",
+    "facArea": "",
+    "regionName": ""
+  },
+  "ld_guiderecord": {
+    "name": "ld_guiderecord",
+    "levelType": "World",
+    "configPath": "ld_guiderecord/ld_guiderecord",
+    "showName": {
+      "text": "战斗引导录制用",
+      "id": "FCEE4575F2B0E987"
+    },
+    "mapName": "",
+    "facArea": "",
+    "regionName": ""
+  },
+  "ld_guidetest": {
+    "name": "ld_guidetest",
+    "levelType": "World",
+    "configPath": "ld_guidetest/ld_guidetest",
+    "showName": {
+      "text": "操作/战斗引导用",
+      "id": "EE8080B675DBC852"
+    },
+    "mapName": "",
+    "facArea": "",
+    "regionName": ""
+  },
+  "ld_prototype_yukikaze": {
+    "name": "ld_prototype_yukikaze",
+    "levelType": "World",
+    "configPath": "ld_prototype_yukikaze/ld_prototype_yukikaze",
+    "showName": {
+      "text": "矿坑",
+      "id": "3E3C557028118A28"
+    },
+    "mapName": "map01_lv003",
+    "facArea": "",
+    "regionName": ""
+  },
+  "ld_prototyping_only": {
+    "name": "ld_prototyping_only",
+    "levelType": "World",
+    "configPath": "ld_prototyping_only/ld_prototyping_only",
+    "showName": {
+      "text": "圆形区域",
+      "id": "3A23BA895A78085B"
+    },
+    "mapName": "",
+    "facArea": "",
+    "regionName": ""
+  },
+  "ld_tasktest01": {
+    "name": "ld_tasktest01",
+    "levelType": "World",
+    "configPath": "ld_tasktest01/ld_tasktest01",
+    "showName": {
+      "text": "任务测试场景",
+      "id": "ED74D22C07FF86B3"
+    },
+    "mapName": "",
+    "facArea": "",
+    "regionName": ""
+  },
+  "map01_dg001": {
+    "name": "map01_dg001",
+    "levelType": "World",
+    "configPath": "map01_dg001/map01_dg001",
+    "showName": {
+      "text": "东部通路",
+      "id": "4A05FAE199581766"
+    },
+    "mapName": "",
+    "facArea": "",
+    "regionName": ""
+  },
+  "map01_dg002": {
+    "name": "map01_dg002",
+    "levelType": "World",
+    "configPath": "DevOnly/map01_dg002/map01_dg002",
+    "showName": {
+      "text": "炽天使场景",
+      "id": "4E81AACD4DBC2E26"
+    },
+    "mapName": "",
+    "facArea": "",
+    "regionName": ""
+  },
+  "map01_dg003": {
+    "name": "map01_dg003",
+    "levelType": "World",
+    "configPath": "map01_dg003/map01_dg003",
+    "showName": {
+      "text": "？？？",
+      "id": "B23DCBB46984CC0F"
+    },
+    "mapName": "",
+    "facArea": "",
+    "regionName": ""
+  },
+  "map01_dg004": {
+    "name": "map01_dg004",
+    "levelType": "Dungeon",
+    "configPath": "map01_dg004/map01_dg004",
+    "showName": {
+      "text": "不稳定裂隙",
+      "id": "A8BD70C22C9B036B"
+    },
+    "mapName": "",
+    "facArea": "",
+    "regionName": ""
+  },
+  "map01_dg005": {
+    "name": "map01_dg005",
+    "levelType": "Dungeon",
+    "configPath": "map01_dg005/map01_dg005",
+    "showName": {
+      "text": "不稳定裂隙",
+      "id": "FC0875E9D6D4DB11"
+    },
+    "mapName": "",
+    "facArea": "",
+    "regionName": ""
+  },
+  "map01_dg006": {
+    "name": "map01_dg006",
+    "levelType": "Dungeon",
+    "configPath": "map01_dg006/map01_dg006",
+    "showName": {
+      "text": "不稳定裂隙",
+      "id": "0B223FFC67B94346"
+    },
+    "mapName": "",
+    "facArea": "",
+    "regionName": ""
+  },
+  "map01_dg007": {
+    "name": "map01_dg007",
+    "levelType": "World",
+    "configPath": "DevOnly/map01_dg007/map01_dg007",
+    "showName": {
+      "text": "",
+      "id": ""
+    },
+    "mapName": "",
+    "facArea": "",
+    "regionName": ""
+  },
+  "map01_dg008": {
+    "name": "map01_dg008",
+    "levelType": "World",
+    "configPath": "DevOnly/map01_dg008/map01_dg008",
+    "showName": {
+      "text": "",
+      "id": ""
+    },
+    "mapName": "",
+    "facArea": "",
+    "regionName": ""
+  },
+  "map01_dg009": {
+    "name": "map01_dg009",
+    "levelType": "Dungeon",
+    "configPath": "map01_dg009/map01_dg009",
+    "showName": {
+      "text": "不稳定裂隙",
+      "id": "078045D4E5A05F40"
+    },
+    "mapName": "",
+    "facArea": "",
+    "regionName": ""
+  },
+  "map01_dg010": {
+    "name": "map01_dg010",
+    "levelType": "Dungeon",
+    "configPath": "map01_dg010/map01_dg010",
+    "showName": {
+      "text": "不稳定裂隙",
+      "id": "F07DF14F82C9A8A1"
+    },
+    "mapName": "",
+    "facArea": "",
+    "regionName": ""
+  },
+  "map01_dg011": {
+    "name": "map01_dg011",
+    "levelType": "Dungeon",
+    "configPath": "map01_dg011/map01_dg011",
+    "showName": {
+      "text": "不稳定裂隙",
+      "id": "F8E4B494D58B84A7"
+    },
+    "mapName": "",
+    "facArea": "",
+    "regionName": ""
+  },
+  "map01_dg012": {
+    "name": "map01_dg012",
+    "levelType": "World",
+    "configPath": "DevOnly/map01_dg012/map01_dg012",
+    "showName": {
+      "text": "",
+      "id": ""
+    },
+    "mapName": "",
+    "facArea": "",
+    "regionName": ""
+  },
+  "map01_dg013": {
+    "name": "map01_dg013",
+    "levelType": "World",
+    "configPath": "DevOnly/map01_dg013/map01_dg013",
+    "showName": {
+      "text": "",
+      "id": ""
+    },
+    "mapName": "",
+    "facArea": "",
+    "regionName": ""
+  },
+  "map01_lv000": {
+    "name": "map01_lv000",
+    "levelType": "World",
+    "configPath": "map01_lv000/map01_lv000",
+    "showName": {
+      "text": "总图",
+      "id": "5B48B97AC894874D"
+    },
+    "mapName": "",
+    "facArea": "",
+    "regionName": ""
+  },
+  "map01_lv001": {
+    "name": "map01_lv001",
+    "levelType": "World",
+    "configPath": "map01_lv001/map01_lv001",
+    "showName": {
+      "text": "枢纽区基地",
+      "id": "4972F450BF9D1D39"
+    },
+    "mapName": "map01_lv001",
+    "facArea": "",
+    "regionName": "RegionInfo_map01_lv001"
+  },
+  "map01_lv002": {
+    "name": "map01_lv002",
+    "levelType": "World",
+    "configPath": "map01_lv002/map01_lv002",
+    "showName": {
+      "text": "谷地通道",
+      "id": "CBD352A4E5FF731D"
+    },
+    "mapName": "map01_lv002",
+    "facArea": "",
+    "regionName": "RegionInfo_map01_lv002"
+  },
+  "map01_lv003": {
+    "name": "map01_lv003",
+    "levelType": "World",
+    "configPath": "map01_lv003/map01_lv003",
+    "showName": {
+      "text": "采石场",
+      "id": "FC74FA62213820E2"
+    },
+    "mapName": "map01_lv003",
+    "facArea": "FacArea_map01_lv003",
+    "regionName": "RegionInfo_map01_lv003"
+  },
+  "map01_lv005": {
+    "name": "map01_lv005",
+    "levelType": "World",
+    "configPath": "map01_lv005/map01_lv005",
+    "showName": {
+      "text": "源石实验园区",
+      "id": "17FD8AC9A3FD7285"
+    },
+    "mapName": "map01_lv005",
+    "facArea": "FacArea_map01_lv005",
+    "regionName": "RegionInfo_map01_lv005"
+  },
+  "map01_lv006": {
+    "name": "map01_lv006",
+    "levelType": "World",
+    "configPath": "map01_lv006/map01_lv006",
+    "showName": {
+      "text": "侵蚀区",
+      "id": "A8C66DA29766FEE3"
+    },
+    "mapName": "map01_lv006",
+    "facArea": "FacArea_map01_lv006",
+    "regionName": "RegionInfo_map01_lv006"
+  },
+  "map01_lv007": {
+    "name": "map01_lv007",
+    "levelType": "World",
+    "configPath": "map01_lv007/map01_lv007",
+    "showName": {
+      "text": "LV007",
+      "id": "DD598A1194C50C84"
+    },
+    "mapName": "",
+    "facArea": "",
+    "regionName": ""
+  },
+  "testbed_interactive": {
+    "name": "testbed_interactive",
+    "levelType": "World",
+    "configPath": "testbed_interactive/testbed_interactive",
+    "showName": {
+      "text": "交互物测试场景",
+      "id": "341CCBDB1D5DE7FC"
+    },
+    "mapName": "",
+    "facArea": "",
+    "regionName": ""
+  },
+  "testbed_npc": {
+    "name": "testbed_npc",
+    "levelType": "World",
+    "configPath": "testbed_npc/testbed_npc",
+    "showName": {
+      "text": "NPC测试场景",
+      "id": "8A1E49958751E75F"
+    },
+    "mapName": "",
+    "facArea": "",
+    "regionName": ""
+  }
+}

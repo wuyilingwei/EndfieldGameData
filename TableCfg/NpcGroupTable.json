@@ -1,0 +1,2522 @@
+{
+  "npc_0000_dummy_male01_test": {
+    "npcGroupId": "npc_0000_dummy_male01_test",
+    "dataKey": "npc_0000_dummy_male01",
+    "managedByGroup": 0,
+    "name": {
+      "text": "占位符NPC",
+      "id": "E3AA703DBE88EA60"
+    },
+    "faction": {
+      "text": "中立",
+      "id": "24DFD21A10205E4B"
+    },
+    "title": {
+      "text": "",
+      "id": ""
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_0000_dummy_test": {
+    "npcGroupId": "npc_0000_dummy_test",
+    "dataKey": "npc_0000_dummy",
+    "managedByGroup": 0,
+    "name": {
+      "text": "占位符NPC",
+      "id": "CFA3D5BF3A24EFAB"
+    },
+    "faction": {
+      "text": "中立",
+      "id": "0836942C346CD4FA"
+    },
+    "title": {
+      "text": "",
+      "id": ""
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_0001_aglina_quest": {
+    "npcGroupId": "npc_0001_aglina_quest",
+    "dataKey": "npc_0013",
+    "managedByGroup": 0,
+    "name": {
+      "text": "NPC安洁莉娜",
+      "id": "E20BFBD4AF2B7E17"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "43F1CB8F2DDBDB82"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "E3D45F53DDFF03AB"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_0001_fiona_quest": {
+    "npcGroupId": "npc_0001_fiona_quest",
+    "dataKey": "npc_0011",
+    "managedByGroup": 1,
+    "name": {
+      "text": "NPC菲奥娜",
+      "id": "88A2FE1A1A04DD47"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "0B9CF6779E78072B"
+    },
+    "title": {
+      "text": "",
+      "id": ""
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_0004_pelica_test": {
+    "npcGroupId": "npc_0004_pelica_test",
+    "dataKey": "npc_0013_pelica",
+    "managedByGroup": 1,
+    "name": {
+      "text": "测试NPC 佩丽卡",
+      "id": "66FC5F1BBF8AB956"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "937D674624E6EC0C"
+    },
+    "title": {
+      "text": "",
+      "id": ""
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_chr_0004_pelica"
+  },
+  "npc_0004_perlica_g01": {
+    "npcGroupId": "npc_0004_perlica_g01",
+    "dataKey": "npc_0004_pelica",
+    "managedByGroup": 0,
+    "name": {
+      "text": "佩丽卡",
+      "id": "4374C7E10DBC2AD1"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "74537275B7EFE10B"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "EFCF85AE198605C6"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_chr_0004_pelica"
+  },
+  "npc_0005_chen_test": {
+    "npcGroupId": "npc_0005_chen_test",
+    "dataKey": "npc_0012",
+    "managedByGroup": 1,
+    "name": {
+      "text": "测试NPC 小陈",
+      "id": "53A87F17CFAE21F5"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "F3A189926CADF625"
+    },
+    "title": {
+      "text": "",
+      "id": ""
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_chr_0005_chen"
+  },
+  "npc_0006_wolfgd_test": {
+    "npcGroupId": "npc_0006_wolfgd_test",
+    "dataKey": "npc_0014",
+    "managedByGroup": 1,
+    "name": {
+      "text": "测试NPC 小狼",
+      "id": "710A1215AF6F8775"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "5749450CA9C923E6"
+    },
+    "title": {
+      "text": "",
+      "id": ""
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_chr_0006_wolfgd"
+  },
+  "npc_0008_kholec_g01": {
+    "npcGroupId": "npc_0008_kholec_g01",
+    "dataKey": "npc_0008_kholec",
+    "managedByGroup": 0,
+    "name": {
+      "text": "柯烈科",
+      "id": "620ECFF81D6BF02B"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "52344FCEC19BD6FF"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "3A684A1AF36D8E02"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_0009_andrew_quest": {
+    "npcGroupId": "npc_0009_andrew_quest",
+    "dataKey": "npc_0021_andrew",
+    "managedByGroup": 1,
+    "name": {
+      "text": "NPC安德烈",
+      "id": "E83FA26F639EBA5C"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "97F78F41D4A04A65"
+    },
+    "title": {
+      "text": "",
+      "id": ""
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_0010_qinjc_g01": {
+    "npcGroupId": "npc_0010_qinjc_g01",
+    "dataKey": "npc_1002_qinjc",
+    "managedByGroup": 1,
+    "name": {
+      "text": "NPC秦茳尺",
+      "id": "12A692E59F7FA9AA"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "271E8C20EABBE31E"
+    },
+    "title": {
+      "text": "",
+      "id": ""
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_0011_terminal_g01": {
+    "npcGroupId": "npc_0011_terminal_g01",
+    "dataKey": "npc_5001",
+    "managedByGroup": 0,
+    "name": {
+      "text": "裂地者A",
+      "id": "D2C2F25C6C36EB8C"
+    },
+    "faction": {
+      "text": "中立",
+      "id": "FA1A4AD89F879754"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "D7DACD66CA75DE04"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_0012_avywen_quest": {
+    "npcGroupId": "npc_0012_avywen_quest",
+    "dataKey": "npc_0000_dummy",
+    "managedByGroup": 0,
+    "name": {
+      "text": "NPC兔子枪",
+      "id": "0D8464A1981B5D0A"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "0AF246E4CD8220E2"
+    },
+    "title": {
+      "text": "",
+      "id": ""
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_chr_0012_avywen"
+  },
+  "npc_0012_chen_g01": {
+    "npcGroupId": "npc_0012_chen_g01",
+    "dataKey": "npc_0005_chen",
+    "managedByGroup": 0,
+    "name": {
+      "text": "陈千语",
+      "id": "5D5A0028FF17788A"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "3304CE7796BC623F"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "009290020E47E62B"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_0012_chen_quest": {
+    "npcGroupId": "npc_0012_chen_quest",
+    "dataKey": "npc_0012",
+    "managedByGroup": 1,
+    "name": {
+      "text": "NPC陈千语",
+      "id": "C87D88C3A6AE6390"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "3E4BFAF3480792D5"
+    },
+    "title": {
+      "text": "",
+      "id": ""
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_chr_0005_chen"
+  },
+  "npc_0013_kholec_quest": {
+    "npcGroupId": "npc_0013_kholec_quest",
+    "dataKey": "npc_0015",
+    "managedByGroup": 0,
+    "name": {
+      "text": "NPC柯烈科",
+      "id": "76987609EEBAFDF2"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "854CED574C65CC6E"
+    },
+    "title": {
+      "text": "",
+      "id": ""
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_0013_perlica_quest": {
+    "npcGroupId": "npc_0013_perlica_quest",
+    "dataKey": "npc_0004_pelica",
+    "managedByGroup": 1,
+    "name": {
+      "text": "NPC佩丽卡",
+      "id": "95BD84A5A40A5AB6"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "8716C1F49A3D2C79"
+    },
+    "title": {
+      "text": "",
+      "id": ""
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_chr_0004_pelica"
+  },
+  "npc_0014_wolf_quest": {
+    "npcGroupId": "npc_0014_wolf_quest",
+    "dataKey": "npc_0006_wolfgd",
+    "managedByGroup": 1,
+    "name": {
+      "text": "NPC狼卫",
+      "id": "AAC0CFA5889BC388"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "D02EB14D02C87669"
+    },
+    "title": {
+      "text": "",
+      "id": ""
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_chr_0006_wolfgd"
+  },
+  "npc_0014_wolfgd_g01": {
+    "npcGroupId": "npc_0014_wolfgd_g01",
+    "dataKey": "npc_0006_wolfgd",
+    "managedByGroup": 0,
+    "name": {
+      "text": "狼卫",
+      "id": "BA140F7B68DB3050"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "33AD04358865DB13"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "3FC3D4B71B8DE666"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_0015_endmin_quest": {
+    "npcGroupId": "npc_0015_endmin_quest",
+    "dataKey": "npc_0018",
+    "managedByGroup": 0,
+    "name": {
+      "text": "NPC女玩家",
+      "id": "9BC4B3D6E8FEDDB9"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "524290DE2C875F50"
+    },
+    "title": {
+      "text": "",
+      "id": ""
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_0016_earthshatter_quest": {
+    "npcGroupId": "npc_0016_earthshatter_quest",
+    "dataKey": "npc_0016",
+    "managedByGroup": 0,
+    "name": {
+      "text": "NPC裂地者",
+      "id": "A621BD5F15BD00A3"
+    },
+    "faction": {
+      "text": "中立",
+      "id": "0BA12C0A87A2D288"
+    },
+    "title": {
+      "text": "",
+      "id": ""
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_0016_landbreaker": {
+    "npcGroupId": "npc_0016_landbreaker",
+    "dataKey": "npc_4002",
+    "managedByGroup": 0,
+    "name": {
+      "text": "近战裂地者",
+      "id": "7C21D08F694A5686"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "5C8388C3AFAB7E3A"
+    },
+    "title": {
+      "text": "",
+      "id": ""
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_0016_lbmelee_g01": {
+    "npcGroupId": "npc_0016_lbmelee_g01",
+    "dataKey": "npc_4001",
+    "managedByGroup": 0,
+    "name": {
+      "text": "裂地者A",
+      "id": "86E78160E5E5C73A"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "1E1B6E9BBD1C581C"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "F1276B3A549322B0"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_0019_vinna_quest": {
+    "npcGroupId": "npc_0019_vinna_quest",
+    "dataKey": "npc_0019",
+    "managedByGroup": 0,
+    "name": {
+      "text": "艾薇文娜",
+      "id": "998B14AB72F5F84F"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "48B35108A4DA0E39"
+    },
+    "title": {
+      "text": "",
+      "id": ""
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_0020_qin_quest": {
+    "npcGroupId": "npc_0020_qin_quest",
+    "dataKey": "npc_0020",
+    "managedByGroup": 0,
+    "name": {
+      "text": "秦茳尺",
+      "id": "1A91363A75EB3733"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "F4A09DBC536B53F4"
+    },
+    "title": {
+      "text": "",
+      "id": ""
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_0021_freya_quest": {
+    "npcGroupId": "npc_0021_freya_quest",
+    "dataKey": "npc_0021",
+    "managedByGroup": 0,
+    "name": {
+      "text": "芙蕾雅",
+      "id": "91AD5C3B673FE6E0"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "74BBB1E8AD8AB728"
+    },
+    "title": {
+      "text": "",
+      "id": ""
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_0022_bailian_quest": {
+    "npcGroupId": "npc_0022_bailian_quest",
+    "dataKey": "npc_0022",
+    "managedByGroup": 0,
+    "name": {
+      "text": "百炼",
+      "id": "89158285DE95C478"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "82462A157C5EBE37"
+    },
+    "title": {
+      "text": "",
+      "id": ""
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_0023_papa_quest": {
+    "npcGroupId": "npc_0023_papa_quest",
+    "dataKey": "npc_0023",
+    "managedByGroup": 0,
+    "name": {
+      "text": "帕帕",
+      "id": "E87771E6A3AF2CDA"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "EF8A65E4BE43D2F1"
+    },
+    "title": {
+      "text": "",
+      "id": ""
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_0024_lvliang_quest": {
+    "npcGroupId": "npc_0024_lvliang_quest",
+    "dataKey": "npc_0024",
+    "managedByGroup": 0,
+    "name": {
+      "text": "吕梁",
+      "id": "6FE8C96ADC6079D1"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "5B06483419BF23AB"
+    },
+    "title": {
+      "text": "",
+      "id": ""
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_0024_repairman_g01": {
+    "npcGroupId": "npc_0024_repairman_g01",
+    "dataKey": "npc_0024",
+    "managedByGroup": 0,
+    "name": {
+      "text": "维修人员",
+      "id": "EBAA10B50BB8EAF3"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "BAEDD53B4A005F0D"
+    },
+    "title": {
+      "text": "",
+      "id": ""
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_0025_catherine_quest": {
+    "npcGroupId": "npc_0025_catherine_quest",
+    "dataKey": "npc_0025",
+    "managedByGroup": 0,
+    "name": {
+      "text": "凯瑟琳",
+      "id": "3530F211193F4F3A"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "6C7018B19DBAF3F4"
+    },
+    "title": {
+      "text": "",
+      "id": ""
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_0026_qinze_quest": {
+    "npcGroupId": "npc_0026_qinze_quest",
+    "dataKey": "npc_0026",
+    "managedByGroup": 0,
+    "name": {
+      "text": "秦泽",
+      "id": "C3009DBEE030056C"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "E29D7677F8563019"
+    },
+    "title": {
+      "text": "",
+      "id": ""
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_0026_servent_g01": {
+    "npcGroupId": "npc_0026_servent_g01",
+    "dataKey": "npc_0026",
+    "managedByGroup": 0,
+    "name": {
+      "text": "文职人员",
+      "id": "D8DBF96E42EC2F42"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "8F0E9B4D991822D4"
+    },
+    "title": {
+      "text": "",
+      "id": ""
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_0027_alesia": {
+    "npcGroupId": "npc_0027_alesia",
+    "dataKey": "npc_0027",
+    "managedByGroup": 0,
+    "name": {
+      "text": "阿莱西娅",
+      "id": "D822B29062CAE927"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "99D193256045B06E"
+    },
+    "title": {
+      "text": "",
+      "id": ""
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_0029_refugee_male": {
+    "npcGroupId": "npc_0029_refugee_male",
+    "dataKey": "npc_2008",
+    "managedByGroup": 0,
+    "name": {
+      "text": "流民索斯",
+      "id": "E38208E502C2077B"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "BF2EA6075549DE70"
+    },
+    "title": {
+      "text": "",
+      "id": ""
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_0030_refugee_female": {
+    "npcGroupId": "npc_0030_refugee_female",
+    "dataKey": "npc_3001",
+    "managedByGroup": 0,
+    "name": {
+      "text": "流民阿吉",
+      "id": "D51A82A61021CFA1"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "DDC11F96FD5A58FA"
+    },
+    "title": {
+      "text": "",
+      "id": ""
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_0030_refugee_male": {
+    "npcGroupId": "npc_0030_refugee_male",
+    "dataKey": "npc_2027",
+    "managedByGroup": 0,
+    "name": {
+      "text": "干活的流民",
+      "id": "61125AD60F79EF98"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "4778CC6CCABEA5CE"
+    },
+    "title": {
+      "text": "",
+      "id": ""
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_0035_bigbro_g01": {
+    "npcGroupId": "npc_0035_bigbro_g01",
+    "dataKey": "npc_2017",
+    "managedByGroup": 0,
+    "name": {
+      "text": "可疑的流民",
+      "id": "840826DAC32A176D"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "23930B2A62F17ED6"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "9F2D87584AF29BAF"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_0036_littlebro_g01": {
+    "npcGroupId": "npc_0036_littlebro_g01",
+    "dataKey": "npc_2016",
+    "managedByGroup": 0,
+    "name": {
+      "text": "油滑的流民",
+      "id": "A44E329619F844BD"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "BEC5FA7EAC8CEDFD"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "747B41044D425043"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_0037_engineer_g01": {
+    "npcGroupId": "npc_0037_engineer_g01",
+    "dataKey": "npc_2034",
+    "managedByGroup": 0,
+    "name": {
+      "text": "终末地操作员",
+      "id": "CF0E2BEB2FBCAE5B"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "EBD84EDA9D8274DD"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "95FC07DF2098361B"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_0038_refugee_g01": {
+    "npcGroupId": "npc_0038_refugee_g01",
+    "dataKey": "npc_3007",
+    "managedByGroup": 0,
+    "name": {
+      "text": "女性流民",
+      "id": "1B5B4344DCD98AFD"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "AAED755C7D945CAA"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "6C3E55D0A9312653"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_0039_refugee_g01": {
+    "npcGroupId": "npc_0039_refugee_g01",
+    "dataKey": "npc_2028",
+    "managedByGroup": 0,
+    "name": {
+      "text": "男性流民",
+      "id": "0A5FB9E2D97CC7BE"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "28B07B7C4846601D"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "4A43038F592DDF36"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_0040_refugee_g01": {
+    "npcGroupId": "npc_0040_refugee_g01",
+    "dataKey": "npc_2029",
+    "managedByGroup": 0,
+    "name": {
+      "text": "男性流民",
+      "id": "5205AFA67B694F37"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "AE57E152DACABB8C"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "6FC27DBB51B3A6D7"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_0041_refugee_g01": {
+    "npcGroupId": "npc_0041_refugee_g01",
+    "dataKey": "npc_3008",
+    "managedByGroup": 0,
+    "name": {
+      "text": "女性流民",
+      "id": "21BC4782D30F7DD3"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "CC37C85192E9D0B3"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "3CEEAD2B3D755CA9"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_0042_refugee_g01": {
+    "npcGroupId": "npc_0042_refugee_g01",
+    "dataKey": "npc_3012",
+    "managedByGroup": 0,
+    "name": {
+      "text": "女性流民",
+      "id": "FE81ACA44A6987AB"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "E71E23EC0950B61A"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "99AA6542ABE48D77"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_0043_male_g01": {
+    "npcGroupId": "npc_0043_male_g01",
+    "dataKey": "npc_2003",
+    "managedByGroup": 0,
+    "name": {
+      "text": "史考特",
+      "id": "9EF37B68FB7B7422"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "9B0B91E5C13C475C"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "12D3E393174C0AB3"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_0077_rabbit_g01": {
+    "npcGroupId": "npc_0077_rabbit_g01",
+    "dataKey": "npc_0077_rabbit",
+    "managedByGroup": 0,
+    "name": {
+      "text": "女性流民",
+      "id": "E7233A41DE4C0D60"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "5F6E9C4F7E5DDF7E"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "D9963BE44EBF62F1"
+    },
+    "headLabelIcon": "",
+    "markId": "",
+    "headIcon": "icon_default"
+  },
+  "npc_0079_bird_g01": {
+    "npcGroupId": "npc_0079_bird_g01",
+    "dataKey": "npc_0079_bird",
+    "managedByGroup": 0,
+    "name": {
+      "text": "女性流民",
+      "id": "A99282EFF7D41993"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "3C714D17A9E4ABD9"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "FC8923891029622D"
+    },
+    "headLabelIcon": "",
+    "markId": "",
+    "headIcon": "icon_default"
+  },
+  "npc_011_terminal": {
+    "npcGroupId": "npc_011_terminal",
+    "dataKey": "npc_0011",
+    "managedByGroup": 0,
+    "name": {
+      "text": "终端机",
+      "id": "6F07050F12DB97FD"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "EFB6F30E6EE3B09C"
+    },
+    "title": {
+      "text": "",
+      "id": ""
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_1001_andrew_g01": {
+    "npcGroupId": "npc_1001_andrew_g01",
+    "dataKey": "npc_1001_andrew",
+    "managedByGroup": 0,
+    "name": {
+      "text": "安德烈",
+      "id": "90626579AF02EC92"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "D5ECEA286C3E164F"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "C68238E2952944EF"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_2001_Male01_g01": {
+    "npcGroupId": "npc_2001_Male01_g01",
+    "dataKey": "npc_2001",
+    "managedByGroup": 0,
+    "name": {
+      "text": "终末地员工",
+      "id": "E417759E6C32DD77"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "73F4BB5E0496FC74"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "BB22BB2D06AF7279"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_2001_engineer_male": {
+    "npcGroupId": "npc_2001_engineer_male",
+    "dataKey": "npc_2001",
+    "managedByGroup": 0,
+    "name": {
+      "text": "男终末地工程人员",
+      "id": "98331FBF5257080D"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "7F4A5645A7CB87B9"
+    },
+    "title": {
+      "text": "",
+      "id": ""
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_2002_Male01_g01": {
+    "npcGroupId": "npc_2002_Male01_g01",
+    "dataKey": "npc_2002",
+    "managedByGroup": 0,
+    "name": {
+      "text": "弗洛克",
+      "id": "202C72125D246BC4"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "6681A700344F2795"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "BB6DE982C773C322"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_2002_employee_male": {
+    "npcGroupId": "npc_2002_employee_male",
+    "dataKey": "npc_2002",
+    "managedByGroup": 0,
+    "name": {
+      "text": "男终末地普通人员",
+      "id": "CC5FE13B65CC7F71"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "6793C25E7F119874"
+    },
+    "title": {
+      "text": "",
+      "id": ""
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_2003_Male01_g01": {
+    "npcGroupId": "npc_2003_Male01_g01",
+    "dataKey": "npc_2003",
+    "managedByGroup": 0,
+    "name": {
+      "text": "终末地员工",
+      "id": "504C5FE4F1C56207"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "1866A3D532A0882D"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "8C85F15FC8FFB8C9"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_2003_officer_male": {
+    "npcGroupId": "npc_2003_officer_male",
+    "dataKey": "npc_2003",
+    "managedByGroup": 0,
+    "name": {
+      "text": "男终末地文员",
+      "id": "90775AACA7969C51"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "60DE4C3C421874D7"
+    },
+    "title": {
+      "text": "",
+      "id": ""
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_2004_Male01_g01": {
+    "npcGroupId": "npc_2004_Male01_g01",
+    "dataKey": "npc_2004",
+    "managedByGroup": 0,
+    "name": {
+      "text": "终末地员工",
+      "id": "8BC2CF77CCF14CA6"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "F892058563707E15"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "847977DCEBE54057"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_2005_Male01_g01": {
+    "npcGroupId": "npc_2005_Male01_g01",
+    "dataKey": "npc_2005",
+    "managedByGroup": 0,
+    "name": {
+      "text": "康尼",
+      "id": "64F2003B36BA57A6"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "43514B68A5B6FB72"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "781D390DED1DADE2"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_2006_Male01_g01": {
+    "npcGroupId": "npc_2006_Male01_g01",
+    "dataKey": "npc_2006",
+    "managedByGroup": 0,
+    "name": {
+      "text": "终末地员工",
+      "id": "46969B6D394BD4E3"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "93CEBF2D4207E456"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "A16DCE7466451C80"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_2007_Male01_g01": {
+    "npcGroupId": "npc_2007_Male01_g01",
+    "dataKey": "npc_2007",
+    "managedByGroup": 0,
+    "name": {
+      "text": "终末地员工",
+      "id": "9F2AADFD9DECC243"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "0CB300FD3EAE58D4"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "5EBE8A0925821A36"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_2009_landbreaker": {
+    "npcGroupId": "npc_2009_landbreaker",
+    "dataKey": "npc_4003",
+    "managedByGroup": 0,
+    "name": {
+      "text": "裂地者",
+      "id": "6413985E659759A9"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "5034A5539F0669F9"
+    },
+    "title": {
+      "text": "",
+      "id": ""
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_2010_landbreaker": {
+    "npcGroupId": "npc_2010_landbreaker",
+    "dataKey": "npc_4004",
+    "managedByGroup": 0,
+    "name": {
+      "text": "裂地者",
+      "id": "5CA83796F08F88A4"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "347388B890ECD4F4"
+    },
+    "title": {
+      "text": "",
+      "id": ""
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_2011_g01": {
+    "npcGroupId": "npc_2011_g01",
+    "dataKey": "npc_5001",
+    "managedByGroup": 0,
+    "name": {
+      "text": "菲奥娜（PRTS终端）",
+      "id": "18B175318C813E41"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "5D35A21A847A462D"
+    },
+    "title": {
+      "text": "",
+      "id": ""
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_2012_petrov": {
+    "npcGroupId": "npc_2012_petrov",
+    "dataKey": "npc_2012",
+    "managedByGroup": 1,
+    "name": {
+      "text": "彼得罗夫",
+      "id": "140EC57A50293209"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "BBDC578F79D642E2"
+    },
+    "title": {
+      "text": "",
+      "id": ""
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_2013_hawthorne": {
+    "npcGroupId": "npc_2013_hawthorne",
+    "dataKey": "npc_2013",
+    "managedByGroup": 1,
+    "name": {
+      "text": "霍桑",
+      "id": "A2A9F942A54553BA"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "1FFD280017F412F2"
+    },
+    "title": {
+      "text": "",
+      "id": ""
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_2015_Male01_g01": {
+    "npcGroupId": "npc_2015_Male01_g01",
+    "dataKey": "npc_2015",
+    "managedByGroup": 0,
+    "name": {
+      "text": "终末地员工",
+      "id": "7B87B316FF5FB3E7"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "05F678677DD4BFDF"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "C217C72E9E46163A"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_2018_Male01_g01": {
+    "npcGroupId": "npc_2018_Male01_g01",
+    "dataKey": "npc_2018",
+    "managedByGroup": 0,
+    "name": {
+      "text": "罗德岛干员",
+      "id": "EE3C4DB2DA7C36D1"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "21B532B6D054D730"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "406889A9E600CA75"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_2018_Male01_g02": {
+    "npcGroupId": "npc_2018_Male01_g02",
+    "dataKey": "npc_2018",
+    "managedByGroup": 0,
+    "name": {
+      "text": "Chaucer",
+      "id": "D42BEC4801845A44"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "FAFDDCDD2737AB4B"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "63CF783C545EA507"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_2019_ifslug": {
+    "npcGroupId": "npc_2019_ifslug",
+    "dataKey": "npc_2019",
+    "managedByGroup": 0,
+    "name": {
+      "text": "巨型源石虫",
+      "id": "BD4EB25F5F804969"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "E53FA6FBF1C80A10"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "8D68B29B7FEDDF44"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_2020_g01": {
+    "npcGroupId": "npc_2020_g01",
+    "dataKey": "npc_2020",
+    "managedByGroup": 0,
+    "name": {
+      "text": "卡贾",
+      "id": "1784E78D91A6009A"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "D252D2997549F6A4"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "7C0A17A4600399DF"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_2022_Fabian_g01": {
+    "npcGroupId": "npc_2022_Fabian_g01",
+    "dataKey": "npc_2022_Fabian",
+    "managedByGroup": 0,
+    "name": {
+      "text": "法比安·柯林斯",
+      "id": "7674696B31AAADC5"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "BCF78E221B22507A"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "652A15EDB2164179"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_2022_Fabian_quest": {
+    "npcGroupId": "npc_2022_Fabian_quest",
+    "dataKey": "npc_2022_Fabian",
+    "managedByGroup": 0,
+    "name": {
+      "text": "交谈",
+      "id": "623CBBC216C1F4FD"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "73FFF65588B31D8D"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "31C8AF90B4AF2A8C"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_2025_richard_g01": {
+    "npcGroupId": "npc_2025_richard_g01",
+    "dataKey": "npc_2025_richard",
+    "managedByGroup": 0,
+    "name": {
+      "text": "理查德森",
+      "id": "B9B468966DCDFF9C"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "F20E3363F3DFC42C"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "24A6CC5C18BAA464"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_2025_richard_g02": {
+    "npcGroupId": "npc_2025_richard_g02",
+    "dataKey": "npc_2025_richard",
+    "managedByGroup": 0,
+    "name": {
+      "text": "理查德森",
+      "id": "4B1DEA17D2744109"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "A9AE680EE157EDFB"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "A9675E84F14AF332"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_2026_Ursus_worker_rep_g01": {
+    "npcGroupId": "npc_2026_Ursus_worker_rep_g01",
+    "dataKey": "npc_2026",
+    "managedByGroup": 0,
+    "name": {
+      "text": "乌萨斯工团代表",
+      "id": "71915F9D5CFCF243"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "A6A9BB7C89E9F5B9"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "F9FCA388E8AC17BE"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_2030_guard_g01": {
+    "npcGroupId": "npc_2030_guard_g01",
+    "dataKey": "npc_2030",
+    "managedByGroup": 0,
+    "name": {
+      "text": "让",
+      "id": "C8381AD84780AA5C"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "20EA11B4222799DE"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "0199EC1930BC1833"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_2031_guard_g01": {
+    "npcGroupId": "npc_2031_guard_g01",
+    "dataKey": "npc_2031",
+    "managedByGroup": 0,
+    "name": {
+      "text": "舒尔茨",
+      "id": "7D184FD313361068"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "ABC61B99C9B9958B"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "B03FFD2FC63CDA01"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_2032_repairman_g01": {
+    "npcGroupId": "npc_2032_repairman_g01",
+    "dataKey": "npc_2032",
+    "managedByGroup": 0,
+    "name": {
+      "text": "莱纳",
+      "id": "6F81D9DDBF1C0001"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "168E96AE9737C48C"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "0AECC0D742CD1B37"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_2033_repairman_g01": {
+    "npcGroupId": "npc_2033_repairman_g01",
+    "dataKey": "npc_2033",
+    "managedByGroup": 0,
+    "name": {
+      "text": "贝特霍尔德",
+      "id": "A4DA2F62D826D6E1"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "32201BDAC46A7A69"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "A7668FED0DAEC5A6"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_2035_male01_g01": {
+    "npcGroupId": "npc_2035_male01_g01",
+    "dataKey": "npc_2035",
+    "managedByGroup": 0,
+    "name": {
+      "text": "古斯塔夫",
+      "id": "13AE7513935C7DEC"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "B8C80625FA1538C3"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "F5C7717400CA43F8"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_2036_male01_g01": {
+    "npcGroupId": "npc_2036_male01_g01",
+    "dataKey": "npc_2036",
+    "managedByGroup": 0,
+    "name": {
+      "text": "罗克",
+      "id": "30BADC9EFB667B48"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "9F3D88999F77F22F"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "A22C7927171BF375"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_2037_male01_g01": {
+    "npcGroupId": "npc_2037_male01_g01",
+    "dataKey": "npc_2037",
+    "managedByGroup": 0,
+    "name": {
+      "text": "镰刀",
+      "id": "DE0048B3A284EA2B"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "DFC198EA039B8218"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "CF7A237A7C0FA936"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_2038_male01_g01": {
+    "npcGroupId": "npc_2038_male01_g01",
+    "dataKey": "npc_2038",
+    "managedByGroup": 0,
+    "name": {
+      "text": "大锤",
+      "id": "E46679C2FEC9CA56"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "D76E11A075D82DA4"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "243E44C1BFB03DC3"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_2039_male01_g01": {
+    "npcGroupId": "npc_2039_male01_g01",
+    "dataKey": "npc_2039",
+    "managedByGroup": 0,
+    "name": {
+      "text": "芒特",
+      "id": "5D3FC83508771365"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "52E25DD443F1DB21"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "9BC5CF5178E65EE9"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_2040_david_g01": {
+    "npcGroupId": "npc_2040_david_g01",
+    "dataKey": "npc_2040",
+    "managedByGroup": 1,
+    "name": {
+      "text": "戴维",
+      "id": "29AC75A68ABA96B2"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "75EE90BD5CAF1736"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "F1AD8600921F0119"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_2041_laborbrother_g01": {
+    "npcGroupId": "npc_2041_laborbrother_g01",
+    "dataKey": "npc_2041",
+    "managedByGroup": 1,
+    "name": {
+      "text": "弗朗茨",
+      "id": "F7670CB18000D0E4"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "04770AF02A200101"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "37E052DC7FE05902"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_2042_crestfallen_g01": {
+    "npcGroupId": "npc_2042_crestfallen_g01",
+    "dataKey": "npc_2042",
+    "managedByGroup": 1,
+    "name": {
+      "text": "格雷哈特",
+      "id": "8F37A169E11E2A9C"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "DAD8CCAD0E235174"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "E0451020C3FC8EB5"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_2043_arknight_g01": {
+    "npcGroupId": "npc_2043_arknight_g01",
+    "dataKey": "npc_2043",
+    "managedByGroup": 1,
+    "name": {
+      "text": "罗德岛干员",
+      "id": "0F785CF92EFDED22"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "205B772EEA09F20B"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "86EAF8FB76808249"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_2044_male01_g01": {
+    "npcGroupId": "npc_2044_male01_g01",
+    "dataKey": "npc_2044",
+    "managedByGroup": 0,
+    "name": {
+      "text": "理查德森",
+      "id": "551A9FFD8CD01CC3"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "A0DF5523CC024264"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "075FC604736482BC"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_2045_male01_g01": {
+    "npcGroupId": "npc_2045_male01_g01",
+    "dataKey": "npc_2045",
+    "managedByGroup": 0,
+    "name": {
+      "text": "理查德森",
+      "id": "7CF96AF71B5C7469"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "32C26CEEBF292A1E"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "DB49DD1BAD0D7A4C"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_2046_vadik_g01": {
+    "npcGroupId": "npc_2046_vadik_g01",
+    "dataKey": "npc_2046",
+    "managedByGroup": 0,
+    "name": {
+      "text": "瓦迪克",
+      "id": "62669D3DF087CFBA"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "6DFF5AE4983D1CCA"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "EB83B3A0F3F42F5A"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_2047_James_g01": {
+    "npcGroupId": "npc_2047_James_g01",
+    "dataKey": "npc_2047",
+    "managedByGroup": 0,
+    "name": {
+      "text": "詹姆斯",
+      "id": "ADD819D77F4A29F0"
+    },
+    "faction": {
+      "text": "中立",
+      "id": "4BDED267C4426BF2"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "4081E8CBB59EB0C6"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_2048_Albert_g01": {
+    "npcGroupId": "npc_2048_Albert_g01",
+    "dataKey": "npc_2048",
+    "managedByGroup": 0,
+    "name": {
+      "text": "阿尔伯特",
+      "id": "313A758147436E77"
+    },
+    "faction": {
+      "text": "中立",
+      "id": "1283D2FEF5A7EA00"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "9B1B62924E924D3A"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_2049_Kars_g01": {
+    "npcGroupId": "npc_2049_Kars_g01",
+    "dataKey": "npc_2049",
+    "managedByGroup": 0,
+    "name": {
+      "text": "卡兹里拉",
+      "id": "5257CC29987ECFF6"
+    },
+    "faction": {
+      "text": "中立",
+      "id": "F34362458CED445A"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "34960BEDDB75291C"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_2050_Jonas_01": {
+    "npcGroupId": "npc_2050_Jonas_01",
+    "dataKey": "npc_2050",
+    "managedByGroup": 0,
+    "name": {
+      "text": "乔纳斯",
+      "id": "C0A8946338490F6E"
+    },
+    "faction": {
+      "text": "中立",
+      "id": "CA70E05FD87E3ACF"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "1995AEE435E74A99"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_2051_Ryan_01": {
+    "npcGroupId": "npc_2051_Ryan_01",
+    "dataKey": "npc_2051",
+    "managedByGroup": 0,
+    "name": {
+      "text": "莱恩",
+      "id": "F70EFB7EC1AD84E0"
+    },
+    "faction": {
+      "text": "中立",
+      "id": "4EB3DC8B69B7F7C0"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "55109B394F3FDE9F"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_2052_Eder_01": {
+    "npcGroupId": "npc_2052_Eder_01",
+    "dataKey": "npc_2052",
+    "managedByGroup": 0,
+    "name": {
+      "text": "埃德尔",
+      "id": "7F869EA5232245CC"
+    },
+    "faction": {
+      "text": "中立",
+      "id": "A0EE6A8797944156"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "166D6F9ECE8EF8F4"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_2053_Nobert_g01": {
+    "npcGroupId": "npc_2053_Nobert_g01",
+    "dataKey": "npc_2053",
+    "managedByGroup": 0,
+    "name": {
+      "text": "诺伯特",
+      "id": "B4C818A8A6F1A4C1"
+    },
+    "faction": {
+      "text": "中立",
+      "id": "849D7BEFB447DC57"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "876160C6B15ADEBF"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_2054_male01_g01": {
+    "npcGroupId": "npc_2054_male01_g01",
+    "dataKey": "npc_2054",
+    "managedByGroup": 0,
+    "name": {
+      "text": "区域事务干员",
+      "id": "9835DC47D11F61FE"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "1289E2E23579B371"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "53A83CC97F6815BA"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_2055_male01_g01": {
+    "npcGroupId": "npc_2055_male01_g01",
+    "dataKey": "npc_2055",
+    "managedByGroup": 0,
+    "name": {
+      "text": "区域事务干员",
+      "id": "39C5358FC122A264"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "92C79A897048F585"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "017363E33DDEE1E7"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_2056_male01_g01": {
+    "npcGroupId": "npc_2056_male01_g01",
+    "dataKey": "npc_2056",
+    "managedByGroup": 0,
+    "name": {
+      "text": "区域事务干员",
+      "id": "558BD0AE10D382C3"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "55A077EDC8076533"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "A22B13834C311F0E"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_2057_male01_g01": {
+    "npcGroupId": "npc_2057_male01_g01",
+    "dataKey": "npc_2057",
+    "managedByGroup": 0,
+    "name": {
+      "text": "区域事务干员",
+      "id": "DBA48249EC4DA8C5"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "2ED0B6BC00EB5D6E"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "5F8F207C3DF53CD4"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_2058_male01_g01": {
+    "npcGroupId": "npc_2058_male01_g01",
+    "dataKey": "npc_2058",
+    "managedByGroup": 0,
+    "name": {
+      "text": "区域事务干员",
+      "id": "D9C430B5FF14745F"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "1E622996D8BBA5DA"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "A140C94E549D6047"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_2059_male01_g01": {
+    "npcGroupId": "npc_2059_male01_g01",
+    "dataKey": "npc_2059",
+    "managedByGroup": 0,
+    "name": {
+      "text": "区域事务干员",
+      "id": "7110B185835D49DF"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "000413EF463F9349"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "5C7A968B468098B5"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_3002_shawna_g01": {
+    "npcGroupId": "npc_3002_shawna_g01",
+    "dataKey": "npc_3002_shawna",
+    "managedByGroup": 1,
+    "name": {
+      "text": "肖娜",
+      "id": "11453142E17DF006"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "9F88B581E3E18FCA"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "B17B00C2E16715FA"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_3003_aleeza_g01": {
+    "npcGroupId": "npc_3003_aleeza_g01",
+    "dataKey": "npc_3003_aleeza",
+    "managedByGroup": 0,
+    "name": {
+      "text": "艾莱札·柯林斯",
+      "id": "B77B17D9784224E0"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "44DEB88D8BDF8FE0"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "9FFF195C4F52443B"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_3005_officer_female": {
+    "npcGroupId": "npc_3005_officer_female",
+    "dataKey": "npc_3005",
+    "managedByGroup": 0,
+    "name": {
+      "text": "萨沙",
+      "id": "A11F9F8E496B6D6B"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "FB15823442D02317"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "CA9BE1324ED1B76F"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_3006_Edmin_worker_rep_g01": {
+    "npcGroupId": "npc_3006_Edmin_worker_rep_g01",
+    "dataKey": "npc_3006",
+    "managedByGroup": 0,
+    "name": {
+      "text": "终末地工程部代表",
+      "id": "65A7770E9842ABC2"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "14D2CEB254E65D87"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "B023A28C039A0FA0"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_3009_male01_g01": {
+    "npcGroupId": "npc_3009_male01_g01",
+    "dataKey": "npc_3009",
+    "managedByGroup": 0,
+    "name": {
+      "text": "尤米尔",
+      "id": "59C9D41B7A861735"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "947E3B4313D06B84"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "7CCE8E1A50FE46B7"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_3010_female01_g01": {
+    "npcGroupId": "npc_3010_female01_g01",
+    "dataKey": "npc_3010",
+    "managedByGroup": 0,
+    "name": {
+      "text": "安卡",
+      "id": "81EF137E6B276109"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "FE00ECED573023ED"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "4FA2CFF26CFCBE68"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_3011_female01_g01": {
+    "npcGroupId": "npc_3011_female01_g01",
+    "dataKey": "npc_3011",
+    "managedByGroup": 0,
+    "name": {
+      "text": "切里",
+      "id": "DFC57441EAECBA2A"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "DB616D038D84282A"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "7BF212F6DCC8297A"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_3013_laborsister_g01": {
+    "npcGroupId": "npc_3013_laborsister_g01",
+    "dataKey": "npc_3013",
+    "managedByGroup": 1,
+    "name": {
+      "text": "弗兰卡",
+      "id": "027E1309B219DFA2"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "BE0281773B4219ED"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "D5A9A21676C87066"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_3014_hedy_g01": {
+    "npcGroupId": "npc_3014_hedy_g01",
+    "dataKey": "npc_3014",
+    "managedByGroup": 0,
+    "name": {
+      "text": "海蒂",
+      "id": "9B797D5FB7D0336C"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "6A9BA6928BEE4484"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "ECB8437BA8A779D2"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_3015_stacey_g01": {
+    "npcGroupId": "npc_3015_stacey_g01",
+    "dataKey": "npc_3015",
+    "managedByGroup": 0,
+    "name": {
+      "text": "斯泰茜",
+      "id": "3A96799C1C4BAAE7"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "2E3E3DB52F228EF4"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "07BDD96DD61B7A8A"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_3016_Nya_g01": {
+    "npcGroupId": "npc_3016_Nya_g01",
+    "dataKey": "npc_3016",
+    "managedByGroup": 0,
+    "name": {
+      "text": "尼亚",
+      "id": "A2C54BFA20D5F0D9"
+    },
+    "faction": {
+      "text": "中立",
+      "id": "E1C608A2886FF9FA"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "F806A0F216A14BBC"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_3017_female01_g01": {
+    "npcGroupId": "npc_3017_female01_g01",
+    "dataKey": "npc_3017",
+    "managedByGroup": 0,
+    "name": {
+      "text": "区域事务干员",
+      "id": "322A072BA1CD5E0E"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "74195FECCDCDC3DD"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "6616CD2E6C90D94D"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_3018_female01_g01": {
+    "npcGroupId": "npc_3018_female01_g01",
+    "dataKey": "npc_3018",
+    "managedByGroup": 0,
+    "name": {
+      "text": "区域事务干员",
+      "id": "B9B35709DA3B3066"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "A493B30547E2F6D7"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "BFA0E9F5A585E51D"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_3019_female01_g01": {
+    "npcGroupId": "npc_3019_female01_g01",
+    "dataKey": "npc_3019",
+    "managedByGroup": 0,
+    "name": {
+      "text": "区域事务干员",
+      "id": "8D88628A249D25BA"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "4B0B5667B131D20D"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "6F8F3AC4207FF248"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_3020_female01_g01": {
+    "npcGroupId": "npc_3020_female01_g01",
+    "dataKey": "npc_3020",
+    "managedByGroup": 0,
+    "name": {
+      "text": "区域事务干员",
+      "id": "1CBB49918D7167FA"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "D05F0037178157E7"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "A85F971F4F38FABD"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_3021_female01_g01": {
+    "npcGroupId": "npc_3021_female01_g01",
+    "dataKey": "npc_3021",
+    "managedByGroup": 0,
+    "name": {
+      "text": "区域事务干员",
+      "id": "07F064E023A980B9"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "FF153FD7E368DA1F"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "D572E028E5BA7BD3"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_3022_female01_g01": {
+    "npcGroupId": "npc_3022_female01_g01",
+    "dataKey": "npc_3022",
+    "managedByGroup": 0,
+    "name": {
+      "text": "区域事务干员",
+      "id": "6AF48491354204DE"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "654C23EE42966ABD"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "B86D6A37816A5565"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_4006_lbmelee_g01": {
+    "npcGroupId": "npc_4006_lbmelee_g01",
+    "dataKey": "npc_4006",
+    "managedByGroup": 0,
+    "name": {
+      "text": "重伤的裂地者",
+      "id": "E69A653AA34997FD"
+    },
+    "faction": {
+      "text": "中立",
+      "id": "7C4E38D3F8F1FB37"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "657EE9E3CD2A81B6"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_5004_perlica_quest": {
+    "npcGroupId": "npc_5004_perlica_quest",
+    "dataKey": "npc_5004_phantp",
+    "managedByGroup": 0,
+    "name": {
+      "text": "幻影佩丽卡",
+      "id": "6BC0DB533A8A3C54"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "8DD8C782EDB249A8"
+    },
+    "title": {
+      "text": "集成工业工程师",
+      "id": "9B2843323DBA92A1"
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_9001_male02test_g01": {
+    "npcGroupId": "npc_9001_male02test_g01",
+    "dataKey": "npc_9001_male02test",
+    "managedByGroup": 0,
+    "name": {
+      "text": "TestNPC",
+      "id": "E14CFD11D974DD93"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "083C260601C5EA1B"
+    },
+    "title": {
+      "text": "",
+      "id": ""
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "npc_9006_shawna": {
+    "npcGroupId": "npc_9006_shawna",
+    "dataKey": "npc_9006",
+    "managedByGroup": 1,
+    "name": {
+      "text": "肖娜（临时模型）",
+      "id": "D3BD5D346261E891"
+    },
+    "faction": {
+      "text": "我方",
+      "id": "8246F8087BA02C89"
+    },
+    "title": {
+      "text": "",
+      "id": ""
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  },
+  "test_npc_101": {
+    "npcGroupId": "test_npc_101",
+    "dataKey": "npc_0000_dummy",
+    "managedByGroup": 0,
+    "name": {
+      "text": "普通女性",
+      "id": "7FEB2E25F5CBFFE9"
+    },
+    "faction": {
+      "text": "中立",
+      "id": "FF2B39095B568E32"
+    },
+    "title": {
+      "text": "",
+      "id": ""
+    },
+    "headLabelIcon": "",
+    "markId": "npc_test_1",
+    "headIcon": "icon_default"
+  }
+}

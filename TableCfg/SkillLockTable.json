@@ -1,0 +1,206 @@
+{
+  "chr_0003_endmin": {
+    "BundleData": [
+      {
+        "skillId": "chr_0003_endmin_disp_attack",
+        "skillType": "NormalAttack",
+        "unlockCondition": 0,
+        "breakStage": 0
+      },
+      {
+        "skillId": "chr_0003_endmin_normal_skill",
+        "skillType": "NormalSkill",
+        "unlockCondition": 0,
+        "breakStage": 0
+      },
+      {
+        "skillId": "chr_0003_endmin_normal_skill02",
+        "skillType": "NormalSkill",
+        "unlockCondition": 1,
+        "breakStage": 1
+      },
+      {
+        "skillId": "chr_0003_endmin_ultimate_skill",
+        "skillType": "UltimateSkill",
+        "unlockCondition": 0,
+        "breakStage": 0
+      }
+    ]
+  },
+  "chr_0004_pelica": {
+    "BundleData": [
+      {
+        "skillId": "chr_0004_pelica_disp_attack",
+        "skillType": "NormalAttack",
+        "unlockCondition": 0,
+        "breakStage": 0
+      },
+      {
+        "skillId": "chr_0004_pelica_normal_skill",
+        "skillType": "NormalSkill",
+        "unlockCondition": 0,
+        "breakStage": 0
+      },
+      {
+        "skillId": "chr_0004_pelica_ultimate_skill",
+        "skillType": "UltimateSkill",
+        "unlockCondition": 0,
+        "breakStage": 0
+      }
+    ]
+  },
+  "chr_0005_chen": {
+    "BundleData": [
+      {
+        "skillId": "chr_0005_chen_disp_attack",
+        "skillType": "NormalAttack",
+        "unlockCondition": 0,
+        "breakStage": 0
+      },
+      {
+        "skillId": "chr_0005_chen_normal_skill",
+        "skillType": "NormalSkill",
+        "unlockCondition": 0,
+        "breakStage": 0
+      },
+      {
+        "skillId": "chr_0005_chen_ultimate_skill",
+        "skillType": "UltimateSkill",
+        "unlockCondition": 0,
+        "breakStage": 0
+      }
+    ]
+  },
+  "chr_0006_wolfgd": {
+    "BundleData": [
+      {
+        "skillId": "chr_0006_wolfgd_disp_attack",
+        "skillType": "NormalAttack",
+        "unlockCondition": 0,
+        "breakStage": 0
+      },
+      {
+        "skillId": "chr_0006_wolfgd_normal_skill",
+        "skillType": "NormalSkill",
+        "unlockCondition": 0,
+        "breakStage": 0
+      },
+      {
+        "skillId": "chr_0006_wolfgd_ultimate_skill",
+        "skillType": "UltimateSkill",
+        "unlockCondition": 0,
+        "breakStage": 0
+      }
+    ]
+  },
+  "chr_0008_kholec": {
+    "BundleData": [
+      {
+        "skillId": "chr_0008_kholec_disp_attack",
+        "skillType": "NormalAttack",
+        "unlockCondition": 0,
+        "breakStage": 0
+      },
+      {
+        "skillId": "chr_0008_kholec_normal_skill",
+        "skillType": "NormalSkill",
+        "unlockCondition": 0,
+        "breakStage": 0
+      },
+      {
+        "skillId": "chr_0008_kholec_ultimate_skill",
+        "skillType": "UltimateSkill",
+        "unlockCondition": 0,
+        "breakStage": 0
+      }
+    ]
+  },
+  "chr_0009_azrila": {
+    "BundleData": [
+      {
+        "skillId": "chr_0009_azrila_disp_attack",
+        "skillType": "NormalAttack",
+        "unlockCondition": 0,
+        "breakStage": 0
+      },
+      {
+        "skillId": "chr_0009_azrila_normal_skill",
+        "skillType": "NormalSkill",
+        "unlockCondition": 0,
+        "breakStage": 0
+      },
+      {
+        "skillId": "chr_0009_azrila_ultimate_skill",
+        "skillType": "UltimateSkill",
+        "unlockCondition": 0,
+        "breakStage": 0
+      }
+    ]
+  },
+  "chr_0011_seraph": {
+    "BundleData": [
+      {
+        "skillId": "chr_0011_seraph_disp_attack",
+        "skillType": "NormalAttack",
+        "unlockCondition": 0,
+        "breakStage": 0
+      },
+      {
+        "skillId": "chr_0011_seraph_normal_skill",
+        "skillType": "NormalSkill",
+        "unlockCondition": 0,
+        "breakStage": 0
+      },
+      {
+        "skillId": "chr_0011_seraph_ultimate_skill",
+        "skillType": "UltimateSkill",
+        "unlockCondition": 0,
+        "breakStage": 0
+      }
+    ]
+  },
+  "chr_0012_avywen": {
+    "BundleData": [
+      {
+        "skillId": "chr_0012_avywen_disp_attack",
+        "skillType": "NormalAttack",
+        "unlockCondition": 0,
+        "breakStage": 0
+      },
+      {
+        "skillId": "chr_0012_avywen_normal_skill",
+        "skillType": "NormalSkill",
+        "unlockCondition": 0,
+        "breakStage": 0
+      },
+      {
+        "skillId": "chr_0012_avywen_ultimate_skill",
+        "skillType": "UltimateSkill",
+        "unlockCondition": 0,
+        "breakStage": 0
+      }
+    ]
+  },
+  "chr_0013_aglina": {
+    "BundleData": [
+      {
+        "skillId": "chr_0013_aglina_disp_attack",
+        "skillType": "NormalAttack",
+        "unlockCondition": 0,
+        "breakStage": 0
+      },
+      {
+        "skillId": "chr_0013_aglina_normal_skill",
+        "skillType": "NormalSkill",
+        "unlockCondition": 0,
+        "breakStage": 0
+      },
+      {
+        "skillId": "chr_0013_aglina_ultimate_skill",
+        "skillType": "UltimateSkill",
+        "unlockCondition": 0,
+        "breakStage": 0
+      }
+    ]
+  }
+}

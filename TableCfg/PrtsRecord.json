@@ -1,0 +1,767 @@
+{
+  "nar_col_1": {
+    "id": "nar_col_1",
+    "name": {
+      "text": "",
+      "id": ""
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "type": "text",
+    "firstLvId": "collection_1",
+    "order": 1,
+    "contentId": "text_collection_1"
+  },
+  "nar_col_10": {
+    "id": "nar_col_10",
+    "name": {
+      "text": "",
+      "id": ""
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "type": "text",
+    "firstLvId": "collection_10",
+    "order": 1,
+    "contentId": "text_collection_10"
+  },
+  "nar_col_2": {
+    "id": "nar_col_2",
+    "name": {
+      "text": "",
+      "id": ""
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "type": "text",
+    "firstLvId": "collection_2",
+    "order": 1,
+    "contentId": "text_collection_2"
+  },
+  "nar_col_3": {
+    "id": "nar_col_3",
+    "name": {
+      "text": "",
+      "id": ""
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "type": "text",
+    "firstLvId": "collection_3",
+    "order": 1,
+    "contentId": "text_collection_3"
+  },
+  "nar_col_4": {
+    "id": "nar_col_4",
+    "name": {
+      "text": "",
+      "id": ""
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "type": "text",
+    "firstLvId": "collection_4",
+    "order": 1,
+    "contentId": "text_collection_4"
+  },
+  "nar_col_5": {
+    "id": "nar_col_5",
+    "name": {
+      "text": "",
+      "id": ""
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "type": "text",
+    "firstLvId": "collection_5",
+    "order": 1,
+    "contentId": "text_collection_5"
+  },
+  "nar_col_6": {
+    "id": "nar_col_6",
+    "name": {
+      "text": "",
+      "id": ""
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "type": "text",
+    "firstLvId": "collection_6",
+    "order": 1,
+    "contentId": "text_collection_6"
+  },
+  "nar_col_7": {
+    "id": "nar_col_7",
+    "name": {
+      "text": "",
+      "id": ""
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "type": "text",
+    "firstLvId": "collection_7",
+    "order": 1,
+    "contentId": "text_collection_7"
+  },
+  "nar_col_8": {
+    "id": "nar_col_8",
+    "name": {
+      "text": "",
+      "id": ""
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "type": "text",
+    "firstLvId": "collection_8",
+    "order": 1,
+    "contentId": "text_collection_8"
+  },
+  "nar_col_9": {
+    "id": "nar_col_9",
+    "name": {
+      "text": "",
+      "id": ""
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "type": "text",
+    "firstLvId": "collection_9",
+    "order": 1,
+    "contentId": "text_collection_9"
+  },
+  "nar_col_book_002_1": {
+    "id": "nar_col_book_002_1",
+    "name": {
+      "text": "",
+      "id": ""
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "type": "text",
+    "firstLvId": "book_3",
+    "order": 1,
+    "contentId": "text_env_nar_lv002_16"
+  },
+  "nar_col_book_1_1": {
+    "id": "nar_col_book_1_1",
+    "name": {
+      "text": "其一",
+      "id": "19AB2C3DD4B1B2E4"
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "type": "text",
+    "firstLvId": "book_1",
+    "order": 1,
+    "contentId": "text_env_nar_lv001_7_1"
+  },
+  "nar_col_book_1_2": {
+    "id": "nar_col_book_1_2",
+    "name": {
+      "text": "其二",
+      "id": "0EDC3B56DD911262"
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "type": "text",
+    "firstLvId": "book_1",
+    "order": 2,
+    "contentId": "text_env_nar_lv001_7_2"
+  },
+  "nar_col_book_1_3": {
+    "id": "nar_col_book_1_3",
+    "name": {
+      "text": "其三",
+      "id": "7FD90FA09B10778E"
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "type": "text",
+    "firstLvId": "book_1",
+    "order": 3,
+    "contentId": "text_env_nar_lv001_7_3"
+  },
+  "nar_col_book_1_4": {
+    "id": "nar_col_book_1_4",
+    "name": {
+      "text": "其四",
+      "id": "5189EE747DEABC80"
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "type": "text",
+    "firstLvId": "book_1",
+    "order": 4,
+    "contentId": "text_env_nar_lv001_7_4"
+  },
+  "nar_col_book_1_5": {
+    "id": "nar_col_book_1_5",
+    "name": {
+      "text": "其五",
+      "id": "0526F162AB658F95"
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "type": "text",
+    "firstLvId": "book_1",
+    "order": 5,
+    "contentId": "text_env_nar_lv001_7_5"
+  },
+  "nar_col_magazine_002_1": {
+    "id": "nar_col_magazine_002_1",
+    "name": {
+      "text": "其一",
+      "id": "5CBFBDF7822C6AD8"
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "type": "text",
+    "firstLvId": "book_magazine",
+    "order": 1,
+    "contentId": "text_env_nar_lv002_13_1"
+  },
+  "nar_col_magazine_002_2": {
+    "id": "nar_col_magazine_002_2",
+    "name": {
+      "text": "其二",
+      "id": "F2CE430B12282043"
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "type": "text",
+    "firstLvId": "book_magazine",
+    "order": 2,
+    "contentId": "text_env_nar_lv002_13_2"
+  },
+  "nar_col_magazine_003_1": {
+    "id": "nar_col_magazine_003_1",
+    "name": {
+      "text": "其一",
+      "id": "D5B9FCA8459C9CA5"
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "type": "text",
+    "firstLvId": "book_magazine_2",
+    "order": 1,
+    "contentId": "text_env_nar_lv003_4_1"
+  },
+  "nar_col_magazine_003_2": {
+    "id": "nar_col_magazine_003_2",
+    "name": {
+      "text": "其二",
+      "id": "E2F8B354B6A4460C"
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "type": "text",
+    "firstLvId": "book_magazine_2",
+    "order": 2,
+    "contentId": "text_env_nar_lv003_4_2"
+  },
+  "nar_col_magazine_003_3": {
+    "id": "nar_col_magazine_003_3",
+    "name": {
+      "text": "其三",
+      "id": "2BB3DB433872E970"
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "type": "text",
+    "firstLvId": "book_magazine_2",
+    "order": 3,
+    "contentId": "text_env_nar_lv003_4_3"
+  },
+  "nar_col_magazine_005_1": {
+    "id": "nar_col_magazine_005_1",
+    "name": {
+      "text": "其一",
+      "id": "9559D009B9AEB78F"
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "type": "text",
+    "firstLvId": "book_magazine_3",
+    "order": 1,
+    "contentId": "text_env_nar_lv005_1_1"
+  },
+  "nar_col_magazine_005_2": {
+    "id": "nar_col_magazine_005_2",
+    "name": {
+      "text": "其二",
+      "id": "E928B2B8B8546160"
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "type": "text",
+    "firstLvId": "book_magazine_3",
+    "order": 2,
+    "contentId": "text_env_nar_lv005_1_2"
+  },
+  "nar_col_message_001_1": {
+    "id": "nar_col_message_001_1",
+    "name": {
+      "text": "",
+      "id": ""
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "type": "text",
+    "firstLvId": "message_5",
+    "order": 1,
+    "contentId": "text_env_nar_lv001_12_1"
+  },
+  "nar_col_message_001_2": {
+    "id": "nar_col_message_001_2",
+    "name": {
+      "text": "其一",
+      "id": "E1A3F8E5C712B2C9"
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "type": "text",
+    "firstLvId": "message_6",
+    "order": 1,
+    "contentId": "text_env_nar_lv001_5_1"
+  },
+  "nar_col_message_001_3": {
+    "id": "nar_col_message_001_3",
+    "name": {
+      "text": "其二",
+      "id": "F7180BE33159A70F"
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "type": "text",
+    "firstLvId": "message_6",
+    "order": 2,
+    "contentId": "text_env_nar_lv001_5_2"
+  },
+  "nar_col_message_001_4": {
+    "id": "nar_col_message_001_4",
+    "name": {
+      "text": "其三",
+      "id": "556D6829A8F8E99B"
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "type": "text",
+    "firstLvId": "message_6",
+    "order": 3,
+    "contentId": "text_env_nar_lv001_5_3"
+  },
+  "nar_col_message_001_e1m3": {
+    "id": "nar_col_message_001_e1m3",
+    "name": {
+      "text": "",
+      "id": ""
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "type": "text",
+    "firstLvId": "message_e1m3",
+    "order": 1,
+    "contentId": "text_e1m3_1"
+  },
+  "nar_col_message_002_1": {
+    "id": "nar_col_message_002_1",
+    "name": {
+      "text": "其二",
+      "id": "7C1F6EF98C2D5BE3"
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "type": "text",
+    "firstLvId": "message_4",
+    "order": 2,
+    "contentId": "text_env_nar_lv002_3_1"
+  },
+  "nar_col_message_002_2": {
+    "id": "nar_col_message_002_2",
+    "name": {
+      "text": "其三",
+      "id": "2773734E757050EA"
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "type": "text",
+    "firstLvId": "message_4",
+    "order": 3,
+    "contentId": "text_env_nar_lv002_3_2"
+  },
+  "nar_col_message_002_3": {
+    "id": "nar_col_message_002_3",
+    "name": {
+      "text": "其四",
+      "id": "AC296A208953A6EE"
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "type": "text",
+    "firstLvId": "message_4",
+    "order": 4,
+    "contentId": "text_env_nar_lv002_3_3"
+  },
+  "nar_col_message_002_4": {
+    "id": "nar_col_message_002_4",
+    "name": {
+      "text": "其一",
+      "id": "D287D199C235AD65"
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "type": "text",
+    "firstLvId": "message_4",
+    "order": 1,
+    "contentId": "text_env_nar_lv002_3_4"
+  },
+  "nar_col_message_005_1": {
+    "id": "nar_col_message_005_1",
+    "name": {
+      "text": "其一",
+      "id": "E51FD1FE669F53C5"
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "type": "text",
+    "firstLvId": "message_8",
+    "order": 1,
+    "contentId": "text_env_nar_lv005_7_1"
+  },
+  "nar_col_message_005_2": {
+    "id": "nar_col_message_005_2",
+    "name": {
+      "text": "其二",
+      "id": "4B8ED0EE26113674"
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "type": "text",
+    "firstLvId": "message_8",
+    "order": 2,
+    "contentId": "text_env_nar_lv005_7_2"
+  },
+  "nar_col_message_005_3": {
+    "id": "nar_col_message_005_3",
+    "name": {
+      "text": "其三",
+      "id": "4F052FDC76372ABA"
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "type": "text",
+    "firstLvId": "message_8",
+    "order": 3,
+    "contentId": "text_env_nar_lv005_7_3"
+  },
+  "nar_col_message_006_1": {
+    "id": "nar_col_message_006_1",
+    "name": {
+      "text": "其一",
+      "id": "77F45603DCCF869C"
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "type": "text",
+    "firstLvId": "message_9",
+    "order": 1,
+    "contentId": "text_env_nar_lv006_3_1"
+  },
+  "nar_col_message_006_10": {
+    "id": "nar_col_message_006_10",
+    "name": {
+      "text": "撕裂的信·下",
+      "id": "C33584C34EE4AC3E"
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "type": "text",
+    "firstLvId": "message_11",
+    "order": 2,
+    "contentId": "text_env_nar_lv006_12"
+  },
+  "nar_col_message_006_11": {
+    "id": "nar_col_message_006_11",
+    "name": {
+      "text": "撕裂的信·上",
+      "id": "D8DED16841F04044"
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "type": "text",
+    "firstLvId": "message_11",
+    "order": 1,
+    "contentId": "text_env_nar_lv006_12_2"
+  },
+  "nar_col_message_006_12": {
+    "id": "nar_col_message_006_12",
+    "name": {
+      "text": "其一",
+      "id": "99C024110B48E0BA"
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "type": "text",
+    "firstLvId": "message_13",
+    "order": 1,
+    "contentId": "text_env_nar_lv006_14"
+  },
+  "nar_col_message_006_13": {
+    "id": "nar_col_message_006_13",
+    "name": {
+      "text": "其二",
+      "id": "70899759D55B9A76"
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "type": "text",
+    "firstLvId": "message_13",
+    "order": 2,
+    "contentId": "text_env_nar_lv006_15"
+  },
+  "nar_col_message_006_14": {
+    "id": "nar_col_message_006_14",
+    "name": {
+      "text": "其三",
+      "id": "3106D42D78A6F0E0"
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "type": "text",
+    "firstLvId": "message_13",
+    "order": 3,
+    "contentId": "text_env_nar_lv006_16"
+  },
+  "nar_col_message_006_2": {
+    "id": "nar_col_message_006_2",
+    "name": {
+      "text": "其二",
+      "id": "F1EE8DA0E88EB455"
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "type": "text",
+    "firstLvId": "message_9",
+    "order": 2,
+    "contentId": "text_env_nar_lv006_3_2"
+  },
+  "nar_col_message_006_3": {
+    "id": "nar_col_message_006_3",
+    "name": {
+      "text": "其三",
+      "id": "4ADD8769CEFB70D2"
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "type": "text",
+    "firstLvId": "message_9",
+    "order": 3,
+    "contentId": "text_env_nar_lv006_4"
+  },
+  "nar_col_message_006_4": {
+    "id": "nar_col_message_006_4",
+    "name": {
+      "text": "被鲜血涂污的纸条",
+      "id": "CC19C228C84A0462"
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "type": "text",
+    "firstLvId": "message_12",
+    "order": 1,
+    "contentId": "text_env_nar_lv006_6"
+  },
+  "nar_col_message_006_5": {
+    "id": "nar_col_message_006_5",
+    "name": {
+      "text": "混乱的纸条",
+      "id": "B48683E92474991A"
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "type": "text",
+    "firstLvId": "message_12",
+    "order": 2,
+    "contentId": "text_env_nar_lv006_7_1"
+  },
+  "nar_col_message_006_6": {
+    "id": "nar_col_message_006_6",
+    "name": {
+      "text": "涂满红漆的纸条",
+      "id": "367D338C023AE163"
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "type": "text",
+    "firstLvId": "message_12",
+    "order": 3,
+    "contentId": "text_env_nar_lv006_8"
+  },
+  "nar_col_message_006_7": {
+    "id": "nar_col_message_006_7",
+    "name": {
+      "text": "标记地图",
+      "id": "A775914428A00361"
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "type": "text",
+    "firstLvId": "message_10",
+    "order": 1,
+    "contentId": "text_env_nar_lv006_20"
+  },
+  "nar_col_message_006_8": {
+    "id": "nar_col_message_006_8",
+    "name": {
+      "text": "手术套组",
+      "id": "017262BF41285843"
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "type": "text",
+    "firstLvId": "message_10",
+    "order": 2,
+    "contentId": "text_env_nar_lv006_21"
+  },
+  "nar_col_message_006_9": {
+    "id": "nar_col_message_006_9",
+    "name": {
+      "text": "物资单",
+      "id": "461CB39FCC053823"
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "type": "text",
+    "firstLvId": "message_10",
+    "order": 3,
+    "contentId": "text_env_nar_lv006_22"
+  },
+  "nar_col_message_2": {
+    "id": "nar_col_message_2",
+    "name": {
+      "text": "",
+      "id": ""
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "type": "text",
+    "firstLvId": "message_2",
+    "order": 1,
+    "contentId": "text_env_nar_lv002_10"
+  },
+  "nar_col_poster_002_1": {
+    "id": "nar_col_poster_002_1",
+    "name": {
+      "text": "",
+      "id": ""
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "type": "text",
+    "firstLvId": "message_3",
+    "order": 1,
+    "contentId": "text_env_nar_lv002_1_2"
+  }
+}

@@ -1,0 +1,354 @@
+{
+  "0": {
+    "attributeType": "Level",
+    "defaultValue": 1.0,
+    "hasMinValue": 0,
+    "minValue": 0.0,
+    "hasMaxValue": 0,
+    "maxValue": 0.0
+  },
+  "1": {
+    "attributeType": "Hp",
+    "defaultValue": 1.0,
+    "hasMinValue": 0,
+    "minValue": 0.0,
+    "hasMaxValue": 0,
+    "maxValue": 0.0
+  },
+  "2": {
+    "attributeType": "Atk",
+    "defaultValue": 10.0,
+    "hasMinValue": 0,
+    "minValue": 0.0,
+    "hasMaxValue": 0,
+    "maxValue": 0.0
+  },
+  "3": {
+    "attributeType": "Def",
+    "defaultValue": 0.0,
+    "hasMinValue": 0,
+    "minValue": 0.0,
+    "hasMaxValue": 0,
+    "maxValue": 0.0
+  },
+  "4": {
+    "attributeType": "PhysicalResistance",
+    "defaultValue": 0.0,
+    "hasMinValue": 1,
+    "minValue": 0.0,
+    "hasMaxValue": 1,
+    "maxValue": 1.0
+  },
+  "5": {
+    "attributeType": "FireResistance",
+    "defaultValue": 0.0,
+    "hasMinValue": 1,
+    "minValue": 0.0,
+    "hasMaxValue": 1,
+    "maxValue": 1.0
+  },
+  "6": {
+    "attributeType": "PulseResistance",
+    "defaultValue": 0.0,
+    "hasMinValue": 1,
+    "minValue": 0.0,
+    "hasMaxValue": 1,
+    "maxValue": 1.0
+  },
+  "7": {
+    "attributeType": "CrystResistance",
+    "defaultValue": 0.0,
+    "hasMinValue": 1,
+    "minValue": 0.0,
+    "hasMaxValue": 1,
+    "maxValue": 1.0
+  },
+  "8": {
+    "attributeType": "Weight",
+    "defaultValue": 1.0,
+    "hasMinValue": 0,
+    "minValue": 0.0,
+    "hasMaxValue": 0,
+    "maxValue": 0.0
+  },
+  "9": {
+    "attributeType": "CriticalRate",
+    "defaultValue": 0.0,
+    "hasMinValue": 0,
+    "minValue": 0.0,
+    "hasMaxValue": 0,
+    "maxValue": 0.0
+  },
+  "10": {
+    "attributeType": "CriticalDamage",
+    "defaultValue": 0.5,
+    "hasMinValue": 0,
+    "minValue": 0.0,
+    "hasMaxValue": 0,
+    "maxValue": 0.0
+  },
+  "11": {
+    "attributeType": "Hatred",
+    "defaultValue": 0.0,
+    "hasMinValue": 0,
+    "minValue": 0.0,
+    "hasMaxValue": 0,
+    "maxValue": 0.0
+  },
+  "12": {
+    "attributeType": "NormalAttackRange",
+    "defaultValue": 1.0,
+    "hasMinValue": 0,
+    "minValue": 0.0,
+    "hasMaxValue": 0,
+    "maxValue": 0.0
+  },
+  "13": {
+    "attributeType": "MoveSpeedMultiplier",
+    "defaultValue": 1.0,
+    "hasMinValue": 0,
+    "minValue": 0.0,
+    "hasMaxValue": 0,
+    "maxValue": 0.0
+  },
+  "14": {
+    "attributeType": "TurnRateMultiplier",
+    "defaultValue": 1.0,
+    "hasMinValue": 0,
+    "minValue": 0.0,
+    "hasMaxValue": 0,
+    "maxValue": 0.0
+  },
+  "15": {
+    "attributeType": "AttackRate",
+    "defaultValue": 1.0,
+    "hasMinValue": 0,
+    "minValue": 0.0,
+    "hasMaxValue": 0,
+    "maxValue": 0.0
+  },
+  "16": {
+    "attributeType": "CooldownMultiplier",
+    "defaultValue": 1.0,
+    "hasMinValue": 0,
+    "minValue": 0.0,
+    "hasMaxValue": 0,
+    "maxValue": 0.0
+  },
+  "17": {
+    "attributeType": "SightRange",
+    "defaultValue": 1.0,
+    "hasMinValue": 0,
+    "minValue": 0.0,
+    "hasMaxValue": 0,
+    "maxValue": 0.0
+  },
+  "18": {
+    "attributeType": "FieldOfView",
+    "defaultValue": 360.0,
+    "hasMinValue": 0,
+    "minValue": 0.0,
+    "hasMaxValue": 0,
+    "maxValue": 0.0
+  },
+  "19": {
+    "attributeType": "DamageTakenScalar",
+    "defaultValue": 1.0,
+    "hasMinValue": 0,
+    "minValue": 0.0,
+    "hasMaxValue": 0,
+    "maxValue": 0.0
+  },
+  "20": {
+    "attributeType": "HpRecoveryPerSec",
+    "defaultValue": 0.0,
+    "hasMinValue": 0,
+    "minValue": 0.0,
+    "hasMaxValue": 0,
+    "maxValue": 0.0
+  },
+  "21": {
+    "attributeType": "HpRecoveryPerSecByMaxHpRatio",
+    "defaultValue": 0.0,
+    "hasMinValue": 0,
+    "minValue": 0.0,
+    "hasMaxValue": 0,
+    "maxValue": 0.0
+  },
+  "22": {
+    "attributeType": "MaxPoise",
+    "defaultValue": 0.0,
+    "hasMinValue": 0,
+    "minValue": 0.0,
+    "hasMaxValue": 0,
+    "maxValue": 0.0
+  },
+  "23": {
+    "attributeType": "PoiseRecTime",
+    "defaultValue": 10.0,
+    "hasMinValue": 0,
+    "minValue": 0.0,
+    "hasMaxValue": 0,
+    "maxValue": 0.0
+  },
+  "24": {
+    "attributeType": "MaxUltimateSp",
+    "defaultValue": 10.0,
+    "hasMinValue": 0,
+    "minValue": 0.0,
+    "hasMaxValue": 0,
+    "maxValue": 0.0
+  },
+  "25": {
+    "attributeType": "PoiseDamageResistScalar",
+    "defaultValue": 1.0,
+    "hasMinValue": 0,
+    "minValue": 0.0,
+    "hasMaxValue": 0,
+    "maxValue": 0.0
+  },
+  "26": {
+    "attributeType": "MaxAp",
+    "defaultValue": 10.0,
+    "hasMinValue": 0,
+    "minValue": 0.0,
+    "hasMaxValue": 0,
+    "maxValue": 0.0
+  },
+  "27": {
+    "attributeType": "ApRecoveryPerSec",
+    "defaultValue": 0.0,
+    "hasMinValue": 0,
+    "minValue": 0.0,
+    "hasMaxValue": 0,
+    "maxValue": 0.0
+  },
+  "28": {
+    "attributeType": "PoiseDamageTakenScalar",
+    "defaultValue": 1.0,
+    "hasMinValue": 0,
+    "minValue": 0.0,
+    "hasMaxValue": 0,
+    "maxValue": 0.0
+  },
+  "29": {
+    "attributeType": "PoiseProtectTime",
+    "defaultValue": 0.0,
+    "hasMinValue": 1,
+    "minValue": 0.0,
+    "hasMaxValue": 0,
+    "maxValue": 0.0
+  },
+  "30": {
+    "attributeType": "SpawnEnergyShardEfficiency",
+    "defaultValue": 0.0,
+    "hasMinValue": 1,
+    "minValue": 0.0,
+    "hasMaxValue": 0,
+    "maxValue": 0.0
+  },
+  "31": {
+    "attributeType": "PoiseZeroStun",
+    "defaultValue": 0.0,
+    "hasMinValue": 1,
+    "minValue": 0.0,
+    "hasMaxValue": 0,
+    "maxValue": 0.0
+  },
+  "32": {
+    "attributeType": "PoiseZeroDamageViaMaxHp",
+    "defaultValue": 0.0,
+    "hasMinValue": 1,
+    "minValue": 0.0,
+    "hasMaxValue": 1,
+    "maxValue": 1.0
+  },
+  "33": {
+    "attributeType": "Pen",
+    "defaultValue": 0.0,
+    "hasMinValue": 1,
+    "minValue": 0.0,
+    "hasMaxValue": 0,
+    "maxValue": 0.0
+  },
+  "34": {
+    "attributeType": "HealScalar",
+    "defaultValue": 1.0,
+    "hasMinValue": 1,
+    "minValue": 0.0,
+    "hasMaxValue": 0,
+    "maxValue": 0.0
+  },
+  "35": {
+    "attributeType": "HealTakenScalar",
+    "defaultValue": 1.0,
+    "hasMinValue": 1,
+    "minValue": 0.0,
+    "hasMaxValue": 0,
+    "maxValue": 0.0
+  },
+  "36": {
+    "attributeType": "PoiseRecTimeMultiplier",
+    "defaultValue": 1.0,
+    "hasMinValue": 1,
+    "minValue": 0.0,
+    "hasMaxValue": 0,
+    "maxValue": 0.0
+  },
+  "37": {
+    "attributeType": "PoiseBreakDamageIncrease",
+    "defaultValue": 0.0,
+    "hasMinValue": 1,
+    "minValue": 0.0,
+    "hasMaxValue": 0,
+    "maxValue": 0.0
+  },
+  "38": {
+    "attributeType": "PoiseBreakDamageTakenIncrease",
+    "defaultValue": 0.0,
+    "hasMinValue": 1,
+    "minValue": 0.0,
+    "hasMaxValue": 0,
+    "maxValue": 0.0
+  },
+  "39": {
+    "attributeType": "KnockDownTimeAddition",
+    "defaultValue": 0.0,
+    "hasMinValue": 1,
+    "minValue": 0.0,
+    "hasMaxValue": 0,
+    "maxValue": 0.0
+  },
+  "40": {
+    "attributeType": "FireEnergyShardProb",
+    "defaultValue": 1.0,
+    "hasMinValue": 1,
+    "minValue": 0.0,
+    "hasMaxValue": 0,
+    "maxValue": 0.0
+  },
+  "41": {
+    "attributeType": "PulseEnergyShardProb",
+    "defaultValue": 1.0,
+    "hasMinValue": 1,
+    "minValue": 0.0,
+    "hasMaxValue": 0,
+    "maxValue": 0.0
+  },
+  "42": {
+    "attributeType": "CrystEnergyShardProb",
+    "defaultValue": 1.0,
+    "hasMinValue": 1,
+    "minValue": 0.0,
+    "hasMaxValue": 0,
+    "maxValue": 0.0
+  },
+  "43": {
+    "attributeType": "FusionShardPreserveProb",
+    "defaultValue": 0.0,
+    "hasMinValue": 1,
+    "minValue": 0.0,
+    "hasMaxValue": 1,
+    "maxValue": 1.0
+  }
+}

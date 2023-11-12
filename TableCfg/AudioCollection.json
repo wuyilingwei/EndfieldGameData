@@ -1,0 +1,152 @@
+{
+  "int_doodad_bbflower_1": {
+    "audioCollect": "au_item_flower_collect",
+    "audioHit": "au_item_flower_drop",
+    "audioDie": "au_item_flower_drop"
+  },
+  "int_doodad_common": {
+    "audioCollect": "au_item_collect_common",
+    "audioHit": "",
+    "audioDie": ""
+  },
+  "int_doodad_flower_1": {
+    "audioCollect": "au_item_flower_collect",
+    "audioHit": "au_item_flower_drop",
+    "audioDie": "au_item_flower_drop"
+  },
+  "int_doodad_flower_2": {
+    "audioCollect": "au_item_flower_collect",
+    "audioHit": "au_item_flower_drop",
+    "audioDie": "au_item_flower_drop"
+  },
+  "int_doodad_flower_3": {
+    "audioCollect": "au_item_flower_collect",
+    "audioHit": "au_item_flower_drop",
+    "audioDie": "au_item_flower_drop"
+  },
+  "int_doodad_insect_1": {
+    "audioCollect": "au_item_insect_collect",
+    "audioHit": "au_item_insect_drop",
+    "audioDie": "au_item_insect_drop"
+  },
+  "int_doodad_insect_2": {
+    "audioCollect": "au_item_insect_collect",
+    "audioHit": "au_item_insect_drop",
+    "audioDie": "au_item_insect_drop"
+  },
+  "int_doodad_mushroom_1": {
+    "audioCollect": "au_item_mushroom_collect",
+    "audioHit": "au_item_mushroom_drop",
+    "audioDie": "au_item_mushroom_drop"
+  },
+  "int_doodad_mushroom_2": {
+    "audioCollect": "au_item_mushroom_collect",
+    "audioHit": "au_item_mushroom_drop",
+    "audioDie": "au_item_mushroom_drop"
+  },
+  "int_doodad_mushroom_3": {
+    "audioCollect": "au_item_mushroom_collect",
+    "audioHit": "au_item_mushroom_drop",
+    "audioDie": "au_item_mushroom_drop"
+  },
+  "int_doodad_mushroom_4": {
+    "audioCollect": "au_item_mushroom_collect",
+    "audioHit": "au_item_mushroom_drop",
+    "audioDie": "au_item_mushroom_drop"
+  },
+  "int_doodad_mushroom_5": {
+    "audioCollect": "au_item_mushroom_collect",
+    "audioHit": "au_item_mushroom_drop",
+    "audioDie": "au_item_mushroom_drop"
+  },
+  "int_doodad_mushroom_6": {
+    "audioCollect": "au_item_mushroom_collect",
+    "audioHit": "au_item_mushroom_drop",
+    "audioDie": "au_item_mushroom_drop"
+  },
+  "int_doodad_ore_cluster_iron": {
+    "audioCollect": "",
+    "audioHit": "au_int_iron_hit",
+    "audioDie": "au_item_iron_die"
+  },
+  "int_doodad_ore_cluster_metal_sp": {
+    "audioCollect": "",
+    "audioHit": "au_int_metal_hit",
+    "audioDie": "au_item_metal_die"
+  },
+  "int_doodad_ore_cluster_originium": {
+    "audioCollect": "",
+    "audioHit": "au_int_originium_hit",
+    "audioDie": "au_item_originium_die"
+  },
+  "int_doodad_ore_cluster_quartz": {
+    "audioCollect": "",
+    "audioHit": "au_int_quartz_hit",
+    "audioDie": "au_item_quartz_die"
+  },
+  "int_doodad_orgplant_1": {
+    "audioCollect": "au_item_orgplant_collect",
+    "audioHit": "au_item_orgplant_drop",
+    "audioDie": "au_item_orgplant_drop"
+  },
+  "int_doodad_orgplant_2": {
+    "audioCollect": "au_item_orgplant_collect",
+    "audioHit": "au_item_orgplant_drop",
+    "audioDie": "au_item_orgplant_drop"
+  },
+  "int_doodad_orgplant_3": {
+    "audioCollect": "au_item_orgplant_collect",
+    "audioHit": "au_item_orgplant_drop",
+    "audioDie": "au_item_orgplant_drop"
+  },
+  "int_doodad_shrub_1": {
+    "audioCollect": "au_item_flower_collect",
+    "audioHit": "au_item_flower_drop",
+    "audioDie": "au_item_flower_drop"
+  },
+  "int_doodad_shrub_exp": {
+    "audioCollect": "au_item_flower_collect",
+    "audioHit": "au_item_flower_drop",
+    "audioDie": "au_item_flower_drop"
+  },
+  "int_doodad_shrub_rank": {
+    "audioCollect": "au_item_flower_collect",
+    "audioHit": "au_item_flower_drop",
+    "audioDie": "au_item_flower_drop"
+  },
+  "int_doodad_trash_spc_1": {
+    "audioCollect": "",
+    "audioHit": "au_int_tree_hit",
+    "audioDie": "au_item_woodencase_die"
+  },
+  "int_doodad_trash_spc_2": {
+    "audioCollect": "",
+    "audioHit": "au_int_tree_hit",
+    "audioDie": "au_item_woodencase_die"
+  },
+  "int_doodad_trash_spc_3": {
+    "audioCollect": "",
+    "audioHit": "au_int_tree_hit",
+    "audioDie": "au_item_woodencase_die"
+  },
+  "int_doodad_trash_uni_1": {
+    "audioCollect": "",
+    "audioHit": "au_int_tree_hit",
+    "audioDie": "au_item_woodencase_die"
+  },
+  "int_doodad_trash_uni_2": {
+    "audioCollect": "",
+    "audioHit": "au_int_tree_hit",
+    "audioDie": "au_item_woodencase_die"
+  },
+  "int_doodad_trash_uni_3": {
+    "audioCollect": "",
+    "audioHit": "au_int_tree_hit",
+    "audioDie": "au_item_woodencase_die"
+  },
+  "int_doodad_trash_uni_4": {
+    "audioCollect": "",
+    "audioHit": "au_int_tree_hit",
+    "audioDie": "au_item_woodencase_die"
+  }
+}

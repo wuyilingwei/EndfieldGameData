@@ -1,0 +1,257 @@
+{
+  "t1": {
+    "id": "t1",
+    "list": {
+      "1": {
+        "order": 1,
+        "uniqId": "t1_1",
+        "name": {
+          "text": "test1",
+          "id": "E133315ED705B401"
+        },
+        "subtitle": {
+          "text": "subtitle1",
+          "id": "45B3E141E3BD57EF"
+        },
+        "prtsId": "",
+        "contentId": "desc_col_doc_1"
+      },
+      "2": {
+        "order": 2,
+        "uniqId": "t1_2",
+        "name": {
+          "text": "test2",
+          "id": "E625325387610913"
+        },
+        "subtitle": {
+          "text": "subtitle2",
+          "id": "87E55B71A8B34662"
+        },
+        "prtsId": "",
+        "contentId": ""
+      },
+      "3": {
+        "order": 3,
+        "uniqId": "t1_3",
+        "name": {
+          "text": "test3",
+          "id": "6FC9D3318F554463"
+        },
+        "subtitle": {
+          "text": "subtitle3",
+          "id": "24451DFC3A1B3A39"
+        },
+        "prtsId": "",
+        "contentId": ""
+      }
+    }
+  },
+  "term_001_1": {
+    "id": "term_001_1",
+    "list": {
+      "1": {
+        "order": 1,
+        "uniqId": "term_001_1_1",
+        "name": {
+          "text": "中控塔调试记录",
+          "id": "B4051F4C3D962616"
+        },
+        "subtitle": {
+          "text": "",
+          "id": ""
+        },
+        "prtsId": "",
+        "contentId": "text_env_nar_lv001_4_2"
+      }
+    }
+  },
+  "term_001_2": {
+    "id": "term_001_2",
+    "list": {
+      "1": {
+        "order": 1,
+        "uniqId": "term_001_2_1",
+        "name": {
+          "text": "乘车流程",
+          "id": "97CF8F61C92BAE20"
+        },
+        "subtitle": {
+          "text": "",
+          "id": ""
+        },
+        "prtsId": "",
+        "contentId": "text_env_nar_lv001_10_2"
+      }
+    }
+  },
+  "term_002_1": {
+    "id": "term_002_1",
+    "list": {
+      "1": {
+        "order": 1,
+        "uniqId": "term_002_1_1",
+        "name": {
+          "text": "矿洞调查报告",
+          "id": "C87994333BE12002"
+        },
+        "subtitle": {
+          "text": "",
+          "id": ""
+        },
+        "prtsId": "",
+        "contentId": "text_env_nar_lv002_14"
+      },
+      "2": {
+        "order": 2,
+        "uniqId": "term_002_1_2",
+        "name": {
+          "text": "矿洞封闭通知",
+          "id": "D7A93273231D5804"
+        },
+        "subtitle": {
+          "text": "",
+          "id": ""
+        },
+        "prtsId": "",
+        "contentId": "text_env_nar_lv002_13"
+      },
+      "3": {
+        "order": 3,
+        "uniqId": "term_002_1_3",
+        "name": {
+          "text": "检查通知",
+          "id": "1B59DF2155E3E883"
+        },
+        "subtitle": {
+          "text": "",
+          "id": ""
+        },
+        "prtsId": "",
+        "contentId": "text_env_nar_lv002_10"
+      }
+    }
+  },
+  "term_005_farm": {
+    "id": "term_005_farm",
+    "list": {
+      "1": {
+        "order": 1,
+        "uniqId": "term_005_farm_1",
+        "name": {
+          "text": "种植通告",
+          "id": "3F8A7CFC3EC09F9F"
+        },
+        "subtitle": {
+          "text": "",
+          "id": ""
+        },
+        "prtsId": "",
+        "contentId": "test_term_005_farm_1"
+      }
+    }
+  },
+  "term_006_station": {
+    "id": "term_006_station",
+    "list": {
+      "1": {
+        "order": 1,
+        "uniqId": "term_006_station_1",
+        "name": {
+          "text": "解析失败",
+          "id": "29E997E912057F69"
+        },
+        "subtitle": {
+          "text": "",
+          "id": ""
+        },
+        "prtsId": "",
+        "contentId": "text_env_nar_lv006_5"
+      }
+    }
+  },
+  "term_sid_e2m1_1": {
+    "id": "term_sid_e2m1_1",
+    "list": {
+      "1": {
+        "order": 1,
+        "uniqId": "term_sid_e2m1_1_1",
+        "name": {
+          "text": "预警通报",
+          "id": "6A1FBA36716DB7B7"
+        },
+        "subtitle": {
+          "text": "",
+          "id": ""
+        },
+        "prtsId": "",
+        "contentId": "text_term_sid_e2m1_1"
+      }
+    }
+  },
+  "term_sid_e2m1_2": {
+    "id": "term_sid_e2m1_2",
+    "list": {
+      "1": {
+        "order": 1,
+        "uniqId": "term_sid_e2m1_2_1",
+        "name": {
+          "text": "系统日志 Vol.2113113",
+          "id": "FC53C6FA08824796"
+        },
+        "subtitle": {
+          "text": "",
+          "id": ""
+        },
+        "prtsId": "",
+        "contentId": "text_term_sid_e2m1_2"
+      }
+    }
+  },
+  "term_test_1": {
+    "id": "term_test_1",
+    "list": {
+      "1": {
+        "order": 1,
+        "uniqId": "term_test_1_1",
+        "name": {
+          "text": "罗德岛",
+          "id": "57843819541EB685"
+        },
+        "subtitle": {
+          "text": "",
+          "id": ""
+        },
+        "prtsId": "nar_col_doc_organization_1",
+        "contentId": "text_doc_organization_1"
+      },
+      "2": {
+        "order": 2,
+        "uniqId": "term_test_1_2",
+        "name": {
+          "text": "联盟工团",
+          "id": "77FBDDAABA275B6F"
+        },
+        "subtitle": {
+          "text": "",
+          "id": ""
+        },
+        "prtsId": "nar_col_doc_organization_2",
+        "contentId": "text_doc_organization_2"
+      },
+      "3": {
+        "order": 3,
+        "uniqId": "term_test_1_3",
+        "name": {
+          "text": "商业联合会",
+          "id": "B025D86A4E494ED4"
+        },
+        "subtitle": {
+          "text": "",
+          "id": ""
+        },
+        "prtsId": "nar_col_doc_organization_3",
+        "contentId": "text_doc_organization_3"
+      }
+    }
+  }
+}

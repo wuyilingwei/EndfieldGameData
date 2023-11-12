@@ -1,0 +1,1132 @@
+{
+  "envTalkDie1": {
+    "envTalkCd": 10.0,
+    "envTalkId": "envTalkDie1",
+    "envTalkDataList": [
+      {
+        "envTalkId": "envTalkDie1",
+        "index": 1,
+        "npcId": "npc_0039_refugee_g01_i001",
+        "text": {
+          "text": "这……不应该是这样，怎么会变成这样呢……",
+          "id": "2C635C1E11D1AD41"
+        },
+        "duration": 5.0,
+        "audio": ""
+      },
+      {
+        "envTalkId": "envTalkDie1",
+        "index": 2,
+        "npcId": "npc_0039_refugee_g01_i001",
+        "text": {
+          "text": "我应该能在这里赚到钱才对……现在别说回报，就连本金都……",
+          "id": "325362652B841FA7"
+        },
+        "duration": 6.0,
+        "audio": ""
+      }
+    ]
+  },
+  "envTalkDior1": {
+    "envTalkCd": 5.0,
+    "envTalkId": "envTalkDior1",
+    "envTalkDataList": [
+      {
+        "envTalkId": "envTalkDior1",
+        "index": 1,
+        "npcId": "npc_2004_Male01_g01_i002",
+        "text": {
+          "text": "采石场……到底发生了什么事？",
+          "id": "F2DE7B905A9337C6"
+        },
+        "duration": 3.0,
+        "audio": ""
+      },
+      {
+        "envTalkId": "envTalkDior1",
+        "index": 2,
+        "npcId": "npc_2004_Male01_g01_i002",
+        "text": {
+          "text": "秦主管不允许我们自行采取行动……为什么？",
+          "id": "0E1448DB56B02E07"
+        },
+        "duration": 5.0,
+        "audio": ""
+      },
+      {
+        "envTalkId": "envTalkDior1",
+        "index": 3,
+        "npcId": "npc_2004_Male01_g01_i002",
+        "text": {
+          "text": "等候指令，等候指令……等候不能解决问题啊。",
+          "id": "A82DAA4B3FEC1405"
+        },
+        "duration": 5.0,
+        "audio": ""
+      }
+    ]
+  },
+  "envTalkLu1": {
+    "envTalkCd": 10.0,
+    "envTalkId": "envTalkLu1",
+    "envTalkDataList": [
+      {
+        "envTalkId": "envTalkLu1",
+        "index": 1,
+        "npcId": "npc_0040_refugee_g01_i001",
+        "text": {
+          "text": "你们把环带以外的地方都叫“开拓地”，这开拓也不太成功嘛。",
+          "id": "A7605461C6494342"
+        },
+        "duration": 5.0,
+        "audio": ""
+      },
+      {
+        "envTalkId": "envTalkLu1",
+        "index": 2,
+        "npcId": "npc_0040_refugee_g01_i001",
+        "text": {
+          "text": "流民大致分两种，一种是打南边来的，一种是我这样，生下来就在这里的。",
+          "id": "31B5C2D12A66FFE8"
+        },
+        "duration": 5.0,
+        "audio": ""
+      }
+    ]
+  },
+  "envTalkLuDie1": {
+    "envTalkCd": 10.0,
+    "envTalkId": "envTalkLuDie1",
+    "envTalkDataList": [
+      {
+        "envTalkId": "envTalkLuDie1",
+        "index": 1,
+        "npcId": "npc_0040_refugee_g01_i001",
+        "text": {
+          "text": "所以，你就这么出城了？",
+          "id": "7B7C9C5F2FBE45C4"
+        },
+        "duration": 3.0,
+        "audio": ""
+      },
+      {
+        "envTalkId": "envTalkLuDie1",
+        "index": 2,
+        "npcId": "npc_0039_refugee_g01_i001",
+        "text": {
+          "text": "这不能怪我！他们承诺的回报很高，是个人就会考虑的！",
+          "id": "DC75637B427E0AFE"
+        },
+        "duration": 5.0,
+        "audio": ""
+      },
+      {
+        "envTalkId": "envTalkLuDie1",
+        "index": 3,
+        "npcId": "npc_0040_refugee_g01_i001",
+        "text": {
+          "text": "我跟你讲过的，我是荒地生人，我觉得你对环带以外的生活一开始就有误解。",
+          "id": "3DB9216D404230C0"
+        },
+        "duration": 8.0,
+        "audio": ""
+      },
+      {
+        "envTalkId": "envTalkLuDie1",
+        "index": 4,
+        "npcId": "npc_0039_refugee_g01_i001",
+        "text": {
+          "text": "这……这和说好的不一样，这里应该遍地都是机会，我应该赚大钱！",
+          "id": "B33584CA572C5FBA"
+        },
+        "duration": 6.0,
+        "audio": ""
+      },
+      {
+        "envTalkId": "envTalkLuDie1",
+        "index": 5,
+        "npcId": "npc_0040_refugee_g01_i001",
+        "text": {
+          "text": "你该接受现实。",
+          "id": "CA1BC7CFE63F2214"
+        },
+        "duration": 3.0,
+        "audio": ""
+      },
+      {
+        "envTalkId": "envTalkLuDie1",
+        "index": 6,
+        "npcId": "npc_0039_refugee_g01_i001",
+        "text": {
+          "text": "现实……什么现实？有什么现实？",
+          "id": "2E3289A4A64D37F0"
+        },
+        "duration": 5.0,
+        "audio": ""
+      },
+      {
+        "envTalkId": "envTalkLuDie1",
+        "index": 7,
+        "npcId": "npc_0040_refugee_g01_i001",
+        "text": {
+          "text": "你看，城里来的朋友……你被骗了，这就是现实。",
+          "id": "EB1FCAF00FADD902"
+        },
+        "duration": 5.0,
+        "audio": ""
+      },
+      {
+        "envTalkId": "envTalkLuDie1",
+        "index": 8,
+        "npcId": "npc_0040_refugee_g01_i001",
+        "text": {
+          "text": "你该琢磨些别的事情，比方说，怎么才能回去，或者怎么在“外面”活下去。",
+          "id": "7A737EC20F3DA3BC"
+        },
+        "duration": 8.0,
+        "audio": ""
+      },
+      {
+        "envTalkId": "envTalkLuDie1",
+        "index": 9,
+        "npcId": "npc_0039_refugee_g01_i001",
+        "text": {
+          "text": "可……可我是花了大钱才搭上来开拓地的车的！在我拿到回报之前，我不会走！",
+          "id": "53DEE35CE22B4D12"
+        },
+        "duration": 8.0,
+        "audio": ""
+      },
+      {
+        "envTalkId": "envTalkLuDie1",
+        "index": 10,
+        "npcId": "npc_0040_refugee_g01_i001",
+        "text": {
+          "text": "哎，希望有一天你能停止自己骗自己吧。",
+          "id": "551D67FAF2EA915E"
+        },
+        "duration": 5.0,
+        "audio": ""
+      },
+      {
+        "envTalkId": "envTalkLuDie1",
+        "index": 11,
+        "npcId": "npc_0040_refugee_g01_i001",
+        "text": {
+          "text": "你知道吗，大多数人要到开拓区来，其实也不用花大钱……",
+          "id": "271C8A4FE2708B37"
+        },
+        "duration": 7.0,
+        "audio": ""
+      }
+    ]
+  },
+  "envTalkTest1": {
+    "envTalkCd": 10.0,
+    "envTalkId": "envTalkTest1",
+    "envTalkDataList": [
+      {
+        "envTalkId": "envTalkTest1",
+        "index": 1,
+        "npcId": "testonly_npc_2018_arknight_g01_i001",
+        "text": {
+          "text": "这是一条测试1",
+          "id": "653E0C77F7119E9F"
+        },
+        "duration": 2.0,
+        "audio": "chrbark_join_01"
+      },
+      {
+        "envTalkId": "envTalkTest1",
+        "index": 1,
+        "npcId": "testonly_npc_2005_Male01_g01_i002",
+        "text": {
+          "text": "这是一条测试2",
+          "id": "E28B6343F8E4C2F1"
+        },
+        "duration": 3.0,
+        "audio": "chrbark_join_02"
+      },
+      {
+        "envTalkId": "envTalkTest1",
+        "index": 2,
+        "npcId": "testonly_npc_0033_aji_g01_i001",
+        "text": {
+          "text": "",
+          "id": ""
+        },
+        "duration": 4.0,
+        "audio": "chrbark_join_03"
+      },
+      {
+        "envTalkId": "envTalkTest1",
+        "index": 3,
+        "npcId": "testonly_npc_2018_arknight_g01_i001",
+        "text": {
+          "text": "这是一条测试4",
+          "id": "F2853C9E57B78FEC"
+        },
+        "duration": 5.0,
+        "audio": "chrbark_switch_01"
+      }
+    ]
+  },
+  "envTalkTest2": {
+    "envTalkCd": 5.0,
+    "envTalkId": "envTalkTest2",
+    "envTalkDataList": [
+      {
+        "envTalkId": "envTalkTest2",
+        "index": 1,
+        "npcId": "testonly_npc_2018_arknight_g01_i001",
+        "text": {
+          "text": "这是一条测试5",
+          "id": "1472185B07DB22AE"
+        },
+        "duration": 6.0,
+        "audio": "chrbark_switch_02"
+      }
+    ]
+  },
+  "envTalkTest3": {
+    "envTalkCd": 5.0,
+    "envTalkId": "envTalkTest3",
+    "envTalkDataList": [
+      {
+        "envTalkId": "envTalkTest3",
+        "index": 1,
+        "npcId": "testonly_npc_0005_shawna_g01_i001",
+        "text": {
+          "text": "这是一条测试6",
+          "id": "E4BCD873CC813F08"
+        },
+        "duration": 6.0,
+        "audio": "chrbark_squad_01"
+      }
+    ]
+  },
+  "envTalk_Ankh_01": {
+    "envTalkCd": 10.0,
+    "envTalkId": "envTalk_Ankh_01",
+    "envTalkDataList": [
+      {
+        "envTalkId": "envTalk_Ankh_01",
+        "index": 1,
+        "npcId": "npc_3010_female01_g01_i001",
+        "text": {
+          "text": "看这个情况，南部大门是有一阵子不能启用了",
+          "id": "A298E91DFEF1B63A"
+        },
+        "duration": 7.0,
+        "audio": ""
+      }
+    ]
+  },
+  "envTalk_Ankh_02": {
+    "envTalkCd": 10.0,
+    "envTalkId": "envTalk_Ankh_02",
+    "envTalkDataList": [
+      {
+        "envTalkId": "envTalk_Ankh_02",
+        "index": 1,
+        "npcId": "npc_3010_female01_g01_i001",
+        "text": {
+          "text": "直接威胁解除了，但基地还是无法直接从这里联通文明环带",
+          "id": "F9B7452E6B9ACF51"
+        },
+        "duration": 8.0,
+        "audio": ""
+      }
+    ]
+  },
+  "envTalk_Ankh_03": {
+    "envTalkCd": 10.0,
+    "envTalkId": "envTalk_Ankh_03",
+    "envTalkDataList": [
+      {
+        "envTalkId": "envTalk_Ankh_03",
+        "index": 1,
+        "npcId": "npc_3010_female01_g01_i001",
+        "text": {
+          "text": "道路本身没有被破坏，瓦砾清理之后就可以直接从南部通车",
+          "id": "88030A45F9EB9EC2"
+        },
+        "duration": 8.0,
+        "audio": ""
+      }
+    ]
+  },
+  "envTalk_Ankh_04": {
+    "envTalkCd": 10.0,
+    "envTalkId": "envTalk_Ankh_04",
+    "envTalkDataList": [
+      {
+        "envTalkId": "envTalk_Ankh_04",
+        "index": 1,
+        "npcId": "npc_3010_female01_g01_i001",
+        "text": {
+          "text": "进度……不够。主要物资还是得以后从南部大门运进来",
+          "id": "A92B13229555D4CD"
+        },
+        "duration": 8.0,
+        "audio": ""
+      }
+    ]
+  },
+  "envTalk_Chaucer_01": {
+    "envTalkCd": 10.0,
+    "envTalkId": "envTalk_Chaucer_01",
+    "envTalkDataList": [
+      {
+        "envTalkId": "envTalk_Chaucer_01",
+        "index": 1,
+        "npcId": "npc_2018_Male01_g02_i001",
+        "text": {
+          "text": "安心院干员很负责，但负责不能让人预料到一切意外。",
+          "id": "9C5714ED6B1F2DCF"
+        },
+        "duration": 6.0,
+        "audio": ""
+      }
+    ]
+  },
+  "envTalk_Chaucer_02": {
+    "envTalkCd": 10.0,
+    "envTalkId": "envTalk_Chaucer_02",
+    "envTalkDataList": [
+      {
+        "envTalkId": "envTalk_Chaucer_02",
+        "index": 1,
+        "npcId": "npc_2018_Male01_g02_i001",
+        "text": {
+          "text": "罗德岛在这里的任务还没全部完成。",
+          "id": "40937C9771180227"
+        },
+        "duration": 6.0,
+        "audio": ""
+      }
+    ]
+  },
+  "envTalk_Chaucer_03": {
+    "envTalkCd": 10.0,
+    "envTalkId": "envTalk_Chaucer_03",
+    "envTalkDataList": [
+      {
+        "envTalkId": "envTalk_Chaucer_03",
+        "index": 1,
+        "npcId": "npc_2018_Male01_g02_i001",
+        "text": {
+          "text": "与终末地的合作应该再进一步……虽然这话不该由我来讲。",
+          "id": "726B8F4D5495779C"
+        },
+        "duration": 6.0,
+        "audio": ""
+      }
+    ]
+  },
+  "envTalk_Chaucer_04": {
+    "envTalkCd": 10.0,
+    "envTalkId": "envTalk_Chaucer_04",
+    "envTalkDataList": [
+      {
+        "envTalkId": "envTalk_Chaucer_04",
+        "index": 1,
+        "npcId": "npc_2018_Male01_g02_i001",
+        "text": {
+          "text": "我需要支援，安心院需要支援……终末地需要支援。",
+          "id": "FA05F1F9D741027E"
+        },
+        "duration": 6.0,
+        "audio": ""
+      }
+    ]
+  },
+  "envTalk_Chaucer_05": {
+    "envTalkCd": 5.0,
+    "envTalkId": "envTalk_Chaucer_05",
+    "envTalkDataList": [
+      {
+        "envTalkId": "envTalk_Chaucer_05",
+        "index": 1,
+        "npcId": "npc_0005_arknight_g01_i002",
+        "text": {
+          "text": "我受过一些医疗训练，医生，我可以帮忙。",
+          "id": "825A21FF295FFC85"
+        },
+        "duration": 5.0,
+        "audio": ""
+      },
+      {
+        "envTalkId": "envTalk_Chaucer_05",
+        "index": 2,
+        "npcId": "npc_0005_arknight_g01_i002",
+        "text": {
+          "text": "从历史角度说，罗德岛也是一家医药公司……",
+          "id": "F44127AD74634ECC"
+        },
+        "duration": 5.0,
+        "audio": ""
+      },
+      {
+        "envTalkId": "envTalk_Chaucer_05",
+        "index": 3,
+        "npcId": "npc_0005_arknight_g01_i002",
+        "text": {
+          "text": "让我也出一份力吧，医生。",
+          "id": "7502F7F56E209896"
+        },
+        "duration": 5.0,
+        "audio": ""
+      }
+    ]
+  },
+  "envTalk_Cherry_01": {
+    "envTalkCd": 10.0,
+    "envTalkId": "envTalk_Cherry_01",
+    "envTalkDataList": [
+      {
+        "envTalkId": "envTalk_Cherry_01",
+        "index": 1,
+        "npcId": "npc_3011_female01_g01_i001",
+        "text": {
+          "text": "枢纽区基地的建设花了多少年月，而破坏就在顷刻之间……",
+          "id": "EFF258E76E40840A"
+        },
+        "duration": 8.0,
+        "audio": ""
+      }
+    ]
+  },
+  "envTalk_Cherry_02": {
+    "envTalkCd": 10.0,
+    "envTalkId": "envTalk_Cherry_02",
+    "envTalkDataList": [
+      {
+        "envTalkId": "envTalk_Cherry_02",
+        "index": 1,
+        "npcId": "npc_3011_female01_g01_i001",
+        "text": {
+          "text": "这里坏了，那里也坏了……损失太大了，太惨重了",
+          "id": "72028EA15FC24F80"
+        },
+        "duration": 7.0,
+        "audio": ""
+      }
+    ]
+  },
+  "envTalk_Cherry_03": {
+    "envTalkCd": 10.0,
+    "envTalkId": "envTalk_Cherry_03",
+    "envTalkDataList": [
+      {
+        "envTalkId": "envTalk_Cherry_03",
+        "index": 1,
+        "npcId": "npc_3011_female01_g01_i001",
+        "text": {
+          "text": "管理员修好了一些储能设备的源石电路，但外壳还需要等替换部件送达才能处理",
+          "id": "29115BEB5667674C"
+        },
+        "duration": 8.0,
+        "audio": ""
+      }
+    ]
+  },
+  "envTalk_Fedir_01": {
+    "envTalkCd": 5.0,
+    "envTalkId": "envTalk_Fedir_01",
+    "envTalkDataList": [
+      {
+        "envTalkId": "envTalk_Fedir_01",
+        "index": 1,
+        "npcId": "npc_2005_Male01_g01_i004",
+        "text": {
+          "text": "仓库已经在重新整备了，这都多亏了管理员！",
+          "id": "E656D1F3678AACFF"
+        },
+        "duration": 5.0,
+        "audio": ""
+      }
+    ]
+  },
+  "envTalk_Fedir_02": {
+    "envTalkCd": 5.0,
+    "envTalkId": "envTalk_Fedir_02",
+    "envTalkDataList": [
+      {
+        "envTalkId": "envTalk_Fedir_02",
+        "index": 1,
+        "npcId": "npc_2005_Male01_g01_i003",
+        "text": {
+          "text": "等等，这里面还有很多天使在游荡！最好不要随便靠近……",
+          "id": "8657AFAFEC2D2D63"
+        },
+        "duration": 5.0,
+        "audio": ""
+      }
+    ]
+  },
+  "envTalk_Gustaf_01": {
+    "envTalkCd": 10.0,
+    "envTalkId": "envTalk_Gustaf_01",
+    "envTalkDataList": [
+      {
+        "envTalkId": "envTalk_Gustaf_01",
+        "index": 1,
+        "npcId": "npc_2035_male01_g01_i001",
+        "text": {
+          "text": "内环线的建设要延期了",
+          "id": "4037C381D2DCB449"
+        },
+        "duration": 6.0,
+        "audio": ""
+      }
+    ]
+  },
+  "envTalk_Gustaf_02": {
+    "envTalkCd": 10.0,
+    "envTalkId": "envTalk_Gustaf_02",
+    "envTalkDataList": [
+      {
+        "envTalkId": "envTalk_Gustaf_02",
+        "index": 1,
+        "npcId": "npc_2035_male01_g01_i001",
+        "text": {
+          "text": "地形变化太大了，已经建好的山路可能都已经……唉",
+          "id": "6F2F9091950CBD7C"
+        },
+        "duration": 8.0,
+        "audio": ""
+      }
+    ]
+  },
+  "envTalk_Gustaf_03": {
+    "envTalkCd": 10.0,
+    "envTalkId": "envTalk_Gustaf_03",
+    "envTalkDataList": [
+      {
+        "envTalkId": "envTalk_Gustaf_03",
+        "index": 1,
+        "npcId": "npc_2035_male01_g01_i001",
+        "text": {
+          "text": "看这样子，要改动的可不只是时间表",
+          "id": "AFF080AD17C14A6A"
+        },
+        "duration": 7.0,
+        "audio": ""
+      }
+    ]
+  },
+  "envTalk_Sickle_01": {
+    "envTalkCd": 10.0,
+    "envTalkId": "envTalk_Sickle_01",
+    "envTalkDataList": [
+      {
+        "envTalkId": "envTalk_Sickle_01",
+        "index": 1,
+        "npcId": "npc_2037_male01_g01_i001",
+        "text": {
+          "text": "这清理工作就看不到头，上头真指望就靠咱俩用人力来处理工作？",
+          "id": "5CA8684ACEC5CCA3"
+        },
+        "duration": 6.0,
+        "audio": ""
+      },
+      {
+        "envTalkId": "envTalk_Sickle_01",
+        "index": 2,
+        "npcId": "npc_2038_male01_g01_i001",
+        "text": {
+          "text": "别管上面怎么想了，我们首先得节约体力，别把自己的胳膊腿儿给干废了",
+          "id": "AC40B9AC9095BAFC"
+        },
+        "duration": 7.0,
+        "audio": ""
+      }
+    ]
+  },
+  "envTalk_Sickle_02": {
+    "envTalkCd": 10.0,
+    "envTalkId": "envTalk_Sickle_02",
+    "envTalkDataList": [
+      {
+        "envTalkId": "envTalk_Sickle_02",
+        "index": 1,
+        "npcId": "npc_2038_male01_g01_i001",
+        "text": {
+          "text": "咱俩过去几个小时干了不少活，现在多少也值得休息一阵。",
+          "id": "8759B042E8DD3DB6"
+        },
+        "duration": 6.0,
+        "audio": ""
+      },
+      {
+        "envTalkId": "envTalk_Sickle_02",
+        "index": 2,
+        "npcId": "npc_2037_male01_g01_i001",
+        "text": {
+          "text": "我同意，这是完全合理的诉求。",
+          "id": "47D0BDDBFD0248DF"
+        },
+        "duration": 5.0,
+        "audio": ""
+      }
+    ]
+  },
+  "envTalk_Sickle_03": {
+    "envTalkCd": 10.0,
+    "envTalkId": "envTalk_Sickle_03",
+    "envTalkDataList": [
+      {
+        "envTalkId": "envTalk_Sickle_03",
+        "index": 1,
+        "npcId": "npc_2037_male01_g01_i001",
+        "text": {
+          "text": "这自动贩卖机就该给我们打折，不光是钱的问题，我们得有点精神上的正反馈奖励。",
+          "id": "50885FC63A727357"
+        },
+        "duration": 8.0,
+        "audio": ""
+      },
+      {
+        "envTalkId": "envTalk_Sickle_03",
+        "index": 2,
+        "npcId": "npc_2037_male01_g01_i001",
+        "text": {
+          "text": "你懂的，就是那种“多多少少占了点小便宜”的安慰奖……",
+          "id": "CF2350C429C35800"
+        },
+        "duration": 6.0,
+        "audio": ""
+      },
+      {
+        "envTalkId": "envTalk_Sickle_03",
+        "index": 3,
+        "npcId": "npc_2038_male01_g01_i001",
+        "text": {
+          "text": "在我们干了这么多脏活累活之后，只是打折？我看得免费！",
+          "id": "9462A48265F32B60"
+        },
+        "duration": 6.0,
+        "audio": ""
+      }
+    ]
+  },
+  "envTalk_StrangeBox_01": {
+    "envTalkCd": 10.0,
+    "envTalkId": "envTalk_StrangeBox_01",
+    "envTalkDataList": [
+      {
+        "envTalkId": "envTalk_StrangeBox_01",
+        "index": 1,
+        "npcId": "npc_0029_e2m2_StrangeBox_01_0",
+        "text": {
+          "text": "有人吗？有人在外面吗！！",
+          "id": "A81FF03AA6C7F6E3"
+        },
+        "duration": 6.0,
+        "audio": ""
+      }
+    ]
+  },
+  "envTalk_StrangeBox_02": {
+    "envTalkCd": 10.0,
+    "envTalkId": "envTalk_StrangeBox_02",
+    "envTalkDataList": [
+      {
+        "envTalkId": "envTalk_StrangeBox_02",
+        "index": 1,
+        "npcId": "npc_0029_e2m2_StrangeBox_01_0",
+        "text": {
+          "text": "路过的人！这里，这边的箱子里！！",
+          "id": "BBF565DDAD035447"
+        },
+        "duration": 6.0,
+        "audio": ""
+      }
+    ]
+  },
+  "envTalk_hawthrone_01": {
+    "envTalkCd": 10.0,
+    "envTalkId": "envTalk_hawthrone_01",
+    "envTalkDataList": [
+      {
+        "envTalkId": "envTalk_hawthrone_01",
+        "index": 1,
+        "npcId": "npc_2013_hawthrone_g01_i002",
+        "text": {
+          "text": "人们常说，大难不死必有后福……",
+          "id": "778B4F6619021AB3"
+        },
+        "duration": 6.0,
+        "audio": ""
+      },
+      {
+        "envTalkId": "envTalk_hawthrone_01",
+        "index": 2,
+        "npcId": "npc_2013_hawthrone_g01_i002",
+        "text": {
+          "text": "想不到啊想不到，“大难”其实指的是空难……",
+          "id": "E1F0887DBDFECE38"
+        },
+        "duration": 6.0,
+        "audio": ""
+      }
+    ]
+  },
+  "envTalk_kai_01": {
+    "envTalkCd": 5.0,
+    "envTalkId": "envTalk_kai_01",
+    "envTalkDataList": [
+      {
+        "envTalkId": "envTalk_kai_01",
+        "index": 1,
+        "npcId": "npc_2001_e2m2_g01_i001",
+        "text": {
+          "text": "也就是说，你是从研究所里面逃出来的。",
+          "id": "D3FB6516B3C2DD09"
+        },
+        "duration": 5.0,
+        "audio": ""
+      },
+      {
+        "envTalkId": "envTalk_kai_01",
+        "index": 2,
+        "npcId": "npc_2002_e2m2_g01_i002",
+        "text": {
+          "text": "对，应该是和你那边的采石场同时出事的。",
+          "id": "1F48DE936D1D4725"
+        },
+        "duration": 5.0,
+        "audio": ""
+      },
+      {
+        "envTalkId": "envTalk_kai_01",
+        "index": 3,
+        "npcId": "npc_2001_e2m2_g01_i001",
+        "text": {
+          "text": "谁能想到呢？采石场和研究所同时陷入险境，最安全的地方反而是两者之间的大路……",
+          "id": "847083DE7B1A648A"
+        },
+        "duration": 8.0,
+        "audio": ""
+      }
+    ]
+  },
+  "envTalk_kai_02": {
+    "envTalkCd": 5.0,
+    "envTalkId": "envTalk_kai_02",
+    "envTalkDataList": [
+      {
+        "envTalkId": "envTalk_kai_02",
+        "index": 1,
+        "npcId": "npc_2002_e2m2_g01_i002",
+        "text": {
+          "text": "侵蚀爆发的时候，我正好在一个看得到研究所后方的窗口附近。",
+          "id": "1897CAC7A6706AEC"
+        },
+        "duration": 5.0,
+        "audio": ""
+      },
+      {
+        "envTalkId": "envTalk_kai_02",
+        "index": 2,
+        "npcId": "npc_2001_e2m2_g01_i001",
+        "text": {
+          "text": "侵蚀爆发是什么样的？",
+          "id": "F3504F84EA111BD5"
+        },
+        "duration": 3.0,
+        "audio": ""
+      },
+      {
+        "envTalkId": "envTalk_kai_02",
+        "index": 3,
+        "npcId": "npc_2002_e2m2_g01_i002",
+        "text": {
+          "text": "首先是许多色彩斑斓的异光，我很难给出更具体的形容……",
+          "id": "8B4614218B59034B"
+        },
+        "duration": 5.0,
+        "audio": ""
+      },
+      {
+        "envTalkId": "envTalk_kai_02",
+        "index": 4,
+        "npcId": "npc_2002_e2m2_g01_i002",
+        "text": {
+          "text": "然后是侵蚀能量潮，它就像岩浆流一样直接融穿了地表，制造了一条新的山谷。",
+          "id": "3A2593511F3385A9"
+        },
+        "duration": 8.0,
+        "audio": ""
+      },
+      {
+        "envTalkId": "envTalk_kai_02",
+        "index": 5,
+        "npcId": "npc_2002_e2m2_g01_i002",
+        "text": {
+          "text": "侵蚀留下的痕迹很耀眼，看着眼睛生痛。",
+          "id": "576808B4164A7862"
+        },
+        "duration": 5.0,
+        "audio": ""
+      },
+      {
+        "envTalkId": "envTalk_kai_02",
+        "index": 6,
+        "npcId": "npc_2002_e2m2_g01_i002",
+        "text": {
+          "text": "我害怕会有下一道侵蚀毁掉研究所，就立刻下楼往外逃。",
+          "id": "60CB2834C1B35B1A"
+        },
+        "duration": 5.0,
+        "audio": ""
+      },
+      {
+        "envTalkId": "envTalk_kai_02",
+        "index": 7,
+        "npcId": "npc_2001_e2m2_g01_i001",
+        "text": {
+          "text": "你反应够快，所以现在才能在这里……其他人都被封在了里面。",
+          "id": "27B163ED6F9807E9"
+        },
+        "duration": 5.0,
+        "audio": ""
+      }
+    ]
+  },
+  "envTalk_kai_03": {
+    "envTalkCd": 5.0,
+    "envTalkId": "envTalk_kai_03",
+    "envTalkDataList": [
+      {
+        "envTalkId": "envTalk_kai_03",
+        "index": 1,
+        "npcId": "npc_2002_e2m2_g01_i002",
+        "text": {
+          "text": "采石场一定是发生了什么事故吧？",
+          "id": "3260430E9B8B8FBA"
+        },
+        "duration": 5.0,
+        "audio": ""
+      },
+      {
+        "envTalkId": "envTalk_kai_03",
+        "index": 2,
+        "npcId": "npc_2001_e2m2_g01_i001",
+        "text": {
+          "text": "没有，至少我没看到有，整个场地都听到了警报广播，但我没看到具体的灾害。",
+          "id": "07E5F2B589A6CF71"
+        },
+        "duration": 8.0,
+        "audio": ""
+      },
+      {
+        "envTalkId": "envTalk_kai_03",
+        "index": 3,
+        "npcId": "npc_2001_e2m2_g01_i001",
+        "text": {
+          "text": "我当时正在一条隧道里检查设备，等我按章程把东西都关停再出来的时候……",
+          "id": "EE14E73D365CD289"
+        },
+        "duration": 8.0,
+        "audio": ""
+      },
+      {
+        "envTalkId": "envTalk_kai_03",
+        "index": 4,
+        "npcId": "npc_2002_e2m2_g01_i002",
+        "text": {
+          "text": "我猜猜，其他人已经撤走了？",
+          "id": "339B717933DA5932"
+        },
+        "duration": 5.0,
+        "audio": ""
+      },
+      {
+        "envTalkId": "envTalk_kai_03",
+        "index": 5,
+        "npcId": "npc_2001_e2m2_g01_i001",
+        "text": {
+          "text": "对，然后我从最近的大门离开，躲过了一些不知从哪来的天使，再就是这里了。",
+          "id": "316C375B1B883FD4"
+        },
+        "duration": 8.0,
+        "audio": ""
+      }
+    ]
+  },
+  "envTalk_kai_04": {
+    "envTalkCd": 5.0,
+    "envTalkId": "envTalk_kai_04",
+    "envTalkDataList": [
+      {
+        "envTalkId": "envTalk_kai_04",
+        "index": 1,
+        "npcId": "npc_2001_e2m2_g01_i001",
+        "text": {
+          "text": "接下来怎么办呢？",
+          "id": "B3F6335048BC6279"
+        },
+        "duration": 3.0,
+        "audio": ""
+      },
+      {
+        "envTalkId": "envTalk_kai_04",
+        "index": 2,
+        "npcId": "npc_2002_e2m2_g01_i002",
+        "text": {
+          "text": "还能怎么办？坚守，等待，然后服从指示呗，我们和这两兄妹都归工团管。",
+          "id": "0206A13FD28D3F04"
+        },
+        "duration": 8.0,
+        "audio": ""
+      },
+      {
+        "envTalkId": "envTalk_kai_04",
+        "index": 3,
+        "npcId": "npc_2002_e2m2_g01_i002",
+        "text": {
+          "text": "工团不会就这样撂下整个局面不管，研究所和采石场之后都还得继续用呢。",
+          "id": "E05992443D6682EF"
+        },
+        "duration": 8.0,
+        "audio": ""
+      },
+      {
+        "envTalkId": "envTalk_kai_04",
+        "index": 4,
+        "npcId": "npc_2001_e2m2_g01_i001",
+        "text": {
+          "text": "他们倒是撂下了我……不过也能理解，紧急情况下就是会出紧急问题。",
+          "id": "3527874F64F8A5CF"
+        },
+        "duration": 8.0,
+        "audio": ""
+      },
+      {
+        "envTalkId": "envTalk_kai_04",
+        "index": 5,
+        "npcId": "npc_2002_e2m2_g01_i002",
+        "text": {
+          "text": "我听说两兄妹之后还有别的增援，已经在路上了。",
+          "id": "F667AB916765C496"
+        },
+        "duration": 5.0,
+        "audio": ""
+      }
+    ]
+  },
+  "envTalk_rescued_01": {
+    "envTalkCd": 5.0,
+    "envTalkId": "envTalk_rescued_01",
+    "envTalkDataList": [
+      {
+        "envTalkId": "envTalk_rescued_01",
+        "index": 1,
+        "npcId": "npc_0001_NPC_g01_i002",
+        "text": {
+          "text": "看，是管理员！还有佩丽卡监督！",
+          "id": "63B7760D55F043A3"
+        },
+        "duration": 5.0,
+        "audio": ""
+      },
+      {
+        "envTalkId": "envTalk_rescued_01",
+        "index": 2,
+        "npcId": "npc_0001_NPC_g01_i003",
+        "text": {
+          "text": "救命恩人！终于又见面了！",
+          "id": "0794291F60F0A36A"
+        },
+        "duration": 5.0,
+        "audio": ""
+      },
+      {
+        "envTalkId": "envTalk_rescued_01",
+        "index": 3,
+        "npcId": "npc_0001_NPC_g01_i004",
+        "text": {
+          "text": "请二位替我们向柯烈科医生道谢，我欠他一条命……",
+          "id": "2EACB3DF71A1349C"
+        },
+        "duration": 5.0,
+        "audio": ""
+      },
+      {
+        "envTalkId": "envTalk_rescued_01",
+        "index": 4,
+        "npcId": "npc_0001_NPC_g01_i002",
+        "text": {
+          "text": "我们都欠他一条命。",
+          "id": "5F1D3C6E317136E9"
+        },
+        "duration": 5.0,
+        "audio": ""
+      },
+      {
+        "envTalkId": "envTalk_rescued_01",
+        "index": 5,
+        "npcId": "npc_0001_NPC_g01_i003",
+        "text": {
+          "text": "他是我见过的最有责任感的医生。",
+          "id": "7078CF4AB1346598"
+        },
+        "duration": 5.0,
+        "audio": ""
+      }
+    ]
+  },
+  "envTalk_tracer_01": {
+    "envTalkCd": 10.0,
+    "envTalkId": "envTalk_tracer_01",
+    "envTalkDataList": [
+      {
+        "envTalkId": "envTalk_tracer_01",
+        "index": 1,
+        "npcId": "npc_2001_arknight_g01_i001",
+        "text": {
+          "text": "单人行动……我的专长。",
+          "id": "7FF913ED57A06F1C"
+        },
+        "duration": 8.0,
+        "audio": ""
+      }
+    ]
+  },
+  "envTalk_tracer_02": {
+    "envTalkCd": 10.0,
+    "envTalkId": "envTalk_tracer_02",
+    "envTalkDataList": [
+      {
+        "envTalkId": "envTalk_tracer_02",
+        "index": 1,
+        "npcId": "npc_2001_arknight_g01_i001",
+        "text": {
+          "text": "我不能代表罗德岛发言，但我带来了罗德岛的态度。",
+          "id": "6776820965CB8720"
+        },
+        "duration": 8.0,
+        "audio": ""
+      }
+    ]
+  },
+  "envTalk_tracer_03": {
+    "envTalkCd": 10.0,
+    "envTalkId": "envTalk_tracer_03",
+    "envTalkDataList": [
+      {
+        "envTalkId": "envTalk_tracer_03",
+        "index": 1,
+        "npcId": "npc_2001_arknight_g01_i001",
+        "text": {
+          "text": "终末地与罗德岛的合作可以为这片地区带来很多好处……",
+          "id": "2611A3B89E652429"
+        },
+        "duration": 8.0,
+        "audio": ""
+      }
+    ]
+  }
+}

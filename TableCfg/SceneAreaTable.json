@@ -1,0 +1,58 @@
+{
+  "allUnlock": {
+    "sceneId": "tmp",
+    "areaId": "allUnlock",
+    "areaIndex": 1,
+    "bandwidth": 0,
+    "spBuildingCnt": 0,
+    "uiAreaNode": ""
+  },
+  "areaId101": {
+    "sceneId": "map01_lv001",
+    "areaId": "areaId101",
+    "areaIndex": 1,
+    "bandwidth": 0,
+    "spBuildingCnt": 0,
+    "uiAreaNode": ""
+  },
+  "areaId201": {
+    "sceneId": "map01_lv002",
+    "areaId": "areaId201",
+    "areaIndex": 1,
+    "bandwidth": 0,
+    "spBuildingCnt": 0,
+    "uiAreaNode": ""
+  },
+  "areaId301": {
+    "sceneId": "map01_lv003",
+    "areaId": "areaId301",
+    "areaIndex": 1,
+    "bandwidth": 70,
+    "spBuildingCnt": 12,
+    "uiAreaNode": "area_01"
+  },
+  "areaId501": {
+    "sceneId": "map01_lv005",
+    "areaId": "areaId501",
+    "areaIndex": 1,
+    "bandwidth": 50,
+    "spBuildingCnt": 12,
+    "uiAreaNode": "area_02"
+  },
+  "areaId601": {
+    "sceneId": "map01_lv006",
+    "areaId": "areaId601",
+    "areaIndex": 1,
+    "bandwidth": 50,
+    "spBuildingCnt": 6,
+    "uiAreaNode": "area_03"
+  },
+  "areaId602": {
+    "sceneId": "map01_lv006",
+    "areaId": "areaId602",
+    "areaIndex": 2,
+    "bandwidth": 50,
+    "spBuildingCnt": 6,
+    "uiAreaNode": "area_04"
+  }
+}

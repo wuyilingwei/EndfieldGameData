@@ -1,0 +1,367 @@
+{
+  "M3": {
+    "cdTime": 0.0,
+    "narratingWwiseEvent": "vo_narrating_m3_default",
+    "radioWwiseEvent": "vo_narrating_m3_radio"
+  },
+  "None": {
+    "cdTime": 0.0,
+    "narratingWwiseEvent": "vo_narrating_none_default",
+    "radioWwiseEvent": "vo_narrating_none_radio"
+  },
+  "chr_0003_endmin": {
+    "cdTime": 0.25,
+    "narratingWwiseEvent": "",
+    "radioWwiseEvent": ""
+  },
+  "chr_0004_pelica": {
+    "cdTime": 0.25,
+    "narratingWwiseEvent": "",
+    "radioWwiseEvent": ""
+  },
+  "chr_0005_chen": {
+    "cdTime": 0.25,
+    "narratingWwiseEvent": "",
+    "radioWwiseEvent": ""
+  },
+  "chr_0006_wolfgd": {
+    "cdTime": 0.25,
+    "narratingWwiseEvent": "",
+    "radioWwiseEvent": ""
+  },
+  "chr_0008_kholec": {
+    "cdTime": 0.25,
+    "narratingWwiseEvent": "",
+    "radioWwiseEvent": ""
+  },
+  "chr_0009_azrila": {
+    "cdTime": 0.25,
+    "narratingWwiseEvent": "",
+    "radioWwiseEvent": ""
+  },
+  "chr_0011_seraph": {
+    "cdTime": 0.25,
+    "narratingWwiseEvent": "",
+    "radioWwiseEvent": ""
+  },
+  "chr_0012_avywen": {
+    "cdTime": 0.25,
+    "narratingWwiseEvent": "",
+    "radioWwiseEvent": ""
+  },
+  "chr_0013_aglina": {
+    "cdTime": 0.25,
+    "narratingWwiseEvent": "",
+    "radioWwiseEvent": ""
+  },
+  "eny_0003_lbmelee": {
+    "cdTime": 0.5,
+    "narratingWwiseEvent": "",
+    "radioWwiseEvent": ""
+  },
+  "eny_0017_dexasco": {
+    "cdTime": 0.3,
+    "narratingWwiseEvent": "",
+    "radioWwiseEvent": ""
+  },
+  "eny_0018_lbtough": {
+    "cdTime": 0.5,
+    "narratingWwiseEvent": "",
+    "radioWwiseEvent": ""
+  },
+  "eny_0019_lbtough2": {
+    "cdTime": 0.5,
+    "narratingWwiseEvent": "",
+    "radioWwiseEvent": ""
+  },
+  "eny_0020_lbtough3": {
+    "cdTime": 0.5,
+    "narratingWwiseEvent": "",
+    "radioWwiseEvent": ""
+  },
+  "eny_0029_lbmob": {
+    "cdTime": 0.5,
+    "narratingWwiseEvent": "",
+    "radioWwiseEvent": ""
+  },
+  "eny_0030_lbmob2": {
+    "cdTime": 0.5,
+    "narratingWwiseEvent": "",
+    "radioWwiseEvent": ""
+  },
+  "eny_0031_lbmob3": {
+    "cdTime": 0.5,
+    "narratingWwiseEvent": "",
+    "radioWwiseEvent": ""
+  },
+  "eny_0033_lbhunt": {
+    "cdTime": 0.5,
+    "narratingWwiseEvent": "",
+    "radioWwiseEvent": ""
+  },
+  "eny_0034_lbhunt2": {
+    "cdTime": 0.5,
+    "narratingWwiseEvent": "",
+    "radioWwiseEvent": ""
+  },
+  "eny_0035_lbhunt3": {
+    "cdTime": 0.5,
+    "narratingWwiseEvent": "",
+    "radioWwiseEvent": ""
+  },
+  "eny_lb": {
+    "cdTime": 0.5,
+    "narratingWwiseEvent": "",
+    "radioWwiseEvent": ""
+  },
+  "上代女管理员": {
+    "cdTime": 0.0,
+    "narratingWwiseEvent": "vo_narrating_prevendminf_default",
+    "radioWwiseEvent": "vo_narrating_prevendminf_radio"
+  },
+  "不耐烦的裂地者": {
+    "cdTime": 0.0,
+    "narratingWwiseEvent": "vo_narrating_lb_unpati_default",
+    "radioWwiseEvent": "vo_narrating_lb_unpati_radio"
+  },
+  "乌萨斯工团代表": {
+    "cdTime": 0.0,
+    "narratingWwiseEvent": "vo_narrating_urs_ambas_default",
+    "radioWwiseEvent": "vo_narrating_urs_ambas_radio"
+  },
+  "佩丽卡": {
+    "cdTime": 0.0,
+    "narratingWwiseEvent": "vo_narrating_pelica_default",
+    "radioWwiseEvent": "vo_narrating_pelica_radio"
+  },
+  "卡贾": {
+    "cdTime": 0.0,
+    "narratingWwiseEvent": "vo_narrating_karja_default",
+    "radioWwiseEvent": "vo_narrating_karja_radio"
+  },
+  "受伤的工人B": {
+    "cdTime": 0.0,
+    "narratingWwiseEvent": "vo_narrating_workerinj_b_default",
+    "radioWwiseEvent": "vo_narrating_workerinj_b_radio"
+  },
+  "受伤的研究员A": {
+    "cdTime": 0.0,
+    "narratingWwiseEvent": "vo_narrating_researcherinj_a_default",
+    "radioWwiseEvent": "vo_narrating_researcherinj_a_radio"
+  },
+  "可疑的流民": {
+    "cdTime": 0.0,
+    "narratingWwiseEvent": "vo_narrating_nomad_sus_default",
+    "radioWwiseEvent": "vo_narrating_nomad_sus_radio"
+  },
+  "坎诺特·古德斐罗": {
+    "cdTime": 0.0,
+    "narratingWwiseEvent": "vo_narrating_cannot_default",
+    "radioWwiseEvent": "vo_narrating_cannot_radio"
+  },
+  "塞斯卡": {
+    "cdTime": 0.0,
+    "narratingWwiseEvent": "vo_narrating_zeszka_default",
+    "radioWwiseEvent": "vo_narrating_zeszka_radio"
+  },
+  "安德烈": {
+    "cdTime": 0.0,
+    "narratingWwiseEvent": "vo_narrating_andre_default",
+    "radioWwiseEvent": "vo_narrating_andre_radio"
+  },
+  "安心院": {
+    "cdTime": 0.0,
+    "narratingWwiseEvent": "vo_narrating_aglina_default",
+    "radioWwiseEvent": "vo_narrating_aglina_radio"
+  },
+  "峭壁": {
+    "cdTime": 0.0,
+    "narratingWwiseEvent": "vo_narrating_dexasco_default",
+    "radioWwiseEvent": "vo_narrating_dexasco_radio"
+  },
+  "工程人员A": {
+    "cdTime": 0.0,
+    "narratingWwiseEvent": "vo_narrating_engineer_a_default",
+    "radioWwiseEvent": "vo_narrating_engineer_a_radio"
+  },
+  "工程人员B": {
+    "cdTime": 0.0,
+    "narratingWwiseEvent": "vo_narrating_engineer_b_default",
+    "radioWwiseEvent": "vo_narrating_engineer_b_radio"
+  },
+  "工程人员C": {
+    "cdTime": 0.0,
+    "narratingWwiseEvent": "vo_narrating_engineer_c_default",
+    "radioWwiseEvent": "vo_narrating_engineer_c_radio"
+  },
+  "工程人员D": {
+    "cdTime": 0.0,
+    "narratingWwiseEvent": "vo_narrating_engineer_d_default",
+    "radioWwiseEvent": "vo_narrating_engineer_d_radio"
+  },
+  "干活的流民": {
+    "cdTime": 0.0,
+    "narratingWwiseEvent": "vo_narrating_nomad_work_default",
+    "radioWwiseEvent": "vo_narrating_nomad_work_radio"
+  },
+  "彼得罗夫": {
+    "cdTime": 0.0,
+    "narratingWwiseEvent": "vo_narrating_petrov_default",
+    "radioWwiseEvent": "vo_narrating_petrov_radio"
+  },
+  "文职人员A": {
+    "cdTime": 0.0,
+    "narratingWwiseEvent": "vo_narrating_clerk_a_default",
+    "radioWwiseEvent": "vo_narrating_clerk_a_radio"
+  },
+  "柯烈科": {
+    "cdTime": 0.0,
+    "narratingWwiseEvent": "vo_narrating_kholec_default",
+    "radioWwiseEvent": "vo_narrating_kholec_radio"
+  },
+  "油滑的流民": {
+    "cdTime": 0.0,
+    "narratingWwiseEvent": "vo_narrating_nomad_slzy_default",
+    "radioWwiseEvent": "vo_narrating_nomad_slzy_radio"
+  },
+  "法比安·柯林斯": {
+    "cdTime": 0.0,
+    "narratingWwiseEvent": "vo_narrating_fabian_default",
+    "radioWwiseEvent": "vo_narrating_fabian_radio"
+  },
+  "波瑞尔": {
+    "cdTime": 0.0,
+    "narratingWwiseEvent": "vo_narrating_borrell_default",
+    "radioWwiseEvent": "vo_narrating_borrell_radio"
+  },
+  "流民索斯": {
+    "cdTime": 0.0,
+    "narratingWwiseEvent": "vo_narrating_soth_default",
+    "radioWwiseEvent": "vo_narrating_soth_radio"
+  },
+  "焦急的女声": {
+    "cdTime": 0.0,
+    "narratingWwiseEvent": "vo_narrating_None_default",
+    "radioWwiseEvent": "vo_narrating_None_radio"
+  },
+  "狼卫": {
+    "cdTime": 0.0,
+    "narratingWwiseEvent": "vo_narrating_wolfgd_default",
+    "radioWwiseEvent": "vo_narrating_wolfgd_radio"
+  },
+  "理查德森": {
+    "cdTime": 0.0,
+    "narratingWwiseEvent": "vo_narrating_richardson_default",
+    "radioWwiseEvent": "vo_narrating_richardson_radio"
+  },
+  "秦茳尺": {
+    "cdTime": 0.0,
+    "narratingWwiseEvent": "vo_narrating_qinjc_default",
+    "radioWwiseEvent": "vo_narrating_qinjc_radio"
+  },
+  "管理员": {
+    "cdTime": 0.0,
+    "narratingWwiseEvent": "vo_narrating_endminf_default",
+    "radioWwiseEvent": "vo_narrating_endminf_radio"
+  },
+  "终末地员工E": {
+    "cdTime": 0.0,
+    "narratingWwiseEvent": "vo_narrating_efd_worker_e_default",
+    "radioWwiseEvent": "vo_narrating_efd_worker_e_radio"
+  },
+  "终末地工业系统": {
+    "cdTime": 0.0,
+    "narratingWwiseEvent": "vo_narrating_efis_default",
+    "radioWwiseEvent": "vo_narrating_efis_radio"
+  },
+  "终末地工程部代表": {
+    "cdTime": 0.0,
+    "narratingWwiseEvent": "vo_narrating_efd_ambas_default",
+    "radioWwiseEvent": "vo_narrating_efd_ambas_radio"
+  },
+  "终末地操作员": {
+    "cdTime": 0.0,
+    "narratingWwiseEvent": "vo_narrating_efd_driver_default",
+    "radioWwiseEvent": "vo_narrating_efd_driver_radio"
+  },
+  "维修人员": {
+    "cdTime": 0.0,
+    "narratingWwiseEvent": "vo_narrating_none_default",
+    "radioWwiseEvent": "vo_narrating_none_radio"
+  },
+  "维修队员A": {
+    "cdTime": 0.0,
+    "narratingWwiseEvent": "vo_narrating_mainten_a_default",
+    "radioWwiseEvent": "vo_narrating_mainten_a_radio"
+  },
+  "维修队员B": {
+    "cdTime": 0.0,
+    "narratingWwiseEvent": "vo_narrating_mainten_b_default",
+    "radioWwiseEvent": "vo_narrating_mainten_b_radio"
+  },
+  "罗德岛干员": {
+    "cdTime": 0.0,
+    "narratingWwiseEvent": "vo_narrating_ri_staff_default",
+    "radioWwiseEvent": "vo_narrating_ri_staff_radio"
+  },
+  "罗德岛联络员": {
+    "cdTime": 0.0,
+    "narratingWwiseEvent": "vo_narrating_ri_liaison_default",
+    "radioWwiseEvent": "vo_narrating_ri_liaison_radio"
+  },
+  "耐心的裂地者": {
+    "cdTime": 0.0,
+    "narratingWwiseEvent": "vo_narrating_lb_pati_default",
+    "radioWwiseEvent": "vo_narrating_lb_pati_radio"
+  },
+  "联盟工团广播": {
+    "cdTime": 0.0,
+    "narratingWwiseEvent": "vo_narrating_uni_broadcast_default",
+    "radioWwiseEvent": "vo_narrating_uni_broadcast_radio"
+  },
+  "肖娜": {
+    "cdTime": 0.0,
+    "narratingWwiseEvent": "vo_narrating_shawna_default",
+    "radioWwiseEvent": "vo_narrating_shawna_radio"
+  },
+  "艾莱扎·柯林斯": {
+    "cdTime": 0.0,
+    "narratingWwiseEvent": "vo_narrating_aleeza_default",
+    "radioWwiseEvent": "vo_narrating_aleeza_radio"
+  },
+  "菲奥娜": {
+    "cdTime": 0.0,
+    "narratingWwiseEvent": "vo_narrating_fiona_default",
+    "radioWwiseEvent": "vo_narrating_fiona_radio"
+  },
+  "裂地者A": {
+    "cdTime": 0.0,
+    "narratingWwiseEvent": "vo_narrating_lb_a_default",
+    "radioWwiseEvent": "vo_narrating_lb_a_radio"
+  },
+  "裂地者B": {
+    "cdTime": 0.0,
+    "narratingWwiseEvent": "vo_narrating_lb_b_default",
+    "radioWwiseEvent": "vo_narrating_lb_b_radio"
+  },
+  "裂地者人型怪物": {
+    "cdTime": 0.0,
+    "narratingWwiseEvent": "vo_narrating_lb_monster_default",
+    "radioWwiseEvent": "vo_narrating_lb_monster_radio"
+  },
+  "阿吉": {
+    "cdTime": 0.0,
+    "narratingWwiseEvent": "vo_narrating_ginny_default",
+    "radioWwiseEvent": "vo_narrating_ginny_radio"
+  },
+  "陈千语": {
+    "cdTime": 0.0,
+    "narratingWwiseEvent": "vo_narrating_chen_default",
+    "radioWwiseEvent": "vo_narrating_chen_radio"
+  },
+  "霍桑": {
+    "cdTime": 0.0,
+    "narratingWwiseEvent": "vo_narrating_hawthorne_default",
+    "radioWwiseEvent": "vo_narrating_hawthorne_radio"
+  }
+}

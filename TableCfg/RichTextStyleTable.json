@@ -1,0 +1,152 @@
+{
+  "ba.cd": {
+    "id": "ba.cd",
+    "postDef": "</color>",
+    "preDef": "<color=#FFD800>"
+  },
+  "ba.chan": {
+    "id": "ba.chan",
+    "postDef": "</color>",
+    "preDef": "<color=#FFD800>"
+  },
+  "ba.cryst": {
+    "id": "ba.cryst",
+    "postDef": "</color>",
+    "preDef": "<color=#21C6D0>"
+  },
+  "ba.fire": {
+    "id": "ba.fire",
+    "postDef": "</color>",
+    "preDef": "<color=#FD623D>"
+  },
+  "ba.heal": {
+    "id": "ba.heal",
+    "postDef": "</color>",
+    "preDef": "<color=#bed02d>"
+  },
+  "ba.key": {
+    "id": "ba.key",
+    "postDef": "</color>",
+    "preDef": "<color=#22bbff>"
+  },
+  "ba.pd": {
+    "id": "ba.pd",
+    "postDef": "</color>",
+    "preDef": "<color=#aaaaaa>"
+  },
+  "ba.phy": {
+    "id": "ba.phy",
+    "postDef": "</color>",
+    "preDef": "<color=#FFD800>"
+  },
+  "ba.poise": {
+    "id": "ba.poise",
+    "postDef": "</color>",
+    "preDef": "<color=#E37C38>"
+  },
+  "ba.pulse": {
+    "id": "ba.pulse",
+    "postDef": "</color>",
+    "preDef": "<color=#FFC000>"
+  },
+  "ba.vdown": {
+    "id": "ba.vdown",
+    "postDef": "</color>",
+    "preDef": "<color=#ff7d7d>"
+  },
+  "ba.vup": {
+    "id": "ba.vup",
+    "postDef": "</color>",
+    "preDef": "<color=#22bbff>"
+  },
+  "cc.vdown": {
+    "id": "cc.vdown",
+    "postDef": "</color>",
+    "preDef": "<color=#F74612>"
+  },
+  "cc.vup": {
+    "id": "cc.vup",
+    "postDef": "</color>",
+    "preDef": "<color=#22BBFF>"
+  },
+  "fac.blue": {
+    "id": "fac.blue",
+    "postDef": "</color>",
+    "preDef": "<color=#2f8baf>"
+  },
+  "fac.green": {
+    "id": "fac.green",
+    "postDef": "</color>",
+    "preDef": "<color=#009d82>"
+  },
+  "gd.key": {
+    "id": "gd.key",
+    "postDef": "</color>",
+    "preDef": "<color=#FFD800>"
+  },
+  "nar.clue": {
+    "id": "nar.clue",
+    "postDef": "</b></color>",
+    "preDef": "<color=#22BBFF><b>"
+  },
+  "nar.key": {
+    "id": "nar.key",
+    "postDef": "</b></color>",
+    "preDef": "<color=#FFD800><b>"
+  },
+  "nar.mark": {
+    "id": "nar.mark",
+    "postDef": "</color> </mark>",
+    "preDef": "<mark=#ffffff><color=#ffffff00>"
+  },
+  "nar.quote": {
+    "id": "nar.quote",
+    "postDef": "</i>",
+    "preDef": "<i>"
+  },
+  "opt.key": {
+    "id": "opt.key",
+    "postDef": "</color>",
+    "preDef": "<color=#5ECDFF>"
+  },
+  "qu.key": {
+    "id": "qu.key",
+    "postDef": "</color>",
+    "preDef": "<color=#FFD800>"
+  },
+  "tech.get": {
+    "id": "tech.get",
+    "postDef": "</color>",
+    "preDef": "<color=#1e1e1e>"
+  },
+  "tech.key": {
+    "id": "tech.key",
+    "postDef": "</color>",
+    "preDef": "<color=#fff0b3>"
+  },
+  "toast.key": {
+    "id": "toast.key",
+    "postDef": "</color>",
+    "preDef": "<color=#FFD800>"
+  },
+  "wiki.key": {
+    "id": "wiki.key",
+    "postDef": "</color>",
+    "preDef": "<color=#00B2FF>"
+  },
+  "wpn.key": {
+    "id": "wpn.key",
+    "postDef": "</b>",
+    "preDef": "<b>"
+  },
+  "wpn_gem.default": {
+    "id": "wpn_gem.default",
+    "postDef": "</b>",
+    "preDef": "<b>"
+  },
+  "wpn_gem.edit": {
+    "id": "wpn_gem.edit",
+    "postDef": "</color>",
+    "preDef": "<color=#22BBFF>"
+  }
+}

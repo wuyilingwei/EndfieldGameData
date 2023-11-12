@@ -1,0 +1,2279 @@
+{
+  "facSTTGroupTable": {
+    "tech_group_tundra": {
+      "groupId": "tech_group_tundra",
+      "groupName": {
+        "text": "基础工业计划",
+        "id": "B95E0ECC4716DF25"
+      }
+    }
+  },
+  "facSTTLayerTable": {
+    "tech_group_tundra_iron": {
+      "layerId": "tech_group_tundra_iron",
+      "name": {
+        "text": "基础工业三期",
+        "id": "AA84A61FD3DCAD2A"
+      },
+      "preLayer": "tech_group_tundra_quartz"
+    },
+    "tech_group_tundra_originium": {
+      "layerId": "tech_group_tundra_originium",
+      "name": {
+        "text": "基础工业一期",
+        "id": "3E581806EE570471"
+      },
+      "preLayer": ""
+    },
+    "tech_group_tundra_quartz": {
+      "layerId": "tech_group_tundra_quartz",
+      "name": {
+        "text": "基础工业二期",
+        "id": "083831F01F3A7868"
+      },
+      "preLayer": "tech_group_tundra_originium"
+    }
+  },
+  "facSTTSpNodeTable": {
+    "tech_ex_rec_1": {
+      "techId": "tech_ex_rec_1",
+      "name": {
+        "text": "回收站",
+        "id": "D0945E575FE4603E"
+      },
+      "icon": "tech_ex_rec_1",
+      "desc": {
+        "text": "通过特殊途径获得<@tech.key>回收站</>并解锁其使用权限\n<@tech.key>回收站</>可回收<@tech.key>可回收杂物</>并获得<@tech.key>随机珍贵材料</>",
+        "id": "08460121FBF4835B"
+      },
+      "unlockReward": [
+        {
+          "itemId": "item_factech_rec_unlock",
+          "count": 0
+        },
+        {
+          "itemId": "item_port_sp_rec_sta_1",
+          "count": 1
+        }
+      ],
+      "conditions": [],
+      "index": 1
+    }
+  },
+  "facSTTNodeTable": {
+    "tech_tundra_1_basic_1": {
+      "techId": "tech_tundra_1_basic_1",
+      "name": {
+        "text": "工艺设备基础",
+        "id": "37C0C80C20A80AB5"
+      },
+      "icon": "tech_tundra_1_basic_1",
+      "desc": {
+        "text": "研究后可制造<@tech.key>供电桩</>；\n供电桩可在<@tech.key>通电后</>为范围内的设备进行供电。",
+        "id": "A123A3434F6EEC18"
+      },
+      "isBig": 1,
+      "sortId": 1,
+      "unlockReward": [
+        {
+          "itemId": "item_bp_power_pole_1",
+          "count": 0
+        },
+        {
+          "itemId": "item_port_power_pole_1",
+          "count": 10
+        },
+        {
+          "itemId": "item_diamond",
+          "count": 30
+        }
+      ],
+      "conditions": [
+        {
+          "conditionId": "cond_tech_tundra_1_basic_1_1",
+          "desc": {
+            "text": "野外拥有2个源石矿机",
+            "id": "899947541A9B6304"
+          },
+          "conditionType": "FacBuildingWorking",
+          "parameters": [
+            {
+              "valueType": 0,
+              "realType": 0,
+              "valueStringList": [
+                "miner_1"
+              ],
+              "valueIntList": null,
+              "valueFloatList": null,
+              "valueBoolList": null,
+              "valueVector3": null
+            },
+            {
+              "valueType": 0,
+              "realType": 0,
+              "valueStringList": [
+                "2"
+              ],
+              "valueIntList": [
+                2
+              ],
+              "valueFloatList": [
+                2.0
+              ],
+              "valueBoolList": null,
+              "valueVector3": null
+            }
+          ]
+        }
+      ],
+      "unlockDesc": {
+        "text": "现在可以在<@tech.get>总装终端</>制造<@tech.get>供电桩</>并使用了",
+        "id": "A7905FBB64E3FABA"
+      },
+      "layer": "tech_group_tundra_originium",
+      "preNode": [],
+      "uiPos": [
+        0,
+        0
+      ],
+      "costItems": [
+        {
+          "id": "item_crystal_powder",
+          "count": 25
+        }
+      ],
+      "action": {
+        "actionId": "act_tech_tundra_1_basic_1_1",
+        "actionType": "FacUnlockFormula",
+        "parameters": [
+          {
+            "valueType": 0,
+            "realType": 0,
+            "valueStringList": [
+              "item_bp_power_pole_1"
+            ],
+            "valueIntList": null,
+            "valueFloatList": null,
+            "valueBoolList": null,
+            "valueVector3": null
+          }
+        ]
+      }
+    },
+    "tech_tundra_1_storager_1": {
+      "techId": "tech_tundra_1_storager_1",
+      "name": {
+        "text": "户外储物技术",
+        "id": "323576F11E34821A"
+      },
+      "icon": "tech_tundra_1_storager_1",
+      "desc": {
+        "text": "研究后可制造<@tech.key>协议储存箱</>；\n协议储存箱可存放物品，并在<@tech.key>通电一段时间后</>将储存物品<@tech.key>瞬间传输回仓库</>。",
+        "id": "C2BE3414C59A3C8F"
+      },
+      "isBig": 0,
+      "sortId": 3,
+      "unlockReward": [
+        {
+          "itemId": "item_bp_storager_1",
+          "count": 0
+        },
+        {
+          "itemId": "item_port_storager_1",
+          "count": 2
+        }
+      ],
+      "conditions": [],
+      "unlockDesc": {
+        "text": "现在可以在<@tech.get>总装终端</>制造<@tech.get>协议储存箱</>并使用了",
+        "id": "F8CF26A4BFD6AA2B"
+      },
+      "layer": "tech_group_tundra_originium",
+      "preNode": [
+        "tech_tundra_1_basic_1"
+      ],
+      "uiPos": [
+        8,
+        1
+      ],
+      "costItems": [
+        {
+          "id": "item_crystal_powder",
+          "count": 10
+        },
+        {
+          "id": "item_quartz_glass",
+          "count": 10
+        }
+      ],
+      "action": {
+        "actionId": "act_tech_tundra_1_storager_1_1",
+        "actionType": "FacUnlockFormula",
+        "parameters": [
+          {
+            "valueType": 0,
+            "realType": 0,
+            "valueStringList": [
+              "item_bp_storager_1"
+            ],
+            "valueIntList": null,
+            "valueFloatList": null,
+            "valueBoolList": null,
+            "valueVector3": null
+          }
+        ]
+      }
+    },
+    "tech_tundra_1_winder_1": {
+      "techId": "tech_tundra_1_winder_1",
+      "name": {
+        "text": "供电设备与元件",
+        "id": "12A9CB72AF5F5C3A"
+      },
+      "icon": "tech_tundra_1_winder_1",
+      "desc": {
+        "text": "研究后可制造<@tech.key>嵌造机</>与<@tech.key>中继器</>；\n中继器可在<@tech.key>更大范围内进行电路连接</>，但无法为范围内设备供电；\n嵌造机可将材料进行<@tech.key>嵌造</>，典型产物为<@tech.key>嵌造类晶元件</>。",
+        "id": "4942FBB8865F8E56"
+      },
+      "isBig": 0,
+      "sortId": 2,
+      "unlockReward": [
+        {
+          "itemId": "item_bp_winder_1",
+          "count": 0
+        },
+        {
+          "itemId": "item_bp_power_pole_2",
+          "count": 0
+        },
+        {
+          "itemId": "item_port_winder_1",
+          "count": 1
+        },
+        {
+          "itemId": "item_port_power_pole_2",
+          "count": 10
+        }
+      ],
+      "conditions": [],
+      "unlockDesc": {
+        "text": "现在可以在<@tech.get>总装终端</>制造<@tech.get>中继器</>与<@tech.get>嵌造机</>并在<@tech.get>核心工厂区域</>使用了",
+        "id": "8410CD2252E2DD8E"
+      },
+      "layer": "tech_group_tundra_originium",
+      "preNode": [
+        "tech_tundra_1_basic_1"
+      ],
+      "uiPos": [
+        6,
+        1
+      ],
+      "costItems": [
+        {
+          "id": "item_crystal_powder",
+          "count": 10
+        },
+        {
+          "id": "item_quartz_glass",
+          "count": 10
+        }
+      ],
+      "action": {
+        "actionId": "act_tech_tundra_1_winder_1_1",
+        "actionType": "FacUnlockFormula",
+        "parameters": [
+          {
+            "valueType": 0,
+            "realType": 0,
+            "valueStringList": [
+              "item_bp_winder_1"
+            ],
+            "valueIntList": null,
+            "valueFloatList": null,
+            "valueBoolList": null,
+            "valueVector3": null
+          }
+        ]
+      }
+    },
+    "tech_tundra_2_asm_1": {
+      "techId": "tech_tundra_2_asm_1",
+      "name": {
+        "text": "封装工艺",
+        "id": "0FC8058CAFF6C045"
+      },
+      "icon": "tech_tundra_2_asm_1",
+      "desc": {
+        "text": "研究后可制造<@tech.key>封装机</>；\n封装机可将材料进行<@tech.key>封装</>，典型产物为<@tech.key>电池</>；\n在完成后续<@tech.key>研磨工艺</>后可制造<@tech.key>爆炸物</>。",
+        "id": "1E04CEEED5F6754A"
+      },
+      "isBig": 0,
+      "sortId": 16,
+      "unlockReward": [
+        {
+          "itemId": "item_bp_tools_asm_mc_1",
+          "count": 0
+        },
+        {
+          "itemId": "item_port_tools_asm_mc_1",
+          "count": 1
+        }
+      ],
+      "conditions": [],
+      "unlockDesc": {
+        "text": "现在可以在<@tech.get>核心工厂区域</>放置<@tech.get>封装机</>并使用了",
+        "id": "ABB5F829E74A31E9"
+      },
+      "layer": "tech_group_tundra_quartz",
+      "preNode": [
+        "tech_tundra_2_cmpt_1"
+      ],
+      "uiPos": [
+        4,
+        5
+      ],
+      "costItems": [
+        {
+          "id": "item_bottled_rec_hp_1",
+          "count": 50
+        }
+      ],
+      "action": {
+        "actionId": "act_tech_tundra_2_asm_1_1",
+        "actionType": "FacUnlockFormula",
+        "parameters": [
+          {
+            "valueType": 0,
+            "realType": 0,
+            "valueStringList": [
+              "item_bp_tools_asm_mc_1"
+            ],
+            "valueIntList": null,
+            "valueFloatList": null,
+            "valueBoolList": null,
+            "valueVector3": null
+          }
+        ]
+      }
+    },
+    "tech_tundra_2_belt_1": {
+      "techId": "tech_tundra_2_belt_1",
+      "name": {
+        "text": "运输线基础",
+        "id": "F884455831EC6960"
+      },
+      "icon": "tech_tundra_2_belt_1",
+      "desc": {
+        "text": "研究后可解锁<@tech.key>初级传送带</>的使用权限；\n初级传送带可将货物<@tech.key>自动从设备输出口输送到下个设备的输入口</>。",
+        "id": "FFD51A7F00175836"
+      },
+      "isBig": 1,
+      "sortId": 4,
+      "unlockReward": [
+        {
+          "itemId": "item_log_belt_01",
+          "count": 0
+        },
+        {
+          "itemId": "item_diamond",
+          "count": 30
+        }
+      ],
+      "conditions": [],
+      "unlockDesc": {
+        "text": "现在可以在<@tech.get>核心工厂区域</>放置<@tech.get>初级传送带</>并使用了",
+        "id": "FEF8B1511EDDF6BF"
+      },
+      "layer": "tech_group_tundra_quartz",
+      "preNode": [
+        "tech_tundra_1_basic_1"
+      ],
+      "uiPos": [
+        -2,
+        2
+      ],
+      "costItems": [
+        {
+          "id": "item_glass_coil",
+          "count": 10
+        }
+      ],
+      "action": {
+        "actionId": "act_tech_tundra_2_belt_1_1",
+        "actionType": "UnlockSystem",
+        "parameters": [
+          {
+            "valueType": 0,
+            "realType": 0,
+            "valueStringList": [
+              "FacConveyor"
+            ],
+            "valueIntList": null,
+            "valueFloatList": null,
+            "valueBoolList": null,
+            "valueVector3": null
+          }
+        ]
+      }
+    },
+    "tech_tundra_2_cmpt_1": {
+      "techId": "tech_tundra_2_cmpt_1",
+      "name": {
+        "text": "配件工艺",
+        "id": "F13D05703F0BE8B3"
+      },
+      "icon": "tech_tundra_2_cmpt_1",
+      "desc": {
+        "text": "研究后可制造<@tech.key>配件机</>；\n配件机可将材料进行<@tech.key>配件</>，典型产物为<@tech.key>类晶零件</>。",
+        "id": "091AC6B127A8F745"
+      },
+      "isBig": 0,
+      "sortId": 5,
+      "unlockReward": [
+        {
+          "itemId": "item_bp_cmpt_mc_1",
+          "count": 0
+        },
+        {
+          "itemId": "item_port_cmpt_mc_1",
+          "count": 1
+        }
+      ],
+      "conditions": [],
+      "unlockDesc": {
+        "text": "现在可以在<@tech.get>总装终端</>制造<@tech.get>配件机</>并在<@tech.get>核心工厂区域</>使用了",
+        "id": "A7BBEC53F15F1013"
+      },
+      "layer": "tech_group_tundra_quartz",
+      "preNode": [
+        "tech_tundra_1_basic_1"
+      ],
+      "uiPos": [
+        4,
+        2
+      ],
+      "costItems": [
+        {
+          "id": "item_glass_coil",
+          "count": 20
+        }
+      ],
+      "action": {
+        "actionId": "act_tech_tundra_2_cmpt_1_1",
+        "actionType": "FacUnlockFormula",
+        "parameters": [
+          {
+            "valueType": 0,
+            "realType": 0,
+            "valueStringList": [
+              "item_bp_cmpt_mc_1"
+            ],
+            "valueIntList": null,
+            "valueFloatList": null,
+            "valueBoolList": null,
+            "valueVector3": null
+          }
+        ]
+      }
+    },
+    "tech_tundra_2_field_1": {
+      "techId": "tech_tundra_2_field_1",
+      "name": {
+        "text": "基地扩展",
+        "id": "10D63705B5A88C1D"
+      },
+      "icon": "tech_tundra_2_field_1",
+      "desc": {
+        "text": "研究后可<@tech.key>扩大</>核心工厂区域范围。",
+        "id": "F331BA24BCED5191"
+      },
+      "isBig": 0,
+      "sortId": 12,
+      "unlockReward": [
+        {
+          "itemId": "item_factech_field_lv2",
+          "count": 0
+        }
+      ],
+      "conditions": [
+        {
+          "conditionId": "cond_tech_tundra_2_field_1_1",
+          "desc": {
+            "text": "发电功率到达200W",
+            "id": "17873C378CD31859"
+          },
+          "conditionType": "FacProducePowerReach",
+          "parameters": [
+            {
+              "valueType": 0,
+              "realType": 0,
+              "valueStringList": [
+                "200"
+              ],
+              "valueIntList": [
+                200
+              ],
+              "valueFloatList": [
+                200.0
+              ],
+              "valueBoolList": null,
+              "valueVector3": null
+            }
+          ]
+        }
+      ],
+      "unlockDesc": {
+        "text": "现在可以有更大的<@tech.get>核心工厂区域范围</>进行设备放置了",
+        "id": "EA8B97691C8A9882"
+      },
+      "layer": "tech_group_tundra_quartz",
+      "preNode": [
+        "tech_tundra_2_power_1"
+      ],
+      "uiPos": [
+        6,
+        4
+      ],
+      "costItems": [
+        {
+          "id": "item_glass_cmpt",
+          "count": 50
+        }
+      ],
+      "action": {
+        "actionId": "act_tech_tundra_2_field_1_1",
+        "actionType": "FactoryRegionLevelUp",
+        "parameters": [
+          {
+            "valueType": 0,
+            "realType": 0,
+            "valueStringList": [
+              "map01_lv001"
+            ],
+            "valueIntList": null,
+            "valueFloatList": null,
+            "valueBoolList": null,
+            "valueVector3": null
+          },
+          {
+            "valueType": 0,
+            "realType": 0,
+            "valueStringList": [
+              "2"
+            ],
+            "valueIntList": [
+              2
+            ],
+            "valueFloatList": [
+              2.0
+            ],
+            "valueBoolList": null,
+            "valueVector3": null
+          }
+        ]
+      }
+    },
+    "tech_tundra_2_filling_1": {
+      "techId": "tech_tundra_2_filling_1",
+      "name": {
+        "text": "塑形与灌装工艺",
+        "id": "3A5318A4FAA03AA0"
+      },
+      "icon": "tech_tundra_2_filling_1",
+      "desc": {
+        "text": "研究后可制造<@tech.key>塑形机</>与<@tech.key>灌装机</>；\n塑形机可将材料进行<@tech.key>塑形</>，典型产物为<@tech.key>类晶瓶</>；\n<@tech.key>灌装机</>可将材料进行<@tech.key>灌装</>，典型产物为<@tech.key>恢复联剂</>和<@tech.key>灌装食品</>。",
+        "id": "B33CDD3552626752"
+      },
+      "isBig": 0,
+      "sortId": 11,
+      "unlockReward": [
+        {
+          "itemId": "item_bp_shaper_1",
+          "count": 0
+        },
+        {
+          "itemId": "item_bp_filling_pd_mc_1",
+          "count": 0
+        },
+        {
+          "itemId": "item_port_shaper_1",
+          "count": 1
+        },
+        {
+          "itemId": "item_port_filling_pd_mc_1",
+          "count": 1
+        }
+      ],
+      "conditions": [],
+      "unlockDesc": {
+        "text": "现在可以在<@tech.get>核心工厂区域</>放置<@tech.get>塑形机</>与<@tech.get>灌装机</>并使用了",
+        "id": "9164E40316978358"
+      },
+      "layer": "tech_group_tundra_quartz",
+      "preNode": [
+        "tech_tundra_2_cmpt_1"
+      ],
+      "uiPos": [
+        2,
+        4
+      ],
+      "costItems": [
+        {
+          "id": "item_glass_cmpt",
+          "count": 50
+        }
+      ],
+      "action": {
+        "actionId": "act_tech_tundra_2_filling_1_1",
+        "actionType": "FacUnlockFormula",
+        "parameters": [
+          {
+            "valueType": 0,
+            "realType": 0,
+            "valueStringList": [
+              "item_bp_shaper_1"
+            ],
+            "valueIntList": null,
+            "valueFloatList": null,
+            "valueBoolList": null,
+            "valueVector3": null
+          }
+        ]
+      }
+    },
+    "tech_tundra_2_medic_1": {
+      "techId": "tech_tundra_2_medic_1",
+      "name": {
+        "text": "户外医疗技术",
+        "id": "4008D0F733184F72"
+      },
+      "icon": "tech_tundra_2_medic_1",
+      "desc": {
+        "text": "研究后可制造<@tech.key>医疗施术塔</>；\n医疗施术塔在<@tech.key>通电一段时间积攒能量点后</>可为当前编队干员进行<@tech.key>生命值回复</>；\n当前编队干员生命值全满后，会为当前编队干员进行<@tech.key>技力（SP）回复</>。",
+        "id": "DCD4641E33D503DD"
+      },
+      "isBig": 0,
+      "sortId": 13,
+      "unlockReward": [
+        {
+          "itemId": "item_bp_medic_1",
+          "count": 0
+        },
+        {
+          "itemId": "item_port_medic_1",
+          "count": 2
+        }
+      ],
+      "conditions": [],
+      "unlockDesc": {
+        "text": "现在可以在<@tech.get>总装终端</>制造<@tech.get>医疗施术塔</>并使用了",
+        "id": "4D8B76CAF21BE755"
+      },
+      "layer": "tech_group_tundra_quartz",
+      "preNode": [
+        "tech_tundra_2_travel_1"
+      ],
+      "uiPos": [
+        7,
+        4
+      ],
+      "costItems": [
+        {
+          "id": "item_glass_cmpt",
+          "count": 50
+        }
+      ],
+      "action": {
+        "actionId": "act_tech_tundra_2_medic_1_1",
+        "actionType": "FacUnlockFormula",
+        "parameters": [
+          {
+            "valueType": 0,
+            "realType": 0,
+            "valueStringList": [
+              "item_bp_medic_1"
+            ],
+            "valueIntList": null,
+            "valueFloatList": null,
+            "valueBoolList": null,
+            "valueVector3": null
+          }
+        ]
+      }
+    },
+    "tech_tundra_2_mfg_1": {
+      "techId": "tech_tundra_2_mfg_1",
+      "name": {
+        "text": "智能制造I",
+        "id": "6FE54D653EA3DBAB"
+      },
+      "icon": "tech_tundra_2_mfg_1",
+      "desc": {
+        "text": "研究后获得<@tech.key>制造站</>并解锁其使用权限；\n制造站可制造<@tech.key>转译录入单元</>用于干员等级提升。",
+        "id": "61CFC35BDD2B7037"
+      },
+      "isBig": 1,
+      "sortId": 15,
+      "unlockReward": [
+        {
+          "itemId": "item_factech_mfg_unlock",
+          "count": 0
+        },
+        {
+          "itemId": "item_port_sp_mfg_sta_1",
+          "count": 1
+        },
+        {
+          "itemId": "item_diamond",
+          "count": 30
+        }
+      ],
+      "conditions": [],
+      "unlockDesc": {
+        "text": "现在可以在<@tech.get>核心工厂区域</>放置<@tech.get>制造站</>并使用了",
+        "id": "3BDC2C54988CFD86"
+      },
+      "layer": "tech_group_tundra_quartz",
+      "preNode": [
+        "tech_tundra_1_basic_1"
+      ],
+      "uiPos": [
+        -6,
+        5
+      ],
+      "costItems": [
+        {
+          "id": "item_bottled_rec_hp_1",
+          "count": 50
+        }
+      ],
+      "action": {
+        "actionId": "act_tech_tundra_2_mfg_1_1",
+        "actionType": "GainItem",
+        "parameters": [
+          {
+            "valueType": 0,
+            "realType": 0,
+            "valueStringList": [
+              "item_port_sp_mfg_sta_1"
+            ],
+            "valueIntList": null,
+            "valueFloatList": null,
+            "valueBoolList": null,
+            "valueVector3": null
+          },
+          {
+            "valueType": 0,
+            "realType": 0,
+            "valueStringList": [
+              "1"
+            ],
+            "valueIntList": [
+              1
+            ],
+            "valueFloatList": [
+              1.0
+            ],
+            "valueBoolList": null,
+            "valueVector3": null
+          }
+        ]
+      }
+    },
+    "tech_tundra_2_miner_2": {
+      "techId": "tech_tundra_2_miner_2",
+      "name": {
+        "text": "进阶勘采",
+        "id": "67E3F7BE7DCF578C"
+      },
+      "icon": "tech_tundra_2_miner_2",
+      "desc": {
+        "text": "研究后可制造<@tech.key>电驱矿机</>；\n电驱矿机可<@tech.key>在野外无线传输矿物至仓库</>；\n可采集更稀有的矿藏，典型矿物为<@tech.key>类晶石</>。",
+        "id": "3C25A2F4F68D77C8"
+      },
+      "isBig": 1,
+      "sortId": 7,
+      "unlockReward": [
+        {
+          "itemId": "item_bp_miner_2",
+          "count": 0
+        },
+        {
+          "itemId": "item_port_miner_2",
+          "count": 5
+        },
+        {
+          "itemId": "item_diamond",
+          "count": 30
+        }
+      ],
+      "conditions": [],
+      "unlockDesc": {
+        "text": "现在可以在<@tech.get>总装终端</>制造<@tech.get>电驱矿机</>并使用了",
+        "id": "241DF4AF84731E04"
+      },
+      "layer": "tech_group_tundra_quartz",
+      "preNode": [
+        "tech_tundra_1_basic_1"
+      ],
+      "uiPos": [
+        0,
+        3
+      ],
+      "costItems": [
+        {
+          "id": "item_glass_cmpt",
+          "count": 10
+        }
+      ],
+      "action": {
+        "actionId": "act_tech_tundra_2_miner_2_1",
+        "actionType": "FacUnlockFormula",
+        "parameters": [
+          {
+            "valueType": 0,
+            "realType": 0,
+            "valueStringList": [
+              "item_bp_miner_2"
+            ],
+            "valueIntList": null,
+            "valueFloatList": null,
+            "valueBoolList": null,
+            "valueVector3": null
+          }
+        ]
+      }
+    },
+    "tech_tundra_2_plant_1": {
+      "techId": "tech_tundra_2_plant_1",
+      "name": {
+        "text": "培植工艺",
+        "id": "E4572822ADB000F9"
+      },
+      "icon": "tech_tundra_2_plant_1",
+      "desc": {
+        "text": "研究后可制造<@tech.key>采种机</>与<@tech.key>种植机</>；\n采种机可将普通植物进行<@tech.key>采种</>，可产出对应植物的种子；\n种植机可将普通种子进行<@tech.key>种植</>，可产出对应植物成株。",
+        "id": "D397025287DEBBE9"
+      },
+      "isBig": 0,
+      "sortId": 14,
+      "unlockReward": [
+        {
+          "itemId": "item_bp_seedcol_1",
+          "count": 0
+        },
+        {
+          "itemId": "item_bp_planter_1",
+          "count": 0
+        },
+        {
+          "itemId": "item_port_seedcol_1",
+          "count": 1
+        },
+        {
+          "itemId": "item_port_planter_1",
+          "count": 2
+        }
+      ],
+      "conditions": [],
+      "unlockDesc": {
+        "text": "现在可以在<@tech.get>核心工厂区域</>放置<@tech.get>采种机</>与<@tech.get>种植机</>并使用了",
+        "id": "D1DD25BDF98C375E"
+      },
+      "layer": "tech_group_tundra_quartz",
+      "preNode": [
+        "tech_tundra_2_filling_1"
+      ],
+      "uiPos": [
+        2,
+        5
+      ],
+      "costItems": [
+        {
+          "id": "item_bottled_rec_hp_1",
+          "count": 10
+        }
+      ],
+      "action": {
+        "actionId": "act_tech_tundra_2_plant_1_1",
+        "actionType": "FacUnlockFormula",
+        "parameters": [
+          {
+            "valueType": 0,
+            "realType": 0,
+            "valueStringList": [
+              "item_bp_planter_1"
+            ],
+            "valueIntList": null,
+            "valueFloatList": null,
+            "valueBoolList": null,
+            "valueVector3": null
+          }
+        ]
+      }
+    },
+    "tech_tundra_2_power_1": {
+      "techId": "tech_tundra_2_power_1",
+      "name": {
+        "text": "热电设备",
+        "id": "448E431A52C72792"
+      },
+      "icon": "tech_tundra_2_power_1",
+      "desc": {
+        "text": "研究后可制造<@tech.key>热能池</>；\n热能池可将燃料燃烧发电，但<@tech.key>需要接入电网</>整流后才能工作。",
+        "id": "F258A158D03B9FC0"
+      },
+      "isBig": 0,
+      "sortId": 6,
+      "unlockReward": [
+        {
+          "itemId": "item_bp_power_sta_1",
+          "count": 0
+        },
+        {
+          "itemId": "item_port_power_sta_1",
+          "count": 1
+        }
+      ],
+      "conditions": [],
+      "unlockDesc": {
+        "text": "现在可以在<@tech.get>总装终端</>制造<@tech.get>热能池</>并在<@tech.get>核心工厂区域</>使用了",
+        "id": "C0CF87D10078AF12"
+      },
+      "layer": "tech_group_tundra_quartz",
+      "preNode": [
+        "tech_tundra_1_winder_1"
+      ],
+      "uiPos": [
+        6,
+        3
+      ],
+      "costItems": [
+        {
+          "id": "item_glass_cmpt",
+          "count": 25
+        }
+      ],
+      "action": {
+        "actionId": "act_tech_tundra_2_power_1_1",
+        "actionType": "FacUnlockFormula",
+        "parameters": [
+          {
+            "valueType": 0,
+            "realType": 0,
+            "valueStringList": [
+              "item_bp_power_sta_1"
+            ],
+            "valueIntList": null,
+            "valueFloatList": null,
+            "valueBoolList": null,
+            "valueVector3": null
+          }
+        ]
+      }
+    },
+    "tech_tundra_2_proc_1": {
+      "techId": "tech_tundra_2_proc_1",
+      "name": {
+        "text": "立体装配II",
+        "id": "9259088B4418C215"
+      },
+      "icon": "tech_tundra_2_proc_1",
+      "desc": {
+        "text": "研究后可升级<@tech.key>装配站</>到<@tech.key>II</>级；\n可制造更高品质的<@tech.key>装备</>。",
+        "id": "204955451608E9BA"
+      },
+      "isBig": 0,
+      "sortId": 9,
+      "unlockReward": [
+        {
+          "itemId": "item_factech_proc_lv2",
+          "count": 0
+        }
+      ],
+      "conditions": [],
+      "unlockDesc": {
+        "text": "现在可制造更高品质的<@tech.get>装备</>了",
+        "id": "B992A30C5D580A1D"
+      },
+      "layer": "tech_group_tundra_quartz",
+      "preNode": [
+        "tech_tundra_1_basic_1"
+      ],
+      "uiPos": [
+        -8,
+        4
+      ],
+      "costItems": [
+        {
+          "id": "item_glass_cmpt",
+          "count": 25
+        }
+      ],
+      "action": {
+        "actionId": "act_tech_tundra_2_proc_1_1",
+        "actionType": "FacBuildingUpgrade",
+        "parameters": [
+          {
+            "valueType": 0,
+            "realType": 0,
+            "valueStringList": [
+              "sp_proc_sta_1"
+            ],
+            "valueIntList": null,
+            "valueFloatList": null,
+            "valueBoolList": null,
+            "valueVector3": null
+          },
+          {
+            "valueType": 0,
+            "realType": 0,
+            "valueStringList": [
+              "2"
+            ],
+            "valueIntList": [
+              2
+            ],
+            "valueFloatList": [
+              2.0
+            ],
+            "valueBoolList": null,
+            "valueVector3": null
+          }
+        ]
+      }
+    },
+    "tech_tundra_2_splitter_1": {
+      "techId": "tech_tundra_2_splitter_1",
+      "name": {
+        "text": "运输线分流",
+        "id": "5B9FE4CBAEA37C6B"
+      },
+      "icon": "tech_tundra_2_splitter_1",
+      "desc": {
+        "text": "研究后可解锁<@tech.key>分流器</>的使用权限；\n分流器可将单一传送带<@tech.key>分流出最多3条传送带</>进行传输。",
+        "id": "440A57110B41108C"
+      },
+      "isBig": 0,
+      "sortId": 10,
+      "unlockReward": [
+        {
+          "itemId": "item_log_splitter",
+          "count": 0
+        }
+      ],
+      "conditions": [],
+      "unlockDesc": {
+        "text": "现在可以在<@tech.get>核心工厂区域</>放置<@tech.get>分流器</>并使用了",
+        "id": "13646EB2CDD016AE"
+      },
+      "layer": "tech_group_tundra_quartz",
+      "preNode": [
+        "tech_tundra_2_belt_1"
+      ],
+      "uiPos": [
+        -2,
+        4
+      ],
+      "costItems": [
+        {
+          "id": "item_glass_cmpt",
+          "count": 50
+        }
+      ],
+      "action": {
+        "actionId": "act_tech_tundra_2_splitter_1_1",
+        "actionType": "UnlockSystem",
+        "parameters": [
+          {
+            "valueType": 0,
+            "realType": 0,
+            "valueStringList": [
+              "FacSplitter"
+            ],
+            "valueIntList": null,
+            "valueFloatList": null,
+            "valueBoolList": null,
+            "valueVector3": null
+          }
+        ]
+      }
+    },
+    "tech_tundra_2_travel_1": {
+      "techId": "tech_tundra_2_travel_1",
+      "name": {
+        "text": "户外机动技术I",
+        "id": "4C98F8AB2E3CD1CC"
+      },
+      "icon": "tech_tundra_2_travel_1",
+      "desc": {
+        "text": "研究后可制造<@tech.key>滑索架</>；\n两个滑索架之间可进行<@tech.key>快速远距离移动</>。",
+        "id": "1774720D2D7DFC20"
+      },
+      "isBig": 1,
+      "sortId": 8,
+      "unlockReward": [
+        {
+          "itemId": "item_bp_travel_pole_1",
+          "count": 0
+        },
+        {
+          "itemId": "item_port_travel_pole_1",
+          "count": 2
+        },
+        {
+          "itemId": "item_diamond",
+          "count": 30
+        }
+      ],
+      "conditions": [],
+      "unlockDesc": {
+        "text": "现在可以在<@tech.get>总装终端</>制造<@tech.get>滑索架</>并使用了",
+        "id": "5DBDDCFF1C2A0B38"
+      },
+      "layer": "tech_group_tundra_quartz",
+      "preNode": [
+        "tech_tundra_1_storager_1"
+      ],
+      "uiPos": [
+        8,
+        3
+      ],
+      "costItems": [
+        {
+          "id": "item_glass_cmpt",
+          "count": 25
+        }
+      ],
+      "action": {
+        "actionId": "act_tech_tundra_2_travel_1_1",
+        "actionType": "FacUnlockFormula",
+        "parameters": [
+          {
+            "valueType": 0,
+            "realType": 0,
+            "valueStringList": [
+              "item_bp_travel_pole_1"
+            ],
+            "valueIntList": null,
+            "valueFloatList": null,
+            "valueBoolList": null,
+            "valueVector3": null
+          }
+        ]
+      }
+    },
+    "tech_tundra_3_bus_1": {
+      "techId": "tech_tundra_3_bus_1",
+      "name": {
+        "text": "基地设备扩展",
+        "id": "9934989363079D37"
+      },
+      "icon": "tech_tundra_3_bus_1",
+      "desc": {
+        "text": "研究后可<@tech.key>扩大</>核心工厂区域范围，可<@tech.key>使用总线</>将物品取出或存入仓库，可制造<@tech.key>总线输入口与总线输出口</>。",
+        "id": "D2F3E70B616542CE"
+      },
+      "isBig": 1,
+      "sortId": 19,
+      "unlockReward": [
+        {
+          "itemId": "item_factech_field_lv3",
+          "count": 0
+        },
+        {
+          "itemId": "item_factech_tundra_bus",
+          "count": 0
+        },
+        {
+          "itemId": "item_bp_bus_supply_1",
+          "count": 0
+        },
+        {
+          "itemId": "item_diamond",
+          "count": 30
+        }
+      ],
+      "conditions": [
+        {
+          "conditionId": "cond_tech_tundra_3_bus_1_1",
+          "desc": {
+            "text": "发电功率到达400W",
+            "id": "F005FF1D100E5ED5"
+          },
+          "conditionType": "FacProducePowerReach",
+          "parameters": [
+            {
+              "valueType": 0,
+              "realType": 0,
+              "valueStringList": [
+                "400"
+              ],
+              "valueIntList": [
+                400
+              ],
+              "valueFloatList": [
+                400.0
+              ],
+              "valueBoolList": null,
+              "valueVector3": null
+            }
+          ]
+        }
+      ],
+      "unlockDesc": {
+        "text": "有更大的<@tech.get>核心工厂区域范围</>进行设备放置了，可以在<@tech.get>总装终端</>制造<@tech.get>总线输入口</>与<@tech.get>总线输出口</>并使用总线了",
+        "id": "9A1467C776F21B5F"
+      },
+      "layer": "tech_group_tundra_iron",
+      "preNode": [
+        "tech_tundra_2_field_1"
+      ],
+      "uiPos": [
+        6,
+        8
+      ],
+      "costItems": [
+        {
+          "id": "item_iron_cmpt",
+          "count": 200
+        }
+      ],
+      "action": {
+        "actionId": "act_tech_tundra_3_bus_1_1",
+        "actionType": "FactoryRegionLevelUp",
+        "parameters": [
+          {
+            "valueType": 0,
+            "realType": 0,
+            "valueStringList": [
+              "map01_lv001"
+            ],
+            "valueIntList": null,
+            "valueFloatList": null,
+            "valueBoolList": null,
+            "valueVector3": null
+          },
+          {
+            "valueType": 0,
+            "realType": 0,
+            "valueStringList": [
+              "3"
+            ],
+            "valueIntList": [
+              3
+            ],
+            "valueFloatList": [
+              3.0
+            ],
+            "valueBoolList": null,
+            "valueVector3": null
+          }
+        ]
+      }
+    },
+    "tech_tundra_3_connector_1": {
+      "techId": "tech_tundra_3_connector_1",
+      "name": {
+        "text": "运输线跨接",
+        "id": "32352E69CC902F24"
+      },
+      "icon": "tech_tundra_3_connector_1",
+      "desc": {
+        "text": "研究后可解锁<@tech.key>物流桥</>的使用权限；\n物流桥可使得<@tech.key>两条交叉传送带进行传输</>而互不影响。",
+        "id": "A46F54796FE451D2"
+      },
+      "isBig": 0,
+      "sortId": 25,
+      "unlockReward": [
+        {
+          "itemId": "item_log_connector",
+          "count": 0
+        }
+      ],
+      "conditions": [],
+      "unlockDesc": {
+        "text": "现在可以在<@tech.get>核心工厂区域</>放置<@tech.get>物流桥</>并使用了",
+        "id": "E20FD3DC0A6566AF"
+      },
+      "layer": "tech_group_tundra_iron",
+      "preNode": [
+        "tech_tundra_2_splitter_1"
+      ],
+      "uiPos": [
+        -2,
+        7
+      ],
+      "costItems": [
+        {
+          "id": "item_iron_cmpt",
+          "count": 100
+        }
+      ],
+      "action": {
+        "actionId": "act_tech_tundra_3_connector_1_1",
+        "actionType": "UnlockSystem",
+        "parameters": [
+          {
+            "valueType": 0,
+            "realType": 0,
+            "valueStringList": [
+              "FacBridge"
+            ],
+            "valueIntList": null,
+            "valueFloatList": null,
+            "valueBoolList": null,
+            "valueVector3": null
+          }
+        ]
+      }
+    },
+    "tech_tundra_3_converger_1": {
+      "techId": "tech_tundra_3_converger_1",
+      "name": {
+        "text": "运输线汇流",
+        "id": "13DC0FD75B07C254"
+      },
+      "icon": "tech_tundra_3_converger_1",
+      "desc": {
+        "text": "研究后可解锁<@tech.key>汇流器</>的使用权限；\n汇流器可将最多3条传送带并入1条传送带进行传输。",
+        "id": "2AF03EEC8D8237FE"
+      },
+      "isBig": 0,
+      "sortId": 26,
+      "unlockReward": [
+        {
+          "itemId": "item_log_converger",
+          "count": 0
+        }
+      ],
+      "conditions": [],
+      "unlockDesc": {
+        "text": "现在可以在<@tech.get>核心工厂区域</>放置<@tech.get>汇流器</>并使用了",
+        "id": "C1ADDDC4786B135B"
+      },
+      "layer": "tech_group_tundra_iron",
+      "preNode": [
+        "tech_tundra_3_connector_1"
+      ],
+      "uiPos": [
+        -2,
+        8
+      ],
+      "costItems": [
+        {
+          "id": "item_iron_cmpt",
+          "count": 200
+        }
+      ],
+      "action": {
+        "actionId": "act_tech_tundra_3_converger_1_1",
+        "actionType": "UnlockSystem",
+        "parameters": [
+          {
+            "valueType": 0,
+            "realType": 0,
+            "valueStringList": [
+              "FacMerger"
+            ],
+            "valueIntList": null,
+            "valueFloatList": null,
+            "valueBoolList": null,
+            "valueVector3": null
+          }
+        ]
+      }
+    },
+    "tech_tundra_3_hand_bomb_2": {
+      "techId": "tech_tundra_3_hand_bomb_2",
+      "name": {
+        "text": "爆炸物简制",
+        "id": "440B0DFFBFCCA7F3"
+      },
+      "icon": "tech_tundra_3_hand_bomb_2",
+      "desc": {
+        "text": "研究后可在<@tech.key>物品简制</>中以新配方制造<@tech.key>工业爆炸物</>；\n也可制造<@tech.key>改装爆炸物</>。",
+        "id": "7AF9D2D3A7C300E4"
+      },
+      "isBig": 0,
+      "sortId": 30,
+      "unlockReward": [
+        {
+          "itemId": "item_bp_handwork_bomb_2",
+          "count": 0
+        }
+      ],
+      "conditions": [],
+      "unlockDesc": {
+        "text": "现在可以在<@tech.get>物品简制</>中制造<@tech.get>工业爆炸物</>与<@tech.get>改装爆炸物</>并使用了",
+        "id": "A1BCBBB2C7FDEEC9"
+      },
+      "layer": "tech_group_tundra_iron",
+      "preNode": [
+        "tech_tundra_3_hand_pole_1"
+      ],
+      "uiPos": [
+        7,
+        10
+      ],
+      "costItems": [
+        {
+          "id": "item_iron_enr_cmpt",
+          "count": 400
+        }
+      ],
+      "action": {
+        "actionId": "act_tech_tundra_3_hand_bomb_2_1",
+        "actionType": "FacUnlockFormula",
+        "parameters": [
+          {
+            "valueType": 0,
+            "realType": 0,
+            "valueStringList": [
+              "item_bp_handwork_bomb_2"
+            ],
+            "valueIntList": null,
+            "valueFloatList": null,
+            "valueBoolList": null,
+            "valueVector3": null
+          }
+        ]
+      }
+    },
+    "tech_tundra_3_hand_pole_1": {
+      "techId": "tech_tundra_3_hand_pole_1",
+      "name": {
+        "text": "传电设备简制",
+        "id": "046163519A175B21"
+      },
+      "icon": "tech_tundra_3_hand_pole_1",
+      "desc": {
+        "text": "研究后可在<@tech.key>物品简制</>中制造<@tech.key>供电桩</>与<@tech.key>中继器</>。",
+        "id": "95A448B964F5A9DC"
+      },
+      "isBig": 0,
+      "sortId": 21,
+      "unlockReward": [
+        {
+          "itemId": "item_bp_handwork_power_pole_1",
+          "count": 0
+        },
+        {
+          "itemId": "item_bp_handwork_power_pole_2",
+          "count": 0
+        }
+      ],
+      "conditions": [],
+      "unlockDesc": {
+        "text": "现在可以在<@tech.get>物品简制</>中制造<@tech.get>供电桩</>与<@tech.get>中继器</>并使用了",
+        "id": "BF9ED5257295653C"
+      },
+      "layer": "tech_group_tundra_iron",
+      "preNode": [
+        "tech_tundra_2_field_1"
+      ],
+      "uiPos": [
+        7,
+        6
+      ],
+      "costItems": [
+        {
+          "id": "item_iron_nugget",
+          "count": 50
+        }
+      ],
+      "action": {
+        "actionId": "act_tech_tundra_3_hand_pole_1_1",
+        "actionType": "FacUnlockFormula",
+        "parameters": [
+          {
+            "valueType": 0,
+            "realType": 0,
+            "valueStringList": [
+              "item_bp_handwork_power_pole_1"
+            ],
+            "valueIntList": null,
+            "valueFloatList": null,
+            "valueBoolList": null,
+            "valueVector3": null
+          }
+        ]
+      }
+    },
+    "tech_tundra_3_mfg_2": {
+      "techId": "tech_tundra_3_mfg_2",
+      "name": {
+        "text": "智能制造II",
+        "id": "5AB2DEA749D61655"
+      },
+      "icon": "tech_tundra_3_mfg_2",
+      "desc": {
+        "text": "研究后可升级<@tech.key>制造站</>到<@tech.key>II</>级；\n可制造更高品质的<@tech.key>转译录入单元</>用于干员等级提升。",
+        "id": "0A7BFFBE38F723A9"
+      },
+      "isBig": 0,
+      "sortId": 24,
+      "unlockReward": [
+        {
+          "itemId": "item_factech_mfg_lv2",
+          "count": 0
+        }
+      ],
+      "conditions": [],
+      "unlockDesc": {
+        "text": "现在可制造更高品质的<@tech.get>转译录入单元</>了",
+        "id": "676EDB6FC1DC3464"
+      },
+      "layer": "tech_group_tundra_iron",
+      "preNode": [
+        "tech_tundra_2_mfg_1"
+      ],
+      "uiPos": [
+        -6,
+        7
+      ],
+      "costItems": [
+        {
+          "id": "item_iron_cmpt",
+          "count": 100
+        }
+      ],
+      "action": {
+        "actionId": "act_tech_tundra_3_mfg_2_1",
+        "actionType": "FacBuildingUpgrade",
+        "parameters": [
+          {
+            "valueType": 0,
+            "realType": 0,
+            "valueStringList": [
+              "sp_mfg_sta_1"
+            ],
+            "valueIntList": null,
+            "valueFloatList": null,
+            "valueBoolList": null,
+            "valueVector3": null
+          },
+          {
+            "valueType": 0,
+            "realType": 0,
+            "valueStringList": [
+              "2"
+            ],
+            "valueIntList": [
+              2
+            ],
+            "valueFloatList": [
+              2.0
+            ],
+            "valueBoolList": null,
+            "valueVector3": null
+          }
+        ]
+      }
+    },
+    "tech_tundra_3_mfg_3": {
+      "techId": "tech_tundra_3_mfg_3",
+      "name": {
+        "text": "智能制造III",
+        "id": "1F4A7C6B8447728D"
+      },
+      "icon": "tech_tundra_3_mfg_3",
+      "desc": {
+        "text": "研究后可升级<@tech.key>制造站</>到<@tech.key>III</>级；\n可制造更高品质的<@tech.key>转译录入单元</>用于干员等级提升。",
+        "id": "59EC0E67CDAD771F"
+      },
+      "isBig": 0,
+      "sortId": 29,
+      "unlockReward": [
+        {
+          "itemId": "item_factech_mfg_lv3",
+          "count": 0
+        }
+      ],
+      "conditions": [],
+      "unlockDesc": {
+        "text": "现在可制造更高品质的<@tech.get>转译录入单元</>了",
+        "id": "87755AA261DB5525"
+      },
+      "layer": "tech_group_tundra_iron",
+      "preNode": [
+        "tech_tundra_3_mfg_2"
+      ],
+      "uiPos": [
+        -6,
+        10
+      ],
+      "costItems": [
+        {
+          "id": "item_iron_enr_cmpt",
+          "count": 400
+        }
+      ],
+      "action": {
+        "actionId": "act_tech_tundra_3_mfg_3_1",
+        "actionType": "FacBuildingUpgrade",
+        "parameters": [
+          {
+            "valueType": 0,
+            "realType": 0,
+            "valueStringList": [
+              "sp_mfg_sta_1"
+            ],
+            "valueIntList": null,
+            "valueFloatList": null,
+            "valueBoolList": null,
+            "valueVector3": null
+          },
+          {
+            "valueType": 0,
+            "realType": 0,
+            "valueStringList": [
+              "3"
+            ],
+            "valueIntList": [
+              3
+            ],
+            "valueFloatList": [
+              3.0
+            ],
+            "valueBoolList": null,
+            "valueVector3": null
+          }
+        ]
+      }
+    },
+    "tech_tundra_3_miner_3": {
+      "techId": "tech_tundra_3_miner_3",
+      "name": {
+        "text": "进阶勘采II",
+        "id": "D7C6B03D90C36304"
+      },
+      "icon": "tech_tundra_3_miner_3",
+      "desc": {
+        "text": "研究后可制造<@tech.key>二型电驱矿机</>；\n二型电驱矿机可<@tech.key>在野外无线传输矿物至仓库</>；\n可采集更稀有的矿藏，典型矿物为<@tech.key>铁矿石</>。",
+        "id": "043CEC4C3F579AE6"
+      },
+      "isBig": 0,
+      "sortId": 17,
+      "unlockReward": [
+        {
+          "itemId": "item_bp_miner_3",
+          "count": 0
+        },
+        {
+          "itemId": "item_port_miner_3",
+          "count": 3
+        }
+      ],
+      "conditions": [],
+      "unlockDesc": {
+        "text": "现在可以在<@tech.get>总装终端</>制造<@tech.get>二型电驱矿机</>并使用了",
+        "id": "5DC7C46690ADCB9A"
+      },
+      "layer": "tech_group_tundra_iron",
+      "preNode": [
+        "tech_tundra_2_miner_2"
+      ],
+      "uiPos": [
+        0,
+        6
+      ],
+      "costItems": [
+        {
+          "id": "item_iron_nugget",
+          "count": 50
+        }
+      ],
+      "action": {
+        "actionId": "act_tech_tundra_3_miner_3_1",
+        "actionType": "FacUnlockFormula",
+        "parameters": [
+          {
+            "valueType": 0,
+            "realType": 0,
+            "valueStringList": [
+              "item_bp_miner_3"
+            ],
+            "valueIntList": null,
+            "valueFloatList": null,
+            "valueBoolList": null,
+            "valueVector3": null
+          }
+        ]
+      }
+    },
+    "tech_tundra_3_proc_3": {
+      "techId": "tech_tundra_3_proc_3",
+      "name": {
+        "text": "立体装配III",
+        "id": "4AB38EC139A9FAB1"
+      },
+      "icon": "tech_tundra_3_proc_3",
+      "desc": {
+        "text": "研究后可升级<@tech.key>装配站</>到<@tech.key>III</>级；\n可制造更高品质的<@tech.key>装备</>；\n可解锁基质的<@tech.key>合成</>与<@tech.key>重铸</>。",
+        "id": "D21F7A282FFAE81C"
+      },
+      "isBig": 0,
+      "sortId": 22,
+      "unlockReward": [
+        {
+          "itemId": "item_factech_proc_lv3",
+          "count": 0
+        }
+      ],
+      "conditions": [],
+      "unlockDesc": {
+        "text": "现在可制造更高品质的<@tech.get>装备</>了，解锁<@tech.get>基质合成</>与<@tech.get>基质重铸</>",
+        "id": "F87C7F0ACED9E5EF"
+      },
+      "layer": "tech_group_tundra_iron",
+      "preNode": [
+        "tech_tundra_2_proc_1"
+      ],
+      "uiPos": [
+        -8,
+        7
+      ],
+      "costItems": [
+        {
+          "id": "item_iron_cmpt",
+          "count": 50
+        }
+      ],
+      "action": {
+        "actionId": "act_tech_tundra_3_proc_3_1",
+        "actionType": "FacBuildingUpgrade",
+        "parameters": [
+          {
+            "valueType": 0,
+            "realType": 0,
+            "valueStringList": [
+              "sp_proc_sta_1"
+            ],
+            "valueIntList": null,
+            "valueFloatList": null,
+            "valueBoolList": null,
+            "valueVector3": null
+          },
+          {
+            "valueType": 0,
+            "realType": 0,
+            "valueStringList": [
+              "3"
+            ],
+            "valueIntList": [
+              3
+            ],
+            "valueFloatList": [
+              3.0
+            ],
+            "valueBoolList": null,
+            "valueVector3": null
+          }
+        ]
+      }
+    },
+    "tech_tundra_3_proc_4": {
+      "techId": "tech_tundra_3_proc_4",
+      "name": {
+        "text": "立体装配IV",
+        "id": "CDA4595C26396FBB"
+      },
+      "icon": "tech_tundra_3_proc_4",
+      "desc": {
+        "text": "研究后可升级<@tech.key>装配站</>到<@tech.key>IV</>级；\n可制造更高品质的<@tech.key>装备</>；\n可解锁高品质装备的<@tech.key>精工模式</>。",
+        "id": "1DC9B29109E1CE86"
+      },
+      "isBig": 0,
+      "sortId": 27,
+      "unlockReward": [
+        {
+          "itemId": "item_factech_proc_lv4",
+          "count": 0
+        }
+      ],
+      "conditions": [],
+      "unlockDesc": {
+        "text": "现在可制造更高品质的<@tech.get>装备</>了，解锁装备的<@tech.get>精工模式</>",
+        "id": "C27DEC77927B43BC"
+      },
+      "layer": "tech_group_tundra_iron",
+      "preNode": [
+        "tech_tundra_3_proc_3"
+      ],
+      "uiPos": [
+        -8,
+        10
+      ],
+      "costItems": [
+        {
+          "id": "item_iron_enr_cmpt",
+          "count": 400
+        }
+      ],
+      "action": {
+        "actionId": "act_tech_tundra_3_proc_4_1",
+        "actionType": "FacBuildingUpgrade",
+        "parameters": [
+          {
+            "valueType": 0,
+            "realType": 0,
+            "valueStringList": [
+              "sp_proc_sta_1"
+            ],
+            "valueIntList": null,
+            "valueFloatList": null,
+            "valueBoolList": null,
+            "valueVector3": null
+          },
+          {
+            "valueType": 0,
+            "realType": 0,
+            "valueStringList": [
+              "4"
+            ],
+            "valueIntList": [
+              4
+            ],
+            "valueFloatList": [
+              4.0
+            ],
+            "valueBoolList": null,
+            "valueVector3": null
+          }
+        ]
+      }
+    },
+    "tech_tundra_3_thickener_1": {
+      "techId": "tech_tundra_3_thickener_1",
+      "name": {
+        "text": "研磨工艺",
+        "id": "A1C29F8FDAB3A66E"
+      },
+      "icon": "tech_tundra_3_thickener_1",
+      "desc": {
+        "text": "研究后可制造<@tech.key>研磨机</>；\n研磨机可将材料进行<@tech.key>研磨</>，典型产物为<@tech.key>至纯源石粉末</>。",
+        "id": "133398780FAB84DF"
+      },
+      "isBig": 1,
+      "sortId": 20,
+      "unlockReward": [
+        {
+          "itemId": "item_bp_thickener_1",
+          "count": 0
+        },
+        {
+          "itemId": "item_port_thickener_1",
+          "count": 2
+        },
+        {
+          "itemId": "item_diamond",
+          "count": 30
+        }
+      ],
+      "conditions": [],
+      "unlockDesc": {
+        "text": "现在可以在<@tech.get>总装终端</>制造<@tech.get>研磨机</>并使用了",
+        "id": "EB36443B89BE41AA"
+      },
+      "layer": "tech_group_tundra_iron",
+      "preNode": [
+        "tech_tundra_3_bus_1"
+      ],
+      "uiPos": [
+        2,
+        9
+      ],
+      "costItems": [
+        {
+          "id": "item_iron_cmpt",
+          "count": 200
+        },
+        {
+          "id": "item_plant_moss_3",
+          "count": 5
+        }
+      ],
+      "action": {
+        "actionId": "act_tech_tundra_3_thickener_1_1",
+        "actionType": "FacUnlockFormula",
+        "parameters": [
+          {
+            "valueType": 0,
+            "realType": 0,
+            "valueStringList": [
+              "item_bp_thickener_1"
+            ],
+            "valueIntList": null,
+            "valueFloatList": null,
+            "valueBoolList": null,
+            "valueVector3": null
+          }
+        ]
+      }
+    },
+    "tech_tundra_3_tra_1": {
+      "techId": "tech_tundra_3_tra_1",
+      "name": {
+        "text": "订单贸易I",
+        "id": "459C54816A254104"
+      },
+      "icon": "tech_tundra_3_tra_1",
+      "desc": {
+        "text": "研究后获得<@tech.key>贸易站</>并解锁其使用权限；\n贸易站可持续接收<@tech.key>订单</>，提交物品完成订单可获得丰厚奖励。",
+        "id": "881618844F74F572"
+      },
+      "isBig": 0,
+      "sortId": 18,
+      "unlockReward": [
+        {
+          "itemId": "item_factech_tra_unlock",
+          "count": 0
+        },
+        {
+          "itemId": "item_port_sp_trd_sta_1",
+          "count": 1
+        }
+      ],
+      "conditions": [],
+      "unlockDesc": {
+        "text": "现在可以在<@tech.get>核心工厂区域</>放置<@tech.get>贸易站</>并使用了",
+        "id": "FF9CE937C6CE308B"
+      },
+      "layer": "tech_group_tundra_iron",
+      "preNode": [],
+      "uiPos": [
+        -4,
+        6
+      ],
+      "costItems": [
+        {
+          "id": "item_iron_nugget",
+          "count": 50
+        }
+      ],
+      "action": {
+        "actionId": "act_tech_tundra_3_tra_1_1",
+        "actionType": "GainItem",
+        "parameters": [
+          {
+            "valueType": 0,
+            "realType": 0,
+            "valueStringList": [
+              "item_port_sp_trd_sta_1"
+            ],
+            "valueIntList": null,
+            "valueFloatList": null,
+            "valueBoolList": null,
+            "valueVector3": null
+          },
+          {
+            "valueType": 0,
+            "realType": 0,
+            "valueStringList": [
+              "1"
+            ],
+            "valueIntList": [
+              1
+            ],
+            "valueFloatList": [
+              1.0
+            ],
+            "valueBoolList": null,
+            "valueVector3": null
+          }
+        ]
+      }
+    },
+    "tech_tundra_3_tra_2": {
+      "techId": "tech_tundra_3_tra_2",
+      "name": {
+        "text": "订单贸易II",
+        "id": "2ADCB9CA180718E4"
+      },
+      "icon": "tech_tundra_3_tra_2",
+      "desc": {
+        "text": "研究后可升级<@tech.key>贸易站</>到<@tech.key>II</>级；\n可获取更高品质的<@tech.key>订单</>。",
+        "id": "B38CEC0CE88C48A6"
+      },
+      "isBig": 0,
+      "sortId": 23,
+      "unlockReward": [
+        {
+          "itemId": "item_factech_tra_lv2",
+          "count": 0
+        }
+      ],
+      "conditions": [],
+      "unlockDesc": {
+        "text": "现在可获取更高品质的<@tech.get>订单</>了",
+        "id": "FDB925CB3BEC2927"
+      },
+      "layer": "tech_group_tundra_iron",
+      "preNode": [
+        "tech_tundra_3_tra_1"
+      ],
+      "uiPos": [
+        -4,
+        8
+      ],
+      "costItems": [
+        {
+          "id": "item_iron_cmpt",
+          "count": 100
+        }
+      ],
+      "action": {
+        "actionId": "act_tech_tundra_3_tra_2_1",
+        "actionType": "FacBuildingUpgrade",
+        "parameters": [
+          {
+            "valueType": 0,
+            "realType": 0,
+            "valueStringList": [
+              "sp_trd_sta_1"
+            ],
+            "valueIntList": null,
+            "valueFloatList": null,
+            "valueBoolList": null,
+            "valueVector3": null
+          },
+          {
+            "valueType": 0,
+            "realType": 0,
+            "valueStringList": [
+              "2"
+            ],
+            "valueIntList": [
+              2
+            ],
+            "valueFloatList": [
+              2.0
+            ],
+            "valueBoolList": null,
+            "valueVector3": null
+          }
+        ]
+      }
+    },
+    "tech_tundra_3_tra_3": {
+      "techId": "tech_tundra_3_tra_3",
+      "name": {
+        "text": "订单贸易III",
+        "id": "13E33392EBB07F71"
+      },
+      "icon": "tech_tundra_3_tra_3",
+      "desc": {
+        "text": "研究后可升级<@tech.key>贸易站</>到<@tech.key>III</>级；\n可获取更高品质的<@tech.key>订单</>。",
+        "id": "E5F6257A6AA66868"
+      },
+      "isBig": 0,
+      "sortId": 28,
+      "unlockReward": [
+        {
+          "itemId": "item_factech_tra_lv3",
+          "count": 0
+        }
+      ],
+      "conditions": [],
+      "unlockDesc": {
+        "text": "现在可获取更高品质的<@tech.get>订单</>了",
+        "id": "1299C22C17484B40"
+      },
+      "layer": "tech_group_tundra_iron",
+      "preNode": [
+        "tech_tundra_3_tra_2"
+      ],
+      "uiPos": [
+        -4,
+        10
+      ],
+      "costItems": [
+        {
+          "id": "item_iron_enr_cmpt",
+          "count": 400
+        }
+      ],
+      "action": {
+        "actionId": "act_tech_tundra_3_tra_3_1",
+        "actionType": "FacBuildingUpgrade",
+        "parameters": [
+          {
+            "valueType": 0,
+            "realType": 0,
+            "valueStringList": [
+              "sp_trd_sta_1"
+            ],
+            "valueIntList": null,
+            "valueFloatList": null,
+            "valueBoolList": null,
+            "valueVector3": null
+          },
+          {
+            "valueType": 0,
+            "realType": 0,
+            "valueStringList": [
+              "3"
+            ],
+            "valueIntList": [
+              3
+            ],
+            "valueFloatList": [
+              3.0
+            ],
+            "valueBoolList": null,
+            "valueVector3": null
+          }
+        ]
+      }
+    },
+    "tech_tundra_3_travel_2": {
+      "techId": "tech_tundra_3_travel_2",
+      "name": {
+        "text": "户外机动技术II",
+        "id": "278805C9F41C5133"
+      },
+      "icon": "tech_tundra_3_travel_2",
+      "desc": {
+        "text": "研究后可制造<@tech.key>长距滑索架</>；\n两个长距滑索架之间可进行<@tech.key>更远距离的快速移动</>，且可在多个长距滑索间进行<@tech.key>连续移动</>。",
+        "id": "94816F20D1A6FA57"
+      },
+      "isBig": 0,
+      "sortId": 31,
+      "unlockReward": [
+        {
+          "itemId": "item_bp_travel_pole_2",
+          "count": 0
+        },
+        {
+          "itemId": "item_port_travel_pole_2",
+          "count": 3
+        }
+      ],
+      "conditions": [],
+      "unlockDesc": {
+        "text": "现在可以在<@tech.get>总装终端</>制造<@tech.get>长距滑索架</>并使用了",
+        "id": "758BCA9C146A7AB4"
+      },
+      "layer": "tech_group_tundra_iron",
+      "preNode": [
+        "tech_tundra_2_travel_1"
+      ],
+      "uiPos": [
+        8,
+        10
+      ],
+      "costItems": [
+        {
+          "id": "item_iron_enr_cmpt",
+          "count": 400
+        }
+      ],
+      "action": {
+        "actionId": "act_tech_tundra_3_travel_2_1",
+        "actionType": "FacUnlockFormula",
+        "parameters": [
+          {
+            "valueType": 0,
+            "realType": 0,
+            "valueStringList": [
+              "item_bp_travel_pole_2"
+            ],
+            "valueIntList": null,
+            "valueFloatList": null,
+            "valueBoolList": null,
+            "valueVector3": null
+          }
+        ]
+      }
+    }
+  },
+  "facSTTConditionTable": {
+    "cond_tech_tundra_1_basic_1_1": {
+      "conditionId": "cond_tech_tundra_1_basic_1_1",
+      "desc": {
+        "text": "野外拥有2个源石矿机",
+        "id": "899947541A9B6304"
+      },
+      "conditionType": "FacBuildingWorking",
+      "parameters": [
+        {
+          "valueType": 0,
+          "realType": 0,
+          "valueStringList": [
+            "miner_1"
+          ],
+          "valueIntList": null,
+          "valueFloatList": null,
+          "valueBoolList": null,
+          "valueVector3": null
+        },
+        {
+          "valueType": 0,
+          "realType": 0,
+          "valueStringList": [
+            "2"
+          ],
+          "valueIntList": [
+            2
+          ],
+          "valueFloatList": [
+            2.0
+          ],
+          "valueBoolList": null,
+          "valueVector3": null
+        }
+      ]
+    },
+    "cond_tech_tundra_2_field_1_1": {
+      "conditionId": "cond_tech_tundra_2_field_1_1",
+      "desc": {
+        "text": "发电功率到达200W",
+        "id": "17873C378CD31859"
+      },
+      "conditionType": "FacProducePowerReach",
+      "parameters": [
+        {
+          "valueType": 0,
+          "realType": 0,
+          "valueStringList": [
+            "200"
+          ],
+          "valueIntList": [
+            200
+          ],
+          "valueFloatList": [
+            200.0
+          ],
+          "valueBoolList": null,
+          "valueVector3": null
+        }
+      ]
+    },
+    "cond_tech_tundra_3_bus_1_1": {
+      "conditionId": "cond_tech_tundra_3_bus_1_1",
+      "desc": {
+        "text": "发电功率到达400W",
+        "id": "F005FF1D100E5ED5"
+      },
+      "conditionType": "FacProducePowerReach",
+      "parameters": [
+        {
+          "valueType": 0,
+          "realType": 0,
+          "valueStringList": [
+            "400"
+          ],
+          "valueIntList": [
+            400
+          ],
+          "valueFloatList": [
+            400.0
+          ],
+          "valueBoolList": null,
+          "valueVector3": null
+        }
+      ]
+    }
+  }
+}

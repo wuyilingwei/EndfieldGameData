@@ -1,0 +1,218 @@
+{
+  "component_mc_1": {
+    "audioBuild": "au_int_cmpt_build",
+    "audioRemove": "au_int_cmpt_remove",
+    "audioIdle": "au_int_cmpt_loop",
+    "audioWorking": "au_int_cmpt_animations"
+  },
+  "filling_powder_mc_1": {
+    "audioBuild": "au_int_filling_build",
+    "audioRemove": "au_int_filling_remove",
+    "audioIdle": "au_int_filling_loop",
+    "audioWorking": "au_int_filling_animations"
+  },
+  "filter_1": {
+    "audioBuild": "",
+    "audioRemove": "",
+    "audioIdle": "",
+    "audioWorking": ""
+  },
+  "furnance_1": {
+    "audioBuild": "au_int_furnance_build",
+    "audioRemove": "au_int_furnance_remove",
+    "audioIdle": "au_int_furnance_loop",
+    "audioWorking": "au_int_furnance_animations"
+  },
+  "grinder_1": {
+    "audioBuild": "au_int_grinder_build",
+    "audioRemove": "au_int_grinder_remove",
+    "audioIdle": "au_int_grinder_loop",
+    "audioWorking": "au_int_grinder_animations"
+  },
+  "loader_1": {
+    "audioBuild": "au_int_loader_build",
+    "audioRemove": "au_int_loader_remove",
+    "audioIdle": "au_int_loader_loop",
+    "audioWorking": ""
+  },
+  "log_connector": {
+    "audioBuild": "au_int_connector_build",
+    "audioRemove": "au_int_connector_remove",
+    "audioIdle": "",
+    "audioWorking": ""
+  },
+  "log_converger": {
+    "audioBuild": "au_int_converger_build",
+    "audioRemove": "au_int_converger_remove",
+    "audioIdle": "",
+    "audioWorking": ""
+  },
+  "log_splitter": {
+    "audioBuild": "au_int_splitter_build",
+    "audioRemove": "au_int_splitter_remove",
+    "audioIdle": "",
+    "audioWorking": ""
+  },
+  "medic_1": {
+    "audioBuild": "au_int_medic_bootup_build",
+    "audioRemove": "au_int_medic_bootup_remove",
+    "audioIdle": "au_int_medic_loop",
+    "audioWorking": ""
+  },
+  "miner_1": {
+    "audioBuild": "au_int_miner1_build",
+    "audioRemove": "au_int_miner1_remove",
+    "audioIdle": "au_int_miner1_animations",
+    "audioWorking": "au_int_miner1_animations"
+  },
+  "miner_2": {
+    "audioBuild": "au_int_miner2_build",
+    "audioRemove": "au_int_miner2_remove",
+    "audioIdle": "au_int_miner2_animations",
+    "audioWorking": "au_int_miner2_animations"
+  },
+  "miner_3": {
+    "audioBuild": "au_int_miner2_build",
+    "audioRemove": "au_int_miner2_remove",
+    "audioIdle": "au_int_miner2_animations",
+    "audioWorking": "au_int_miner3_animations"
+  },
+  "planter_1": {
+    "audioBuild": "au_int_planter_build",
+    "audioRemove": "au_int_planter_remove",
+    "audioIdle": "au_int_planter_loop",
+    "audioWorking": "au_int_powerstation_animations"
+  },
+  "power_gate_1": {
+    "audioBuild": "au_int_electricpole_build",
+    "audioRemove": "au_int_electricpole_remove",
+    "audioIdle": "",
+    "audioWorking": ""
+  },
+  "power_pole_1": {
+    "audioBuild": "au_int_electricpole_build",
+    "audioRemove": "au_int_electricpole_remove",
+    "audioIdle": "",
+    "audioWorking": ""
+  },
+  "power_pole_2": {
+    "audioBuild": "au_int_electricpole_build",
+    "audioRemove": "au_int_electricpole_remove",
+    "audioIdle": "",
+    "audioWorking": ""
+  },
+  "power_port_1": {
+    "audioBuild": "au_int_electricpole_build",
+    "audioRemove": "au_int_electricpole_remove",
+    "audioIdle": "",
+    "audioWorking": ""
+  },
+  "power_station_1": {
+    "audioBuild": "au_int_powerstation_build",
+    "audioRemove": "au_int_powerstation_remove",
+    "audioIdle": "au_int_powerstation_loop",
+    "audioWorking": "au_int_powerstation_animations"
+  },
+  "power_terminal_1": {
+    "audioBuild": "au_int_electricpole_build",
+    "audioRemove": "au_int_electricpole_remove",
+    "audioIdle": "",
+    "audioWorking": ""
+  },
+  "seedcollector_1": {
+    "audioBuild": "au_int_seedcol_build",
+    "audioRemove": "au_int_seedcol_remove",
+    "audioIdle": "au_int_seedcol_loop",
+    "audioWorking": "au_int_seedcol_animations"
+  },
+  "shaper_1": {
+    "audioBuild": "au_int_shaper_build",
+    "audioRemove": "au_int_shaper_remove",
+    "audioIdle": "au_int_shaper_loop",
+    "audioWorking": "au_int_shaper_animations"
+  },
+  "soil_1": {
+    "audioBuild": "au_int_soil_build",
+    "audioRemove": "au_int_soil_remove",
+    "audioIdle": "",
+    "audioWorking": ""
+  },
+  "sp_hub_1": {
+    "audioBuild": "au_int_hub_build",
+    "audioRemove": "au_int_hub_remove",
+    "audioIdle": "au_int_hub_loop",
+    "audioWorking": ""
+  },
+  "sp_mfg_sta_1": {
+    "audioBuild": "au_int_mfg_sta_build",
+    "audioRemove": "au_int_mfg_sta_remove",
+    "audioIdle": "au_int_mfg_sta_loop",
+    "audioWorking": ""
+  },
+  "sp_proc_sta_1": {
+    "audioBuild": "au_int_proc_build",
+    "audioRemove": "au_int_proc_remove",
+    "audioIdle": "au_int_proc_loop",
+    "audioWorking": ""
+  },
+  "sp_rec_sta_1": {
+    "audioBuild": "au_int_rec_sta_build",
+    "audioRemove": "au_int_rec_sta_remove",
+    "audioIdle": "au_int_rec_sta_loop",
+    "audioWorking": ""
+  },
+  "sp_trd_sta_1": {
+    "audioBuild": "au_int_trd_sta_build",
+    "audioRemove": "au_int_trd_sta_remove",
+    "audioIdle": "au_int_trd_sta_loop",
+    "audioWorking": ""
+  },
+  "sp_workshop_1": {
+    "audioBuild": "au_int_workshop_build",
+    "audioRemove": "au_int_workshop_remove",
+    "audioIdle": "au_int_workshop_loop",
+    "audioWorking": ""
+  },
+  "storager_1": {
+    "audioBuild": "au_int_storagebox_build",
+    "audioRemove": "au_int_storagebox_remove",
+    "audioIdle": "au_int_storagebox_loop",
+    "audioWorking": ""
+  },
+  "thickener_1": {
+    "audioBuild": "au_int_thickener_build",
+    "audioRemove": "au_int_thickener_remove",
+    "audioIdle": "au_int_thickener_loop",
+    "audioWorking": "au_int_thickener_animations"
+  },
+  "tools_assebling_mc_1": {
+    "audioBuild": "au_int_assebling_build",
+    "audioRemove": "au_int_assebling_remove",
+    "audioIdle": "au_int_assebling_loop",
+    "audioWorking": "au_int_assebling_animations"
+  },
+  "travel_pole_1": {
+    "audioBuild": "au_int_travelpole_build",
+    "audioRemove": "au_int_travelpole_remove",
+    "audioIdle": "",
+    "audioWorking": ""
+  },
+  "travel_pole_2": {
+    "audioBuild": "au_int_travelpole_build",
+    "audioRemove": "au_int_travelpole_remove",
+    "audioIdle": "",
+    "audioWorking": ""
+  },
+  "unloader_1": {
+    "audioBuild": "au_int_unloader_build",
+    "audioRemove": "au_int_unloader_remove",
+    "audioIdle": "au_int_unloader_loop",
+    "audioWorking": ""
+  },
+  "winder_1": {
+    "audioBuild": "au_int_winder_build",
+    "audioRemove": "au_int_winder_remove",
+    "audioIdle": "au_int_winder_loop",
+    "audioWorking": "au_int_winder_animations"
+  }
+}

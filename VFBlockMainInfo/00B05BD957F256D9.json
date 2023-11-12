@@ -1,0 +1,1149 @@
+{
+  "version": 1699446851,
+  "groupCfgName": "Assets/StreamingAssets/Video/",
+  "groupCfgHashName": "00B05BD957F256D9",
+  "groupFileInfoNum": 67,
+  "groupChunksLength": 1502318837,
+  "blockType": 27,
+  "allChunks": [
+    {
+      "md5Name": "26819CB71BA949D9CB9638255BBF743E",
+      "contentMD5": "A915102342DCDF816D3D923DEEDD4518",
+      "length": 231037440,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Video/fmv_e0m1_1.usm",
+          "fileNameHash": "9290F84AB9EB98E1",
+          "fileChunkMD5Name": "26819CB71BA949D9CB9638255BBF743E",
+          "fileDataMD5": "A915102342DCDF816D3D923DEEDD4518",
+          "offset": 0,
+          "len": 231037440,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "ACF4B3D2688C512BC8C24BF3134A5450",
+      "contentMD5": "B9A3394C1F6336FB41EEBFFBE183701A",
+      "length": 10247733,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Video/fmv_e0m1_2.usm",
+          "fileNameHash": "42EA580D0DA4EAE0",
+          "fileChunkMD5Name": "ACF4B3D2688C512BC8C24BF3134A5450",
+          "fileDataMD5": "B9A3394C1F6336FB41EEBFFBE183701A",
+          "offset": 0,
+          "len": 10247733,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "28EE3FC9D65626EF978D05D5EE416D0A",
+      "contentMD5": "3642EEF696402D05BF75F09A05F52652",
+      "length": 407990784,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Video/fmv_e0m1_3.usm",
+          "fileNameHash": "F2C3383061613BE0",
+          "fileChunkMD5Name": "28EE3FC9D65626EF978D05D5EE416D0A",
+          "fileDataMD5": "3642EEF696402D05BF75F09A05F52652",
+          "offset": 0,
+          "len": 407990784,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "55160CB32AB53EB591ECB40E2D21B80C",
+      "contentMD5": "1B7EA08952A610C7D79582E5B61EE9ED",
+      "length": 353927872,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Video/fmv_e0m1_4.usm",
+          "fileNameHash": "E21F1882653B0EE2",
+          "fileChunkMD5Name": "55160CB32AB53EB591ECB40E2D21B80C",
+          "fileDataMD5": "1B7EA08952A610C7D79582E5B61EE9ED",
+          "offset": 0,
+          "len": 353927872,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "80BBBE68337AD6B7215613ADF889E3A7",
+      "contentMD5": "EFA8B360D5AB06713FC4BB582FF96B37",
+      "length": 48874464,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Video/fmv_e1m1_1.usm",
+          "fileNameHash": "D184835DF7032F9F",
+          "fileChunkMD5Name": "80BBBE68337AD6B7215613ADF889E3A7",
+          "fileDataMD5": "EFA8B360D5AB06713FC4BB582FF96B37",
+          "offset": 0,
+          "len": 48874464,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "A7B6C4C08B4603885F594D72181BA735",
+      "contentMD5": "773A4D2FE8D7B2B0A9D7E59AF0380480",
+      "length": 61288928,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Video/fmv_e1m1_2.usm",
+          "fileNameHash": "01FE231A434C5D9E",
+          "fileChunkMD5Name": "A7B6C4C08B4603885F594D72181BA735",
+          "fileDataMD5": "773A4D2FE8D7B2B0A9D7E59AF0380480",
+          "offset": 0,
+          "len": 61288928,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "A34C685C1B61D4A3B60295E009F9F024",
+      "contentMD5": "3C33F190E5D4ABF59387645E629B58BE",
+      "length": 62024608,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Video/fmv_e2m8_1.usm",
+          "fileNameHash": "C7FD96F109BDF0F7",
+          "fileChunkMD5Name": "A34C685C1B61D4A3B60295E009F9F024",
+          "fileDataMD5": "3C33F190E5D4ABF59387645E629B58BE",
+          "offset": 0,
+          "len": 62024608,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "BC83BC8F2B1E5AA7F6AFBBB3A5C92076",
+      "contentMD5": "87F3323BE82C4FEE5C4ABBBC18C54AA3",
+      "length": 138202432,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Video/fmv_e2m8_2.usm",
+          "fileNameHash": "178736B6BDF282F6",
+          "fileChunkMD5Name": "BC83BC8F2B1E5AA7F6AFBBB3A5C92076",
+          "fileDataMD5": "87F3323BE82C4FEE5C4ABBBC18C54AA3",
+          "offset": 0,
+          "len": 138202432,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "65C37BEC43A3050D0EBD26AB2798D835",
+      "contentMD5": "D1F605689275CFD2ADE5CC850B50DF0E",
+      "length": 2882336,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Video/guide_bomb.usm",
+          "fileNameHash": "086725532A75C84A",
+          "fileChunkMD5Name": "65C37BEC43A3050D0EBD26AB2798D835",
+          "fileDataMD5": "D1F605689275CFD2ADE5CC850B50DF0E",
+          "offset": 0,
+          "len": 2882336,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "6BF5C3A7E0E402F5AA9CB7644530BE7D",
+      "contentMD5": "306DE33C274AF1D560203A9730028CE3",
+      "length": 3288320,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Video/guide_bomb_spawner.usm",
+          "fileNameHash": "F71FAC09A6597CF3",
+          "fileChunkMD5Name": "6BF5C3A7E0E402F5AA9CB7644530BE7D",
+          "fileDataMD5": "306DE33C274AF1D560203A9730028CE3",
+          "offset": 0,
+          "len": 3288320,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "06801CC4BF0A8F6B560F9A0156DBDC85",
+      "contentMD5": "00123756C051AE3253DEB519736D2692",
+      "length": 2145952,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Video/guide_coin_puzzle_1.usm",
+          "fileNameHash": "373F511A93875EBD",
+          "fileChunkMD5Name": "06801CC4BF0A8F6B560F9A0156DBDC85",
+          "fileDataMD5": "00123756C051AE3253DEB519736D2692",
+          "offset": 0,
+          "len": 2145952,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "3C2979F5FBD0B208CAEC74C8A22BF252",
+      "contentMD5": "D5654B3B1C7726B86BD244F60313D65C",
+      "length": 997728,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Video/guide_video_addattack.usm",
+          "fileNameHash": "A21FF08F290F9ECF",
+          "fileChunkMD5Name": "3C2979F5FBD0B208CAEC74C8A22BF252",
+          "fileDataMD5": "D5654B3B1C7726B86BD244F60313D65C",
+          "offset": 0,
+          "len": 997728,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "457325E352AC63FCA7FAF84B67CD6451",
+      "contentMD5": "200C401A79C069742CDD16839CFCA72D",
+      "length": 1693472,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Video/guide_video_battle_attack.usm",
+          "fileNameHash": "22D259BD59A277AC",
+          "fileChunkMD5Name": "457325E352AC63FCA7FAF84B67CD6451",
+          "fileDataMD5": "200C401A79C069742CDD16839CFCA72D",
+          "offset": 0,
+          "len": 1693472,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "7840BC24F7A6F7A5629234109ABC7797",
+      "contentMD5": "1AAD02EA124A2ECB8F0F41993C8FC17A",
+      "length": 1340352,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Video/guide_video_battle_enemyarmor.usm",
+          "fileNameHash": "2224F031A124ACC9",
+          "fileChunkMD5Name": "7840BC24F7A6F7A5629234109ABC7797",
+          "fileDataMD5": "1AAD02EA124A2ECB8F0F41993C8FC17A",
+          "offset": 0,
+          "len": 1340352,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "0864DDF13E5202B9E7A05F23C1D1C70C",
+      "contentMD5": "FC08D0E68FEA0E03E490D8E1576ED796",
+      "length": 2416800,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Video/guide_video_battle_energy.usm",
+          "fileNameHash": "A58BCAEA6A4059B3",
+          "fileChunkMD5Name": "0864DDF13E5202B9E7A05F23C1D1C70C",
+          "fileDataMD5": "FC08D0E68FEA0E03E490D8E1576ED796",
+          "offset": 0,
+          "len": 2416800,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "72434ECC2CB76837098611F236279EAE",
+      "contentMD5": "A1567EC42DFFC83AD5135522B1800E9F",
+      "length": 1839200,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Video/guide_video_battle_normalskill.usm",
+          "fileNameHash": "6E81FF3A827D39FB",
+          "fileChunkMD5Name": "72434ECC2CB76837098611F236279EAE",
+          "fileDataMD5": "A1567EC42DFFC83AD5135522B1800E9F",
+          "offset": 0,
+          "len": 1839200,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "88797D25953DA95C16CDBE0E651965A4",
+      "contentMD5": "570D3D1032326A4F376299E5E9C45E96",
+      "length": 1591136,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Video/guide_video_battle_poisebreak.usm",
+          "fileNameHash": "AD8AF79739354A3F",
+          "fileChunkMD5Name": "88797D25953DA95C16CDBE0E651965A4",
+          "fileDataMD5": "570D3D1032326A4F376299E5E9C45E96",
+          "offset": 0,
+          "len": 1591136,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "66A1B7461116B69BFA0F6FC4D3C7F86F",
+      "contentMD5": "299E19D1F5FA62730DF75BB3524A3C49",
+      "length": 1219232,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Video/guide_video_battle_sneakattack.usm",
+          "fileNameHash": "80DDD07508C64AE1",
+          "fileChunkMD5Name": "66A1B7461116B69BFA0F6FC4D3C7F86F",
+          "fileDataMD5": "299E19D1F5FA62730DF75BB3524A3C49",
+          "offset": 0,
+          "len": 1219232,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "219627F7DFF029CF86DF7A7239DFA22F",
+      "contentMD5": "60738FDA49514F30FB924FCB021B9199",
+      "length": 2548928,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Video/guide_video_battle_teamfight.usm",
+          "fileNameHash": "C4ECFAA6DA775EF8",
+          "fileChunkMD5Name": "219627F7DFF029CF86DF7A7239DFA22F",
+          "fileDataMD5": "60738FDA49514F30FB924FCB021B9199",
+          "offset": 0,
+          "len": 2548928,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "53C91F1091B8F5A6D06F702DF91B527B",
+      "contentMD5": "9E7EED2108E4F0D0BA605845D9FBDDD2",
+      "length": 3252992,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Video/guide_video_belt_connect_1.usm",
+          "fileNameHash": "387C93F84678BB67",
+          "fileChunkMD5Name": "53C91F1091B8F5A6D06F702DF91B527B",
+          "fileDataMD5": "9E7EED2108E4F0D0BA605845D9FBDDD2",
+          "offset": 0,
+          "len": 3252992,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "48800C73D41475F8574D08083049765F",
+      "contentMD5": "FE544C5C98D710AB96767350FC1B1E98",
+      "length": 3480064,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Video/guide_video_belt_connect_2.usm",
+          "fileNameHash": "E80633BF6872356A",
+          "fileChunkMD5Name": "48800C73D41475F8574D08083049765F",
+          "fileDataMD5": "FE544C5C98D710AB96767350FC1B1E98",
+          "offset": 0,
+          "len": 3480064,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "FE5F6F23DEB1B14E7DAB5A45FCF10389",
+      "contentMD5": "E08ED39CCB5A1AFE3FF04C4795D75EEE",
+      "length": 2409536,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Video/guide_video_belt_intro_1.usm",
+          "fileNameHash": "F7597583BD0A9BDD",
+          "fileChunkMD5Name": "FE5F6F23DEB1B14E7DAB5A45FCF10389",
+          "fileDataMD5": "E08ED39CCB5A1AFE3FF04C4795D75EEE",
+          "offset": 0,
+          "len": 2409536,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "B388A9EFAB4E0D207E5B9F8C0CA118B2",
+      "contentMD5": "2C4F18A9D528556A1B84E08639F09043",
+      "length": 2973056,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Video/guide_video_belt_intro_2.usm",
+          "fileNameHash": "2723D5C4BC56669B",
+          "fileChunkMD5Name": "B388A9EFAB4E0D207E5B9F8C0CA118B2",
+          "fileDataMD5": "2C4F18A9D528556A1B84E08639F09043",
+          "offset": 0,
+          "len": 2973056,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "D73954B5D6D1CE2A21168AE8100F7B25",
+      "contentMD5": "21619798C91F495604431A53F53C695B",
+      "length": 4243808,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Video/guide_video_belt_intro_3.usm",
+          "fileNameHash": "970AB5F97C9F1D10",
+          "fileChunkMD5Name": "D73954B5D6D1CE2A21168AE8100F7B25",
+          "fileDataMD5": "21619798C91F495604431A53F53C695B",
+          "offset": 0,
+          "len": 4243808,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "5BBF4B60AA563ADBD8CE13A671F3791E",
+      "contentMD5": "7CD218CF92DFAE1DD0D2DBEBBB26F04C",
+      "length": 3544288,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Video/guide_video_building_cache_1.usm",
+          "fileNameHash": "BFF5EB5D665A8671",
+          "fileChunkMD5Name": "5BBF4B60AA563ADBD8CE13A671F3791E",
+          "fileDataMD5": "7CD218CF92DFAE1DD0D2DBEBBB26F04C",
+          "offset": 0,
+          "len": 3544288,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "FF3EC24BF97B221F6EEBD099C3EB1A65",
+      "contentMD5": "6254797B1B43373542E700C18410270C",
+      "length": 4094880,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Video/guide_video_building_cache_2.usm",
+          "fileNameHash": "6F8F4B1A97D71CEC",
+          "fileChunkMD5Name": "FF3EC24BF97B221F6EEBD099C3EB1A65",
+          "fileDataMD5": "6254797B1B43373542E700C18410270C",
+          "offset": 0,
+          "len": 4094880,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "E1AAF6089E320009215453DC7714F056",
+      "contentMD5": "79BCC2F4F410369CA2D47A471BEF54E2",
+      "length": 3569888,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Video/guide_video_building_cache_3.usm",
+          "fileNameHash": "DFA62B2738539598",
+          "fileChunkMD5Name": "E1AAF6089E320009215453DC7714F056",
+          "fileDataMD5": "79BCC2F4F410369CA2D47A471BEF54E2",
+          "offset": 0,
+          "len": 3569888,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "4BD1B05220AE8133109D8EF0D14B1FA6",
+      "contentMD5": "2AE2FB51796BDA2EDA5C4498E6B30214",
+      "length": 4287648,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Video/guide_video_bus_loader_unloader_intro_2.usm",
+          "fileNameHash": "EF75B639BD23BF8F",
+          "fileChunkMD5Name": "4BD1B05220AE8133109D8EF0D14B1FA6",
+          "fileDataMD5": "2AE2FB51796BDA2EDA5C4498E6B30214",
+          "offset": 0,
+          "len": 4287648,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "A44A274633E4A55E291982DFFF9117B1",
+      "contentMD5": "49FF39220EE058DB204DCD913457000A",
+      "length": 2513632,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Video/guide_video_bus_loader_unloader_intro_3.usm",
+          "fileNameHash": "5F5CD60417553073",
+          "fileChunkMD5Name": "A44A274633E4A55E291982DFFF9117B1",
+          "fileDataMD5": "49FF39220EE058DB204DCD913457000A",
+          "offset": 0,
+          "len": 2513632,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "6B68CFF584EFE1EDDB33716A5FDE71C3",
+      "contentMD5": "DAA004BC8AB6A2EABE3CFDC7106FD39B",
+      "length": 1925728,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Video/guide_video_connector_intro_1.usm",
+          "fileNameHash": "84E16B9C00C447AB",
+          "fileChunkMD5Name": "6B68CFF584EFE1EDDB33716A5FDE71C3",
+          "fileDataMD5": "DAA004BC8AB6A2EABE3CFDC7106FD39B",
+          "offset": 0,
+          "len": 1925728,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "E35EC16A0D693A09E4A25B9EAEFF9773",
+      "contentMD5": "9AF0674FD388744A366F5D43CC4E14A5",
+      "length": 7988096,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Video/guide_video_connector_intro_2.usm",
+          "fileNameHash": "549BCBDB799454A0",
+          "fileChunkMD5Name": "E35EC16A0D693A09E4A25B9EAEFF9773",
+          "fileDataMD5": "9AF0674FD388744A366F5D43CC4E14A5",
+          "offset": 0,
+          "len": 7988096,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "70DE7857B54A63A9864437CA735391F3",
+      "contentMD5": "DD2042D2E9C534E010EBE52F40D6CD48",
+      "length": 2168064,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Video/guide_video_converger_intro_1.usm",
+          "fileNameHash": "3293FE6A7C67E4DD",
+          "fileChunkMD5Name": "70DE7857B54A63A9864437CA735391F3",
+          "fileDataMD5": "DD2042D2E9C534E010EBE52F40D6CD48",
+          "offset": 0,
+          "len": 2168064,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "B75647761C0FFEC1FFF413B409725FE1",
+      "contentMD5": "255A6E8B2FB593E079157DB708F98594",
+      "length": 8517760,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Video/guide_video_converger_intro_2.usm",
+          "fileNameHash": "E2E95E2D0537F7D6",
+          "fileChunkMD5Name": "B75647761C0FFEC1FFF413B409725FE1",
+          "fileDataMD5": "255A6E8B2FB593E079157DB708F98594",
+          "offset": 0,
+          "len": 8517760,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "FF18020638C48DF90743D96F70410E2D",
+      "contentMD5": "AAC673C98D6C44DE0E0F7F5CA85A71DA",
+      "length": 3848032,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Video/guide_video_doodad_intro_1.usm",
+          "fileNameHash": "01AF36E7426387AD",
+          "fileChunkMD5Name": "FF18020638C48DF90743D96F70410E2D",
+          "fileDataMD5": "AAC673C98D6C44DE0E0F7F5CA85A71DA",
+          "offset": 0,
+          "len": 3848032,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "40619BD00D7DDF7A776B4D2F1B419D4D",
+      "contentMD5": "CFADA7CCA725920195D34781E4CCE844",
+      "length": 2912960,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Video/guide_video_doodad_intro_2.usm",
+          "fileNameHash": "D1D596A06C6909A0",
+          "fileChunkMD5Name": "40619BD00D7DDF7A776B4D2F1B419D4D",
+          "fileDataMD5": "CFADA7CCA725920195D34781E4CCE844",
+          "offset": 0,
+          "len": 2912960,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "3038B7147BE5A89E716D8344DC5015F9",
+      "contentMD5": "4DDE95AB1A01FEA2246D7C8CEC6AF358",
+      "length": 2450144,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Video/guide_video_doodad_intro_3.usm",
+          "fileNameHash": "61FCF69D496D5C12",
+          "fileChunkMD5Name": "3038B7147BE5A89E716D8344DC5015F9",
+          "fileDataMD5": "4DDE95AB1A01FEA2246D7C8CEC6AF358",
+          "offset": 0,
+          "len": 2450144,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "C27DD6FAF23CF115749B1B409C5A1F9E",
+      "contentMD5": "27C82026218F62D313C4D0306A45F9AC",
+      "length": 1197216,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Video/guide_video_enhance.usm",
+          "fileNameHash": "3DA37951B09F805C",
+          "fileChunkMD5Name": "C27DD6FAF23CF115749B1B409C5A1F9E",
+          "fileDataMD5": "27C82026218F62D313C4D0306A45F9AC",
+          "offset": 0,
+          "len": 1197216,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "12B025D1D924327A174FD5272110B23D",
+      "contentMD5": "46A4EF16BFC534680E914AED4C8660BD",
+      "length": 1352704,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Video/guide_video_ether_intro_2.usm",
+          "fileNameHash": "3B105FAA3997B11D",
+          "fileChunkMD5Name": "12B025D1D924327A174FD5272110B23D",
+          "fileDataMD5": "46A4EF16BFC534680E914AED4C8660BD",
+          "offset": 0,
+          "len": 1352704,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "D68EB82D474D22D5A7BE924AC4A079EF",
+      "contentMD5": "78EC3CA2DF3E51CA4448AA58CF07D087",
+      "length": 4981824,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Video/guide_video_hub_plink_1.usm",
+          "fileNameHash": "FE89E1556299D912",
+          "fileChunkMD5Name": "D68EB82D474D22D5A7BE924AC4A079EF",
+          "fileDataMD5": "78EC3CA2DF3E51CA4448AA58CF07D087",
+          "offset": 0,
+          "len": 4981824,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "3680499DE3725ED1D53CD2EF00373EBA",
+      "contentMD5": "176B42B3458B3A5FC1CEFD8FF70AA945",
+      "length": 2876704,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Video/guide_video_logistic_forward_1.usm",
+          "fileNameHash": "3DD95946F6696204",
+          "fileChunkMD5Name": "3680499DE3725ED1D53CD2EF00373EBA",
+          "fileDataMD5": "176B42B3458B3A5FC1CEFD8FF70AA945",
+          "offset": 0,
+          "len": 2876704,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "23CE14C815CDFD99E66508DA06A6E519",
+      "contentMD5": "B5EBD4C5F3BFAF8D746CFA8AEE5DE9F9",
+      "length": 2667072,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Video/guide_video_miner_intro_1.usm",
+          "fileNameHash": "408D78C6FC0E1466",
+          "fileChunkMD5Name": "23CE14C815CDFD99E66508DA06A6E519",
+          "fileDataMD5": "B5EBD4C5F3BFAF8D746CFA8AEE5DE9F9",
+          "offset": 0,
+          "len": 2667072,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "D87EB6C1B2559A2E1FC17640F101EDBA",
+      "contentMD5": "297534E279B2FD0DF912C44B7D232F0D",
+      "length": 2630272,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Video/guide_video_miner2_intro_1.usm",
+          "fileNameHash": "86BB2E1CFED9969D",
+          "fileChunkMD5Name": "D87EB6C1B2559A2E1FC17640F101EDBA",
+          "fileDataMD5": "297534E279B2FD0DF912C44B7D232F0D",
+          "offset": 0,
+          "len": 2630272,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "68BC47116C396EAB0F94C659158BF99B",
+      "contentMD5": "C0803D838A6C35CC4ACB5BD549B4AB59",
+      "length": 8033568,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Video/guide_video_open_seedcol.usm",
+          "fileNameHash": "536A5B6BBDCD1829",
+          "fileChunkMD5Name": "68BC47116C396EAB0F94C659158BF99B",
+          "fileDataMD5": "C0803D838A6C35CC4ACB5BD549B4AB59",
+          "offset": 0,
+          "len": 8033568,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "F266975A87CE3A36889B2751F0778E5E",
+      "contentMD5": "E68DD8464A8871627000E296EF6F3486",
+      "length": 3870656,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Video/guide_video_power_link_intro_1.usm",
+          "fileNameHash": "EEE48EB41CAB1630",
+          "fileChunkMD5Name": "F266975A87CE3A36889B2751F0778E5E",
+          "fileDataMD5": "E68DD8464A8871627000E296EF6F3486",
+          "offset": 0,
+          "len": 3870656,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "5129C99ACDBBD212BDB75B61891984F4",
+      "contentMD5": "166C93649DAB88D990E16EC4EF11E96B",
+      "length": 4348512,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Video/guide_video_qkbar_elcarea_intro_1.usm",
+          "fileNameHash": "2CB656E50659EA5E",
+          "fileChunkMD5Name": "5129C99ACDBBD212BDB75B61891984F4",
+          "fileDataMD5": "166C93649DAB88D990E16EC4EF11E96B",
+          "offset": 0,
+          "len": 4348512,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "16CF98C0BC6F6C129D54837F36E21502",
+      "contentMD5": "E80A9E09DAD5772CEEA9C9A3A1FF6CD0",
+      "length": 4988864,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Video/guide_video_qkbar_elcarea_intro_2.usm",
+          "fileNameHash": "FCCCF6A2AF4671AC",
+          "fileChunkMD5Name": "16CF98C0BC6F6C129D54837F36E21502",
+          "fileDataMD5": "E80A9E09DAD5772CEEA9C9A3A1FF6CD0",
+          "offset": 0,
+          "len": 4988864,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "8023708C4389835C5154CD8F68BB6947",
+      "contentMD5": "C38F0E5C4A891EA4E3357A6C3B200037",
+      "length": 2511232,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Video/guide_video_splitter_intro_1.usm",
+          "fileNameHash": "E8C6C1DC544C7CC7",
+          "fileChunkMD5Name": "8023708C4389835C5154CD8F68BB6947",
+          "fileDataMD5": "C38F0E5C4A891EA4E3357A6C3B200037",
+          "offset": 0,
+          "len": 2511232,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "511177122290B27C2F6187DF18CB99D8",
+      "contentMD5": "959C900505BBB0488041CA1EAC49AF55",
+      "length": 9758048,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Video/guide_video_splitter_intro_2.usm",
+          "fileNameHash": "38BC619BA5C1E65A",
+          "fileChunkMD5Name": "511177122290B27C2F6187DF18CB99D8",
+          "fileDataMD5": "959C900505BBB0488041CA1EAC49AF55",
+          "offset": 0,
+          "len": 9758048,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "4E7095012A3EBF3779B0C090C1AC6C87",
+      "contentMD5": "A91462718250C72DB79EE56D1B4DFF95",
+      "length": 2552064,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Video/guide_video_storage_base_1.usm",
+          "fileNameHash": "33B442FB367C5202",
+          "fileChunkMD5Name": "4E7095012A3EBF3779B0C090C1AC6C87",
+          "fileDataMD5": "A91462718250C72DB79EE56D1B4DFF95",
+          "offset": 0,
+          "len": 2552064,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "A56A9B70A10E9D53E8E7226C95C9CA93",
+      "contentMD5": "E5B341B1432DAADC039D1094B43DFEAF",
+      "length": 3244736,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Video/guide_video_storager_intro2_1.usm",
+          "fileNameHash": "6D6C3CAB0EF4A62E",
+          "fileChunkMD5Name": "A56A9B70A10E9D53E8E7226C95C9CA93",
+          "fileDataMD5": "E5B341B1432DAADC039D1094B43DFEAF",
+          "offset": 0,
+          "len": 3244736,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "8176977FFABFCBDA261CFEA818CF87E2",
+      "contentMD5": "CFF18DE7DEA5836C59E4E79ADAC2AB8C",
+      "length": 4582976,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Video/guide_video_travelpole_intro_1.usm",
+          "fileNameHash": "C43779025C3C6B91",
+          "fileChunkMD5Name": "8176977FFABFCBDA261CFEA818CF87E2",
+          "fileDataMD5": "CFF18DE7DEA5836C59E4E79ADAC2AB8C",
+          "offset": 0,
+          "len": 4582976,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "D7952D4527DD123A354FA842E34B16D1",
+      "contentMD5": "21ABF9D9E58B0C051CFE7902416A54EA",
+      "length": 6004896,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Video/guide_video_travelpole_intro2_1.usm",
+          "fileNameHash": "6405E58BABB44EC7",
+          "fileChunkMD5Name": "D7952D4527DD123A354FA842E34B16D1",
+          "fileDataMD5": "21ABF9D9E58B0C051CFE7902416A54EA",
+          "offset": 0,
+          "len": 6004896,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "82F70754839292D3AFA430DF8771F585",
+      "contentMD5": "C645A2063B8549C81561453DA22AD1F2",
+      "length": 1954688,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Video/guide_video_travelpole_intro2_2.usm",
+          "fileNameHash": "B47F45CCBE4C9024",
+          "fileChunkMD5Name": "82F70754839292D3AFA430DF8771F585",
+          "fileDataMD5": "C645A2063B8549C81561453DA22AD1F2",
+          "offset": 0,
+          "len": 1954688,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "12B33F6124745B976D7148DED50F1BDC",
+      "contentMD5": "3A6C60A205B84589F396AA1700AFFEED",
+      "length": 3616512,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Video/guide_video_travelpole_intro2_3.usm",
+          "fileNameHash": "045625F17219F5CC",
+          "fileChunkMD5Name": "12B33F6124745B976D7148DED50F1BDC",
+          "fileDataMD5": "3A6C60A205B84589F396AA1700AFFEED",
+          "offset": 0,
+          "len": 3616512,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "A348E82390100E3617502E089DF59ED9",
+      "contentMD5": "89F8B398641CB245B569508A29AA0E48",
+      "length": 3357216,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Video/guide_video_xmode.usm",
+          "fileNameHash": "CEFB59F99651D07C",
+          "fileChunkMD5Name": "A348E82390100E3617502E089DF59ED9",
+          "fileDataMD5": "89F8B398641CB245B569508A29AA0E48",
+          "offset": 0,
+          "len": 3357216,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "C54E1761538B8661C067612B68235467",
+      "contentMD5": "AE37622DA59A062DFFF90EF76B0798B0",
+      "length": 1621856,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Video/wiki_video_battle_airborne.usm",
+          "fileNameHash": "2C20F5639C0022AF",
+          "fileChunkMD5Name": "C54E1761538B8661C067612B68235467",
+          "fileDataMD5": "AE37622DA59A062DFFF90EF76B0798B0",
+          "offset": 0,
+          "len": 1621856,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "33A91800F091FA18DE67B8FE4B9C624E",
+      "contentMD5": "A6596AFE58D96C57CDD43BC6AA8B5D73",
+      "length": 2287872,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Video/wiki_video_battle_combust.usm",
+          "fileNameHash": "FEDA267822401CEF",
+          "fileChunkMD5Name": "33A91800F091FA18DE67B8FE4B9C624E",
+          "fileDataMD5": "A6596AFE58D96C57CDD43BC6AA8B5D73",
+          "offset": 0,
+          "len": 2287872,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "411F8CAAC7DC0A35DA2232CA1E9855F3",
+      "contentMD5": "FC9F6CD28BD0C938B8C6B42912A82782",
+      "length": 2139296,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Video/wiki_video_battle_condense.usm",
+          "fileNameHash": "2B9705A7C04A0FF6",
+          "fileChunkMD5Name": "411F8CAAC7DC0A35DA2232CA1E9855F3",
+          "fileDataMD5": "FC9F6CD28BD0C938B8C6B42912A82782",
+          "offset": 0,
+          "len": 2139296,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "1FFED15A7FCFC603455A475B1C57AFD2",
+      "contentMD5": "ABFA76B23147E8CB29ADD7E012A70CF2",
+      "length": 2493088,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Video/wiki_video_battle_conduct.usm",
+          "fileNameHash": "27ED12844C41F0AE",
+          "fileChunkMD5Name": "1FFED15A7FCFC603455A475B1C57AFD2",
+          "fileDataMD5": "ABFA76B23147E8CB29ADD7E012A70CF2",
+          "offset": 0,
+          "len": 2493088,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "A53E66167B0BAEB351673C173A606815",
+      "contentMD5": "19E5FA4D8CBCE4D1DAC8522662481939",
+      "length": 3466848,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Video/wiki_video_battle_continous.usm",
+          "fileNameHash": "D6486B23241D3B56",
+          "fileChunkMD5Name": "A53E66167B0BAEB351673C173A606815",
+          "fileDataMD5": "19E5FA4D8CBCE4D1DAC8522662481939",
+          "offset": 0,
+          "len": 3466848,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "65773B60D0F0B0F590049A8AED4991F0",
+      "contentMD5": "D944027CD975C0C80BDF1262E684A854",
+      "length": 1472736,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Video/wiki_video_battle_interrupt.usm",
+          "fileNameHash": "ED6266225C8225ED",
+          "fileChunkMD5Name": "65773B60D0F0B0F590049A8AED4991F0",
+          "fileDataMD5": "D944027CD975C0C80BDF1262E684A854",
+          "offset": 0,
+          "len": 1472736,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "EB0D0E84053F2595D37E7DE4E593E287",
+      "contentMD5": "CA76D8758F2A0ED931CB6DDFEFE16130",
+      "length": 1708288,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Video/wiki_video_battle_knockback.usm",
+          "fileNameHash": "D4E9484A11681247",
+          "fileChunkMD5Name": "EB0D0E84053F2595D37E7DE4E593E287",
+          "fileDataMD5": "CA76D8758F2A0ED931CB6DDFEFE16130",
+          "offset": 0,
+          "len": 1708288,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "359E2A89129CFC907B257F94758255FC",
+      "contentMD5": "D97B4FABF143046B4EB806269FA89B0E",
+      "length": 2412384,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Video/wiki_video_battle_rediate.usm",
+          "fileNameHash": "66CDA1229A334381",
+          "fileChunkMD5Name": "359E2A89129CFC907B257F94758255FC",
+          "fileDataMD5": "D97B4FABF143046B4EB806269FA89B0E",
+          "offset": 0,
+          "len": 2412384,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "28C743B62A981EF4412709A692F21F4D",
+      "contentMD5": "B49E88A1B61CBCE5C3F3B230FACAE76C",
+      "length": 2000640,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Video/wiki_video_battle_shatter.usm",
+          "fileNameHash": "66D1549441C394AF",
+          "fileChunkMD5Name": "28C743B62A981EF4412709A692F21F4D",
+          "fileDataMD5": "B49E88A1B61CBCE5C3F3B230FACAE76C",
+          "offset": 0,
+          "len": 2000640,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "8FB3BC794B7DC3D59600C0DE9254CA3C",
+      "contentMD5": "FC08D0E68FEA0E03E490D8E1576ED796",
+      "length": 2416800,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Video/wiki_video_battle_shock.usm",
+          "fileNameHash": "285481C34AD9C0CA",
+          "fileChunkMD5Name": "8FB3BC794B7DC3D59600C0DE9254CA3C",
+          "fileDataMD5": "FC08D0E68FEA0E03E490D8E1576ED796",
+          "offset": 0,
+          "len": 2416800,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "736F6360BB09EF1B13D121AD0474B588",
+      "contentMD5": "F0539B8AF5B5812494910D9D26AD8451",
+      "length": 2939776,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Video/wiki_video_battle_skillS.usm",
+          "fileNameHash": "65415A0D97AAD55A",
+          "fileChunkMD5Name": "736F6360BB09EF1B13D121AD0474B588",
+          "fileDataMD5": "F0539B8AF5B5812494910D9D26AD8451",
+          "offset": 0,
+          "len": 2939776,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "B18F93709F63B10A577CEA4896702F37",
+      "contentMD5": "CF00F666254F45346C22E1B2E658DF74",
+      "length": 3091200,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Video/wiki_video_battle_teamfight_2.usm",
+          "fileNameHash": "B0CD228BD4302970",
+          "fileChunkMD5Name": "B18F93709F63B10A577CEA4896702F37",
+          "fileDataMD5": "CF00F666254F45346C22E1B2E658DF74",
+          "offset": 0,
+          "len": 3091200,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "markDataTable": {
+    "int_campfire": {
+      "id": "int_campfire",
+      "markId": "mark_campfire"
+    },
+    "int_epowersupply": {
+      "id": "int_epowersupply",
+      "markId": "mark_electric_supply"
+    },
+    "int_epowersupply_large": {
+      "id": "int_epowersupply_large",
+      "markId": "mark_electric_supply"
+    },
+    "int_fbbase_large": {
+      "id": "int_fbbase_large",
+      "markId": "mark_electric_base"
+    },
+    "int_fbbase_small": {
+      "id": "int_fbbase_small",
+      "markId": "mark_electric_base"
+    },
+    "int_minerbase_iron": {
+      "id": "int_minerbase_iron",
+      "markId": "mark_mine_iron"
+    },
+    "int_minerbase_originium": {
+      "id": "int_minerbase_originium",
+      "markId": "mark_mine_originium"
+    },
+    "int_minerbase_quartz": {
+      "id": "int_minerbase_quartz",
+      "markId": "mark_mine_quartz"
+    },
+    "int_powerpole_large": {
+      "id": "int_powerpole_large",
+      "markId": "mark_electric_pole"
+    },
+    "int_powerpole_small": {
+      "id": "int_powerpole_small",
+      "markId": "mark_electric_pole"
+    }
+  },
+  "missionDataTable": {
+    "int_miner_1": {
+      "id": "int_miner_1",
+      "missionUseType": "Miner"
+    },
+    "int_miner_2": {
+      "id": "int_miner_2",
+      "missionUseType": "Miner"
+    },
+    "int_minerbase_iron": {
+      "id": "int_minerbase_iron",
+      "missionUseType": "MinerBase"
+    },
+    "int_minerbase_originium": {
+      "id": "int_minerbase_originium",
+      "missionUseType": "MinerBase"
+    },
+    "int_minerbase_quartz": {
+      "id": "int_minerbase_quartz",
+      "missionUseType": "MinerBase"
+    },
+    "int_powerpole_large": {
+      "id": "int_powerpole_large",
+      "missionUseType": "Pole"
+    },
+    "int_powerpole_small": {
+      "id": "int_powerpole_small",
+      "missionUseType": "Pole"
+    }
+  },
+  "attributeDataTable": {
+    "int_attacked_WaveCore": {
+      "id": "int_attacked_WaveCore",
+      "hp": 100,
+      "atk": 0,
+      "def": 0
+    },
+    "int_gameplay_anchorwave_final": {
+      "id": "int_gameplay_anchorwave_final",
+      "hp": 100,
+      "atk": 0,
+      "def": 0
+    },
+    "int_mud_core": {
+      "id": "int_mud_core",
+      "hp": 50,
+      "atk": 10,
+      "def": 0
+    }
+  },
+  "intFacWrapperTable": {
+    "int_fac_medic_1": {
+      "id": "int_fac_medic_1"
+    },
+    "int_fac_power_gate_1": {
+      "id": "int_fac_power_gate_1"
+    },
+    "int_fac_power_port_1": {
+      "id": "int_fac_power_port_1"
+    },
+    "int_fac_power_terminal_1": {
+      "id": "int_fac_power_terminal_1"
+    },
+    "int_fac_powerpole_large": {
+      "id": "int_fac_powerpole_large"
+    },
+    "int_fac_powerpole_small": {
+      "id": "int_fac_powerpole_small"
+    },
+    "int_fac_soil_1": {
+      "id": "int_fac_soil_1"
+    },
+    "int_fac_sp_hub_1": {
+      "id": "int_fac_sp_hub_1"
+    },
+    "int_fac_travel_pole_1": {
+      "id": "int_fac_travel_pole_1"
+    },
+    "int_fac_travel_pole_2": {
+      "id": "int_fac_travel_pole_2"
+    }
+  }
+}

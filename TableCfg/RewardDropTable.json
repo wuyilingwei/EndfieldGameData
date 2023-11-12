@@ -1,0 +1,1122 @@
+{
+  "reward_mon_0007_level11_20": {
+    "rewardId": "reward_mon_0007_level11_20",
+    "itemIds": [
+      "item_gem_0007_level11_20",
+      "item_drop_mimi_1",
+      "item_core_0007"
+    ]
+  },
+  "reward_mon_0007_level1_10": {
+    "rewardId": "reward_mon_0007_level1_10",
+    "itemIds": [
+      "item_gem_0007_level1_10",
+      "item_drop_mimi_1",
+      "item_core_0007"
+    ]
+  },
+  "reward_mon_0007_level21_30": {
+    "rewardId": "reward_mon_0007_level21_30",
+    "itemIds": [
+      "item_gem_0007_level21_30",
+      "item_drop_mimi_1",
+      "item_core_0007"
+    ]
+  },
+  "reward_mon_0007_level31_40": {
+    "rewardId": "reward_mon_0007_level31_40",
+    "itemIds": [
+      "item_gem_0007_level31_40",
+      "item_drop_mimi_1",
+      "item_core_0007"
+    ]
+  },
+  "reward_mon_0007_level41_50": {
+    "rewardId": "reward_mon_0007_level41_50",
+    "itemIds": [
+      "item_gem_0007_level41_50",
+      "item_drop_mimi_1",
+      "item_core_0007"
+    ]
+  },
+  "reward_mon_0007_level51_60": {
+    "rewardId": "reward_mon_0007_level51_60",
+    "itemIds": [
+      "item_gem_0007_level51_60",
+      "item_drop_mimi_1",
+      "item_core_0007"
+    ]
+  },
+  "reward_mon_0007_level61_70": {
+    "rewardId": "reward_mon_0007_level61_70",
+    "itemIds": [
+      "item_gem_0007_level61_70",
+      "item_drop_mimi_1",
+      "item_core_0007"
+    ]
+  },
+  "reward_mon_0015_level11_20": {
+    "rewardId": "reward_mon_0015_level11_20",
+    "itemIds": [
+      "item_gem_0015_level11_20",
+      "item_drop_mimi_1",
+      "item_core_0015"
+    ]
+  },
+  "reward_mon_0015_level1_10": {
+    "rewardId": "reward_mon_0015_level1_10",
+    "itemIds": [
+      "item_gem_0015_level1_10",
+      "item_drop_mimi_1",
+      "item_core_0015"
+    ]
+  },
+  "reward_mon_0015_level21_30": {
+    "rewardId": "reward_mon_0015_level21_30",
+    "itemIds": [
+      "item_gem_0015_level21_30",
+      "item_drop_mimi_1",
+      "item_core_0015"
+    ]
+  },
+  "reward_mon_0015_level31_40": {
+    "rewardId": "reward_mon_0015_level31_40",
+    "itemIds": [
+      "item_gem_0015_level31_40",
+      "item_drop_mimi_1",
+      "item_core_0015"
+    ]
+  },
+  "reward_mon_0015_level41_50": {
+    "rewardId": "reward_mon_0015_level41_50",
+    "itemIds": [
+      "item_gem_0015_level41_50",
+      "item_drop_mimi_1",
+      "item_core_0015"
+    ]
+  },
+  "reward_mon_0015_level51_60": {
+    "rewardId": "reward_mon_0015_level51_60",
+    "itemIds": [
+      "item_gem_0015_level51_60",
+      "item_drop_mimi_1",
+      "item_core_0015"
+    ]
+  },
+  "reward_mon_0015_level61_70": {
+    "rewardId": "reward_mon_0015_level61_70",
+    "itemIds": [
+      "item_gem_0015_level61_70",
+      "item_drop_mimi_1",
+      "item_core_0015"
+    ]
+  },
+  "reward_mon_0018_level11_20": {
+    "rewardId": "reward_mon_0018_level11_20",
+    "itemIds": [
+      "item_gem_0018_level11_20",
+      "item_drop_lbmob_1",
+      "item_core_0018"
+    ]
+  },
+  "reward_mon_0018_level1_10": {
+    "rewardId": "reward_mon_0018_level1_10",
+    "itemIds": [
+      "item_gem_0018_level1_10",
+      "item_drop_lbmob_1",
+      "item_core_0018"
+    ]
+  },
+  "reward_mon_0018_level21_30": {
+    "rewardId": "reward_mon_0018_level21_30",
+    "itemIds": [
+      "item_gem_0018_level21_30",
+      "item_drop_lbmob_1",
+      "item_core_0018"
+    ]
+  },
+  "reward_mon_0018_level31_40": {
+    "rewardId": "reward_mon_0018_level31_40",
+    "itemIds": [
+      "item_gem_0018_level31_40",
+      "item_drop_lbmob_1",
+      "item_core_0018"
+    ]
+  },
+  "reward_mon_0018_level41_50": {
+    "rewardId": "reward_mon_0018_level41_50",
+    "itemIds": [
+      "item_gem_0018_level41_50",
+      "item_drop_lbmob_1",
+      "item_core_0018"
+    ]
+  },
+  "reward_mon_0018_level51_60": {
+    "rewardId": "reward_mon_0018_level51_60",
+    "itemIds": [
+      "item_gem_0018_level51_60",
+      "item_drop_lbmob_1",
+      "item_core_0018"
+    ]
+  },
+  "reward_mon_0018_level61_70": {
+    "rewardId": "reward_mon_0018_level61_70",
+    "itemIds": [
+      "item_gem_0018_level61_70",
+      "item_drop_lbmob_1",
+      "item_core_0018"
+    ]
+  },
+  "reward_mon_0021_level11_20": {
+    "rewardId": "reward_mon_0021_level11_20",
+    "itemIds": [
+      "item_gem_0021_level11_20",
+      "item_drop_agmelee_1",
+      "item_core_0021"
+    ]
+  },
+  "reward_mon_0021_level1_10": {
+    "rewardId": "reward_mon_0021_level1_10",
+    "itemIds": [
+      "item_gem_0021_level1_10",
+      "item_drop_agmelee_1",
+      "item_core_0021"
+    ]
+  },
+  "reward_mon_0021_level21_30": {
+    "rewardId": "reward_mon_0021_level21_30",
+    "itemIds": [
+      "item_gem_0021_level21_30",
+      "item_drop_agmelee_1",
+      "item_core_0021"
+    ]
+  },
+  "reward_mon_0021_level31_40": {
+    "rewardId": "reward_mon_0021_level31_40",
+    "itemIds": [
+      "item_gem_0021_level31_40",
+      "item_drop_agmelee_1",
+      "item_core_0021"
+    ]
+  },
+  "reward_mon_0021_level41_50": {
+    "rewardId": "reward_mon_0021_level41_50",
+    "itemIds": [
+      "item_gem_0021_level41_50",
+      "item_drop_agmelee_1",
+      "item_core_0021"
+    ]
+  },
+  "reward_mon_0021_level51_60": {
+    "rewardId": "reward_mon_0021_level51_60",
+    "itemIds": [
+      "item_gem_0021_level51_60",
+      "item_drop_agmelee_1",
+      "item_core_0021"
+    ]
+  },
+  "reward_mon_0021_level61_70": {
+    "rewardId": "reward_mon_0021_level61_70",
+    "itemIds": [
+      "item_gem_0021_level61_70",
+      "item_drop_agmelee_1",
+      "item_core_0021"
+    ]
+  },
+  "reward_mon_0022_level11_20": {
+    "rewardId": "reward_mon_0022_level11_20",
+    "itemIds": [
+      "item_gem_0022_level11_20",
+      "item_drop_agmelee_1",
+      "item_core_0022"
+    ]
+  },
+  "reward_mon_0022_level1_10": {
+    "rewardId": "reward_mon_0022_level1_10",
+    "itemIds": [
+      "item_gem_0022_level1_10",
+      "item_drop_agmelee_1",
+      "item_core_0022"
+    ]
+  },
+  "reward_mon_0022_level21_30": {
+    "rewardId": "reward_mon_0022_level21_30",
+    "itemIds": [
+      "item_gem_0022_level21_30",
+      "item_drop_agmelee_1",
+      "item_core_0022"
+    ]
+  },
+  "reward_mon_0022_level31_40": {
+    "rewardId": "reward_mon_0022_level31_40",
+    "itemIds": [
+      "item_gem_0022_level31_40",
+      "item_drop_agmelee_1",
+      "item_core_0022"
+    ]
+  },
+  "reward_mon_0022_level41_50": {
+    "rewardId": "reward_mon_0022_level41_50",
+    "itemIds": [
+      "item_gem_0022_level41_50",
+      "item_drop_agmelee_1",
+      "item_core_0022"
+    ]
+  },
+  "reward_mon_0022_level51_60": {
+    "rewardId": "reward_mon_0022_level51_60",
+    "itemIds": [
+      "item_gem_0022_level51_60",
+      "item_drop_agmelee_1",
+      "item_core_0022"
+    ]
+  },
+  "reward_mon_0022_level61_70": {
+    "rewardId": "reward_mon_0022_level61_70",
+    "itemIds": [
+      "item_gem_0022_level61_70",
+      "item_drop_agmelee_1",
+      "item_core_0022"
+    ]
+  },
+  "reward_mon_0023_level11_20": {
+    "rewardId": "reward_mon_0023_level11_20",
+    "itemIds": [
+      "item_gem_0023_level11_20",
+      "item_drop_agmelee_1",
+      "item_core_0023"
+    ]
+  },
+  "reward_mon_0023_level1_10": {
+    "rewardId": "reward_mon_0023_level1_10",
+    "itemIds": [
+      "item_gem_0023_level1_10",
+      "item_drop_agmelee_1",
+      "item_core_0023"
+    ]
+  },
+  "reward_mon_0023_level21_30": {
+    "rewardId": "reward_mon_0023_level21_30",
+    "itemIds": [
+      "item_gem_0023_level21_30",
+      "item_drop_agmelee_1",
+      "item_core_0023"
+    ]
+  },
+  "reward_mon_0023_level31_40": {
+    "rewardId": "reward_mon_0023_level31_40",
+    "itemIds": [
+      "item_gem_0023_level31_40",
+      "item_drop_agmelee_1",
+      "item_core_0023"
+    ]
+  },
+  "reward_mon_0023_level41_50": {
+    "rewardId": "reward_mon_0023_level41_50",
+    "itemIds": [
+      "item_gem_0023_level41_50",
+      "item_drop_agmelee_1",
+      "item_core_0023"
+    ]
+  },
+  "reward_mon_0023_level51_60": {
+    "rewardId": "reward_mon_0023_level51_60",
+    "itemIds": [
+      "item_gem_0023_level51_60",
+      "item_drop_agmelee_1",
+      "item_core_0023"
+    ]
+  },
+  "reward_mon_0023_level61_70": {
+    "rewardId": "reward_mon_0023_level61_70",
+    "itemIds": [
+      "item_gem_0023_level61_70",
+      "item_drop_agmelee_1",
+      "item_core_0023"
+    ]
+  },
+  "reward_mon_0024_level11_20": {
+    "rewardId": "reward_mon_0024_level11_20",
+    "itemIds": [
+      "item_gem_0024_level11_20",
+      "item_drop_agmelee_1",
+      "item_core_0024"
+    ]
+  },
+  "reward_mon_0024_level1_10": {
+    "rewardId": "reward_mon_0024_level1_10",
+    "itemIds": [
+      "item_gem_0024_level1_10",
+      "item_drop_agmelee_1",
+      "item_core_0024"
+    ]
+  },
+  "reward_mon_0024_level21_30": {
+    "rewardId": "reward_mon_0024_level21_30",
+    "itemIds": [
+      "item_gem_0024_level21_30",
+      "item_drop_agmelee_1",
+      "item_core_0024"
+    ]
+  },
+  "reward_mon_0024_level31_40": {
+    "rewardId": "reward_mon_0024_level31_40",
+    "itemIds": [
+      "item_gem_0024_level31_40",
+      "item_drop_agmelee_1",
+      "item_core_0024"
+    ]
+  },
+  "reward_mon_0024_level41_50": {
+    "rewardId": "reward_mon_0024_level41_50",
+    "itemIds": [
+      "item_gem_0024_level41_50",
+      "item_drop_agmelee_1",
+      "item_core_0024"
+    ]
+  },
+  "reward_mon_0024_level51_60": {
+    "rewardId": "reward_mon_0024_level51_60",
+    "itemIds": [
+      "item_gem_0024_level51_60",
+      "item_drop_agmelee_1",
+      "item_core_0024"
+    ]
+  },
+  "reward_mon_0024_level61_70": {
+    "rewardId": "reward_mon_0024_level61_70",
+    "itemIds": [
+      "item_gem_0024_level61_70",
+      "item_drop_agmelee_1",
+      "item_core_0024"
+    ]
+  },
+  "reward_mon_0025_level11_20": {
+    "rewardId": "reward_mon_0025_level11_20",
+    "itemIds": [
+      "item_gem_0025_level11_20",
+      "item_drop_agmelee_1",
+      "item_core_0025"
+    ]
+  },
+  "reward_mon_0025_level1_10": {
+    "rewardId": "reward_mon_0025_level1_10",
+    "itemIds": [
+      "item_gem_0025_level1_10",
+      "item_drop_agmelee_1",
+      "item_core_0025"
+    ]
+  },
+  "reward_mon_0025_level21_30": {
+    "rewardId": "reward_mon_0025_level21_30",
+    "itemIds": [
+      "item_gem_0025_level21_30",
+      "item_drop_agmelee_1",
+      "item_core_0025"
+    ]
+  },
+  "reward_mon_0025_level31_40": {
+    "rewardId": "reward_mon_0025_level31_40",
+    "itemIds": [
+      "item_gem_0025_level31_40",
+      "item_drop_agmelee_1",
+      "item_core_0025"
+    ]
+  },
+  "reward_mon_0025_level41_50": {
+    "rewardId": "reward_mon_0025_level41_50",
+    "itemIds": [
+      "item_gem_0025_level41_50",
+      "item_drop_agmelee_1",
+      "item_core_0025"
+    ]
+  },
+  "reward_mon_0025_level51_60": {
+    "rewardId": "reward_mon_0025_level51_60",
+    "itemIds": [
+      "item_gem_0025_level51_60",
+      "item_drop_agmelee_1",
+      "item_core_0025"
+    ]
+  },
+  "reward_mon_0025_level61_70": {
+    "rewardId": "reward_mon_0025_level61_70",
+    "itemIds": [
+      "item_gem_0025_level61_70",
+      "item_drop_agmelee_1",
+      "item_core_0025"
+    ]
+  },
+  "reward_mon_0026_level11_20": {
+    "rewardId": "reward_mon_0026_level11_20",
+    "itemIds": [
+      "item_gem_0026_level11_20",
+      "item_drop_agmelee_1",
+      "item_core_0026"
+    ]
+  },
+  "reward_mon_0026_level1_10": {
+    "rewardId": "reward_mon_0026_level1_10",
+    "itemIds": [
+      "item_gem_0026_level1_10",
+      "item_drop_agmelee_1",
+      "item_core_0026"
+    ]
+  },
+  "reward_mon_0026_level21_30": {
+    "rewardId": "reward_mon_0026_level21_30",
+    "itemIds": [
+      "item_gem_0026_level21_30",
+      "item_drop_agmelee_1",
+      "item_core_0026"
+    ]
+  },
+  "reward_mon_0026_level31_40": {
+    "rewardId": "reward_mon_0026_level31_40",
+    "itemIds": [
+      "item_gem_0026_level31_40",
+      "item_drop_agmelee_1",
+      "item_core_0026"
+    ]
+  },
+  "reward_mon_0026_level41_50": {
+    "rewardId": "reward_mon_0026_level41_50",
+    "itemIds": [
+      "item_gem_0026_level41_50",
+      "item_drop_agmelee_1",
+      "item_core_0026"
+    ]
+  },
+  "reward_mon_0026_level51_60": {
+    "rewardId": "reward_mon_0026_level51_60",
+    "itemIds": [
+      "item_gem_0026_level51_60",
+      "item_drop_agmelee_1",
+      "item_core_0026"
+    ]
+  },
+  "reward_mon_0026_level61_70": {
+    "rewardId": "reward_mon_0026_level61_70",
+    "itemIds": [
+      "item_gem_0026_level61_70",
+      "item_drop_agmelee_1",
+      "item_core_0026"
+    ]
+  },
+  "reward_mon_0027_level11_20": {
+    "rewardId": "reward_mon_0027_level11_20",
+    "itemIds": [
+      "item_gem_0027_level11_20",
+      "item_drop_agmelee_1",
+      "item_core_0027"
+    ]
+  },
+  "reward_mon_0027_level1_10": {
+    "rewardId": "reward_mon_0027_level1_10",
+    "itemIds": [
+      "item_gem_0027_level1_10",
+      "item_drop_agmelee_1",
+      "item_core_0027"
+    ]
+  },
+  "reward_mon_0027_level21_30": {
+    "rewardId": "reward_mon_0027_level21_30",
+    "itemIds": [
+      "item_gem_0027_level21_30",
+      "item_drop_agmelee_1",
+      "item_core_0027"
+    ]
+  },
+  "reward_mon_0027_level31_40": {
+    "rewardId": "reward_mon_0027_level31_40",
+    "itemIds": [
+      "item_gem_0027_level31_40",
+      "item_drop_agmelee_1",
+      "item_core_0027"
+    ]
+  },
+  "reward_mon_0027_level41_50": {
+    "rewardId": "reward_mon_0027_level41_50",
+    "itemIds": [
+      "item_gem_0027_level41_50",
+      "item_drop_agmelee_1",
+      "item_core_0027"
+    ]
+  },
+  "reward_mon_0027_level51_60": {
+    "rewardId": "reward_mon_0027_level51_60",
+    "itemIds": [
+      "item_gem_0027_level51_60",
+      "item_drop_agmelee_1",
+      "item_core_0027"
+    ]
+  },
+  "reward_mon_0027_level61_70": {
+    "rewardId": "reward_mon_0027_level61_70",
+    "itemIds": [
+      "item_gem_0027_level61_70",
+      "item_drop_agmelee_1",
+      "item_core_0027"
+    ]
+  },
+  "reward_mon_0028_level11_20": {
+    "rewardId": "reward_mon_0028_level11_20",
+    "itemIds": [
+      "item_gem_0028_level11_20",
+      "item_drop_agmelee_1",
+      "item_core_0028"
+    ]
+  },
+  "reward_mon_0028_level1_10": {
+    "rewardId": "reward_mon_0028_level1_10",
+    "itemIds": [
+      "item_gem_0028_level1_10",
+      "item_drop_agmelee_1",
+      "item_core_0028"
+    ]
+  },
+  "reward_mon_0028_level21_30": {
+    "rewardId": "reward_mon_0028_level21_30",
+    "itemIds": [
+      "item_gem_0028_level21_30",
+      "item_drop_agmelee_1",
+      "item_core_0028"
+    ]
+  },
+  "reward_mon_0028_level31_40": {
+    "rewardId": "reward_mon_0028_level31_40",
+    "itemIds": [
+      "item_gem_0028_level31_40",
+      "item_drop_agmelee_1",
+      "item_core_0028"
+    ]
+  },
+  "reward_mon_0028_level41_50": {
+    "rewardId": "reward_mon_0028_level41_50",
+    "itemIds": [
+      "item_gem_0028_level41_50",
+      "item_drop_agmelee_1",
+      "item_core_0028"
+    ]
+  },
+  "reward_mon_0028_level51_60": {
+    "rewardId": "reward_mon_0028_level51_60",
+    "itemIds": [
+      "item_gem_0028_level51_60",
+      "item_drop_agmelee_1",
+      "item_core_0028"
+    ]
+  },
+  "reward_mon_0028_level61_70": {
+    "rewardId": "reward_mon_0028_level61_70",
+    "itemIds": [
+      "item_gem_0028_level61_70",
+      "item_drop_agmelee_1",
+      "item_core_0028"
+    ]
+  },
+  "reward_mon_0029_level11_20": {
+    "rewardId": "reward_mon_0029_level11_20",
+    "itemIds": [
+      "item_gem_0029_level11_20",
+      "item_drop_lbmob_1",
+      "item_core_0029"
+    ]
+  },
+  "reward_mon_0029_level1_10": {
+    "rewardId": "reward_mon_0029_level1_10",
+    "itemIds": [
+      "item_gem_0029_level1_10",
+      "item_drop_lbmob_1",
+      "item_core_0029"
+    ]
+  },
+  "reward_mon_0029_level21_30": {
+    "rewardId": "reward_mon_0029_level21_30",
+    "itemIds": [
+      "item_gem_0029_level21_30",
+      "item_drop_lbmob_1",
+      "item_core_0029"
+    ]
+  },
+  "reward_mon_0029_level31_40": {
+    "rewardId": "reward_mon_0029_level31_40",
+    "itemIds": [
+      "item_gem_0029_level31_40",
+      "item_drop_lbmob_1",
+      "item_core_0029"
+    ]
+  },
+  "reward_mon_0029_level41_50": {
+    "rewardId": "reward_mon_0029_level41_50",
+    "itemIds": [
+      "item_gem_0029_level41_50",
+      "item_drop_lbmob_1",
+      "item_core_0029"
+    ]
+  },
+  "reward_mon_0029_level51_60": {
+    "rewardId": "reward_mon_0029_level51_60",
+    "itemIds": [
+      "item_gem_0029_level51_60",
+      "item_drop_lbmob_1",
+      "item_core_0029"
+    ]
+  },
+  "reward_mon_0029_level61_70": {
+    "rewardId": "reward_mon_0029_level61_70",
+    "itemIds": [
+      "item_gem_0029_level61_70",
+      "item_drop_lbmob_1",
+      "item_core_0029"
+    ]
+  },
+  "reward_mon_0030_level11_20": {
+    "rewardId": "reward_mon_0030_level11_20",
+    "itemIds": [
+      "item_gem_0030_level11_20",
+      "item_drop_lbmob_1",
+      "item_core_0030"
+    ]
+  },
+  "reward_mon_0030_level1_10": {
+    "rewardId": "reward_mon_0030_level1_10",
+    "itemIds": [
+      "item_gem_0030_level1_10",
+      "item_drop_lbmob_1",
+      "item_core_0030"
+    ]
+  },
+  "reward_mon_0030_level21_30": {
+    "rewardId": "reward_mon_0030_level21_30",
+    "itemIds": [
+      "item_gem_0030_level21_30",
+      "item_drop_lbmob_1",
+      "item_core_0030"
+    ]
+  },
+  "reward_mon_0030_level31_40": {
+    "rewardId": "reward_mon_0030_level31_40",
+    "itemIds": [
+      "item_gem_0030_level31_40",
+      "item_drop_lbmob_1",
+      "item_core_0030"
+    ]
+  },
+  "reward_mon_0030_level41_50": {
+    "rewardId": "reward_mon_0030_level41_50",
+    "itemIds": [
+      "item_gem_0030_level41_50",
+      "item_drop_lbmob_1",
+      "item_core_0030"
+    ]
+  },
+  "reward_mon_0030_level51_60": {
+    "rewardId": "reward_mon_0030_level51_60",
+    "itemIds": [
+      "item_gem_0030_level51_60",
+      "item_drop_lbmob_1",
+      "item_core_0030"
+    ]
+  },
+  "reward_mon_0030_level61_70": {
+    "rewardId": "reward_mon_0030_level61_70",
+    "itemIds": [
+      "item_gem_0030_level61_70",
+      "item_drop_lbmob_1",
+      "item_core_0030"
+    ]
+  },
+  "reward_mon_0031_level11_20": {
+    "rewardId": "reward_mon_0031_level11_20",
+    "itemIds": [
+      "item_gem_0031_level11_20",
+      "item_drop_lbmob_1",
+      "item_core_0031"
+    ]
+  },
+  "reward_mon_0031_level1_10": {
+    "rewardId": "reward_mon_0031_level1_10",
+    "itemIds": [
+      "item_gem_0031_level1_10",
+      "item_drop_lbmob_1",
+      "item_core_0031"
+    ]
+  },
+  "reward_mon_0031_level21_30": {
+    "rewardId": "reward_mon_0031_level21_30",
+    "itemIds": [
+      "item_gem_0031_level21_30",
+      "item_drop_lbmob_1",
+      "item_core_0031"
+    ]
+  },
+  "reward_mon_0031_level31_40": {
+    "rewardId": "reward_mon_0031_level31_40",
+    "itemIds": [
+      "item_gem_0031_level31_40",
+      "item_drop_lbmob_1",
+      "item_core_0031"
+    ]
+  },
+  "reward_mon_0031_level41_50": {
+    "rewardId": "reward_mon_0031_level41_50",
+    "itemIds": [
+      "item_gem_0031_level41_50",
+      "item_drop_lbmob_1",
+      "item_core_0031"
+    ]
+  },
+  "reward_mon_0031_level51_60": {
+    "rewardId": "reward_mon_0031_level51_60",
+    "itemIds": [
+      "item_gem_0031_level51_60",
+      "item_drop_lbmob_1",
+      "item_core_0031"
+    ]
+  },
+  "reward_mon_0031_level61_70": {
+    "rewardId": "reward_mon_0031_level61_70",
+    "itemIds": [
+      "item_gem_0031_level61_70",
+      "item_drop_lbmob_1",
+      "item_core_0031"
+    ]
+  },
+  "reward_mon_0033_level11_20": {
+    "rewardId": "reward_mon_0033_level11_20",
+    "itemIds": [
+      "item_gem_0033_level11_20",
+      "item_drop_lbmob_1",
+      "item_core_0033"
+    ]
+  },
+  "reward_mon_0033_level1_10": {
+    "rewardId": "reward_mon_0033_level1_10",
+    "itemIds": [
+      "item_gem_0033_level1_10",
+      "item_drop_lbmob_1",
+      "item_core_0033"
+    ]
+  },
+  "reward_mon_0033_level21_30": {
+    "rewardId": "reward_mon_0033_level21_30",
+    "itemIds": [
+      "item_gem_0033_level21_30",
+      "item_drop_lbmob_1",
+      "item_core_0033"
+    ]
+  },
+  "reward_mon_0033_level31_40": {
+    "rewardId": "reward_mon_0033_level31_40",
+    "itemIds": [
+      "item_gem_0033_level31_40",
+      "item_drop_lbmob_1",
+      "item_core_0033"
+    ]
+  },
+  "reward_mon_0033_level41_50": {
+    "rewardId": "reward_mon_0033_level41_50",
+    "itemIds": [
+      "item_gem_0033_level41_50",
+      "item_drop_lbmob_1",
+      "item_core_0033"
+    ]
+  },
+  "reward_mon_0033_level51_60": {
+    "rewardId": "reward_mon_0033_level51_60",
+    "itemIds": [
+      "item_gem_0033_level51_60",
+      "item_drop_lbmob_1",
+      "item_core_0033"
+    ]
+  },
+  "reward_mon_0033_level61_70": {
+    "rewardId": "reward_mon_0033_level61_70",
+    "itemIds": [
+      "item_gem_0033_level61_70",
+      "item_drop_lbmob_1",
+      "item_core_0033"
+    ]
+  },
+  "reward_mon_0034_level11_20": {
+    "rewardId": "reward_mon_0034_level11_20",
+    "itemIds": [
+      "item_gem_0034_level11_20",
+      "item_drop_lbmob_1",
+      "item_core_0034"
+    ]
+  },
+  "reward_mon_0034_level1_10": {
+    "rewardId": "reward_mon_0034_level1_10",
+    "itemIds": [
+      "item_gem_0034_level1_10",
+      "item_drop_lbmob_1",
+      "item_core_0034"
+    ]
+  },
+  "reward_mon_0034_level21_30": {
+    "rewardId": "reward_mon_0034_level21_30",
+    "itemIds": [
+      "item_gem_0034_level21_30",
+      "item_drop_lbmob_1",
+      "item_core_0034"
+    ]
+  },
+  "reward_mon_0034_level31_40": {
+    "rewardId": "reward_mon_0034_level31_40",
+    "itemIds": [
+      "item_gem_0034_level31_40",
+      "item_drop_lbmob_1",
+      "item_core_0034"
+    ]
+  },
+  "reward_mon_0034_level41_50": {
+    "rewardId": "reward_mon_0034_level41_50",
+    "itemIds": [
+      "item_gem_0034_level41_50",
+      "item_drop_lbmob_1",
+      "item_core_0034"
+    ]
+  },
+  "reward_mon_0034_level51_60": {
+    "rewardId": "reward_mon_0034_level51_60",
+    "itemIds": [
+      "item_gem_0034_level51_60",
+      "item_drop_lbmob_1",
+      "item_core_0034"
+    ]
+  },
+  "reward_mon_0034_level61_70": {
+    "rewardId": "reward_mon_0034_level61_70",
+    "itemIds": [
+      "item_gem_0034_level61_70",
+      "item_drop_lbmob_1",
+      "item_core_0034"
+    ]
+  },
+  "reward_mon_0035_level11_20": {
+    "rewardId": "reward_mon_0035_level11_20",
+    "itemIds": [
+      "item_gem_0035_level11_20",
+      "item_drop_lbmob_1",
+      "item_core_0035"
+    ]
+  },
+  "reward_mon_0035_level1_10": {
+    "rewardId": "reward_mon_0035_level1_10",
+    "itemIds": [
+      "item_gem_0035_level1_10",
+      "item_drop_lbmob_1",
+      "item_core_0035"
+    ]
+  },
+  "reward_mon_0035_level21_30": {
+    "rewardId": "reward_mon_0035_level21_30",
+    "itemIds": [
+      "item_gem_0035_level21_30",
+      "item_drop_lbmob_1",
+      "item_core_0035"
+    ]
+  },
+  "reward_mon_0035_level31_40": {
+    "rewardId": "reward_mon_0035_level31_40",
+    "itemIds": [
+      "item_gem_0035_level31_40",
+      "item_drop_lbmob_1",
+      "item_core_0035"
+    ]
+  },
+  "reward_mon_0035_level41_50": {
+    "rewardId": "reward_mon_0035_level41_50",
+    "itemIds": [
+      "item_gem_0035_level41_50",
+      "item_drop_lbmob_1",
+      "item_core_0035"
+    ]
+  },
+  "reward_mon_0035_level51_60": {
+    "rewardId": "reward_mon_0035_level51_60",
+    "itemIds": [
+      "item_gem_0035_level51_60",
+      "item_drop_lbmob_1",
+      "item_core_0035"
+    ]
+  },
+  "reward_mon_0035_level61_70": {
+    "rewardId": "reward_mon_0035_level61_70",
+    "itemIds": [
+      "item_gem_0035_level61_70",
+      "item_drop_lbmob_1",
+      "item_core_0035"
+    ]
+  },
+  "reward_mon_0040_level11_20": {
+    "rewardId": "reward_mon_0040_level11_20",
+    "itemIds": [
+      "item_gem_0040_level11_20",
+      "item_drop_ergori_1",
+      "item_core_0040"
+    ]
+  },
+  "reward_mon_0040_level1_10": {
+    "rewardId": "reward_mon_0040_level1_10",
+    "itemIds": [
+      "item_gem_0040_level1_10",
+      "item_drop_ergori_1",
+      "item_core_0040"
+    ]
+  },
+  "reward_mon_0040_level21_30": {
+    "rewardId": "reward_mon_0040_level21_30",
+    "itemIds": [
+      "item_gem_0040_level21_30",
+      "item_drop_ergori_1",
+      "item_core_0040"
+    ]
+  },
+  "reward_mon_0040_level31_40": {
+    "rewardId": "reward_mon_0040_level31_40",
+    "itemIds": [
+      "item_gem_0040_level31_40",
+      "item_drop_ergori_1",
+      "item_core_0040"
+    ]
+  },
+  "reward_mon_0040_level41_50": {
+    "rewardId": "reward_mon_0040_level41_50",
+    "itemIds": [
+      "item_gem_0040_level41_50",
+      "item_drop_ergori_1",
+      "item_core_0040"
+    ]
+  },
+  "reward_mon_0040_level51_60": {
+    "rewardId": "reward_mon_0040_level51_60",
+    "itemIds": [
+      "item_gem_0040_level51_60",
+      "item_drop_ergori_1",
+      "item_core_0040"
+    ]
+  },
+  "reward_mon_0040_level61_70": {
+    "rewardId": "reward_mon_0040_level61_70",
+    "itemIds": [
+      "item_gem_0040_level61_70",
+      "item_drop_ergori_1",
+      "item_core_0040"
+    ]
+  },
+  "reward_mon_0042_level11_20": {
+    "rewardId": "reward_mon_0042_level11_20",
+    "itemIds": [
+      "item_gem_0042_level11_20",
+      "item_drop_ergori_1",
+      "item_core_0042"
+    ]
+  },
+  "reward_mon_0042_level1_10": {
+    "rewardId": "reward_mon_0042_level1_10",
+    "itemIds": [
+      "item_gem_0042_level1_10",
+      "item_drop_ergori_1",
+      "item_core_0042"
+    ]
+  },
+  "reward_mon_0042_level21_30": {
+    "rewardId": "reward_mon_0042_level21_30",
+    "itemIds": [
+      "item_gem_0042_level21_30",
+      "item_drop_ergori_1",
+      "item_core_0042"
+    ]
+  },
+  "reward_mon_0042_level31_40": {
+    "rewardId": "reward_mon_0042_level31_40",
+    "itemIds": [
+      "item_gem_0042_level31_40",
+      "item_drop_ergori_1",
+      "item_core_0042"
+    ]
+  },
+  "reward_mon_0042_level41_50": {
+    "rewardId": "reward_mon_0042_level41_50",
+    "itemIds": [
+      "item_gem_0042_level41_50",
+      "item_drop_ergori_1",
+      "item_core_0042"
+    ]
+  },
+  "reward_mon_0042_level51_60": {
+    "rewardId": "reward_mon_0042_level51_60",
+    "itemIds": [
+      "item_gem_0042_level51_60",
+      "item_drop_ergori_1",
+      "item_core_0042"
+    ]
+  },
+  "reward_mon_0042_level61_70": {
+    "rewardId": "reward_mon_0042_level61_70",
+    "itemIds": [
+      "item_gem_0042_level61_70",
+      "item_drop_ergori_1",
+      "item_core_0042"
+    ]
+  },
+  "reward_mon_0043_level11_20": {
+    "rewardId": "reward_mon_0043_level11_20",
+    "itemIds": [
+      "item_gem_0043_level11_20",
+      "item_drop_ergori_1",
+      "item_core_0043"
+    ]
+  },
+  "reward_mon_0043_level1_10": {
+    "rewardId": "reward_mon_0043_level1_10",
+    "itemIds": [
+      "item_gem_0043_level1_10",
+      "item_drop_ergori_1",
+      "item_core_0043"
+    ]
+  },
+  "reward_mon_0043_level21_30": {
+    "rewardId": "reward_mon_0043_level21_30",
+    "itemIds": [
+      "item_gem_0043_level21_30",
+      "item_drop_ergori_1",
+      "item_core_0043"
+    ]
+  },
+  "reward_mon_0043_level31_40": {
+    "rewardId": "reward_mon_0043_level31_40",
+    "itemIds": [
+      "item_gem_0043_level31_40",
+      "item_drop_ergori_1",
+      "item_core_0043"
+    ]
+  },
+  "reward_mon_0043_level41_50": {
+    "rewardId": "reward_mon_0043_level41_50",
+    "itemIds": [
+      "item_gem_0043_level41_50",
+      "item_drop_ergori_1",
+      "item_core_0043"
+    ]
+  },
+  "reward_mon_0043_level51_60": {
+    "rewardId": "reward_mon_0043_level51_60",
+    "itemIds": [
+      "item_gem_0043_level51_60",
+      "item_drop_ergori_1",
+      "item_core_0043"
+    ]
+  },
+  "reward_mon_0043_level61_70": {
+    "rewardId": "reward_mon_0043_level61_70",
+    "itemIds": [
+      "item_gem_0043_level61_70",
+      "item_drop_ergori_1",
+      "item_core_0043"
+    ]
+  }
+}

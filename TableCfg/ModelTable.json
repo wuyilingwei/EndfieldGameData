@@ -1,0 +1,362 @@
+{
+  "abilityentity_chr_0004_pelica_ultimate_skill_postmodel": {
+    "modelId": "abilityentity_chr_0004_pelica_ultimate_skill_postmodel",
+    "path": "Gameplay/Actors/PostModels/AbilityEntities/abilityentity_chr_0004_pelica_ultimate_skill_postmodel"
+  },
+  "abilityentity_chr_0006_wolfgd_skill02_postmodel": {
+    "modelId": "abilityentity_chr_0006_wolfgd_skill02_postmodel",
+    "path": "Gameplay/Actors/PostModels/AbilityEntities/abilityentity_chr_0006_wolfgd_skill02_postmodel"
+  },
+  "abilityentity_chr_0012_avywen_ultimate_skill_postmodel": {
+    "modelId": "abilityentity_chr_0012_avywen_ultimate_skill_postmodel",
+    "path": "Gameplay/Actors/PostModels/AbilityEntities/abilityentity_chr_0012_avywen_ultimate_skill_postmodel"
+  },
+  "abilityentity_common_energy_shard_cryst_postmodel": {
+    "modelId": "abilityentity_common_energy_shard_cryst_postmodel",
+    "path": "Gameplay/Actors/PostModels/AbilityEntities/abilityentity_common_energy_shard_cryst_postmodel"
+  },
+  "abilityentity_common_energy_shard_fire_postmodel": {
+    "modelId": "abilityentity_common_energy_shard_fire_postmodel",
+    "path": "Gameplay/Actors/PostModels/AbilityEntities/abilityentity_common_energy_shard_fire_postmodel"
+  },
+  "abilityentity_common_energy_shard_pulse_postmodel": {
+    "modelId": "abilityentity_common_energy_shard_pulse_postmodel",
+    "path": "Gameplay/Actors/PostModels/AbilityEntities/abilityentity_common_energy_shard_pulse_postmodel"
+  },
+  "abilityentity_eny_0002_agmark_test_postmodel": {
+    "modelId": "abilityentity_eny_0002_agmark_test_postmodel",
+    "path": "Gameplay/Actors/PostModels/AbilityEntities/abilityentity_eny_0002_agmark_test_postmodel"
+  },
+  "abilityentity_eny_0017_dexasco_postmodel_skill09_test": {
+    "modelId": "abilityentity_eny_0017_dexasco_postmodel_skill09_test",
+    "path": "Gameplay/Actors/PostModels/AbilityEntities/abilityentity_eny_0017_dexasco_postmodel_skill09_test"
+  },
+  "abilityentity_eny_0017_dexasco_skill07_postmodel": {
+    "modelId": "abilityentity_eny_0017_dexasco_skill07_postmodel",
+    "path": "Gameplay/Actors/PostModels/AbilityEntities/abilityentity_eny_0017_dexasco_skill07_postmodel"
+  },
+  "abilityentity_eny_0033_lbhunt_skill01_postmodel": {
+    "modelId": "abilityentity_eny_0033_lbhunt_skill01_postmodel",
+    "path": "Gameplay/Actors/PostModels/AbilityEntities/abilityentity_eny_0033_lbhunt_skill01_postmodel"
+  },
+  "abilityentity_eny_0045_agtrinit_skill13_postmodel": {
+    "modelId": "abilityentity_eny_0045_agtrinit_skill13_postmodel",
+    "path": "Gameplay/Actors/PostModels/AbilityEntities/abilityentity_eny_0045_agtrinit_skill13_postmodel"
+  },
+  "abilityentity_eny_0045_agtrinit_skill353_postmodel": {
+    "modelId": "abilityentity_eny_0045_agtrinit_skill353_postmodel",
+    "path": "Gameplay/Actors/PostModels/AbilityEntities/abilityentity_eny_0045_agtrinit_skill353_postmodel"
+  },
+  "abilityentity_interact_bomb_postmodel": {
+    "modelId": "abilityentity_interact_bomb_postmodel",
+    "path": "Gameplay/Actors/PostModels/AbilityEntities/abilityentity_interact_bomb_postmodel"
+  },
+  "abilityentity_interactives_test1_postmodel": {
+    "modelId": "abilityentity_interactives_test1_postmodel",
+    "path": "Gameplay/Actors/PostModels/AbilityEntities/abilityentity_interactives_test1_postmodel"
+  },
+  "chr_0003_endmin_postmodel": {
+    "modelId": "chr_0003_endmin_postmodel",
+    "path": "Gameplay/Actors/PostModels/Characters/chr_0003_endmin_postmodel"
+  },
+  "chr_0004_pelica_postmodel": {
+    "modelId": "chr_0004_pelica_postmodel",
+    "path": "Gameplay/Actors/PostModels/Characters/chr_0004_pelica_postmodel"
+  },
+  "chr_0005_chen_postmodel": {
+    "modelId": "chr_0005_chen_postmodel",
+    "path": "Gameplay/Actors/PostModels/Characters/chr_0005_chen_postmodel"
+  },
+  "chr_0006_wolfgd_postmodel": {
+    "modelId": "chr_0006_wolfgd_postmodel",
+    "path": "Gameplay/Actors/PostModels/Characters/chr_0006_wolfgd_postmodel"
+  },
+  "chr_0007_ikut_postmodel": {
+    "modelId": "chr_0007_ikut_postmodel",
+    "path": "Gameplay/Actors/PostModels/Characters/chr_0007_ikut_postmodel"
+  },
+  "chr_0008_kholec_postmodel": {
+    "modelId": "chr_0008_kholec_postmodel",
+    "path": "Gameplay/Actors/PostModels/Characters/chr_0008_kholec_postmodel"
+  },
+  "chr_0009_azrila_postmodel": {
+    "modelId": "chr_0009_azrila_postmodel",
+    "path": "Gameplay/Actors/PostModels/Characters/chr_0009_azrila_postmodel"
+  },
+  "chr_0010_shayen_postmodel": {
+    "modelId": "chr_0010_shayen_postmodel",
+    "path": "Gameplay/Actors/PostModels/Characters/chr_0010_shayen_postmodel"
+  },
+  "chr_0011_seraph_postmodel": {
+    "modelId": "chr_0011_seraph_postmodel",
+    "path": "Gameplay/Actors/PostModels/Characters/chr_0011_seraph_postmodel"
+  },
+  "chr_0012_avywen_postmodel": {
+    "modelId": "chr_0012_avywen_postmodel",
+    "path": "Gameplay/Actors/PostModels/Characters/chr_0012_avywen_postmodel"
+  },
+  "chr_0013_aglina_postmodel": {
+    "modelId": "chr_0013_aglina_postmodel",
+    "path": "Gameplay/Actors/PostModels/Characters/chr_0013_aglina_postmodel"
+  },
+  "chr_5001_mtemp_postmodel": {
+    "modelId": "chr_5001_mtemp_postmodel",
+    "path": "Gameplay/Actors/PostModels/Characters/chr_5001_mtemp_postmodel"
+  },
+  "chr_5002_ftemp_postmodel": {
+    "modelId": "chr_5002_ftemp_postmodel",
+    "path": "Gameplay/Actors/PostModels/Characters/chr_5002_ftemp_postmodel"
+  },
+  "chr_5003_mtemp2_postmodel": {
+    "modelId": "chr_5003_mtemp2_postmodel",
+    "path": "Gameplay/Actors/PostModels/Characters/chr_5003_mtemp2_postmodel"
+  },
+  "chr_5004_ftemp2_postmodel": {
+    "modelId": "chr_5004_ftemp2_postmodel",
+    "path": "Gameplay/Actors/PostModels/Characters/chr_5004_ftemp2_postmodel"
+  },
+  "chr_5006_ftemp3_postmodel": {
+    "modelId": "chr_5006_ftemp3_postmodel",
+    "path": "Gameplay/Actors/PostModels/Characters/chr_5006_ftemp3_postmodel"
+  },
+  "eny_0007_mimicw_postmodel": {
+    "modelId": "eny_0007_mimicw_postmodel",
+    "path": "Gameplay/Actors/PostModels/Enemies/eny_0007_mimicw_postmodel"
+  },
+  "eny_0007_mimicw_quest01_postmodel": {
+    "modelId": "eny_0007_mimicw_quest01_postmodel",
+    "path": "Gameplay/Actors/PostModels/Enemies/eny_0007_mimicw_quest01_postmodel"
+  },
+  "eny_0015_mimicw2_postmodel": {
+    "modelId": "eny_0015_mimicw2_postmodel",
+    "path": "Gameplay/Actors/PostModels/Enemies/eny_0015_mimicw2_postmodel"
+  },
+  "eny_0017_dexasco_postmodel": {
+    "modelId": "eny_0017_dexasco_postmodel",
+    "path": "Gameplay/Actors/PostModels/Enemies/eny_0017_dexasco_postmodel"
+  },
+  "eny_0018_lbtough_postmodel": {
+    "modelId": "eny_0018_lbtough_postmodel",
+    "path": "Gameplay/Actors/PostModels/Enemies/eny_0018_lbtough_postmodel"
+  },
+  "eny_0019_lbtough2_postmodel": {
+    "modelId": "eny_0019_lbtough2_postmodel",
+    "path": "Gameplay/Actors/PostModels/Enemies/eny_0019_lbtough2_postmodel"
+  },
+  "eny_0020_lbtough3_postmodel": {
+    "modelId": "eny_0020_lbtough3_postmodel",
+    "path": "Gameplay/Actors/PostModels/Enemies/eny_0020_lbtough3_postmodel"
+  },
+  "eny_0021_agmelee_postmodel": {
+    "modelId": "eny_0021_agmelee_postmodel",
+    "path": "Gameplay/Actors/PostModels/Enemies/eny_0021_agmelee_postmodel"
+  },
+  "eny_0021_agmelee_prolog_postmodel": {
+    "modelId": "eny_0021_agmelee_prolog_postmodel",
+    "path": "Gameplay/Actors/PostModels/Enemies/eny_0021_agmelee_prolog_postmodel"
+  },
+  "eny_0022_agmelee2_postmodel": {
+    "modelId": "eny_0022_agmelee2_postmodel",
+    "path": "Gameplay/Actors/PostModels/Enemies/eny_0022_agmelee2_postmodel"
+  },
+  "eny_0023_aghornb_postmodel": {
+    "modelId": "eny_0023_aghornb_postmodel",
+    "path": "Gameplay/Actors/PostModels/Enemies/eny_0023_aghornb_postmodel"
+  },
+  "eny_0023_aghornb_prolog_postmodel": {
+    "modelId": "eny_0023_aghornb_prolog_postmodel",
+    "path": "Gameplay/Actors/PostModels/Enemies/eny_0023_aghornb_prolog_postmodel"
+  },
+  "eny_0024_aghornb2_postmodel": {
+    "modelId": "eny_0024_aghornb2_postmodel",
+    "path": "Gameplay/Actors/PostModels/Enemies/eny_0024_aghornb2_postmodel"
+  },
+  "eny_0025_agrange_postmodel": {
+    "modelId": "eny_0025_agrange_postmodel",
+    "path": "Gameplay/Actors/PostModels/Enemies/eny_0025_agrange_postmodel"
+  },
+  "eny_0025_agrange_prolog_postmodel": {
+    "modelId": "eny_0025_agrange_prolog_postmodel",
+    "path": "Gameplay/Actors/PostModels/Enemies/eny_0025_agrange_prolog_postmodel"
+  },
+  "eny_0026_agrange2_postmodel": {
+    "modelId": "eny_0026_agrange2_postmodel",
+    "path": "Gameplay/Actors/PostModels/Enemies/eny_0026_agrange2_postmodel"
+  },
+  "eny_0027_agscorp_postmodel": {
+    "modelId": "eny_0027_agscorp_postmodel",
+    "path": "Gameplay/Actors/PostModels/Enemies/eny_0027_agscorp_postmodel"
+  },
+  "eny_0028_agscorp2_postmodel": {
+    "modelId": "eny_0028_agscorp2_postmodel",
+    "path": "Gameplay/Actors/PostModels/Enemies/eny_0028_agscorp2_postmodel"
+  },
+  "eny_0029_lbmob_postmodel": {
+    "modelId": "eny_0029_lbmob_postmodel",
+    "path": "Gameplay/Actors/PostModels/Enemies/eny_0029_lbmob_postmodel"
+  },
+  "eny_0029_lbmob_postmodel_tint1": {
+    "modelId": "eny_0029_lbmob_postmodel_tint1",
+    "path": "Gameplay/Actors/PostModels/Enemies/eny_0029_lbmob_postmodel_tint1"
+  },
+  "eny_0029_lbmob_postmodel_tint2": {
+    "modelId": "eny_0029_lbmob_postmodel_tint2",
+    "path": "Gameplay/Actors/PostModels/Enemies/eny_0029_lbmob_postmodel_tint2"
+  },
+  "eny_0029_lbmob_postmodel_tint3": {
+    "modelId": "eny_0029_lbmob_postmodel_tint3",
+    "path": "Gameplay/Actors/PostModels/Enemies/eny_0029_lbmob_postmodel_tint3"
+  },
+  "eny_0030_lbmob2_postmodel": {
+    "modelId": "eny_0030_lbmob2_postmodel",
+    "path": "Gameplay/Actors/PostModels/Enemies/eny_0030_lbmob2_postmodel"
+  },
+  "eny_0030_lbmob2_postmodel_tint1": {
+    "modelId": "eny_0030_lbmob2_postmodel_tint1",
+    "path": "Gameplay/Actors/PostModels/Enemies/eny_0030_lbmob2_postmodel_tint1"
+  },
+  "eny_0031_lbmob3_postmodel": {
+    "modelId": "eny_0031_lbmob3_postmodel",
+    "path": "Gameplay/Actors/PostModels/Enemies/eny_0031_lbmob3_postmodel"
+  },
+  "eny_0032_lbmob4_postmodel": {
+    "modelId": "eny_0032_lbmob4_postmodel",
+    "path": "Gameplay/Actors/PostModels/Enemies/eny_0032_lbmob4_postmodel"
+  },
+  "eny_0033_lbhunt_postmodel": {
+    "modelId": "eny_0033_lbhunt_postmodel",
+    "path": "Gameplay/Actors/PostModels/Enemies/eny_0033_lbhunt_postmodel"
+  },
+  "eny_0033_lbhunt_postmodel_tint1": {
+    "modelId": "eny_0033_lbhunt_postmodel_tint1",
+    "path": "Gameplay/Actors/PostModels/Enemies/eny_0033_lbhunt_postmodel_tint1"
+  },
+  "eny_0033_lbhunt_postmodel_tint2": {
+    "modelId": "eny_0033_lbhunt_postmodel_tint2",
+    "path": "Gameplay/Actors/PostModels/Enemies/eny_0033_lbhunt_postmodel_tint2"
+  },
+  "eny_0033_lbhunt_postmodel_tint3": {
+    "modelId": "eny_0033_lbhunt_postmodel_tint3",
+    "path": "Gameplay/Actors/PostModels/Enemies/eny_0033_lbhunt_postmodel_tint3"
+  },
+  "eny_0034_lbhunt2_postmodel": {
+    "modelId": "eny_0034_lbhunt2_postmodel",
+    "path": "Gameplay/Actors/PostModels/Enemies/eny_0034_lbhunt2_postmodel"
+  },
+  "eny_0034_lbhunt2_postmodel_tint1": {
+    "modelId": "eny_0034_lbhunt2_postmodel_tint1",
+    "path": "Gameplay/Actors/PostModels/Enemies/eny_0034_lbhunt2_postmodel_tint1"
+  },
+  "eny_0035_lbhunt3_postmodel": {
+    "modelId": "eny_0035_lbhunt3_postmodel",
+    "path": "Gameplay/Actors/PostModels/Enemies/eny_0035_lbhunt3_postmodel"
+  },
+  "eny_0039_agcanno_postmodel": {
+    "modelId": "eny_0039_agcanno_postmodel",
+    "path": "Gameplay/Actors/PostModels/Enemies/eny_0039_agcanno_postmodel"
+  },
+  "eny_0040_ergori_postmodel": {
+    "modelId": "eny_0040_ergori_postmodel",
+    "path": "Gameplay/Actors/PostModels/Enemies/eny_0040_ergori_postmodel"
+  },
+  "eny_0041_ergori2_postmodel": {
+    "modelId": "eny_0041_ergori2_postmodel",
+    "path": "Gameplay/Actors/PostModels/Enemies/eny_0041_ergori2_postmodel"
+  },
+  "eny_0042_erhedge_postmodel": {
+    "modelId": "eny_0042_erhedge_postmodel",
+    "path": "Gameplay/Actors/PostModels/Enemies/eny_0042_erhedge_postmodel"
+  },
+  "eny_0043_erhedge2_postmodel": {
+    "modelId": "eny_0043_erhedge2_postmodel",
+    "path": "Gameplay/Actors/PostModels/Enemies/eny_0043_erhedge2_postmodel"
+  },
+  "eny_0045_agtrinit_postmodel": {
+    "modelId": "eny_0045_agtrinit_postmodel",
+    "path": "Gameplay/Actors/PostModels/Enemies/eny_0045_agtrinit_postmodel"
+  },
+  "npc_0000_dummy_female01_postmodel": {
+    "modelId": "npc_0000_dummy_female01_postmodel",
+    "path": "Gameplay/Actors/PostModels/Npcs/npc_0000_dummy_female01_postmodel"
+  },
+  "npc_0000_dummy_male01_postmodel": {
+    "modelId": "npc_0000_dummy_male01_postmodel",
+    "path": "Gameplay/Actors/PostModels/Npcs/npc_0000_dummy_male01_postmodel"
+  },
+  "npc_0009_postmodel": {
+    "modelId": "npc_0009_postmodel",
+    "path": "Gameplay/Actors/PostModels/Npcs/npc_0009_postmodel"
+  },
+  "npc_0010_postmodel": {
+    "modelId": "npc_0010_postmodel",
+    "path": "Gameplay/Actors/PostModels/Npcs/npc_0010_postmodel"
+  },
+  "npc_0011_postmodel": {
+    "modelId": "npc_0011_postmodel",
+    "path": "Gameplay/Actors/PostModels/Npcs/npc_0011_postmodel"
+  },
+  "npc_0012_postmodel": {
+    "modelId": "npc_0012_postmodel",
+    "path": "Gameplay/Actors/PostModels/Npcs/npc_0012_postmodel"
+  },
+  "npc_0013_postmodel": {
+    "modelId": "npc_0013_postmodel",
+    "path": "Gameplay/Actors/PostModels/Npcs/npc_0013_postmodel"
+  },
+  "npc_0014_postmodel": {
+    "modelId": "npc_0014_postmodel",
+    "path": "Gameplay/Actors/PostModels/Npcs/npc_0014_postmodel"
+  },
+  "npc_0015_postmodel": {
+    "modelId": "npc_0015_postmodel",
+    "path": "Gameplay/Actors/PostModels/Npcs/npc_0015_postmodel"
+  },
+  "npc_0016_postmodel": {
+    "modelId": "npc_0016_postmodel",
+    "path": "Gameplay/Actors/PostModels/Npcs/npc_0016_postmodel"
+  },
+  "npc_0017_postmodel": {
+    "modelId": "npc_0017_postmodel",
+    "path": "Gameplay/Actors/PostModels/Npcs/npc_0017_postmodel"
+  },
+  "npc_0018_postmodel": {
+    "modelId": "npc_0018_postmodel",
+    "path": "Gameplay/Actors/PostModels/Npcs/npc_0018_postmodel"
+  },
+  "npc_0019_postmodel": {
+    "modelId": "npc_0019_postmodel",
+    "path": "Gameplay/Actors/PostModels/Npcs/npc_0019_postmodel"
+  },
+  "npc_0020_postmodel": {
+    "modelId": "npc_0020_postmodel",
+    "path": "Gameplay/Actors/PostModels/Npcs/npc_0020_postmodel"
+  },
+  "npc_0021_postmodel": {
+    "modelId": "npc_0021_postmodel",
+    "path": "Gameplay/Actors/PostModels/Npcs/npc_0021_postmodel"
+  },
+  "npc_0022_postmodel": {
+    "modelId": "npc_0022_postmodel",
+    "path": "Gameplay/Actors/PostModels/Npcs/npc_0022_postmodel"
+  },
+  "npc_0023_postmodel": {
+    "modelId": "npc_0023_postmodel",
+    "path": "Gameplay/Actors/PostModels/Npcs/npc_0023_postmodel"
+  },
+  "npc_0024_postmodel": {
+    "modelId": "npc_0024_postmodel",
+    "path": "Gameplay/Actors/PostModels/Npcs/npc_0024_postmodel"
+  },
+  "npc_0025_postmodel": {
+    "modelId": "npc_0025_postmodel",
+    "path": "Gameplay/Actors/PostModels/Npcs/npc_0025_postmodel"
+  },
+  "npc_0026_postmodel": {
+    "modelId": "npc_0026_postmodel",
+    "path": "Gameplay/Actors/PostModels/Npcs/npc_0026_postmodel"
+  },
+  "npc_0027_postmodel": {
+    "modelId": "npc_0027_postmodel",
+    "path": "Gameplay/Actors/PostModels/Npcs/npc_0027_postmodel"
+  }
+}

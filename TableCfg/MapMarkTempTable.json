@@ -1,0 +1,542 @@
+{
+  "mark_bd_medtower": {
+    "markInfoId": "mark_bd_medtower",
+    "inActiveIcon": "medic_station_icon",
+    "activeIcon": "medic_station_icon",
+    "visibleLayer": 3,
+    "name": {
+      "text": "医疗施术塔",
+      "id": "4A00CB6161DFEC54"
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "markInfoType": "HealTower"
+  },
+  "mark_bd_minemachine": {
+    "markInfoId": "mark_bd_minemachine",
+    "inActiveIcon": "miner_icon",
+    "activeIcon": "miner_icon",
+    "visibleLayer": 3,
+    "name": {
+      "text": "矿机",
+      "id": "F8E93E736AA8BAF6"
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "markInfoType": "Collector"
+  },
+  "mark_bd_powergate": {
+    "markInfoId": "mark_bd_powergate",
+    "inActiveIcon": "power_gate_icon",
+    "activeIcon": "power_gate_icon",
+    "visibleLayer": 3,
+    "name": {
+      "text": "全域中继器",
+      "id": "0C8E9607C9B0EED0"
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "markInfoType": "PowerPole"
+  },
+  "mark_bd_powerpole": {
+    "markInfoId": "mark_bd_powerpole",
+    "inActiveIcon": "pole_icon",
+    "activeIcon": "pole_icon",
+    "visibleLayer": 3,
+    "name": {
+      "text": "供电桩",
+      "id": "41023E20157435C3"
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "markInfoType": "PowerPole"
+  },
+  "mark_bd_powerpole_2": {
+    "markInfoId": "mark_bd_powerpole_2",
+    "inActiveIcon": "pole_icon_2",
+    "activeIcon": "pole_icon_2",
+    "visibleLayer": 3,
+    "name": {
+      "text": "中继器",
+      "id": "B369B44570754A19"
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "markInfoType": "PowerPole"
+  },
+  "mark_bd_powerport": {
+    "markInfoId": "mark_bd_powerport",
+    "inActiveIcon": "power_terminal_icon",
+    "activeIcon": "power_terminal_icon",
+    "visibleLayer": 3,
+    "name": {
+      "text": "中继线圈",
+      "id": "2C33D80EB7D3E664"
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "markInfoType": "PowerPole"
+  },
+  "mark_bd_powerterminal": {
+    "markInfoId": "mark_bd_powerterminal",
+    "inActiveIcon": "power_terminal_icon",
+    "activeIcon": "power_terminal_icon",
+    "visibleLayer": 3,
+    "name": {
+      "text": "中继线圈",
+      "id": "4FC925C85F092E93"
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "markInfoType": "PowerPole"
+  },
+  "mark_bd_storebox": {
+    "markInfoId": "mark_bd_storebox",
+    "inActiveIcon": "storager_box_icon",
+    "activeIcon": "storager_box_icon",
+    "visibleLayer": 3,
+    "name": {
+      "text": "协议储存箱",
+      "id": "3F80CD0112AACFB5"
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "markInfoType": "DepositBox"
+  },
+  "mark_bd_transtower": {
+    "markInfoId": "mark_bd_transtower",
+    "inActiveIcon": "travel_pole_icon",
+    "activeIcon": "travel_pole_icon",
+    "visibleLayer": 3,
+    "name": {
+      "text": "滑索架",
+      "id": "B755640CA8C61BE8"
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "markInfoType": "TravelPole"
+  },
+  "mark_dg_pazzle": {
+    "markInfoId": "mark_dg_pazzle",
+    "inActiveIcon": "dungeon_unactive_icon",
+    "activeIcon": "dungeon_icon",
+    "visibleLayer": 2,
+    "name": {
+      "text": "前往裂隙",
+      "id": "EDAF4604203691DB"
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "markInfoType": "Dungeon"
+  },
+  "mark_fac_unlocker": {
+    "markInfoId": "mark_fac_unlocker",
+    "inActiveIcon": "fac_region_unlocker_unactive_icon",
+    "activeIcon": "fac_region_unlocker_icon",
+    "visibleLayer": 5,
+    "name": {
+      "text": "全域扫描仪",
+      "id": "BF8CE3A2158DC880"
+    },
+    "desc": {
+      "text": "终末地工业空投到开拓区各地的扫描信标，检测部署区的自然环境与侵蚀环境，为部署工业模块提供数据支持。",
+      "id": "F8F3868DC151DF5B"
+    },
+    "markInfoType": "FacUnlocker"
+  },
+  "mark_mis_bloc": {
+    "markInfoId": "mark_mis_bloc",
+    "inActiveIcon": "word_mission_icon",
+    "activeIcon": "word_mission_icon",
+    "visibleLayer": 2,
+    "name": {
+      "text": "每日势力委托",
+      "id": "8AE4FB0E9A9C31FA"
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "markInfoType": "BlocMission"
+  },
+  "mark_mis_branch": {
+    "markInfoId": "mark_mis_branch",
+    "inActiveIcon": "branch_mission_icon",
+    "activeIcon": "branch_mission_icon",
+    "visibleLayer": 2,
+    "name": {
+      "text": "支线任务",
+      "id": "3F4F2A7144DB16D5"
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "markInfoType": "SideMission"
+  },
+  "mark_mis_factory": {
+    "markInfoId": "mark_mis_factory",
+    "inActiveIcon": "fac_mission_icon",
+    "activeIcon": "fac_mission_icon",
+    "visibleLayer": 2,
+    "name": {
+      "text": "工厂任务",
+      "id": "98B8CE9F3DF059F3"
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "markInfoType": "FactoryMission"
+  },
+  "mark_mis_main": {
+    "markInfoId": "mark_mis_main",
+    "inActiveIcon": "main_mission_icon",
+    "activeIcon": "main_mission_icon",
+    "visibleLayer": 1,
+    "name": {
+      "text": "主线任务",
+      "id": "37C575EAD91310EF"
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "markInfoType": "MainMission"
+  },
+  "mark_p_mine1": {
+    "markInfoId": "mark_p_mine1",
+    "inActiveIcon": "mine_icon",
+    "activeIcon": "mine_icon",
+    "visibleLayer": 4,
+    "name": {
+      "text": "源矿点",
+      "id": "1618E68FFF505A86"
+    },
+    "desc": {
+      "text": "源矿富集的地带，附近可以采集到源矿。",
+      "id": "D3F3C1BA2E3E77F5"
+    },
+    "markInfoType": "GatheringPoint"
+  },
+  "mark_p_mine2": {
+    "markInfoId": "mark_p_mine2",
+    "inActiveIcon": "mine_icon",
+    "activeIcon": "mine_icon",
+    "visibleLayer": 4,
+    "name": {
+      "text": "类晶石矿点",
+      "id": "F6F318C16B0CF59A"
+    },
+    "desc": {
+      "text": "类晶石富集的地带，附近可以采集到类晶石。",
+      "id": "180721C67D6133D0"
+    },
+    "markInfoType": "GatheringPoint"
+  },
+  "mark_p_mine3": {
+    "markInfoId": "mark_p_mine3",
+    "inActiveIcon": "mine_icon",
+    "activeIcon": "mine_icon",
+    "visibleLayer": 4,
+    "name": {
+      "text": "异铁矿点",
+      "id": "E5554E68F39EB734"
+    },
+    "desc": {
+      "text": "异铁富集的地带，附近可以采集到异铁。",
+      "id": "05FBDD20F1AAF245"
+    },
+    "markInfoType": "GatheringPoint"
+  },
+  "mark_p_plant1_1": {
+    "markInfoId": "mark_p_plant1_1",
+    "inActiveIcon": "gathering_plant_normal_icon",
+    "activeIcon": "gathering_plant_normal_icon",
+    "visibleLayer": 4,
+    "name": {
+      "text": "荞花生长区",
+      "id": "E0283E8EDF8AF92A"
+    },
+    "desc": {
+      "text": "荞花生长茂密的群落，附近可以采集到荞花。",
+      "id": "9F3EBD933A6B18CD"
+    },
+    "markInfoType": "GatheringPoint"
+  },
+  "mark_p_plant1_2": {
+    "markInfoId": "mark_p_plant1_2",
+    "inActiveIcon": "gathering_plant_normal_icon",
+    "activeIcon": "gathering_plant_normal_icon",
+    "visibleLayer": 4,
+    "name": {
+      "text": "柑实生长区",
+      "id": "9301FF661BD65D8D"
+    },
+    "desc": {
+      "text": "柑实生长茂密的群落，附近可以采集到柑实。",
+      "id": "66E10EBB49EFF162"
+    },
+    "markInfoType": "GatheringPoint"
+  },
+  "mark_p_plant1_2_1": {
+    "markInfoId": "mark_p_plant1_2_1",
+    "inActiveIcon": "gathering_plant_normal_icon",
+    "activeIcon": "gathering_plant_normal_icon",
+    "visibleLayer": 4,
+    "name": {
+      "text": "荞花柑实生长区",
+      "id": "058D22E823EB9A0F"
+    },
+    "desc": {
+      "text": "荞花、柑实生长茂密的群落，附近可以同时采集到荞花和柑实。",
+      "id": "A18033158A185ABC"
+    },
+    "markInfoType": "GatheringPoint"
+  },
+  "mark_p_plant2": {
+    "markInfoId": "mark_p_plant2",
+    "inActiveIcon": "gathering_plant_mushroom_icon",
+    "activeIcon": "gathering_plant_mushroom_icon",
+    "visibleLayer": 4,
+    "name": {
+      "text": "荧光菌生长区",
+      "id": "3423C07BE7D464F1"
+    },
+    "desc": {
+      "text": "荧光菌生长茂密的群落，附近可以采集到荧光菌。\n荧光菌可用于干员20级突破强化的场合。\n荧光菌群落每天会生长一次，直到富集上限。",
+      "id": "A49D23B3B4172663"
+    },
+    "markInfoType": "GatheringPoint"
+  },
+  "mark_p_plant3": {
+    "markInfoId": "mark_p_plant3",
+    "inActiveIcon": "gathering_plant_mushroom_icon",
+    "activeIcon": "gathering_plant_mushroom_icon",
+    "visibleLayer": 4,
+    "name": {
+      "text": "血菌生长区",
+      "id": "1F337816D8EA07F3"
+    },
+    "desc": {
+      "text": "血菌生长茂密的群落，附近可以采集到血菌。\n血菌可用于干员30级突破强化的场合。\n血菌群落每天会生长一次，直到富集上限。",
+      "id": "DBE3B38FF26D8FEA"
+    },
+    "markInfoType": "GatheringPoint"
+  },
+  "mark_p_plant4": {
+    "markInfoId": "mark_p_plant4",
+    "inActiveIcon": "gathering_plant_mushroom_icon",
+    "activeIcon": "gathering_plant_mushroom_icon",
+    "visibleLayer": 4,
+    "name": {
+      "text": "白化菌生长区",
+      "id": "659D0DEB1990CA33"
+    },
+    "desc": {
+      "text": "白化菌生长茂密的群落，附近可以采集到白化菌。\n白化菌可用于干员40级突破强化的场合。\n白化菌群落每天会少量生长一次，直到富集上限。",
+      "id": "0A6B8A49E7E86E6B"
+    },
+    "markInfoType": "GatheringPoint"
+  },
+  "mark_p_plant5_1": {
+    "markInfoId": "mark_p_plant5_1",
+    "inActiveIcon": "gathering_plant_mushroom_icon",
+    "activeIcon": "gathering_plant_mushroom_icon",
+    "visibleLayer": 4,
+    "name": {
+      "text": "灰蕈生长区",
+      "id": "97BCF8DC8F83B9BE"
+    },
+    "desc": {
+      "text": "灰蕈生长茂密的群落，附近可以采集到灰蕈。\n灰蕈可用于干员50级及以上突破强化的场合。\n灰蕈群落每天会少量生长一次，直到富集上限。",
+      "id": "E1D01A991C91D654"
+    },
+    "markInfoType": "GatheringPoint"
+  },
+  "mark_p_plant5_2": {
+    "markInfoId": "mark_p_plant5_2",
+    "inActiveIcon": "gathering_plant_mushroom_icon",
+    "activeIcon": "gathering_plant_mushroom_icon",
+    "visibleLayer": 4,
+    "name": {
+      "text": "岩球蕈生长区",
+      "id": "31E5F30C1138AC13"
+    },
+    "desc": {
+      "text": "岩球蕈生长茂密的群落，附近可以采集到岩球蕈。\n岩球蕈可用于干员50级及以上突破强化的场合。\n岩球蕈群落每天会少量生长一次，直到富集上限。",
+      "id": "CAE23470A1E758D1"
+    },
+    "markInfoType": "GatheringPoint"
+  },
+  "mark_p_plant5_3": {
+    "markInfoId": "mark_p_plant5_3",
+    "inActiveIcon": "gathering_plant_mushroom_icon",
+    "activeIcon": "gathering_plant_mushroom_icon",
+    "visibleLayer": 4,
+    "name": {
+      "text": "铜球蕈生长区",
+      "id": "DFC9E001C16B2D07"
+    },
+    "desc": {
+      "text": "铜球蕈生长茂密的群落，附近可以采集到铜球蕈。\n铜球蕈可用于干员50级及以上突破强化的场合。\n铜球蕈群落每天会少量生长一次，直到富集上限。",
+      "id": "E0C07E9A46D6E2A8"
+    },
+    "markInfoType": "GatheringPoint"
+  },
+  "mark_p_plant6_1": {
+    "markInfoId": "mark_p_plant6_1",
+    "inActiveIcon": "gathering_plant_icon",
+    "activeIcon": "gathering_plant_icon",
+    "visibleLayer": 4,
+    "name": {
+      "text": "晶化茈叶生长区",
+      "id": "AEFFDF290C3A1D84"
+    },
+    "desc": {
+      "text": "晶化茈叶生长茂密的群落，附近可以采集到晶化茈叶。\n晶化茈叶可用于干员技能提升。\n晶化茈叶每天会少量生长一次，直到富集上限。",
+      "id": "C6EE02F31EC0AC9D"
+    },
+    "markInfoType": "GatheringPoint"
+  },
+  "mark_p_plant6_2": {
+    "markInfoId": "mark_p_plant6_2",
+    "inActiveIcon": "gathering_plant_icon",
+    "activeIcon": "gathering_plant_icon",
+    "visibleLayer": 4,
+    "name": {
+      "text": "晶化铁荷生长区",
+      "id": "ABC11F8D94624F5B"
+    },
+    "desc": {
+      "text": "晶化铁荷生长茂密的群落，附近可以采集到晶化铁荷。\n晶化铁荷可用于干员技能提升。\n晶化铁荷每天会少量生长一次，直到富集上限。",
+      "id": "ACFB7486BC91DDDE"
+    },
+    "markInfoType": "GatheringPoint"
+  },
+  "mark_p_plant6_3": {
+    "markInfoId": "mark_p_plant6_3",
+    "inActiveIcon": "gathering_plant_icon",
+    "activeIcon": "gathering_plant_icon",
+    "visibleLayer": 4,
+    "name": {
+      "text": "晶化羽尾生长区",
+      "id": "689B41E390E6268D"
+    },
+    "desc": {
+      "text": "晶化羽尾生长茂密的群落，附近可以采集到晶化羽尾。\n晶化羽尾可用于干员技能提升。\n晶化羽尾每天会少量生长一次，直到富集上限。",
+      "id": "BC5FF070603C0E00"
+    },
+    "markInfoType": "GatheringPoint"
+  },
+  "mark_p_plant7": {
+    "markInfoId": "mark_p_plant7",
+    "inActiveIcon": "gathering_plant_normal_icon",
+    "activeIcon": "gathering_plant_normal_icon",
+    "visibleLayer": 4,
+    "name": {
+      "text": "砂叶生长区",
+      "id": "A3667DFA2BE19389"
+    },
+    "desc": {
+      "text": "砂叶生长茂密的群落，附近可以采集到砂叶。\n砂叶可用于材料合成。",
+      "id": "5243F720C37E5CB9"
+    },
+    "markInfoType": "GatheringPoint"
+  },
+  "mark_p_plant8": {
+    "markInfoId": "mark_p_plant8",
+    "inActiveIcon": "gathering_plant_normal_icon",
+    "activeIcon": "gathering_plant_normal_icon",
+    "visibleLayer": 4,
+    "name": {
+      "text": "酮化灌木生长区",
+      "id": "C343B514E0A4C128"
+    },
+    "desc": {
+      "text": "酮化灌木生长茂密的群落，附近可以采集到酮化灌木。\n酮化灌木内含易燃易爆成分，可用于爆炸物的合成。",
+      "id": "A03B4779C5955B06"
+    },
+    "markInfoType": "GatheringPoint"
+  },
+  "mark_sp_bloc": {
+    "markInfoId": "mark_sp_bloc",
+    "inActiveIcon": "terminal_icon",
+    "activeIcon": "terminal_icon",
+    "visibleLayer": 2,
+    "name": {
+      "text": "势力",
+      "id": "80AA214EF291F1C2"
+    },
+    "desc": {
+      "text": "各方势力会在此处聚集，随时发布各种需要能人解决的重要委托，他们承诺会给予完成者足够丰厚的奖励。\n如果有空的话，不妨去看看吧。",
+      "id": "B4B04E48AA3BAAD5"
+    },
+    "markInfoType": "BlocMission"
+  },
+  "mark_sp_campfire": {
+    "markInfoId": "mark_sp_campfire",
+    "inActiveIcon": "hq_unactive_icon",
+    "activeIcon": "hq_icon",
+    "visibleLayer": 2,
+    "name": {
+      "text": "协议传送点",
+      "id": "98F88397AB02490E"
+    },
+    "desc": {
+      "text": "结合了协议技术的技术性装置，其节点记录了启动时录入的地理坐标信息。使用时，可以通过协议技术将所有物质进行三维折叠后，完成坐标投射式的远程传输。",
+      "id": "84928A2E24F1C448"
+    },
+    "markInfoType": "Campfire"
+  },
+  "mark_sp_hub": {
+    "markInfoId": "mark_sp_hub",
+    "inActiveIcon": "hub_unactive_icon",
+    "activeIcon": "hub_icon",
+    "visibleLayer": 2,
+    "name": {
+      "text": "协议核心",
+      "id": "1A4083916A84CB90"
+    },
+    "desc": {
+      "text": "",
+      "id": ""
+    },
+    "markInfoType": "HUB"
+  },
+  "mark_wall": {
+    "markInfoId": "mark_wall",
+    "inActiveIcon": "destructible_icon",
+    "activeIcon": "destructible_icon",
+    "visibleLayer": 4,
+    "name": {
+      "text": "脆弱墙体",
+      "id": "EB44B58822B3861B"
+    },
+    "desc": {
+      "text": "此处的墙体结构看着并不稳定，用爆炸物应该能炸开一条新的通路。",
+      "id": "971DC521FF80A1C2"
+    },
+    "markInfoType": "GatheringPoint"
+  }
+}

@@ -1,0 +1,520 @@
+{
+  "book_1": {
+    "firstLvId": "book_1",
+    "categoryId": "literature",
+    "name": {
+      "text": "《塔卫二疯人录》",
+      "id": "4246C4AD88CF94A0"
+    },
+    "subName": {
+      "text": "小说",
+      "id": "F0077AAC5CDB0338"
+    },
+    "icon": "prts_read_oldBook",
+    "order": 1
+  },
+  "book_2": {
+    "firstLvId": "book_2",
+    "categoryId": "literature",
+    "name": {
+      "text": "运输记录",
+      "id": "279AD34609F99CC6"
+    },
+    "subName": {
+      "text": "",
+      "id": ""
+    },
+    "icon": "prts_read_pad",
+    "order": 3
+  },
+  "book_3": {
+    "firstLvId": "book_3",
+    "categoryId": "literature",
+    "name": {
+      "text": "《苔地求生指南》",
+      "id": "6079C3D798623EB7"
+    },
+    "subName": {
+      "text": "",
+      "id": ""
+    },
+    "icon": "prts_read_oldBook",
+    "order": 4
+  },
+  "book_magazine": {
+    "firstLvId": "book_magazine",
+    "categoryId": "literature",
+    "name": {
+      "text": "竞技杂志",
+      "id": "B38E8F92E5ABF13E"
+    },
+    "subName": {
+      "text": "",
+      "id": ""
+    },
+    "icon": "prts_read_news",
+    "order": 5
+  },
+  "book_magazine_2": {
+    "firstLvId": "book_magazine_2",
+    "categoryId": "literature",
+    "name": {
+      "text": "玫瑰日报",
+      "id": "042FF5BD8937692C"
+    },
+    "subName": {
+      "text": "",
+      "id": ""
+    },
+    "icon": "prts_read_news",
+    "order": 6
+  },
+  "book_magazine_3": {
+    "firstLvId": "book_magazine_3",
+    "categoryId": "literature",
+    "name": {
+      "text": "晨报简讯",
+      "id": "9CE9C28D756471D7"
+    },
+    "subName": {
+      "text": "",
+      "id": ""
+    },
+    "icon": "prts_read_news",
+    "order": 7
+  },
+  "book_test": {
+    "firstLvId": "book_test",
+    "categoryId": "literature",
+    "name": {
+      "text": "书籍例子",
+      "id": "A6808083C4607AF1"
+    },
+    "subName": {
+      "text": "",
+      "id": ""
+    },
+    "icon": "prts_read_oldBook",
+    "order": 2
+  },
+  "collection_1": {
+    "firstLvId": "collection_1",
+    "categoryId": "collection",
+    "name": {
+      "text": "天使肢壳",
+      "id": "CE0060400E4E378D"
+    },
+    "subName": {
+      "text": "",
+      "id": ""
+    },
+    "icon": "prts_collection_1",
+    "order": 1
+  },
+  "collection_10": {
+    "firstLvId": "collection_10",
+    "categoryId": "collection",
+    "name": {
+      "text": "压缩核心",
+      "id": "E3616830E033AFCB"
+    },
+    "subName": {
+      "text": "",
+      "id": ""
+    },
+    "icon": "prts_collection_10",
+    "order": 10
+  },
+  "collection_2": {
+    "firstLvId": "collection_2",
+    "categoryId": "collection",
+    "name": {
+      "text": "癫狂软管",
+      "id": "7976D3094C7DE59A"
+    },
+    "subName": {
+      "text": "",
+      "id": ""
+    },
+    "icon": "prts_collection_2",
+    "order": 2
+  },
+  "collection_3": {
+    "firstLvId": "collection_3",
+    "categoryId": "collection",
+    "name": {
+      "text": "无首遗念",
+      "id": "B8D9AD062A774C49"
+    },
+    "subName": {
+      "text": "",
+      "id": ""
+    },
+    "icon": "prts_collection_3",
+    "order": 3
+  },
+  "collection_4": {
+    "firstLvId": "collection_4",
+    "categoryId": "collection",
+    "name": {
+      "text": "巨斧残片",
+      "id": "2F4F9C3EB46C4330"
+    },
+    "subName": {
+      "text": "",
+      "id": ""
+    },
+    "icon": "prts_collection_4",
+    "order": 4
+  },
+  "collection_5": {
+    "firstLvId": "collection_5",
+    "categoryId": "collection",
+    "name": {
+      "text": "断裂兽骨",
+      "id": "EB4FBEC467CD6751"
+    },
+    "subName": {
+      "text": "",
+      "id": ""
+    },
+    "icon": "prts_collection_5",
+    "order": 5
+  },
+  "collection_6": {
+    "firstLvId": "collection_6",
+    "categoryId": "collection",
+    "name": {
+      "text": "安德烈的感激",
+      "id": "F9E0D05D04DDA5C2"
+    },
+    "subName": {
+      "text": "",
+      "id": ""
+    },
+    "icon": "prts_collection_6",
+    "order": 6
+  },
+  "collection_7": {
+    "firstLvId": "collection_7",
+    "categoryId": "collection",
+    "name": {
+      "text": "肖娜的礼物",
+      "id": "87678486AF3FCC4A"
+    },
+    "subName": {
+      "text": "",
+      "id": ""
+    },
+    "icon": "prts_collection_7",
+    "order": 7
+  },
+  "collection_8": {
+    "firstLvId": "collection_8",
+    "categoryId": "collection",
+    "name": {
+      "text": "柯林斯兄妹的援助",
+      "id": "6047FE6B9C694551"
+    },
+    "subName": {
+      "text": "",
+      "id": ""
+    },
+    "icon": "prts_collection_8",
+    "order": 8
+  },
+  "collection_9": {
+    "firstLvId": "collection_9",
+    "categoryId": "collection",
+    "name": {
+      "text": "峭壁的硬币",
+      "id": "9ECD65F626CB868A"
+    },
+    "subName": {
+      "text": "",
+      "id": ""
+    },
+    "icon": "prts_collection_9",
+    "order": 9
+  },
+  "doc_endField": {
+    "firstLvId": "doc_endField",
+    "categoryId": "",
+    "name": {
+      "text": "终末地工业",
+      "id": "BBB515CDC61AB3DD"
+    },
+    "subName": {
+      "text": "",
+      "id": ""
+    },
+    "icon": "prts_archive_Endfiled",
+    "order": 2
+  },
+  "doc_news": {
+    "firstLvId": "doc_news",
+    "categoryId": "",
+    "name": {
+      "text": "新闻时讯",
+      "id": "F28FCEF2475CAAE7"
+    },
+    "subName": {
+      "text": "",
+      "id": ""
+    },
+    "icon": "prts_archive_universal",
+    "order": 5
+  },
+  "doc_organization": {
+    "firstLvId": "doc_organization",
+    "categoryId": "",
+    "name": {
+      "text": "塔卫二的组织",
+      "id": "43EFB5DD08C5E4E6"
+    },
+    "subName": {
+      "text": "",
+      "id": ""
+    },
+    "icon": "prts_archive_universal",
+    "order": 3
+  },
+  "doc_rhodesIsland": {
+    "firstLvId": "doc_rhodesIsland",
+    "categoryId": "",
+    "name": {
+      "text": "罗德岛",
+      "id": "EE84BDD9C0DB0B52"
+    },
+    "subName": {
+      "text": "",
+      "id": ""
+    },
+    "icon": "prts_read_document",
+    "order": 4
+  },
+  "doc_talos": {
+    "firstLvId": "doc_talos",
+    "categoryId": "",
+    "name": {
+      "text": "塔卫二通识",
+      "id": "5810E10032C8C695"
+    },
+    "subName": {
+      "text": "",
+      "id": ""
+    },
+    "icon": "prts_archive_affairs",
+    "order": 1
+  },
+  "media": {
+    "firstLvId": "media",
+    "categoryId": "",
+    "name": {
+      "text": "录音",
+      "id": "72A73E1F8067B716"
+    },
+    "subName": {
+      "text": "",
+      "id": ""
+    },
+    "icon": "prts_listen_phonecall",
+    "order": 1
+  },
+  "message_1": {
+    "firstLvId": "message_1",
+    "categoryId": "message",
+    "name": {
+      "text": "裂地者纸条",
+      "id": "6EB0FE347CEB2E4D"
+    },
+    "subName": {
+      "text": "",
+      "id": ""
+    },
+    "icon": "prts_read_note",
+    "order": 2
+  },
+  "message_10": {
+    "firstLvId": "message_10",
+    "categoryId": "message",
+    "name": {
+      "text": "撤离者的遗落物",
+      "id": "D1E8AD5D22F77980"
+    },
+    "subName": {
+      "text": "",
+      "id": ""
+    },
+    "icon": "prts_read_notebook",
+    "order": 10
+  },
+  "message_11": {
+    "firstLvId": "message_11",
+    "categoryId": "message",
+    "name": {
+      "text": "幻想者的遗落物",
+      "id": "CBAB2D0817C7F51F"
+    },
+    "subName": {
+      "text": "",
+      "id": ""
+    },
+    "icon": "prts_read_notebook",
+    "order": 11
+  },
+  "message_12": {
+    "firstLvId": "message_12",
+    "categoryId": "message",
+    "name": {
+      "text": "狂乱者的遗落物",
+      "id": "D9C207F10C96CBF2"
+    },
+    "subName": {
+      "text": "",
+      "id": ""
+    },
+    "icon": "prts_read_notebook",
+    "order": 12
+  },
+  "message_13": {
+    "firstLvId": "message_13",
+    "categoryId": "message",
+    "name": {
+      "text": "乔纳斯的日记",
+      "id": "FC45919FE4B4A056"
+    },
+    "subName": {
+      "text": "",
+      "id": ""
+    },
+    "icon": "prts_read_notebook",
+    "order": 13
+  },
+  "message_2": {
+    "firstLvId": "message_2",
+    "categoryId": "message",
+    "name": {
+      "text": "谷底通道安全撤离通知",
+      "id": "B059043C1F5BFF56"
+    },
+    "subName": {
+      "text": "",
+      "id": ""
+    },
+    "icon": "prts_read_note",
+    "order": 3
+  },
+  "message_3": {
+    "firstLvId": "message_3",
+    "categoryId": "message",
+    "name": {
+      "text": "广告",
+      "id": "CAB6A30E705E3CE6"
+    },
+    "subName": {
+      "text": "",
+      "id": ""
+    },
+    "icon": "prts_read_note",
+    "order": 4
+  },
+  "message_4": {
+    "firstLvId": "message_4",
+    "categoryId": "message",
+    "name": {
+      "text": "恶行者的遗落物",
+      "id": "51264E4551F477B9"
+    },
+    "subName": {
+      "text": "",
+      "id": ""
+    },
+    "icon": "prts_read_notebook",
+    "order": 4
+  },
+  "message_5": {
+    "firstLvId": "message_5",
+    "categoryId": "message",
+    "name": {
+      "text": "安德烈的设计草稿",
+      "id": "FD194A5825F91928"
+    },
+    "subName": {
+      "text": "",
+      "id": ""
+    },
+    "icon": "prts_read_notebook",
+    "order": 5
+  },
+  "message_6": {
+    "firstLvId": "message_6",
+    "categoryId": "message",
+    "name": {
+      "text": "维修者的遗落物",
+      "id": "C80730DE40B8612A"
+    },
+    "subName": {
+      "text": "",
+      "id": ""
+    },
+    "icon": "prts_read_notebook",
+    "order": 6
+  },
+  "message_7": {
+    "firstLvId": "message_7",
+    "categoryId": "message",
+    "name": {
+      "text": "惊惶者的遗落物",
+      "id": "8264D9CC257A5E11"
+    },
+    "subName": {
+      "text": "",
+      "id": ""
+    },
+    "icon": "prts_read_notebook",
+    "order": 7
+  },
+  "message_8": {
+    "firstLvId": "message_8",
+    "categoryId": "message",
+    "name": {
+      "text": "竭力者的遗落物",
+      "id": "180F8E453E240546"
+    },
+    "subName": {
+      "text": "",
+      "id": ""
+    },
+    "icon": "prts_read_notebook",
+    "order": 8
+  },
+  "message_9": {
+    "firstLvId": "message_9",
+    "categoryId": "message",
+    "name": {
+      "text": "站长的遗落物",
+      "id": "4337C6C387F3A72B"
+    },
+    "subName": {
+      "text": "",
+      "id": ""
+    },
+    "icon": "prts_read_notebook",
+    "order": 9
+  },
+  "message_e1m3": {
+    "firstLvId": "message_e1m3",
+    "categoryId": "message",
+    "name": {
+      "text": "罗德岛干员留下的信",
+      "id": "FBCBEC727D7A5821"
+    },
+    "subName": {
+      "text": "",
+      "id": ""
+    },
+    "icon": "prts_read_note",
+    "order": 1
+  }
+}

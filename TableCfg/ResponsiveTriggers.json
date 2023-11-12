@@ -1,0 +1,434 @@
+{
+  "1": {
+    "triggerTypes": {
+      "VO_ACTION_DASH": {
+        "priority": 40,
+        "isInterruptable": 0,
+        "cdTime": 3.0,
+        "probability": 1.0,
+        "eventTemplate": "chr_extrsour_default"
+      },
+      "VO_ACTION_JUMP": {
+        "priority": 40,
+        "isInterruptable": 0,
+        "cdTime": 5.0,
+        "probability": 0.4,
+        "eventTemplate": "chr_extrsour_default"
+      },
+      "VO_ACTION_LAND": {
+        "priority": 40,
+        "isInterruptable": 0,
+        "cdTime": 3.0,
+        "probability": 0.35,
+        "eventTemplate": "chr_extrsour_default"
+      },
+      "VO_ACTION_ROLL": {
+        "priority": 40,
+        "isInterruptable": 0,
+        "cdTime": 3.0,
+        "probability": 1.0,
+        "eventTemplate": "chr_extrsour_default"
+      },
+      "VO_ACTION_RUNNING": {
+        "priority": 30,
+        "isInterruptable": 0,
+        "cdTime": 5.0,
+        "probability": 1.0,
+        "eventTemplate": "chr_extrsour_default"
+      },
+      "VO_ACTION_THROW": {
+        "priority": 45,
+        "isInterruptable": 0,
+        "cdTime": 2.0,
+        "probability": 1.0,
+        "eventTemplate": "chr_extrsour_default"
+      },
+      "VO_CHAR_HEAL": {
+        "priority": 60,
+        "isInterruptable": 0,
+        "cdTime": 10.0,
+        "probability": 1.0,
+        "eventTemplate": "chr_extrsour_explore_default"
+      },
+      "VO_COMBAT_ATK": {
+        "priority": 50,
+        "isInterruptable": 0,
+        "cdTime": 0.25,
+        "probability": 0.65,
+        "eventTemplate": "chr_extrsour_combat_attack"
+      },
+      "VO_COMBAT_ATK_EXTRA": {
+        "priority": 55,
+        "isInterruptable": 1,
+        "cdTime": 2.0,
+        "probability": 1.0,
+        "eventTemplate": "chr_extrsour_combat_attack"
+      },
+      "VO_COMBAT_ATK_RANG": {
+        "priority": 50,
+        "isInterruptable": 0,
+        "cdTime": 1.5,
+        "probability": 0.35,
+        "eventTemplate": "chr_extrsour_combat_attack"
+      },
+      "VO_COMBAT_DEAD": {
+        "priority": 95,
+        "isInterruptable": 1,
+        "cdTime": 0.0,
+        "probability": 1.0,
+        "eventTemplate": "chr_extrsour_combat_dead"
+      },
+      "VO_COMBAT_END": {
+        "priority": 55,
+        "isInterruptable": 0,
+        "cdTime": 15.0,
+        "probability": 1.0,
+        "eventTemplate": "chr_extrsour_combat_default"
+      },
+      "VO_COMBAT_HOLD": {
+        "priority": 75,
+        "isInterruptable": 0,
+        "cdTime": 5.0,
+        "probability": 1.0,
+        "eventTemplate": "chr_extrsour_combat_skill"
+      },
+      "VO_COMBAT_HURT": {
+        "priority": 40,
+        "isInterruptable": 0,
+        "cdTime": 4.0,
+        "probability": 0.4,
+        "eventTemplate": "chr_extrsour_combat_default"
+      },
+      "VO_COMBAT_HURT_LOWHP": {
+        "priority": 80,
+        "isInterruptable": 0,
+        "cdTime": 0.0,
+        "probability": 1.0,
+        "eventTemplate": "chr_extrsour_combat_hurt"
+      },
+      "VO_COMBAT_HURT_STUN": {
+        "priority": 90,
+        "isInterruptable": 1,
+        "cdTime": 2.0,
+        "probability": 1.0,
+        "eventTemplate": "chr_extrsour_combat_default"
+      },
+      "VO_COMBAT_KILL": {
+        "priority": 60,
+        "isInterruptable": 1,
+        "cdTime": 7.0,
+        "probability": 1.0,
+        "eventTemplate": "chr_extrsour_combat_default"
+      },
+      "VO_COMBAT_MAINCHAR_CHANGED": {
+        "priority": 50,
+        "isInterruptable": 0,
+        "cdTime": 2.0,
+        "probability": 1.0,
+        "eventTemplate": "chr_extrsour_combat_default"
+      },
+      "VO_COMBAT_SKILL": {
+        "priority": 80,
+        "isInterruptable": 0,
+        "cdTime": 5.0,
+        "probability": 1.0,
+        "eventTemplate": "chr_extrsour_combat_skill"
+      },
+      "VO_COMBAT_SKILL_NORM": {
+        "priority": 80,
+        "isInterruptable": 1,
+        "cdTime": 3.0,
+        "probability": 1.0,
+        "eventTemplate": "chr_extrsour_combat_skill"
+      },
+      "VO_COMBAT_SKILL_ULT": {
+        "priority": 90,
+        "isInterruptable": 1,
+        "cdTime": 0.0,
+        "probability": 1.0,
+        "eventTemplate": "chr_extrsour_combat_skill_ult"
+      },
+      "VO_COMBAT_START": {
+        "priority": 55,
+        "isInterruptable": 1,
+        "cdTime": 15.0,
+        "probability": 1.0,
+        "eventTemplate": "chr_extrsour_combat_default"
+      },
+      "VO_EXP_ALERT": {
+        "priority": 50,
+        "isInterruptable": 0,
+        "cdTime": 2.0,
+        "probability": 1.0,
+        "eventTemplate": "chr_extrsour_explore_default"
+      },
+      "VO_EXP_FINDTREASURE": {
+        "priority": 50,
+        "isInterruptable": 0,
+        "cdTime": 45.0,
+        "probability": 0.75,
+        "eventTemplate": "chr_extrsour_explore_default"
+      },
+      "VO_EXP_IDLE": {
+        "priority": 30,
+        "isInterruptable": 0,
+        "cdTime": 60.0,
+        "probability": 1.0,
+        "eventTemplate": "chr_extrsour_explore_idletalk"
+      },
+      "VO_EXP_INDANGER": {
+        "priority": 50,
+        "isInterruptable": 0,
+        "cdTime": 25.0,
+        "probability": 1.0,
+        "eventTemplate": "chr_extrsour_explore_default"
+      },
+      "VO_EXP_LOC": {
+        "priority": 50,
+        "isInterruptable": 0,
+        "cdTime": 10.0,
+        "probability": 1.0,
+        "eventTemplate": "chr_extrsour_explore_default"
+      },
+      "VO_FAC_ACTIVE": {
+        "priority": 60,
+        "isInterruptable": 0,
+        "cdTime": 5.0,
+        "probability": 1.0,
+        "eventTemplate": "chr_extrsour_factory_default"
+      },
+      "VO_FAC_ASSIGN": {
+        "priority": 70,
+        "isInterruptable": 0,
+        "cdTime": 5.0,
+        "probability": 1.0,
+        "eventTemplate": "chr_extrsour_factory_assign"
+      },
+      "VO_FAC_COLLECT": {
+        "priority": 60,
+        "isInterruptable": 0,
+        "cdTime": 15.0,
+        "probability": 1.0,
+        "eventTemplate": "chr_extrsour_factory_collec"
+      },
+      "VO_FAC_INSTALL": {
+        "priority": 60,
+        "isInterruptable": 0,
+        "cdTime": 15.0,
+        "probability": 0.75,
+        "eventTemplate": "chr_extrsour_factory_install"
+      },
+      "VO_FAC_LOWPWR": {
+        "priority": 60,
+        "isInterruptable": 0,
+        "cdTime": 45.0,
+        "probability": 1.0,
+        "eventTemplate": "chr_extrsour_factory_lowpwr"
+      },
+      "VO_FAC_SHUTDOWN": {
+        "priority": 40,
+        "isInterruptable": 0,
+        "cdTime": 15.0,
+        "probability": 1.0,
+        "eventTemplate": "chr_extrsour_factory_shund"
+      },
+      "VO_INT_PICK": {
+        "priority": 45,
+        "isInterruptable": 0,
+        "cdTime": 15.0,
+        "probability": 1.0,
+        "eventTemplate": "chr_extrsour_explore_interact"
+      },
+      "VO_INT_REST": {
+        "priority": 45,
+        "isInterruptable": 0,
+        "cdTime": 5.0,
+        "probability": 1.0,
+        "eventTemplate": "chr_extrsour_explore_interact"
+      },
+      "VO_INT_TREASURE": {
+        "priority": 60,
+        "isInterruptable": 0,
+        "cdTime": 10.0,
+        "probability": 1.0,
+        "eventTemplate": "chr_extrsour_explore_interact"
+      },
+      "VO_RADIOTALKK": {
+        "priority": 99,
+        "isInterruptable": 1,
+        "cdTime": 0.0,
+        "probability": 1.0,
+        "eventTemplate": "chr_extrsour_default"
+      },
+      "VO_SYSTEM_ANNOUNCE": {
+        "priority": 70,
+        "isInterruptable": 0,
+        "cdTime": 0.0,
+        "probability": 1.0,
+        "eventTemplate": "chr_extrsour_sysannuc_default"
+      }
+    }
+  },
+  "2": {
+    "triggerTypes": {
+      "VO_COMBAT_ALARM": {
+        "priority": 70,
+        "isInterruptable": 0,
+        "cdTime": 5.0,
+        "probability": 1.0,
+        "eventTemplate": "boss_extrsour_combat_default"
+      },
+      "VO_COMBAT_ANNOUNCE": {
+        "priority": 90,
+        "isInterruptable": 1,
+        "cdTime": 0.0,
+        "probability": 1.0,
+        "eventTemplate": "boss_extrsour_combat_default"
+      },
+      "VO_COMBAT_ATK": {
+        "priority": 50,
+        "isInterruptable": 0,
+        "cdTime": 0.5,
+        "probability": 0.65,
+        "eventTemplate": "boss_extrsour_combat_default"
+      },
+      "VO_COMBAT_DEAD": {
+        "priority": 95,
+        "isInterruptable": 1,
+        "cdTime": 2.0,
+        "probability": 1.0,
+        "eventTemplate": "boss_extrsour_combat_default"
+      },
+      "VO_COMBAT_END_FLEE": {
+        "priority": 70,
+        "isInterruptable": 0,
+        "cdTime": 10.0,
+        "probability": 1.0,
+        "eventTemplate": "boss_extrsour_combat_default"
+      },
+      "VO_COMBAT_FIGHTING": {
+        "priority": 80,
+        "isInterruptable": 0,
+        "cdTime": 18.0,
+        "probability": 0.3,
+        "eventTemplate": "boss_extrsour_combat_default"
+      },
+      "VO_COMBAT_HURT": {
+        "priority": 40,
+        "isInterruptable": 0,
+        "cdTime": 2.0,
+        "probability": 1.0,
+        "eventTemplate": "boss_extrsour_combat_default"
+      },
+      "VO_COMBAT_HURT_STUN": {
+        "priority": 90,
+        "isInterruptable": 1,
+        "cdTime": 0.0,
+        "probability": 1.0,
+        "eventTemplate": "boss_extrsour_combat_default"
+      },
+      "VO_COMBAT_KILL": {
+        "priority": 70,
+        "isInterruptable": 0,
+        "cdTime": 5.0,
+        "probability": 1.0,
+        "eventTemplate": "boss_extrsour_combat_default"
+      },
+      "VO_COMBAT_SKILL": {
+        "priority": 80,
+        "isInterruptable": 1,
+        "cdTime": 0.0,
+        "probability": 1.0,
+        "eventTemplate": "boss_extrsour_combat_default"
+      },
+      "VO_COMBAT_START": {
+        "priority": 80,
+        "isInterruptable": 1,
+        "cdTime": 30.0,
+        "probability": 1.0,
+        "eventTemplate": "boss_extrsour_combat_default"
+      },
+      "VO_COMMON_LAUGH": {
+        "priority": 50,
+        "isInterruptable": 0,
+        "cdTime": 2.0,
+        "probability": 1.0,
+        "eventTemplate": "boss_extrsour_common_default"
+      }
+    }
+  },
+  "3": {
+    "triggerTypes": {
+      "VO_COMBAT_ALARM": {
+        "priority": 70,
+        "isInterruptable": 0,
+        "cdTime": 5.0,
+        "probability": 1.0,
+        "eventTemplate": "enemy_extrsour_combat_alarm"
+      },
+      "VO_COMBAT_ATK": {
+        "priority": 50,
+        "isInterruptable": 0,
+        "cdTime": 1.5,
+        "probability": 0.65,
+        "eventTemplate": "enemy_extrsour_combat_attack"
+      },
+      "VO_COMBAT_DEAD": {
+        "priority": 95,
+        "isInterruptable": 1,
+        "cdTime": 2.0,
+        "probability": 0.5,
+        "eventTemplate": "enemy_extrsour_combat_dead"
+      },
+      "VO_COMBAT_END_FLEE": {
+        "priority": 70,
+        "isInterruptable": 0,
+        "cdTime": 10.0,
+        "probability": 1.0,
+        "eventTemplate": "enemy_extrsour_combat_flee"
+      },
+      "VO_COMBAT_FIGHTING": {
+        "priority": 60,
+        "isInterruptable": 0,
+        "cdTime": 5.0,
+        "probability": 0.6,
+        "eventTemplate": "enemy_extrsour_combat_laugh"
+      },
+      "VO_COMBAT_HURT": {
+        "priority": 40,
+        "isInterruptable": 0,
+        "cdTime": 2.0,
+        "probability": 1.0,
+        "eventTemplate": "enemy_extrsour_combat_hurt"
+      },
+      "VO_COMBAT_HURT_STUN": {
+        "priority": 90,
+        "isInterruptable": 1,
+        "cdTime": 0.0,
+        "probability": 1.0,
+        "eventTemplate": "enemy_extrsour_combat_hurt"
+      },
+      "VO_COMBAT_SKILL": {
+        "priority": 80,
+        "isInterruptable": 0,
+        "cdTime": 0.0,
+        "probability": 1.0,
+        "eventTemplate": "enemy_extrsour_combat_skill"
+      },
+      "VO_COMBAT_START": {
+        "priority": 80,
+        "isInterruptable": 1,
+        "cdTime": 5.0,
+        "probability": 1.0,
+        "eventTemplate": "enemy_extrsour_combat_battlestart"
+      },
+      "VO_COMMON_LAUGH": {
+        "priority": 50,
+        "isInterruptable": 0,
+        "cdTime": 2.0,
+        "probability": 1.0,
+        "eventTemplate": "enemy_extrsour_combat_laugh"
+      }
+    }
+  }
+}

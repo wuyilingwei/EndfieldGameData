@@ -1,0 +1,29 @@
+{
+  "collection": {
+    "categoryId": "collection",
+    "name": {
+      "text": "藏品",
+      "id": "8589AA08FEEEC25A"
+    },
+    "tabIcon": "icon_tab_collection_nml",
+    "order": 3
+  },
+  "literature": {
+    "categoryId": "literature",
+    "name": {
+      "text": "书刊",
+      "id": "B6F92D6DA9060C75"
+    },
+    "tabIcon": "icon_tab_text_nml",
+    "order": 1
+  },
+  "message": {
+    "categoryId": "message",
+    "name": {
+      "text": "遗落物",
+      "id": "F294F490096931CC"
+    },
+    "tabIcon": "icon_tab_document_nml",
+    "order": 2
+  }
+}

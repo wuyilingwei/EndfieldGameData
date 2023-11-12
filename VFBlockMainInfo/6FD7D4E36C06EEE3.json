@@ -1,0 +1,44 @@
+{
+  "version": 1699446851,
+  "groupCfgName": "Assets/StreamingAssets/Audio/PCK/Main/",
+  "groupCfgHashName": "6FD7D4E36C06EEE3",
+  "groupFileInfoNum": 2,
+  "groupChunksLength": 775731518,
+  "blockType": 21,
+  "allChunks": [
+    {
+      "md5Name": "163EB55B2E84B15DD3C67E522557F773",
+      "contentMD5": "07BE34751F0E2B51EA024CE4DFF02CCF",
+      "length": 224705545,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Audio/PCK/Main/default_banks.pck",
+          "fileNameHash": "1DDA4C7B87CFEC8F",
+          "fileChunkMD5Name": "163EB55B2E84B15DD3C67E522557F773",
+          "fileDataMD5": "07BE34751F0E2B51EA024CE4DFF02CCF",
+          "offset": 0,
+          "len": 224705545,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    },
+    {
+      "md5Name": "208F41937696FEDA1D7554D637833C11",
+      "contentMD5": "A2302F4234E1B36EC2AE1CFE4FDC1275",
+      "length": 551025973,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/Audio/PCK/Main/default_stream.pck",
+          "fileNameHash": "36AB2992FB6E775F",
+          "fileChunkMD5Name": "208F41937696FEDA1D7554D637833C11",
+          "fileDataMD5": "A2302F4234E1B36EC2AE1CFE4FDC1275",
+          "offset": 0,
+          "len": 551025973,
+          "bUseEncrypt": false,
+          "ivSeed": 0
+        }
+      ]
+    }
+  ]
+}

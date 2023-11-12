@@ -1,0 +1,63 @@
+{
+  "totalSquadNum": 5,
+  "totalBagSlotNum": 30,
+  "initCharList": [],
+  "initDefaultSquad": [
+    "chr_0003_endmin"
+  ],
+  "skipToastCharList": [
+    "chr_0003_endmin",
+    "chr_0004_pelica"
+  ],
+  "charInfoBasicAttrs": [
+    "Hp",
+    "Atk",
+    "Def",
+    "Pen"
+  ],
+  "charInfoAdditionalAttrs": [
+    "CriticalRate",
+    "CriticalDamage",
+    "FireResistance",
+    "PulseResistance",
+    "CrystResistance",
+    "CooldownMultiplier"
+  ],
+  "charEquipSlotPartTypes": [
+    "Hand",
+    "Body",
+    "EDC",
+    "EDC"
+  ],
+  "charInfoInitAttributeNum": 3,
+  "poleFastTravelMaxChargeTime": 500,
+  "poleFastTravelChargeInterval": 20.0,
+  "equipEnhanceRatios": [
+    1.05,
+    1.15,
+    1.25
+  ],
+  "equipEnhanceWeights": [],
+  "goldItemId": "item_gold",
+  "apItemId": "item_ap",
+  "etherItemId": "item_collection_ether",
+  "dropRarityVFXNames": [
+    "P_interactive_dropprops_glow_01",
+    "P_interactive_dropprops_glow_01",
+    "P_interactive_dropprops_glow_01",
+    "P_interactive_dropprops_glow_02",
+    "P_interactive_dropprops_glow_03",
+    "P_interactive_dropprops_glow_04",
+    "P_interactive_dropprops_glow_05"
+  ],
+  "coinThresholds": [
+    0,
+    10,
+    50
+  ],
+  "coinPostModelNames": [
+    "drop_coin_1_postmodel",
+    "drop_coin_2_postmodel",
+    "drop_coin_3_postmodel"
+  ]
+}

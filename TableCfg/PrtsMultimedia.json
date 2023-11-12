@@ -1,0 +1,32 @@
+{
+  "nar_col_radio_3": {
+    "id": "nar_col_radio_3",
+    "name": {
+      "text": "侵蚀纪实",
+      "id": "48C0A786F6CC9A54"
+    },
+    "desc": {
+      "text": "侵蚀纪实",
+      "id": "D48D93A51E6806DE"
+    },
+    "type": "multi_media",
+    "firstLvId": "media",
+    "order": 3,
+    "contentId": "radio_002_dn1"
+  },
+  "nar_col_radio_4": {
+    "id": "nar_col_radio_4",
+    "name": {
+      "text": "运输记录",
+      "id": "C09E54EF88F40AB3"
+    },
+    "desc": {
+      "text": "一份终末地工业运输货物的录音记录",
+      "id": "0C57F2C8D334E645"
+    },
+    "type": "multi_media",
+    "firstLvId": "media",
+    "order": 4,
+    "contentId": "radio_env_nar_lv003_8"
+  }
+}

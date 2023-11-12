@@ -1,0 +1,22 @@
+{
+  "0": {
+    "type": "Medicine",
+    "name": {
+      "text": "食品药品",
+      "id": "1F33AD63E3EAC7F2"
+    },
+    "icon": "icon_trader_main_01",
+    "blocId": "tundra_bloc01_endfield",
+    "color": "373737"
+  },
+  "1": {
+    "type": "Tool",
+    "name": {
+      "text": "民用工具",
+      "id": "FFFE83295B4704DC"
+    },
+    "icon": "icon_trader_main_02",
+    "blocId": "tundra_bloc02_ursus",
+    "color": "6D2B24"
+  }
+}
