@@ -263,7 +263,7 @@
       "id": "9C46BBAECA5E17F5"
     },
     "featureDesc": {
-      "text": "在<@gd.key>恶劣作战环境</>下迎击敌人；<毒性雾霾>，我方干员<@gd.key>持续失去生命</>；击杀敌人则可以恢复生命。",
+      "text": "在<@gd.key>恶劣作战环境</>下迎击敌人；<毒性雾霾>，我方干员<@gd.key>持续失去生命</>；击败敌人则可以恢复生命。",
       "id": "DDA6F4ECFB6605F4"
     },
     "rewardId": "reward_dung_stageup_20",
@@ -321,7 +321,7 @@
       "id": "FA9ADB43A52512B6"
     },
     "featureDesc": {
-      "text": "在<@gd.key>恶劣作战环境</>下迎击敌人；<毒性雾霾>，我方干员<@gd.key>持续失去生命</>；击杀敌人则可以恢复生命。",
+      "text": "在<@gd.key>恶劣作战环境</>下迎击敌人；<毒性雾霾>，我方干员<@gd.key>持续失去生命</>；击败敌人则可以恢复生命。",
       "id": "C0F0FBA2926445DB"
     },
     "rewardId": "reward_dung_stageup_30",
@@ -379,7 +379,7 @@
       "id": "1F84BCA427167F1B"
     },
     "featureDesc": {
-      "text": "在<@gd.key>恶劣作战环境</>下迎击敌人；<毒性雾霾>，我方干员<@gd.key>持续失去生命</>；击杀敌人则可以恢复生命。",
+      "text": "在<@gd.key>恶劣作战环境</>下迎击敌人；<毒性雾霾>，我方干员<@gd.key>持续失去生命</>；击败敌人则可以恢复生命。",
       "id": "43AB948F249F4FE3"
     },
     "rewardId": "reward_dung_stageup_40",
@@ -437,7 +437,7 @@
       "id": "B66AE8634E480933"
     },
     "featureDesc": {
-      "text": "在<@ba.key>恶劣作战环境</>下迎击敌人；<毒性雾霾>，我方干员<@gd.key>持续失去生命</>；击杀敌人则可以恢复生命。",
+      "text": "在<@ba.key>恶劣作战环境</>下迎击敌人；<毒性雾霾>，我方干员<@gd.key>持续失去生命</>；击败敌人则可以恢复生命。",
       "id": "047FCA4B5145348A"
     },
     "rewardId": "reward_dung_stageup_50",
@@ -1331,7 +1331,7 @@
       "id": "78EB95BBE99A9C30"
     },
     "featureDesc": {
-      "text": "<@ba.key>无法使用恢复药品</>，但是击杀敌人将恢复大量生命。",
+      "text": "<@ba.key>无法使用恢复药品</>，但是击败敌人将恢复大量生命。",
       "id": "9B78670985FE1444"
     },
     "rewardId": "reward_dung_breakthrough_20",
@@ -1389,7 +1389,7 @@
       "id": "ACA8FC2126538615"
     },
     "featureDesc": {
-      "text": "<@ba.key>无法使用恢复药品</>，但是击杀敌人将恢复大量生命。",
+      "text": "<@ba.key>无法使用恢复药品</>，但是击败敌人将恢复大量生命。",
       "id": "E632AE7406336B3B"
     },
     "rewardId": "reward_dung_breakthrough_30",
@@ -1447,7 +1447,7 @@
       "id": "6C9B40072F4BE4CF"
     },
     "featureDesc": {
-      "text": "<@ba.key>无法使用恢复药品</>，但是击杀敌人将恢复大量生命。",
+      "text": "<@ba.key>无法使用恢复药品</>，但是击败敌人将恢复大量生命。",
       "id": "54B3438DD70384D9"
     },
     "rewardId": "reward_dung_breakthrough_40",
@@ -1505,7 +1505,7 @@
       "id": "CC330173388BC9F2"
     },
     "featureDesc": {
-      "text": "<@ba.key>无法使用恢复药品</>，但是击杀敌人将恢复大量生命。",
+      "text": "<@ba.key>无法使用恢复药品</>，但是击败敌人将恢复大量生命。",
       "id": "BC1D680389E0680D"
     },
     "rewardId": "reward_dung_breakthrough_50",

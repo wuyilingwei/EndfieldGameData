@@ -1,23 +1,23 @@
 {
-  "version": 1699446851,
+  "version": 1699601426,
   "groupCfgName": "Assets/StreamingAssets/Audio/PCK/Main/",
   "groupCfgHashName": "6FD7D4E36C06EEE3",
   "groupFileInfoNum": 2,
-  "groupChunksLength": 775731518,
+  "groupChunksLength": 775729792,
   "blockType": 21,
   "allChunks": [
     {
-      "md5Name": "163EB55B2E84B15DD3C67E522557F773",
-      "contentMD5": "07BE34751F0E2B51EA024CE4DFF02CCF",
-      "length": 224705545,
+      "md5Name": "8C1DEE61889755A1CF217B028D4B81AC",
+      "contentMD5": "28E7DA9F44C0F68F9820C9E3A1B0C340",
+      "length": 224703819,
       "files": [
         {
           "fileName": "Assets/StreamingAssets/Audio/PCK/Main/default_banks.pck",
           "fileNameHash": "1DDA4C7B87CFEC8F",
-          "fileChunkMD5Name": "163EB55B2E84B15DD3C67E522557F773",
-          "fileDataMD5": "07BE34751F0E2B51EA024CE4DFF02CCF",
+          "fileChunkMD5Name": "8C1DEE61889755A1CF217B028D4B81AC",
+          "fileDataMD5": "28E7DA9F44C0F68F9820C9E3A1B0C340",
           "offset": 0,
-          "len": 224705545,
+          "len": 224703819,
           "bUseEncrypt": false,
           "ivSeed": 0
         }

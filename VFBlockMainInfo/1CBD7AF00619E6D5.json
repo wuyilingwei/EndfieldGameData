@@ -1,9 +1,44 @@
 {
-  "version": 1699447164,
+  "version": 1699603106,
   "groupCfgName": "Assets/StreamingAssets/IFixPatchOut/",
   "groupCfgHashName": "1CBD7AF00619E6D5",
-  "groupFileInfoNum": 0,
-  "groupChunksLength": 0,
+  "groupFileInfoNum": 2,
+  "groupChunksLength": 32744,
   "blockType": 28,
-  "allChunks": []
+  "allChunks": [
+    {
+      "md5Name": "8A75BD18DFE8ACB10AAEB29CE308300D",
+      "contentMD5": "E1746F52D6D41E19B3C06948EEAF8953",
+      "length": 10362,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/IFixPatchOut/Assembly-CSharp.patch.bytes",
+          "fileNameHash": "E1D63C7F49C4E773",
+          "fileChunkMD5Name": "8A75BD18DFE8ACB10AAEB29CE308300D",
+          "fileDataMD5": "E1746F52D6D41E19B3C06948EEAF8953",
+          "offset": 0,
+          "len": 10362,
+          "bUseEncrypt": true,
+          "ivSeed": 2134693601
+        }
+      ]
+    },
+    {
+      "md5Name": "97722AA23BF084724DBB41E1845E9748",
+      "contentMD5": "3D696E677784E4B2593B17CD54A87E5C",
+      "length": 22382,
+      "files": [
+        {
+          "fileName": "Assets/StreamingAssets/IFixPatchOut/Gameplay.Beyond.patch.bytes",
+          "fileNameHash": "00C53AD54F305EC4",
+          "fileChunkMD5Name": "97722AA23BF084724DBB41E1845E9748",
+          "fileDataMD5": "3D696E677784E4B2593B17CD54A87E5C",
+          "offset": 0,
+          "len": 22382,
+          "bUseEncrypt": true,
+          "ivSeed": -717568768
+        }
+      ]
+    }
+  ]
 }
