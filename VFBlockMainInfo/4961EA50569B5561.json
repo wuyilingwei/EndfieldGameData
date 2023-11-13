@@ -1,23 +1,23 @@
 {
-  "version": 1699601426,
+  "version": 1699685478,
   "groupCfgName": "MainBundleManifest",
   "groupCfgHashName": "4961EA50569B5561",
   "groupFileInfoNum": 1,
-  "groupChunksLength": 3743618,
+  "groupChunksLength": 3743501,
   "blockType": 24,
   "allChunks": [
     {
-      "md5Name": "992587E67F9E2676C80EDB6EDDC79895",
-      "contentMD5": "1FBFFB3CFF35786FDAEF1AB13FF59563",
-      "length": 3743618,
+      "md5Name": "3CD5E2F148C53CA462F36AE0A0035A78",
+      "contentMD5": "F52644BF3E23ECFDB7F9D21141AAFC6B",
+      "length": 3743501,
       "files": [
         {
           "fileName": "Assets/StreamingAssets/Bundles/main.json",
           "fileNameHash": "CBD27FC4CA468F8E",
-          "fileChunkMD5Name": "992587E67F9E2676C80EDB6EDDC79895",
-          "fileDataMD5": "1FBFFB3CFF35786FDAEF1AB13FF59563",
+          "fileChunkMD5Name": "3CD5E2F148C53CA462F36AE0A0035A78",
+          "fileDataMD5": "F52644BF3E23ECFDB7F9D21141AAFC6B",
           "offset": 0,
-          "len": 3743618,
+          "len": 3743501,
           "bUseEncrypt": true,
           "ivSeed": -998255925
         }
