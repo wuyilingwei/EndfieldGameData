@@ -1,5 +1,5 @@
 {
-  "version": 1699961796,
+  "version": 1700207068,
   "groupCfgName": "MainBundleManifest",
   "groupCfgHashName": "4961EA50569B5561",
   "groupFileInfoNum": 1,
@@ -7,15 +7,15 @@
   "blockType": 24,
   "allChunks": [
     {
-      "md5Name": "62B5D9B1E776E9B17DA0DE3923F8D7FB",
-      "contentMD5": "96A6B5EB51514E61E4267271EF3357E0",
+      "md5Name": "5697159ABDDBAC3A454F352377B429C4",
+      "contentMD5": "3EDE9B3EE2EC3D75C52C6A026F5AA774",
       "length": 3743501,
       "files": [
         {
           "fileName": "Assets/StreamingAssets/Bundles/main.json",
           "fileNameHash": "CBD27FC4CA468F8E",
-          "fileChunkMD5Name": "62B5D9B1E776E9B17DA0DE3923F8D7FB",
-          "fileDataMD5": "96A6B5EB51514E61E4267271EF3357E0",
+          "fileChunkMD5Name": "5697159ABDDBAC3A454F352377B429C4",
+          "fileDataMD5": "3EDE9B3EE2EC3D75C52C6A026F5AA774",
           "offset": 0,
           "len": 3743501,
           "bUseEncrypt": true,
